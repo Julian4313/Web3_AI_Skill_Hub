@@ -1,1 +1,66 @@
+name: Sync & Enrich Web3 Skills
+
+on:
+  schedule:
+    # Run every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Manual trigger
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/**'
+      - '.github/workflows/sync.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: |
+          npm init -y
+          npm install node-fetch@2
+
+      - name: Run sync + enrich
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node scripts/sync.js
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git diff --quiet data/ || echo "has_changes=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push
+        if: steps.check_changes.outputs.has_changes == 'true'
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add data/
+          git commit -m "chore: sync and enrich Web3 skills [skip ci]"
+          git push
+
+      - name: Summary
+        run: |
+          echo "### Sync & Enrich Complete" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          if [ -f data/skills-enriched.json ]; then
+            node -e "const d=require('./data/skills-enriched.json');console.log('- Total skills: ' + d.total);console.log('- AI enriched: ' + d.enrichedByAI);console.log('- Fallback: ' + d.enrichedByFallback);console.log('- Last sync: ' + d.lastSync);" >> $GITHUB_STEP_SUMMARY
+          else
+            node -e "const d=require('./data/skills.json');console.log('- Total Web3 skills: ' + d.total);console.log('- Last sync: ' + d.lastSync);" >> $GITHUB_STEP_SUMMARY
+          fi
 
