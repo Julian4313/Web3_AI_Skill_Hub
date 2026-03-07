@@ -1,1 +1,51 @@
-<!-- placeholder -->
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Web3 AI Skill Platform</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚡</text></svg>">
+</head>
+<body>
+  <header>
+    <div class="header-inner">
+      <div class="logo-row">
+        <h1>⚡ Web3 AI Skill <span class="hl">Platform</span></h1>
+        <nav>
+          <a href="https://github.com/Julian4313/clawhub-web3" target="_blank">GitHub</a>
+          <a href="https://clawhub.ai" target="_blank">ClawHub</a>
+        </nav>
+      </div>
+      <p class="page-subtitle">开源 AI Agent Skill，源码逐个分析 — 覆盖 14 个技术赛道、18 个用户场景</p>
+      <div class="stats-row" id="stats-row"></div>
+    </div>
+  </header>
+
+  <main>
+    <section class="controls">
+      <input type="text" id="search" placeholder="🔍 搜索 Skill 名称、描述、DApp、作者...">
+      <div class="filter-row" id="filter-tech"></div>
+      <div class="filter-row" id="filter-user"></div>
+      <div class="meta-row">
+        <span id="count">0 个 Skill</span>
+      </div>
+    </section>
+
+    <section id="grid" class="grid"></section>
+  </main>
+
+  <!-- Detail Modal -->
+  <div id="detail-modal" class="modal-overlay hidden">
+    <div class="modal-content" id="detail-content"></div>
+  </div>
+
+  <footer>
+    数据来源 <a href="https://clawhub.ai" target="_blank">ClawHub</a> ·
+    源码分析自 <a href="https://github.com/openclaw/skills" target="_blank">OpenClaw</a> ·
+    每6小时自动同步 · Claude AI 智能分析
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
