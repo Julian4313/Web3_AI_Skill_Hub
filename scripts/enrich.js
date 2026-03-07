@@ -494,7 +494,7 @@ async function enrich(web3Skills) {
         userProvides: enrichment.user_provides || '',
         dapps: enrichment.dapps || '',
         runMode: enrichment.run_mode || '一次性执行',
-        github: `https://github.com/${slug}`,
+        github: `https://github.com/openclaw/skills/tree/main/skills/${slug}`,
         icon: icon,
         iconBg: assignIconBg(icon),
         web3Score: skill.web3Score || 0,
