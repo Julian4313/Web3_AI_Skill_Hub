@@ -185,7 +185,7 @@
       <div class="dm-section">
         <div class="dm-section-title">
           <span class="icon">⚙️</span> 运行模式
-          <span class="tooltip-trigger" title="一次性执行：下达指令后执行一次即完成（如查询、swap）\n持续AI决策：AI持续自主运行、监控、自动做决策（如量化bot）\n混合：部分自动+部分需用户确认">?</span>
+          <span class="tooltip-trigger" data-tip="一次性执行：下达指令后执行一次即完成（如查询、swap）&#10;持续AI决策：AI持续自主运行、监控、自动做决策（如量化bot）&#10;混合：部分自动+部分需用户确认">?</span>
         </div>
         <span style="display:inline-block;padding:6px 16px;border-radius:8px;font-size:13px;font-weight:600;${s.runMode === '持续AI决策' ? 'background:rgba(239,68,68,0.15);color:#ef4444' : s.runMode === '混合' ? 'background:rgba(245,158,11,0.15);color:#f59e0b' : 'background:rgba(34,197,94,0.15);color:#22c55e'}">${esc(s.runMode)}</span>
       </div>
