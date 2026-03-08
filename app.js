@@ -112,70 +112,48 @@
     init();
   };
 
-  // Category → icon + gradient mapping (covers all 16 categories × ZH/EN)
+  // Tech-category (category_tech) → icon + gradient mapping
   const CAT_STYLE = {
-    // DEX交易
-    'DEX交易':           { icon: '🔄', bg: 'linear-gradient(135deg,#6c5ce7,#a29bfe)' },
-    'DEX Trading':       { icon: '🔄', bg: 'linear-gradient(135deg,#6c5ce7,#a29bfe)' },
-    // 借贷协议
-    '借贷协议':           { icon: '🏦', bg: 'linear-gradient(135deg,#00b894,#55efc4)' },
-    'Lending Protocol':  { icon: '🏦', bg: 'linear-gradient(135deg,#00b894,#55efc4)' },
-    'Lending':           { icon: '🏦', bg: 'linear-gradient(135deg,#00b894,#55efc4)' },
-    // 收益策略
-    '收益策略':           { icon: '🌾', bg: 'linear-gradient(135deg,#fdcb6e,#f39c12)' },
-    'Yield Strategy':    { icon: '🌾', bg: 'linear-gradient(135deg,#fdcb6e,#f39c12)' },
-    // NFT工具
-    'NFT工具':           { icon: '🎨', bg: 'linear-gradient(135deg,#e056fd,#be2edd)' },
-    'NFT Tools':         { icon: '🎨', bg: 'linear-gradient(135deg,#e056fd,#be2edd)' },
-    'NFT':               { icon: '🎨', bg: 'linear-gradient(135deg,#e056fd,#be2edd)' },
-    // 钱包管理
+    'DEX交易':     { icon: '🔄', bg: 'linear-gradient(135deg,#6c5ce7,#a29bfe)' },
+    'DEX Trading': { icon: '🔄', bg: 'linear-gradient(135deg,#6c5ce7,#a29bfe)' },
+    '借贷协议':       { icon: '🏦', bg: 'linear-gradient(135deg,#00b894,#55efc4)' },
+    'Lending':        { icon: '🏦', bg: 'linear-gradient(135deg,#00b894,#55efc4)' },
+    '收益策略':       { icon: '🌾', bg: 'linear-gradient(135deg,#fdcb6e,#f39c12)' },
+    'Yield Strategy': { icon: '🌾', bg: 'linear-gradient(135deg,#fdcb6e,#f39c12)' },
+    'NFT工具':        { icon: '🎨', bg: 'linear-gradient(135deg,#e056fd,#be2edd)' },
+    'NFT Tools':      { icon: '🎨', bg: 'linear-gradient(135deg,#e056fd,#be2edd)' },
     '钱包管理':           { icon: '👛', bg: 'linear-gradient(135deg,#0984e3,#74b9ff)' },
-    'Wallet Management': { icon: '👛', bg: 'linear-gradient(135deg,#0984e3,#74b9ff)' },
-    // 跨链桥接
-    '跨链桥接':           { icon: '🌉', bg: 'linear-gradient(135deg,#00cec9,#81ecec)' },
-    'Cross-chain Bridge':{ icon: '🌉', bg: 'linear-gradient(135deg,#00cec9,#81ecec)' },
-    // 数据分析
-    '数据分析':           { icon: '📊', bg: 'linear-gradient(135deg,#636e72,#b2bec3)' },
-    'Data Analytics':    { icon: '📊', bg: 'linear-gradient(135deg,#636e72,#b2bec3)' },
-    'Data Analysis':     { icon: '📊', bg: 'linear-gradient(135deg,#636e72,#b2bec3)' },
-    // 安全审计
-    '安全审计':           { icon: '🛡️', bg: 'linear-gradient(135deg,#d63031,#ff7675)' },
-    'Security Audit':    { icon: '🛡️', bg: 'linear-gradient(135deg,#d63031,#ff7675)' },
-    // 代币发行
-    '代币发行':           { icon: '🪙', bg: 'linear-gradient(135deg,#f39c12,#f1c40f)' },
-    'Token Issuance':    { icon: '🪙', bg: 'linear-gradient(135deg,#f39c12,#f1c40f)' },
-    'Token Launch':      { icon: '🪙', bg: 'linear-gradient(135deg,#f39c12,#f1c40f)' },
-    // 治理投票
-    '治理投票':           { icon: '🏛️', bg: 'linear-gradient(135deg,#0984e3,#74b9ff)' },
-    'Governance Voting': { icon: '🏛️', bg: 'linear-gradient(135deg,#0984e3,#74b9ff)' },
-    'Governance':        { icon: '🏛️', bg: 'linear-gradient(135deg,#0984e3,#74b9ff)' },
-    // 衍生品交易
-    '衍生品交易':         { icon: '📈', bg: 'linear-gradient(135deg,#e17055,#fab1a0)' },
-    'Derivatives Trading':{ icon: '📈', bg: 'linear-gradient(135deg,#e17055,#fab1a0)' },
-    // 支付转账
-    '支付转账':           { icon: '💳', bg: 'linear-gradient(135deg,#55efc4,#00b894)' },
-    'Payment & Transfer':{ icon: '💳', bg: 'linear-gradient(135deg,#55efc4,#00b894)' },
-    // 跟单交易
-    '跟单交易':           { icon: '👥', bg: 'linear-gradient(135deg,#a29bfe,#6c5ce7)' },
-    'Copy Trading':      { icon: '👥', bg: 'linear-gradient(135deg,#a29bfe,#6c5ce7)' },
-    // 综合工具
-    '综合工具':           { icon: '🔗', bg: 'linear-gradient(135deg,#2d3436,#636e72)' },
-    'General Tools':     { icon: '🔗', bg: 'linear-gradient(135deg,#2d3436,#636e72)' },
-    'Comprehensive Tools':{ icon: '🔗', bg: 'linear-gradient(135deg,#2d3436,#636e72)' },
-    'Multi-purpose Tool':{ icon: '🔗', bg: 'linear-gradient(135deg,#2d3436,#636e72)' },
-    // 质押挖矿
-    '质押挖矿':           { icon: '⛏️', bg: 'linear-gradient(135deg,#e84393,#fd79a8)' },
-    'Staking & Mining':  { icon: '⛏️', bg: 'linear-gradient(135deg,#e84393,#fd79a8)' },
-    // 预测市场
-    '预测市场':           { icon: '🎯', bg: 'linear-gradient(135deg,#fd79a8,#e84393)' },
-    'Prediction Market': { icon: '🎯', bg: 'linear-gradient(135deg,#fd79a8,#e84393)' },
-    'Prediction Markets':{ icon: '🎯', bg: 'linear-gradient(135deg,#fd79a8,#e84393)' },
+    'Wallet Management':  { icon: '👛', bg: 'linear-gradient(135deg,#0984e3,#74b9ff)' },
+    '跨链桥接':          { icon: '🌉', bg: 'linear-gradient(135deg,#00cec9,#81ecec)' },
+    'Cross-chain Bridge': { icon: '🌉', bg: 'linear-gradient(135deg,#00cec9,#81ecec)' },
+    '数据分析':          { icon: '📊', bg: 'linear-gradient(135deg,#636e72,#b2bec3)' },
+    'Data Analytics':     { icon: '📊', bg: 'linear-gradient(135deg,#636e72,#b2bec3)' },
+    '安全审计':          { icon: '🛡️', bg: 'linear-gradient(135deg,#d63031,#ff7675)' },
+    'Security Audit':     { icon: '🛡️', bg: 'linear-gradient(135deg,#d63031,#ff7675)' },
+    '代币发行':          { icon: '🪙', bg: 'linear-gradient(135deg,#e17055,#fab1a0)' },
+    'Token Issuance':     { icon: '🪙', bg: 'linear-gradient(135deg,#e17055,#fab1a0)' },
+    '治理投票':      { icon: '🏛️', bg: 'linear-gradient(135deg,#0984e3,#74b9ff)' },
+    'Governance':    { icon: '🏛️', bg: 'linear-gradient(135deg,#0984e3,#74b9ff)' },
+    '质押挖矿':         { icon: '⛏️', bg: 'linear-gradient(135deg,#e84393,#fd79a8)' },
+    'Staking & Mining':   { icon: '⛏️', bg: 'linear-gradient(135deg,#e84393,#fd79a8)' },
+    '衍生品交易':            { icon: '📈', bg: 'linear-gradient(135deg,#e17055,#fab1a0)' },
+    'Derivatives Trading':   { icon: '📈', bg: 'linear-gradient(135deg,#e17055,#fab1a0)' },
+    '预测市场':              { icon: '🔮', bg: 'linear-gradient(135deg,#fd79a8,#e84393)' },
+    'Prediction Market':     { icon: '🔮', bg: 'linear-gradient(135deg,#fd79a8,#e84393)' },
+    '支付转账':              { icon: '💳', bg: 'linear-gradient(135deg,#55efc4,#00b894)' },
+    'Payment & Transfer':    { icon: '💳', bg: 'linear-gradient(135deg,#55efc4,#00b894)' },
+    '跟单交易':      { icon: '👥', bg: 'linear-gradient(135deg,#a29bfe,#6c5ce7)' },
+    'Copy Trading':  { icon: '👥', bg: 'linear-gradient(135deg,#a29bfe,#6c5ce7)' },
+    '综合工具':          { icon: '🧩', bg: 'linear-gradient(135deg,#2d3436,#636e72)' },
+    'General Tools':     { icon: '🧩', bg: 'linear-gradient(135deg,#2d3436,#636e72)' },
   };
-  const DEFAULT_STYLE = { icon: '🔗', bg: 'linear-gradient(135deg,#636e72,#b2bec3)' };
+  const DEFAULT_STYLE = { icon: '🧩', bg: 'linear-gradient(135deg,#636e72,#b2bec3)' };
 
   // Normalize skill object from either enriched or basic format
   function normalizeSkill(s, i) {
     const cat = s.category || s.category_tech || '其他';
+    const userCat = s.userCat || s.category_user || '其他';
+    // Icon driven by tech category (category_tech)
     const style = CAT_STYLE[cat] || DEFAULT_STYLE;
     return {
       id: s.id || i + 1,
@@ -183,7 +161,7 @@
       author: s.author || (s.slug || '').split('/')[0] || 'unknown',
       desc: s.desc || s.description || s.what_it_does || s.summary || '',
       category: cat,
-      userCat: s.userCat || s.category_user || '其他',
+      userCat: userCat,
       userCls: s.userCls || 'other',
       example: s.example || '',
       userProvides: s.userProvides || s.user_provides || '',
@@ -213,8 +191,8 @@
   // ─── Category filter pills ─────────────────────────────────────
 
   function renderCatBars() {
-    renderPills('filter-tech', countSorted(ALL, 'category'), 'tech', t('filterTech'));
-    renderPills('filter-user', countSorted(ALL, 'userCat'), 'user', t('filterUser'));
+    renderPills('filter-tech', countSorted(ALL, 'category'), 'tech', t('filterTech'), true);
+    renderPills('filter-user', countSorted(ALL, 'userCat'), 'user', t('filterUser'), false);
     renderDappPills();
   }
 
@@ -243,15 +221,35 @@
     el.innerHTML = html;
   }
 
-  function renderPills(containerId, items, filterKey, label) {
+  function renderPills(containerId, items, filterKey, label, collapsed) {
     const el = document.getElementById(containerId);
     if (!el) return;
-    let html = `<span class="filter-label">${label}</span>`;
+    const toggleId = containerId + '-toggle';
+    let html = `<span class="filter-label">${label}`;
+    if (collapsed) {
+      html += ` <span id="${toggleId}" class="filter-toggle" style="cursor:pointer;font-size:12px;color:#888;margin-left:6px;">▶ ${LANG === 'zh' ? '展开' : 'Expand'}</span>`;
+    }
+    html += `</span>`;
     html += `<span class="pill active" data-fk="${filterKey}" data-fv="all">${t('filterAll')}</span>`;
     items.forEach(([k, n]) => {
-      html += `<span class="pill" data-fk="${filterKey}" data-fv="${esc(k)}">${esc(k)}<span class="cnt">${n}</span></span>`;
+      html += `<span class="pill${collapsed ? ' collapsed-pill' : ''}" data-fk="${filterKey}" data-fv="${esc(k)}" ${collapsed ? 'style="display:none"' : ''}>${esc(k)}<span class="cnt">${n}</span></span>`;
     });
     el.innerHTML = html;
+
+    if (collapsed) {
+      const toggle = document.getElementById(toggleId);
+      if (toggle) {
+        toggle.addEventListener('click', function(e) {
+          e.stopPropagation();
+          const pills = el.querySelectorAll('.collapsed-pill');
+          const isHidden = pills[0] && pills[0].style.display === 'none';
+          pills.forEach(p => p.style.display = isHidden ? '' : 'none');
+          toggle.textContent = isHidden
+            ? `▼ ${LANG === 'zh' ? '收起' : 'Collapse'}`
+            : `▶ ${LANG === 'zh' ? '展开' : 'Expand'}`;
+        });
+      }
+    }
   }
 
   // ─── Filtering ─────────────────────────────────────────────────
