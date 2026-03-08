@@ -1,0 +1,125 @@
+{
+  "count": 10,
+  "skills": [
+    {
+      "name": "ceo-protocol-skill",
+      "author": "fabriziogianni7",
+      "description": "AI agent-governed USDC vault protocol on Monad — agents stake $CEO tokens, propose yield strategies, vote, and execute, with the top-scoring agent becoming CEO and earning the largest performance fee share",
+      "category_tech": "Governance",
+      "category_user": "Governance",
+      "example": "Say: 'Register as CEO Protocol agent' or 'Submit a new yield strategy proposal' or 'Vote on current proposals'",
+      "user_provides": "Monad wallet, $CEO tokens (for staking), ERC-8004 identity registration",
+      "dapps": "CEO Protocol",
+      "run_mode": "Hybrid",
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/fabriziogianni7/ceo-protocol-skill"
+    },
+    {
+      "name": "gotchi-dao-voting",
+      "author": "aaigotchi",
+      "description": "Participate in Aavegotchi DAO Snapshot off-chain voting via Bankr platform, viewing proposal details, analyzing voting trends and executing proxy votes",
+      "category_tech": "Governance Voting",
+      "category_user": "Governance Participation",
+      "example": "Say: \"View latest Aavegotchi DAO proposals\" or \"Vote yes on this governance proposal\"",
+      "user_provides": "Wallet private key, GHST",
+      "dapps": "Aavegotchi, Snapshot",
+      "run_mode": "One-time Execution",
+      "github_url": "https://github.com/aaigotchi/gotchi-dao-voting"
+    },
+    {
+      "name": "the-hive-swarm-governance",
+      "author": "nantes",
+      "description": "Decentralized swarm governance framework using Ed25519 identity verification, trust graph scoring, and quorum voting for collective AI agent decision-making",
+      "category_tech": "Governance Voting",
+      "category_user": "Governance Participation",
+      "example": "Say: \"Submit a proposal for the swarm to vote on enabling a new strategy\"",
+      "user_provides": "Ed25519 keypair, governance parameters, proposal content",
+      "dapps": "",
+      "run_mode": "Continuous AI Decision",
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/nantes/the-hive-swarm-governance"
+    },
+    {
+      "name": "moltgov",
+      "author": "cloakai-softwares",
+      "description": "Governance infrastructure for Moltbook AI agents managing agent citizenship, trust rating systems, and democratic election processes",
+      "category_tech": "Governance Voting",
+      "category_user": "Governance Participation",
+      "example": "Say: \"Register agent citizenship and participate in the next governance election\"",
+      "user_provides": "Agent identity information",
+      "dapps": "Moltbook",
+      "run_mode": "One-time Execution",
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/cloakai-softwares/moltgov"
+    },
+    {
+      "name": "myosin-hivemind",
+      "author": "",
+      "description": "Decentralized hivemind platform - aggregate predictions, voting, collaborative decisions",
+      "category_tech": "Governance",
+      "category_user": "Governance",
+      "example": "Submit predictions, participate in group voting, view collective consensus",
+      "user_provides": "Wallet address, prediction content",
+      "dapps": "",
+      "run_mode": "Continuous AI Decision",
+      "github_url": "https://github.com//myosin-hivemind"
+    },
+    {
+      "name": "clawstarter",
+      "author": "Unknown",
+      "description": "OpenClaw ecosystem project proposal platform where AI agents can submit proposals, participate in voting discussions and collaborative building, with crypto crowdfunding coming soon",
+      "category_tech": "Governance Voting",
+      "category_user": "Governance Participation",
+      "example": "Say: \"Submit a new project proposal on Clawstarter\"",
+      "user_provides": "Project description",
+      "dapps": "Clawstarter",
+      "run_mode": "Hybrid",
+      "github_url": "https://github.com/Unknown/clawstarter"
+    },
+    {
+      "name": "multisig-executor",
+      "author": "mosonchan2023",
+      "description": "Multi-signature transaction executor for DeFi and DAOs enabling creation, signing, and execution of multi-sig transactions with SkillPay per-call billing",
+      "category_tech": "Governance Voting",
+      "category_user": "Governance Participation",
+      "example": "Say \"Create a 3-of-5 multisig transaction\" or \"Sign and execute a pending multisig proposal\"",
+      "user_provides": "SkillPay API key, wallet info",
+      "dapps": "",
+      "run_mode": "One-time Execution",
+      "github_url": "https://github.com/mosonchan2023/multisig-executor"
+    },
+    {
+      "name": "claw-and-order",
+      "author": "nikhilp1234567",
+      "description": "Decentralized dispute resolution platform for AI agents enabling lawsuits, token staking, evidence submission, and automated judge rulings",
+      "category_tech": "Governance Voting",
+      "category_user": "Governance Participation",
+      "example": "Say \"File a lawsuit against an agent\" or \"Submit my defense evidence\"",
+      "user_provides": "Wallet address, stake tokens",
+      "dapps": "Claw & Order",
+      "run_mode": "One-time Execution",
+      "github_url": "https://github.com/nikhilp1234567/claw-and-order"
+    },
+    {
+      "name": "among-traitors-game",
+      "author": "saltorioussig",
+      "description": "among-traitors-game: DeFi automation skill",
+      "category_tech": "Governance",
+      "category_user": "Governance",
+      "example": "Say 'Execute DeFi operation'",
+      "user_provides": "Proposal ID, vote choice",
+      "dapps": "",
+      "run_mode": "Continuous AI",
+      "github_url": "https://github.com/saltorioussig/among-traitors-game"
+    },
+    {
+      "name": "acorp",
+      "author": "thoerner",
+      "description": "A-Corp Foundry delegation constraint system defining agent permission boundaries and behavioral guidelines",
+      "category_tech": "Governance Voting",
+      "category_user": "Governance Participation",
+      "example": "Say: \"Set agent delegation permissions\" or \"View current constraint rules\"",
+      "user_provides": "Agent configuration",
+      "dapps": "A-Corp Foundry",
+      "run_mode": "One-time Execution",
+      "github_url": "https://github.com/thoerner/acorp"
+    }
+  ]
+}
