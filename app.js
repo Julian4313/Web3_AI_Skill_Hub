@@ -159,7 +159,7 @@
 
   function renderStats() {
     const techCount = new Set(ALL.map(s => s.category)).size;
-    const userCount = new Set(ALL.map(s => s.userCat)).size;
+    const userCount = new Set(ALL.flatMap(s => (s.userCat||'').split(/[,，]/).map(v=>v.trim()).filter(Boolean))).size;
     const authorCount = new Set(ALL.map(s => s.author)).size;
     document.getElementById('stats-row').innerHTML = [
       { v: ALL.length, l: t('statSkills'), c: 's1' },
