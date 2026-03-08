@@ -29,7 +29,7 @@
       runModeTitle: '⚙️ 运行模式',
       tooltipText: '一次性执行：下达指令后执行一次即完成（如查询、swap）\n持续AI决策：AI持续自主运行、监控、自动做决策（如量化bot）\n混合：部分自动+部分需用户确认',
       langBtn: 'EN',
-      dataFile: 'data/skills.json',
+      indexFile: 'data/zh/index.json',
       other: '其他',
       footerText: '数据来源 <a href="https://clawhub.ai" target="_blank">ClawHub</a> · 源码分析自 <a href="https://github.com/openclaw/skills" target="_blank">OpenClaw</a> · 每6小时自动同步 · Claude AI 智能分析',
     },
@@ -52,7 +52,7 @@
       runModeTitle: '⚙️ Run Mode',
       tooltipText: 'One-shot: executes once per command (e.g. query, swap)\nContinuous AI: AI runs autonomously, monitors & decides (e.g. trading bot)\nHybrid: partially auto + partially manual confirmation',
       langBtn: '中文',
-      dataFile: 'data/skills-en.json',
+      indexFile: 'data/en/index.json',
       other: 'Other',
       footerText: 'Data from <a href="https://clawhub.ai" target="_blank">ClawHub</a> · Analyzed from <a href="https://github.com/openclaw/skills" target="_blank">OpenClaw</a> · Auto-synced every 6 hours · Claude AI Analysis',
     }
@@ -64,11 +64,25 @@
 
   async function init() {
     try {
-      const res = await fetch(t('dataFile'));
-      const json = await res.json();
-      console.log(`Loaded ${LANG} data: ${json.total} skills`);
+      // Load index manifest, then fetch all category files in parallel
+      const indexRes = await fetch(t('indexFile'));
+      const index = await indexRes.json();
+      console.log(`Loaded ${LANG} index: ${index.total} skills across ${index.files.length} files`);
 
-      ALL = (json.skills || []).map((s, i) => normalizeSkill(s, i));
+      // index.files[].file is like "zh/dex-trading.json" — prepend "data/"
+      const chunks = await Promise.all(
+        index.files.map(f =>
+          fetch('data/' + f.file).then(r => r.json())
+        )
+      );
+
+      let allSkills = [];
+      chunks.forEach(chunk => {
+        allSkills = allSkills.concat(chunk.skills || []);
+      });
+
+      console.log(`Loaded ${allSkills.length} skills from ${chunks.length} files`);
+      ALL = allSkills.map((s, i) => normalizeSkill(s, i));
       renderStats();
       renderCatBars();
       doFilter();
@@ -191,11 +205,14 @@
     });
     // Sort by count, show top 20
     const sorted = Object.entries(m).sort((a, b) => b[1] - a[1]).slice(0, 20);
+    // Count skills with no DApp
+    const noDappCount = ALL.filter(s => !s.dapps || !s.dapps.trim()).length;
     let html = `<span class="filter-label">${t('filterDapp')}</span>`;
     html += `<span class="pill active" data-fk="dapp" data-fv="all">${t('filterAll')}</span>`;
     sorted.forEach(([k, n]) => {
       html += `<span class="pill" data-fk="dapp" data-fv="${esc(k)}">${esc(k)}<span class="cnt">${n}</span></span>`;
     });
+    html += `<span class="pill" data-fk="dapp" data-fv="other">${t('other')}<span class="cnt">${noDappCount}</span></span>`;
     el.innerHTML = html;
   }
 
@@ -221,8 +238,13 @@
         if (!userList.includes(filters.user)) return false;
       }
       if (filters.dapp !== 'all') {
-        const dappList = s.dapps ? s.dapps.split(/[,，]/).map(d => d.trim()) : [];
-        if (!dappList.includes(filters.dapp)) return false;
+        if (filters.dapp === 'other') {
+          // "Other" = skills with no DApp
+          if (s.dapps && s.dapps.trim()) return false;
+        } else {
+          const dappList = s.dapps ? s.dapps.split(/[,，]/).map(d => d.trim()) : [];
+          if (!dappList.includes(filters.dapp)) return false;
+        }
       }
       if (q) {
         const hay = [s.name, s.author, s.desc, s.dapps, s.category, s.userCat, s.example].join(' ').toLowerCase();
