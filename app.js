@@ -216,7 +216,10 @@
     const q = (document.getElementById('search')?.value || '').toLowerCase();
     filtered = ALL.filter(s => {
       if (filters.tech !== 'all' && s.category !== filters.tech) return false;
-      if (filters.user !== 'all' && s.userCat !== filters.user) return false;
+      if (filters.user !== 'all') {
+        const userList = s.userCat ? s.userCat.split(/[,，]/).map(u => u.trim()) : [];
+        if (!userList.includes(filters.user)) return false;
+      }
       if (filters.dapp !== 'all') {
         const dappList = s.dapps ? s.dapps.split(/[,，]/).map(d => d.trim()) : [];
         if (!dappList.includes(filters.dapp)) return false;
@@ -260,7 +263,7 @@
         <div class="card-source"><span class="sname">${esc(s.name)}</span> · by ${esc(s.author)}</div>
         <div class="card-footer">
           ${s.github ? `<a href="${esc(s.github)}" target="_blank" rel="noopener" onclick="event.stopPropagation()">${t('github')}</a>` : '<span></span>'}
-          <button class="install-btn" onclick="event.stopPropagation();window.open('https://clawhub.ai','_blank')">${t('getSkill')}</button>
+          <button class="install-btn" onclick="event.stopPropagation();window.open('https://clawhub.ai/skills/${encodeURIComponent(s.name)}','_blank')">${t('getSkill')}</button>
         </div>
       </div>`;
     }).join('');
@@ -364,7 +367,13 @@
 
   function countSorted(arr, key) {
     const m = {};
-    arr.forEach(s => { const v = s[key] || t('other'); m[v] = (m[v] || 0) + 1; });
+    arr.forEach(s => {
+      const val = s[key] || t('other');
+      // Support comma-separated multi-values (e.g. userCat)
+      val.split(/[,，]/).map(v => v.trim()).filter(Boolean).forEach(v => {
+        m[v] = (m[v] || 0) + 1;
+      });
+    });
     return Object.entries(m).sort((a, b) => b[1] - a[1]);
   }
 
@@ -378,33 +387,47 @@
     return function () { clearTimeout(t); t = setTimeout(fn, ms); };
   }
 
-  // ─── JS Tooltip (avoids overflow clipping) ─────────────────────
+  // ─── JS Tooltip (avoids overflow clipping, mobile-friendly) ────
   (function setupTooltip() {
     let tip = null;
-    document.addEventListener('mouseenter', e => {
-      if (!e.target.classList.contains('tooltip-trigger')) return;
-      const text = e.target.getAttribute('data-tip');
+    function showTip(trigger) {
+      if (tip) { tip.remove(); tip = null; }
+      const text = trigger.getAttribute('data-tip');
       if (!text) return;
       tip = document.createElement('div');
       tip.className = 'js-tooltip';
       tip.textContent = text;
       document.body.appendChild(tip);
-      const rect = e.target.getBoundingClientRect();
-      const tipW = 280;
+      const rect = trigger.getBoundingClientRect();
+      const tipW = Math.min(280, window.innerWidth - 20);
+      tip.style.width = tipW + 'px';
       let left = rect.right + 10;
       let top = rect.top - 10;
-      // If overflows right, show on left side
-      if (left + tipW > window.innerWidth - 10) left = rect.left - tipW - 10;
-      // If overflows bottom, shift up
-      if (top + 120 > window.innerHeight) top = window.innerHeight - 130;
+      if (left + tipW > window.innerWidth - 10) left = Math.max(10, rect.left - tipW - 10);
+      if (left < 10) left = (window.innerWidth - tipW) / 2; // center on mobile
+      if (top + 120 > window.innerHeight) top = window.innerHeight - 140;
       if (top < 10) top = 10;
       tip.style.left = left + 'px';
       tip.style.top = top + 'px';
+    }
+    function hideTip() { if (tip) { tip.remove(); tip = null; } }
+    // Desktop: hover
+    document.addEventListener('mouseenter', e => {
+      if (e.target.classList.contains('tooltip-trigger')) showTip(e.target);
     }, true);
     document.addEventListener('mouseleave', e => {
-      if (!e.target.classList.contains('tooltip-trigger')) return;
-      if (tip) { tip.remove(); tip = null; }
+      if (e.target.classList.contains('tooltip-trigger')) hideTip();
     }, true);
+    // Mobile: tap to toggle
+    document.addEventListener('click', e => {
+      if (e.target.classList.contains('tooltip-trigger')) {
+        e.preventDefault();
+        e.stopPropagation();
+        if (tip) hideTip(); else showTip(e.target);
+      } else {
+        hideTip();
+      }
+    });
   })();
 
   // Go
