@@ -140,7 +140,7 @@
       id: s.id || i + 1,
       name: s.name || s.displayName || s.slug || '',
       author: s.author || (s.slug || '').split('/')[0] || 'unknown',
-      desc: s.desc || s.what_it_does || s.summary || '',
+      desc: s.desc || s.description || s.what_it_does || s.summary || '',
       category: cat,
       userCat: s.userCat || s.category_user || '其他',
       userCls: s.userCls || 'other',
