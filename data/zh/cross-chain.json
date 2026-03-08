@@ -1,0 +1,173 @@
+{
+  "count": 14,
+  "skills": [
+    {
+      "name": "lifi-skill",
+      "author": "fabriziogianni7",
+      "description": "通过 LI.FI API 执行跨链和同链代币兑换与桥接，支持路径报价、链/代币验证、交易构建和状态追踪，聚合多个桥接和 DEX 协议",
+      "category_tech": "跨链桥接",
+      "category_user": "跨链转账",
+      "example": "对我说：'把 ETH 从以太坊桥接到 Arbitrum' 或 '查询 USDC 从 Polygon 到 Base 的最优路径'",
+      "user_provides": "LI.FI API 密钥",
+      "dapps": "LI.FI",
+      "run_mode": "一次性执行",
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/fabriziogianni7/lifi-skill"
+    },
+    {
+      "name": "multichain-protocol",
+      "author": "kyounesmercatura",
+      "description": "基于 ICP 的 MeneseSDK 19 链钱包，支持代币转账、多 DEX 兑换(Raydium/Uniswap/Cetus 等)、跨链桥接、DeFi 仓位管理和自动化交易策略",
+      "category_tech": "跨链桥接",
+      "category_user": "跨链转账",
+      "example": "对我说：'从 Solana 发送 USDC 到 Ethereum' 或 '在 Raydium 上兑换 SOL'",
+      "user_provides": "ICP DeveloperKey",
+      "dapps": "Raydium, Uniswap, ICPSwap, Cetus, Aave, Lido",
+      "run_mode": "混合",
+      "github_url": "https://github.com/kyounesmercatura/multichain-protocol"
+    },
+    {
+      "name": "abstract-onboard",
+      "author": "masoncags-tech",
+      "description": "Abstract ZK Stack L2 全套上手工具，支持智能合约部署、资产桥接、AGW 钱包创建、DEX 交易(Kona/Aborean)和 Myriad 预测市场",
+      "category_tech": "跨链桥接",
+      "category_user": "跨链转账",
+      "example": "对我说：'桥接 ETH 到 Abstract 链' 或 '在 Abstract 上部署智能合约'",
+      "user_provides": "钱包私钥, Node.js 环境",
+      "dapps": "Myriad, Kona, Aborean",
+      "run_mode": "一次性执行",
+      "github_url": "https://github.com/masoncags-tech/abstract-onboard"
+    },
+    {
+      "name": "lifi-crosschain",
+      "author": "rhlsthrm",
+      "description": "LI.FI 跨链聚合器技能，在 35+ 条链间寻找最优路由（比较 Stargate/Hop/Across 等数十个桥和 DEX），支持 swap、bridge、路由查询和交易追踪",
+      "category_tech": "跨链桥接",
+      "category_user": "跨链转账",
+      "example": "对我说：'将 0.1 ETH 从以太坊桥接到 Polygon' 或 '查看我的跨链交易状态'",
+      "user_provides": "LI.FI API Key（可选）",
+      "dapps": "LI.FI",
+      "run_mode": "一次性执行",
+      "github_url": "https://github.com/rhlsthrm/lifi-crosschain"
+    },
+    {
+      "name": "lifi-orchestrator",
+      "author": "rhlsthrm",
+      "description": "LI.FI 跨链编排器，通过 Python 脚本实现跨链桥接和兑换，支持报价查询、桥接执行和交易状态追踪，覆盖 Ethereum/Polygon/Arbitrum/Base/Solana 等 15+ 条链",
+      "category_tech": "跨链桥接",
+      "category_user": "跨链转账",
+      "example": "对我说：'获取 ETH→Polygon USDC 的跨链报价' 或 '执行跨链桥接并追踪进度'",
+      "user_provides": "私钥, LI.FI API Key（可选）",
+      "dapps": "LI.FI",
+      "run_mode": "一次性执行",
+      "github_url": "https://github.com/rhlsthrm/lifi-orchestrator"
+    },
+    {
+      "name": "cross-chain-swap",
+      "author": "wpank",
+      "description": "执行跨链代币兑换，处理报价、路由评估、安全检查、桥接监控和目标链确认的完整流程",
+      "category_tech": "跨链桥接",
+      "category_user": "跨链转账",
+      "example": "对我说：'把 Arbitrum 上的 ETH 换成 Base 上的 USDC'",
+      "user_provides": "源链代币、目标链代币",
+      "dapps": "Uniswap",
+      "run_mode": "一次性执行",
+      "github_url": "https://github.com/wpank/cross-chain-swap"
+    },
+    {
+      "name": "near-intents",
+      "author": "cuongdcdev",
+      "description": "NEAR Intents 1Click SDK 跨链兑换和桥接工具，支持 14+ 链（NEAR/Base/ETH/Solana/BTC 等），通过存入指定地址自动完成跨链交换",
+      "category_tech": "跨链桥接",
+      "category_user": "跨链转账",
+      "example": "对我说：'从 Base 桥接 USDC 到 Solana' 或 '跨链兑换 ETH 为 SOL'",
+      "user_provides": "",
+      "dapps": "",
+      "run_mode": "一次性执行",
+      "github_url": "https://github.com/cuongdcdev/near-intents"
+    },
+    {
+      "name": "universal-trading",
+      "author": "0xmomo-ngclubs",
+      "description": "Particle Network Universal Account SDK 跨链交易：在 EVM 和 Solana 间执行统一账户的代币兑换、资产转移和自定义交易",
+      "category_tech": "跨链桥接",
+      "category_user": "一键swap",
+      "example": "对我说：'跨链兑换代币' 或 '设置 Universal Account'",
+      "user_provides": "Particle Network 凭证",
+      "dapps": "",
+      "run_mode": "一次性执行",
+      "github_url": "https://github.com/0xmomo-ngclubs/universal-trading"
+    },
+    {
+      "name": "bridge-tokens",
+      "author": "wpank",
+      "description": "跨链代币桥接工具，通过 Uniswap 路由将代币从一条链转移到另一条链（如 USDC 从 Ethereum 到 Base），不进行代币兑换",
+      "category_tech": "跨链桥接",
+      "category_user": "跨链转账",
+      "example": "对我说：'把 USDC 从以太坊桥接到 Base' 或 '跨链转移 ETH'",
+      "user_provides": "钱包",
+      "dapps": "Uniswap",
+      "run_mode": "一次性执行",
+      "github_url": "https://github.com/wpank/bridge-tokens"
+    },
+    {
+      "name": "taiko-native-bridge",
+      "author": "davidtaikocha",
+      "description": "Taiko 原生跨链桥 CLI 工具，实现以太坊 L1 和 Taiko L2 之间的 ETH 双向转移，支持存款和取款操作",
+      "category_tech": "跨链桥接",
+      "category_user": "跨链转账",
+      "example": "对我说：\"将 ETH 从以太坊桥接到 Taiko\"或\"从 Taiko 提取 ETH 到 L1\"",
+      "user_provides": "钱包私钥, ETH",
+      "dapps": "Taiko",
+      "run_mode": "一次性执行",
+      "github_url": "https://github.com/davidtaikocha/taiko-native-bridge"
+    },
+    {
+      "name": "cosmos",
+      "author": "Unknown",
+      "description": "Cosmos生态导航指南，涵盖IBC跨链通信、ATOM质押、多链钱包管理和Cosmos Hub交互",
+      "category_tech": "跨链桥接",
+      "category_user": "跨链转账",
+      "example": "对我说：\"通过IBC从Cosmos Hub转账到Osmosis\"",
+      "user_provides": "Cosmos钱包地址",
+      "dapps": "",
+      "run_mode": "一次性执行",
+      "github_url": "https://github.com/Unknown/cosmos"
+    },
+    {
+      "name": "trails",
+      "author": "Unknown",
+      "description": "Trails跨链基础设施集成指南，支持Widget/SDK/API三种方式接入跨链swap、桥接、支付和链抽象功能",
+      "category_tech": "跨链桥接",
+      "category_user": "一键swap",
+      "example": "对我说：\"帮我集成Trails跨链swap Widget\"",
+      "user_provides": "项目代码, 集成方式偏好",
+      "dapps": "Trails",
+      "run_mode": "一次性执行",
+      "github_url": "https://github.com/Unknown/trails"
+    },
+    {
+      "name": "htlc",
+      "author": "web4agent",
+      "description": "基于哈希时间锁合约的铭文和 NFT 原子交换，支持 Base、以太坊、Arbitrum 等 EVM 链",
+      "category_tech": "跨链桥接",
+      "category_user": "跨链转账",
+      "example": "对我说：\"创建一笔 HTLC 原子交换\" 或 \"通过哈希锁定安全交易 NFT\"",
+      "user_provides": "钱包私钥",
+      "dapps": "",
+      "run_mode": "一次性执行",
+      "github_url": "https://github.com/web4agent/htlc"
+    },
+    {
+      "name": "nexwave-gateway",
+      "author": "botmechanic",
+      "description": "通过 Circle Gateway 实现跨链统一 USDC 余额，任意链存入、即时在目标链铸造，无需桥接",
+      "category_tech": "跨链桥接",
+      "category_user": "跨链转账",
+      "example": "对我说：\"查看统一 USDC 余额\" 或 \"从 Polygon 存入并在 Arbitrum 铸造\"",
+      "user_provides": "Circle API 密钥和实体密钥",
+      "dapps": "Circle",
+      "run_mode": "一次性执行",
+      "github_url": "https://github.com/botmechanic/nexwave-gateway"
+    }
+  ]
+}
