@@ -1,0 +1,41 @@
+{
+  "count": 3,
+  "skills": [
+    {
+      "name": "polyclawster-agent",
+      "author": "al1enjesus",
+      "description": "自动化交易 Polymarket 预测市场，支持 AI 鲸鱼信号追踪、YES/NO 下注、投资组合管理和自动交易循环，使用 Polygon USDC 钱包",
+      "category_tech": "预测市场",
+      "category_user": "预测市场",
+      "example": "对我说：\"获取 Polymarket 的鲸鱼交易信号\"、\"在预测市场上自动跟单交易\"",
+      "user_provides": "Telegram ID、交易预算",
+      "dapps": "Polymarket",
+      "run_mode": "持续AI决策",
+      "github_url": "https://github.com/al1enjesus/polyclawster-agent"
+    },
+    {
+      "name": "market-configurable-skills",
+      "author": "franckstone",
+      "description": "可配置的加密价格预测市场合约（GouGouBi），基于 Polymarket 式 CPMM 做市机制，使用 Uniswap V3 池价格作为预言机，支持 YES/NO 交易和自动轮次结算",
+      "category_tech": "预测市场",
+      "category_user": "预测市场",
+      "example": "对我说：\"创建一个 ETH 价格预测市场\"、\"在预测市场中购买 YES 头寸\"",
+      "user_provides": "EVM 钱包、流动性代币、预言机池参数",
+      "dapps": "Uniswap",
+      "run_mode": "混合",
+      "github_url": "https://github.com/franckstone/market-configurable-skills"
+    },
+    {
+      "name": "create-prediction-markets",
+      "author": "proxima424",
+      "description": "在 Base 链上创建、交易和结算预测市场，支持任意 ERC-20 作为抵押品，可用于信息金融、概率估算竞赛和代币实用场景",
+      "category_tech": "预测市场",
+      "category_user": "预测市场",
+      "example": "对我说：\"创建一个 ETH 是否破万的预测市场\"、\"在预测市场上买入 YES 代币\"",
+      "user_provides": "钱包私钥、Base RPC、抵押品代币",
+      "dapps": "PNP Markets",
+      "run_mode": "一次性执行",
+      "github_url": "https://github.com/proxima424/create-prediction-markets"
+    }
+  ]
+}
