@@ -183,7 +183,7 @@
     // Count dapps across all skills (split by comma)
     const m = {};
     ALL.forEach(s => {
-      if (s.dapps) {
+      if (s.dapps && typeof s.dapps === 'string') {
         s.dapps.split(/[,，]/).map(d => d.trim()).filter(Boolean).forEach(d => {
           m[d] = (m[d] || 0) + 1;
         });
@@ -413,10 +413,10 @@
     function hideTip() { if (tip) { tip.remove(); tip = null; } }
     // Desktop: hover
     document.addEventListener('mouseenter', e => {
-      if (e.target.classList.contains('tooltip-trigger')) showTip(e.target);
+      if (e.target && e.target.classList && e.target.classList.contains('tooltip-trigger')) showTip(e.target);
     }, true);
     document.addEventListener('mouseleave', e => {
-      if (e.target.classList.contains('tooltip-trigger')) hideTip();
+      if (e.target && e.target.classList && e.target.classList.contains('tooltip-trigger')) hideTip();
     }, true);
     // Mobile: tap to toggle
     document.addEventListener('click', e => {
