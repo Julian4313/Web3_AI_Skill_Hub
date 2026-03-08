@@ -191,8 +191,8 @@
   // ─── Category filter pills ─────────────────────────────────────
 
   function renderCatBars() {
-    renderPills('filter-tech', countSorted(ALL, 'category'), 'tech', t('filterTech'), true);
-    renderPills('filter-user', countSorted(ALL, 'userCat'), 'user', t('filterUser'), false);
+    renderPills('filter-tech', countSorted(ALL, 'category'), 'tech', t('filterTech'), false);
+    renderPills('filter-user', countSorted(ALL, 'userCat'), 'user', t('filterUser'), true);
     renderDappPills();
   }
 
