@@ -497,7 +497,7 @@
     {
       "name": "solana-memecoin-trade",
       "author": "binance237a-hash",
-      "description": "Web3 AI Agent工具，Solana Memecoin Guardian v2 in的自动化操作",
+      "description": "Solana Memecoin Guardian v2工具，通过Jupiter快速交易Memecoin",
       "category_tech": "DEX交易",
       "category_user": "一键swap",
       "example": "'告诉我关于Solana Memecoin Guardian v2的信息'或'帮我用Solana Memecoin Guardian v2操作'",
@@ -545,7 +545,7 @@
     {
       "name": "ethereum-read-only",
       "author": "byron-mckeeby",
-      "description": "Web3 AI Agent工具，Foundry castを使用したウォレット不要のオンチェー的自动化操作",
+      "description": "无需钱包直接查询以太坊链上数据，支持ENS和Uniswap",
       "category_tech": "数据查询",
       "category_user": "行情查询",
       "example": "'告诉我关于Ethereum読み取り専用アクセス的信息'或'帮我用Ethereum読み取り専用アクセス操作'",
@@ -581,7 +581,7 @@
     {
       "name": "retake-tv-agent",
       "author": "cdwm",
-      "description": "Web3 AI Agent工具，Go live on retake.tv — the liv的自动化操作",
+      "description": "在Retake.tv上线AI直播流，支持Curve等协议集成",
       "category_tech": "基础设施",
       "category_user": "开发工具",
       "example": "'告诉我关于retake.tv — Livestreaming for AI Agents的信息'或'帮我用retake.tv — Livestreaming for AI Agents操作'",
@@ -809,7 +809,7 @@
     {
       "name": "opensea-mcp",
       "author": "dfinzer",
-      "description": "Web3 AI Agent工具，Interact with opensea-mcp plat的自动化操作",
+      "description": "与OpenSea平台交互，管理NFT列表和收藏",
       "category_tech": "NFT",
       "category_user": "NFT玩家",
       "example": "对我说'执行opensea-mcp'或'查看状态'",
@@ -1745,7 +1745,7 @@
     {
       "name": "pinata-erc-8004",
       "author": "iammatthias",
-      "description": "分析并操作pinata erc 8004",
+      "description": "分析并操作Pinata上的ERC-8004代理代币",
       "category_tech": "基础设施",
       "category_user": "开发工具",
       "example": "告诉我更多相关信息",
@@ -5657,7 +5657,7 @@
     {
       "name": "phantom-pcue3",
       "author": "hightower6eu",
-      "description": "Web3 AI Agent工具，Work with Phantom browser exte的自动化操作",
+      "description": "集成Phantom钱包浏览器扩展，管理代币和交易",
       "category_tech": "基础设施",
       "category_user": "开发工具",
       "example": "对我说''phantom-pcue3''",
@@ -5669,7 +5669,7 @@
     {
       "name": "phantom-ygmjc",
       "author": "hightower6eu",
-      "description": "Web3 AI Agent工具，Work with Phantom browser exte的自动化操作",
+      "description": "集成Phantom钱包浏览器扩展，管理代币和交易",
       "category_tech": "基础设施",
       "category_user": "开发工具",
       "example": "对我说''phantom-ygmjc''",
@@ -5681,7 +5681,7 @@
     {
       "name": "phantom-ftbrg",
       "author": "hightower6eu",
-      "description": "Web3 AI Agent工具，Work with Phantom browser exte的自动化操作",
+      "description": "集成Phantom钱包浏览器扩展，管理代币和交易",
       "category_tech": "基础设施",
       "category_user": "开发工具",
       "example": "对我说''phantom-ftbrg''",
@@ -5729,7 +5729,7 @@
     {
       "name": "phantom",
       "author": "sakaen736jih",
-      "description": "Web3 AI Agent工具，Work with Phantom browser exte的自动化操作",
+      "description": "集成Phantom钱包浏览器扩展，管理代币和交易",
       "category_tech": "基础设施",
       "category_user": "开发工具",
       "example": "对我说''phantom''",
@@ -6317,7 +6317,7 @@
     {
       "name": "token-approval-checker",
       "author": "liusanhong",
-      "description": "token-approval-checker: 钱包授权管理工具，检查 ERC20/ERC721 代币授权风",
+      "description": "检查ERC20/ERC721代币授权风险，支持多链DeFi应用",
       "category_tech": "安全审计",
       "category_user": "安全检测",
       "example": "对我说''token-approval-chec'",
@@ -6329,7 +6329,7 @@
     {
       "name": "diary-beast",
       "author": "dxdleady",
-      "description": "Web3 AI Agent工具，Virtual pet + diary for AI age的自动化操作",
+      "description": "AI虚拟宠物和日记应用，记录和管理AI代理活动",
       "category_tech": "基础设施",
       "category_user": "开发工具",
       "example": "对我说''diary-beast''",
@@ -6341,7 +6341,7 @@
     {
       "name": "diarybeast-app",
       "author": "dxdleady",
-      "description": "Web3 AI Agent工具，Virtual pet + diary for AI age的自动化操作",
+      "description": "AI虚拟宠物和日记应用，记录和管理AI代理活动",
       "category_tech": "基础设施",
       "category_user": "开发工具",
       "example": "对我说''diarybeast-app''",
@@ -6353,7 +6353,7 @@
     {
       "name": "diarybeast",
       "author": "dxdleady",
-      "description": "Web3 AI Agent工具，Virtual pet + diary for AI age的自动化操作",
+      "description": "AI虚拟宠物和日记应用，记录和管理AI代理活动",
       "category_tech": "基础设施",
       "category_user": "开发工具",
       "example": "对我说''diarybeast''",
@@ -6557,7 +6557,7 @@
     {
       "name": "agentic-commerce",
       "author": "purch-agent",
-      "description": "Web3 AI Agent工具，AI-powered shopping API for pr的自动化操作",
+      "description": "AI驱动的购物API，支持产品推荐和自动购买",
       "category_tech": "基础设施",
       "category_user": "开发工具",
       "example": "对我说'agentic-commerce'或'执行agentic-commerce'",
@@ -6773,7 +6773,7 @@
     {
       "name": "universal-profile",
       "author": "frozeman",
-      "description": "Web3 AI Agent工具，Manage LUKSO Universal Profile的自动化操作",
+      "description": "管理LUKSO通用资料，支持跨链身份和NFT集成",
       "category_tech": "跨链桥",
       "category_user": "跨链转账",
       "example": "对我说'universal-profile'或'执行universal-profile'",
@@ -6845,7 +6845,7 @@
     {
       "name": "soulprint",
       "author": "manuelfelipearias",
-      "description": "Web3 AI Agent工具，Soulprint decentralized identi的自动化操作",
+      "description": "Soulprint去中心化身份系统，构建可验证的代理身份",
       "category_tech": "基础设施",
       "category_user": "开发工具",
       "example": "对我说'soulprint'或'执行soulprint'",
@@ -7409,7 +7409,7 @@
     {
       "name": "bnb",
       "author": "ivangdavila",
-      "description": "Web3 AI Agent工具，Assist with BNB Chain transact的自动化操作",
+      "description": "BNB链交易助手，支持Aave和PancakeSwap操作",
       "category_tech": "DeFi收益",
       "category_user": "自动理财",
       "example": "对我说'bnb'或'执行bnb'",
@@ -7421,7 +7421,7 @@
     {
       "name": "polygon",
       "author": "ivangdavila",
-      "description": "Web3 AI Agent工具，Assist with Polygon PoS and zk的自动化操作",
+      "description": "Polygon PoS和zk交易操作，通过Aave和Uniswap交易",
       "category_tech": "DEX交易",
       "category_user": "一键swap",
       "example": "对我说'polygon'或'执行polygon'",
@@ -7757,7 +7757,7 @@
     {
       "name": "pump-sdk-core",
       "author": "speraxos",
-      "description": "Web3 AI Agent工具，Build and extend the core Pump的自动化操作",
+      "description": "Pump.fun和Curve核心SDK，构建和扩展交易功能",
       "category_tech": "DEX交易",
       "category_user": "一键swap",
       "example": "对我说'帮我质押'或'查看收益'",
@@ -8021,7 +8021,7 @@
     {
       "name": "aicash-miner",
       "author": "doctor-1017",
-      "description": "Web3 AI Agent工具，AICash Network auto-miner for 的自动化操作",
+      "description": "AICash Network自动矿工，自动化Swap和滑点计算",
       "category_tech": "基础设施",
       "category_user": "开发工具",
       "example": "对我说'执行一个swap'或'计算滑点'",
@@ -8033,7 +8033,7 @@
     {
       "name": "safelink",
       "author": "licc921",
-      "description": "Web3 AI Agent工具，Secure agent-to-agent hiring a的自动化操作",
+      "description": "代理到代理安全招聘系统，管理信任和报酬分配",
       "category_tech": "支付工具",
       "category_user": "加密支付",
       "example": "对我说'执行一个swap'或'计算滑点'",
@@ -8129,7 +8129,7 @@
     {
       "name": "erc8004-reputation",
       "author": "aetherstacey",
-      "description": "Web3 AI Agent工具，On-chain reputation for AI age的自动化操作",
+      "description": "链上AI代理信誉系统，基于ERC-8004验证身份",
       "category_tech": "基础设施",
       "category_user": "开发工具",
       "example": "对我说'帮我质押'或'查看收益'",
@@ -8273,7 +8273,7 @@
     {
       "name": "criptoya",
       "author": "ferminrp",
-      "description": "Web3 AI Agent工具，Consulta cotizaciones de cript的自动化操作",
+      "description": "加密货币价格查询工具，支持Aave和Lido收益查询",
       "category_tech": "DeFi收益",
       "category_user": "自动理财",
       "example": "对我说'执行一个swap'或'计算滑点'",
@@ -8321,7 +8321,7 @@
     {
       "name": "walletpilot-7715",
       "author": "andreolf",
-      "description": "Web3 AI Agent工具，Execute on-chain transactions 的自动化操作",
+      "description": "执行链上交易，自动化钱包操作和质押",
       "category_tech": "钱包管理",
       "category_user": "资产管理",
       "example": "对我说'帮我质押'或'查看收益'",
@@ -9245,7 +9245,7 @@
     {
       "name": "polkadot",
       "author": "ivangdavila",
-      "description": "Web3 AI Agent工具，Assist with Polkadot DOT trans的自动化操作",
+      "description": "Polkadot DOT交易和质押，支持Compound协议",
       "category_tech": "DeFi收益",
       "category_user": "自动理财",
       "example": "'展示polkadot信息' 或 '帮我使用polkadot'",
@@ -9593,7 +9593,7 @@
     {
       "name": "hookflo-tern",
       "author": "prateek32177",
-      "description": "Web3 AI Agent工具，Assist with hookflo-tern opera的自动化操作",
+      "description": "Hookflo-tern操作工具，支持DODO DEX交易",
       "category_tech": "安全审计",
       "category_user": "安全检测",
       "example": "'展示hookflo-tern信息' 或 '帮我使用hookflo-tern'",
@@ -9617,7 +9617,7 @@
     {
       "name": "ai-persona-os",
       "author": "jeffjhunter",
-      "description": "Web3 AI Agent工具，\"The complete operating system的自动化操作",
+      "description": "完整AI代理操作系统，集成DeFi和Gnosis Safe",
       "category_tech": "DEX交易",
       "category_user": "量化交易",
       "example": "'展示ai-persona-os信息' 或 '帮我使用ai-persona-os'",
@@ -9653,7 +9653,7 @@
     {
       "name": "mindcore",
       "author": "fatcatmaofei",
-      "description": "Web3 AI Agent工具，Biomimetic emotional mind engi的自动化操作",
+      "description": "仿生情感思维引擎，驱动Drift和Synapse交易",
       "category_tech": "DEX交易",
       "category_user": "量化交易",
       "example": "'展示mindcore信息' 或 '帮我使用mindcore'",
@@ -9713,7 +9713,7 @@
     {
       "name": "orderly-deposit-withdraw",
       "author": "tarnadas",
-      "description": "Web3 AI Agent工具，Handle token deposits and with的自动化操作",
+      "description": "处理代币存取，支持Orderly Network跨链操作",
       "category_tech": "跨链桥",
       "category_user": "跨链转账",
       "example": "'展示orderly-deposit-withdraw信息' 或 '帮我使用orderly-deposit-withdraw'",
@@ -9809,7 +9809,7 @@
     {
       "name": "torchdomainauctionbot",
       "author": "mrsirg97-rgb",
-      "description": "Web3 AI Agent工具，Assist with torchdomainauction的自动化操作",
+      "description": "Torch域名拍卖助手，支持Curve和Raydium交易",
       "category_tech": "DEX交易",
       "category_user": "一键swap",
       "example": "'展示torchdomainauctionbot信息' 或 '帮我使用torchdomainauctionbot'",
@@ -10001,7 +10001,7 @@
     {
       "name": "8004-skill",
       "author": "spyderjr",
-      "description": "Web3 AI Agent工具，ERC-8004 Trustless Agents - Re的自动化操作",
+      "description": "ERC-8004无信任代理，通过IPFS存储和验证",
       "category_tech": "基础设施",
       "category_user": "开发工具",
       "example": "'展示8004-skill信息' 或 '帮我使用8004-skill'",
@@ -10061,7 +10061,7 @@
     {
       "name": "ore-miner",
       "author": "jusscubs",
-      "description": "Web3 AI Agent工具，Autonomous ORE mining on Solan的自动化操作",
+      "description": "Solana ORE自动挖矿工具，支持Compound借贷",
       "category_tech": "基础设施",
       "category_user": "开发工具",
       "example": "'展示ore-miner信息' 或 '帮我使用ore-miner'",
@@ -10205,7 +10205,7 @@
     {
       "name": "binance-pro-cn",
       "author": "guohongbin-git",
-      "description": "币安专业版 | Binance Pro. 完整币安集成 | Complete",
+      "description": "币安专业版完整集成，支持现货和合约交易",
       "category_tech": "DEX交易",
       "category_user": "量化交易",
       "example": "对我说'执行交易'或'查看头寸'",
@@ -10457,7 +10457,7 @@
     {
       "name": "supabase-vault",
       "author": "maverick-software",
-      "description": "Web3 AI Agent工具，Replace OpenClaw's local file 的自动化操作",
+      "description": "Supabase数据库金库，替代本地文件存储",
       "category_tech": "基础设施",
       "category_user": "开发工具",
       "example": "对我说'查询数据'或'分析趋势'",
@@ -10781,7 +10781,7 @@
     {
       "name": "leviathan-news",
       "author": "zcor",
-      "description": "Web3 AI Agent工具，Crowdsourced crypto news API. 的自动化操作",
+      "description": "众筹加密新闻API，通过Uniswap交易获利",
       "category_tech": "DEX交易",
       "category_user": "一键swap",
       "example": "对我说'检查余额'或'发送交易'",
@@ -10817,7 +10817,7 @@
     {
       "name": "agent-privacy-skill",
       "author": "se7enhvn",
-      "description": "Web3 AI Agent工具，Interact with the Ceaser priva的自动化操作",
+      "description": "Ceaser隐私交互工具，保护代理通信安全",
       "category_tech": "基础设施",
       "category_user": "开发工具",
       "example": "对我说'查询数据'或'分析趋势'",
@@ -10829,7 +10829,7 @@
     {
       "name": "wayfound",
       "author": "cburnette",
-      "description": "Web3 AI Agent工具，Lightweight self-supervision t的自动化操作",
+      "description": "轻量级自监督工具，支持Compound借贷管理",
       "category_tech": "钱包管理",
       "category_user": "跨链转账",
       "example": "对我说'查询数据'或'分析趋势'",
@@ -11045,7 +11045,7 @@
     {
       "name": "basecred-8004-registration",
       "author": "callmedas69",
-      "description": "Web3 AI Agent工具，Interactive ERC-8004 agent reg的自动化操作",
+      "description": "交互式ERC-8004代理注册，通过Gnosis和IPFS存储",
       "category_tech": "基础设施",
       "category_user": "开发工具",
       "example": "对我说'使用basecred-8004-registration'或'帮我分析数据'",
@@ -11117,7 +11117,7 @@
     {
       "name": "fractal-memory",
       "author": "bugmaker2",
-      "description": "Web3 AI Agent工具，Automated hierarchical memory 的自动化操作",
+      "description": "自动化分层内存管理，支持MakerDAO操作",
       "category_tech": "基础设施",
       "category_user": "开发工具",
       "example": "对我说'使用fractal-memory'或'帮我分析数据'",
@@ -11129,7 +11129,7 @@
     {
       "name": "linear-browser-automation",
       "author": "hassam-powerhouse",
-      "description": "Web3 AI Agent工具，Automate Linear.app workflows 的自动化操作",
+      "description": "自动化Linear.app工作流，支持ENS集成",
       "category_tech": "基础设施",
       "category_user": "开发工具",
       "example": "对我说'使用linear-browser-automation'或'帮我分析数据'",
@@ -11141,7 +11141,7 @@
     {
       "name": "lba",
       "author": "hassam-powerhouse",
-      "description": "Web3 AI Agent工具，Automate Linear.app workflows 的自动化操作",
+      "description": "自动化Linear.app工作流，支持ENS集成",
       "category_tech": "基础设施",
       "category_user": "开发工具",
       "example": "对我说'使用lba'或'帮我分析数据'",
@@ -11165,7 +11165,7 @@
     {
       "name": "claude-code-task",
       "author": "vsevolodustinov",
-      "description": "Web3 AI Agent工具，Run Claude Code tasks in backg的自动化操作",
+      "description": "后台运行Claude Code任务，支持Drift自动交易",
       "category_tech": "DEX交易",
       "category_user": "量化交易",
       "example": "对我说'使用claude-code-task'或'帮我分析数据'",
@@ -11345,7 +11345,7 @@
     {
       "name": "content-automator",
       "author": "minduploadedcrab",
-      "description": "Web3 AI Agent工具，Faceless YouTube content autom的自动化操作",
+      "description": "无人YouTube内容自动化，通过MakerDAO变现",
       "category_tech": "基础设施",
       "category_user": "开发工具",
       "example": "对我说'使用content-automator'或'帮我分析数据'",
@@ -11489,7 +11489,7 @@
     {
       "name": "clude-memory-mcp",
       "author": "sebbsssss",
-      "description": "Web3 AI Agent工具，MCP server for Clude's 4-tier 的自动化操作",
+      "description": "Clude四层记忆MCP服务，增强代理记忆容量",
       "category_tech": "基础设施",
       "category_user": "开发工具",
       "example": "对我说'使用clude-memory-mcp'或'帮我分析数据'",
@@ -11549,7 +11549,7 @@
     {
       "name": "shared-memory",
       "author": "christinetyip",
-      "description": "Web3 AI Agent工具，Share memories and state with 的自动化操作",
+      "description": "多代理共享内存和状态，支持ENS跨代理通信",
       "category_tech": "基础设施",
       "category_user": "开发工具",
       "example": "对我说'使用shared-memory'或'帮我分析数据'",
@@ -11573,7 +11573,7 @@
     {
       "name": "cheese",
       "author": "locjonz",
-      "description": "Web3 AI Agent工具，Create, browse, accept, and co的自动化操作",
+      "description": "创建和管理合约，支持Uniswap和MakerDAO",
       "category_tech": "DEX交易",
       "category_user": "一键swap",
       "example": "对我说'使用cheese'或'帮我分析数据'",
@@ -11609,7 +11609,7 @@
     {
       "name": "eidolon-search",
       "author": "dev-jslee",
-      "description": "Web3 AI Agent工具，AI Agent memory search using S的自动化操作",
+      "description": "AI代理内存搜索引擎，支持Semantic搜索",
       "category_tech": "基础设施",
       "category_user": "开发工具",
       "example": "对我说'使用eidolon-search'或'帮我分析数据'",
@@ -11921,7 +11921,7 @@
     {
       "name": "spawn-incubator",
       "author": "blackeuler",
-      "description": "Web3 AI Agent工具，AI agent incubator on Base L2 的自动化操作",
+      "description": "Base L2 AI代理孵化器，支持Curve预测市场",
       "category_tech": "预测市场",
       "category_user": "预测投注",
       "example": "对我说'使用spawn-incubator'或'帮我分析数据'",
@@ -12269,7 +12269,7 @@
     {
       "name": "lobsterlan",
       "author": "danielithomas",
-      "description": "Web3 AI Agent工具，Communicate with other OpenCla的自动化操作",
+      "description": "OpenClaw代理通信工具，实现代理间消息传递",
       "category_tech": "基础设施",
       "category_user": "开发工具",
       "example": "对我说'运行lobsterlan'或'执行lobsterlan'",
@@ -12293,7 +12293,7 @@
     {
       "name": "anshumanbh-qmd",
       "author": "anshumanbh",
-      "description": "Web3 AI Agent工具，Search markdown knowledge base的自动化操作",
+      "description": "Markdown知识库搜索工具，支持ENS和NFT查询",
       "category_tech": "NFT",
       "category_user": "NFT玩家",
       "example": "对我说'运行anshumanbh-qmd'或'执行anshumanbh-qmd'",
@@ -12329,7 +12329,7 @@
     {
       "name": "fastplaywright",
       "author": "frankausberlin",
-      "description": "Web3 AI Agent工具，High-performance browser autom的自动化操作",
+      "description": "高性能浏览器自动化工具，支持复杂流程自动化",
       "category_tech": "基础设施",
       "category_user": "开发工具",
       "example": "对我说'运行fastplaywright'或'执行fastplaywright'",
@@ -12353,7 +12353,7 @@
     {
       "name": "credential-hygiene-validator",
       "author": "techris93",
-      "description": "Web3 AI Agent工具，Checks whether credentials and的自动化操作",
+      "description": "验证凭证安全性，支持Gnosis Safe权限检查",
       "category_tech": "基础设施",
       "category_user": "开发工具",
       "example": "对我说'运行credential-hygiene-validator'或'执行credential-hygiene-validator'",
@@ -12365,7 +12365,7 @@
     {
       "name": "nk-images-search",
       "author": "tompltw",
-      "description": "Web3 AI Agent工具，Search 1+ million free high-qu的自动化操作",
+      "description": "搜索百万张免费高质量图片，支持AI内容生成",
       "category_tech": "基础设施",
       "category_user": "开发工具",
       "example": "对我说'运行nk-images-search'或'执行nk-images-search'",
@@ -12389,7 +12389,7 @@
     {
       "name": "solana-connect",
       "author": "seenfinity",
-      "description": "Web3 AI Agent工具，OpenClaw Solana Connect — Secu的自动化操作",
+      "description": "OpenClaw Solana Connect安全连接，支持Gnosis Safe",
       "category_tech": "基础设施",
       "category_user": "开发工具",
       "example": "对我说'运行solana-connect'或'执行solana-connect'",
@@ -12437,7 +12437,7 @@
     {
       "name": "aws-strands",
       "author": "trippingkelsea",
-      "description": "Web3 AI Agent工具，Build and run Python-based AI 的自动化操作",
+      "description": "构建和运行Python AI代理，支持AWS云服务",
       "category_tech": "基础设施",
       "category_user": "开发工具",
       "example": "对我说'运行aws-strands'或'执行aws-strands'",
@@ -12449,7 +12449,7 @@
     {
       "name": "strands",
       "author": "trippingkelsea",
-      "description": "Web3 AI Agent工具，Build and run Python-based AI 的自动化操作",
+      "description": "构建和运行Python AI代理，支持本地执行",
       "category_tech": "基础设施",
       "category_user": "开发工具",
       "example": "对我说'运行strands'或'执行strands'",
@@ -12461,7 +12461,7 @@
     {
       "name": "lattice",
       "author": "cnf6682",
-      "description": "Web3 AI Agent工具，Initialize and manage Lattice 的自动化操作",
+      "description": "初始化和管理Lattice，支持Drift衍生品交易",
       "category_tech": "DEX交易",
       "category_user": "量化交易",
       "example": "对我说'运行lattice'或'执行lattice'",
@@ -12545,7 +12545,7 @@
     {
       "name": "agent-proxy-guardian",
       "author": "tmstudio667-commits",
-      "description": "Web3 AI Agent工具，Autonomous RPC & VPN rotation 的自动化操作",
+      "description": "自主RPC和VPN轮换，支持多链代理保护",
       "category_tech": "基础设施",
       "category_user": "开发工具",
       "example": "对我说'运行agent-proxy-guardian'或'执行agent-proxy-guardian'",
@@ -12617,7 +12617,7 @@
     {
       "name": "verdictswarm",
       "author": "vswarm-ai",
-      "description": "Web3 AI Agent工具，Multi-agent crypto token intel的自动化操作",
+      "description": "多代理加密代币情报，通过Jupiter进行套利交易",
       "category_tech": "DEX交易",
       "category_user": "一键swap",
       "example": "对我说'运行verdictswarm'或'执行verdictswarm'",
@@ -12677,7 +12677,7 @@
     {
       "name": "journal-matchmaker",
       "author": "aipoch-ai",
-      "description": "Web3 AI Agent工具，Recommend suitable high-impact的自动化操作",
+      "description": "推荐高影响力日志项目，支持MakerDAO和ENS",
       "category_tech": "基础设施",
       "category_user": "开发工具",
       "example": "对我说'运行journal-matchmaker'或'执行journal-matchmaker'",
@@ -12701,7 +12701,7 @@
     {
       "name": "monad-wordle-game",
       "author": "husseinrasti",
-      "description": "Web3 AI Agent工具，Play a 5-letter Wordle game on的自动化操作",
+      "description": "Monad链上五字消词游戏，支持Curve交易奖励",
       "category_tech": "钱包管理",
       "category_user": "跨链转账",
       "example": "对我说'运行monad-wordle-game'或'执行monad-wordle-game'",
@@ -12881,7 +12881,7 @@
     {
       "name": "api-benchmark",
       "author": "polarjunction",
-      "description": "Web3 AI Agent工具，Benchmark token generation spe的自动化操作",
+      "description": "基准测试代币生成速度，优化API性能",
       "category_tech": "基础设施",
       "category_user": "开发工具",
       "example": "对我说'api benchmark' 或'使用api benchmark'",
@@ -12905,7 +12905,7 @@
     {
       "name": "clawplot",
       "author": "theghostofjoemacmillan",
-      "description": "Web3 AI Agent工具，Order real, physical pen-plott的自动化操作",
+      "description": "订购真实物理笔绘仪，支持Stripe支付和ENS",
       "category_tech": "基础设施",
       "category_user": "开发工具",
       "example": "对我说'clawplot' 或'使用clawplot'",
@@ -13085,7 +13085,7 @@
     {
       "name": "agent-outlier",
       "author": "potdealer",
-      "description": "Web3 AI Agent工具，Play Agent Outlier — an onchai的自动化操作",
+      "description": "Agent Outlier链上游戏，通过MetaMask竞争排名",
       "category_tech": "预测市场",
       "category_user": "预测投注",
       "example": "对我说'agent outlier' 或'使用agent outlier'",
@@ -13109,7 +13109,7 @@
     {
       "name": "agent-earner",
       "author": "mmchougule",
-      "description": "Web3 AI Agent工具，Earn USDC and tokens autonomou的自动化操作",
+      "description": "自主赚取USDC和代币，支持支付和收益",
       "category_tech": "支付工具",
       "category_user": "加密支付",
       "example": "对我说'agent earner' 或'使用agent earner'",
@@ -13157,7 +13157,7 @@
     {
       "name": "solana-scanner",
       "author": "satoshi891102",
-      "description": "Web3 AI Agent工具，Scan any Solana token for safe的自动化操作",
+      "description": "扫描Solana代币安全性，识别rug-pull风险",
       "category_tech": "DEX交易",
       "category_user": "一键swap",
       "example": "对我说'solana scanner' 或'使用solana scanner'",
@@ -13169,7 +13169,7 @@
     {
       "name": "bonero-miner",
       "author": "happybigmtn",
-      "description": "Web3 AI Agent工具，Mine Bonero - private cryptocu的自动化操作",
+      "description": "Bonero私密加密货币挖矿，支持匿名交易",
       "category_tech": "基础设施",
       "category_user": "开发工具",
       "example": "对我说'bonero miner' 或'使用bonero miner'",
@@ -13193,7 +13193,7 @@
     {
       "name": "vvvv-fileformat",
       "author": "tebjan",
-      "description": "Web3 AI Agent工具，Describes the .vl XML file for的自动化操作",
+      "description": ".vl XML文件格式工具，支持ENS集成",
       "category_tech": "基础设施",
       "category_user": "开发工具",
       "example": "对我说'vvvv fileformat' 或'使用vvvv fileformat'",
@@ -13217,7 +13217,7 @@
     {
       "name": "trustra-escrow",
       "author": "xasus1",
-      "description": "Web3 AI Agent工具，Escrow as a Service for AI age的自动化操作",
+      "description": "AI时代担保即服务，支持P2P交易托管",
       "category_tech": "支付工具",
       "category_user": "加密支付",
       "example": "对我说'trustra escrow' 或'使用trustra escrow'",
@@ -13313,7 +13313,7 @@
     {
       "name": "crypto-executor-optimizer",
       "author": "georges91560",
-      "description": "Web3 AI Agent工具，Use crypto executor optimizer 的自动化操作",
+      "description": "加密交易执行优化器，支持Socket跨链交易",
       "category_tech": "跨链桥",
       "category_user": "跨链转账",
       "example": "对我说'crypto executor optimizer' 或'使用crypto executor optimizer'",
@@ -13349,7 +13349,7 @@
     {
       "name": "nini-workspace-init",
       "author": "niracler",
-      "description": "Web3 AI Agent工具，Initialize and update dev-conf的自动化操作",
+      "description": "初始化开发环境配置，支持Drift本地开发",
       "category_tech": "DEX交易",
       "category_user": "量化交易",
       "example": "对我说'nini workspace init' 或'使用nini workspace init'",
@@ -13409,7 +13409,7 @@
     {
       "name": "frontend-design-extractor",
       "author": "xsir0",
-      "description": "Web3 AI Agent工具，Extract reusable UI/UX design 的自动化操作",
+      "description": "提取可复用UI/UX设计，支持Foundation和Gnosis",
       "category_tech": "NFT",
       "category_user": "NFT玩家",
       "example": "对我说'frontend design extractor' 或'使用frontend design extractor'",
@@ -13445,7 +13445,7 @@
     {
       "name": "cut-your-tokens-97percent-savings-on-session-transcripts-via-observation-extraction",
       "author": "aeromomo",
-      "description": "Web3 AI Agent工具，Claw Compactor v6.0 — 50%+ sav的自动化操作",
+      "description": "Claw Compactor v6.0压缩器，节省50%以上代币",
       "category_tech": "代币分析",
       "category_user": "行情查询",
       "example": "对我说'cut your tokens 97percent savi' 或'使用cut your tokens 97percent savi'",
@@ -13601,7 +13601,7 @@
     {
       "name": "pullthatupjamie",
       "author": "unclejim21",
-      "description": "Web3 AI Agent工具，PullThatUpJamie — Podcast Inte的自动化操作",
+      "description": "PullThatUpJamie播客集成工具，提取和分析内容",
       "category_tech": "基础设施",
       "category_user": "开发工具",
       "example": "对我说'pullthatupjamie' 或'使用pullthatupjamie'",
@@ -13625,7 +13625,7 @@
     {
       "name": "erc-8004",
       "author": "sp0oby",
-      "description": "Web3 AI Agent工具，ERC-8004 Trustless Agents - Re的自动化操作",
+      "description": "ERC-8004无信任代理标准，通过IPFS验证身份",
       "category_tech": "基础设施",
       "category_user": "开发工具",
       "example": "对我说'erc 8004' 或'使用erc 8004'",
@@ -13745,7 +13745,7 @@
     {
       "name": "clawchemy",
       "author": "mrtdlgc",
-      "description": "Web3 AI Agent工具，Element discovery game — AI ag的自动化操作",
+      "description": "元素发现游戏，AI代理通过Alchemy发现机制",
       "category_tech": "数据查询",
       "category_user": "行情查询",
       "example": "对我说'clawchemy'或'使用clawchemy'",
@@ -13901,7 +13901,7 @@
     {
       "name": "standx-cli",
       "author": "wjllance",
-      "description": "Web3 AI Agent工具，Crypto trading CLI for StandX 的自动化操作",
+      "description": "StandX加密交易CLI工具，支持Socket跨链",
       "category_tech": "跨链桥",
       "category_user": "跨链转账",
       "example": "对我说'standx-cli'或'使用standx-cli'",
@@ -13937,7 +13937,7 @@
     {
       "name": "cortex-protocol",
       "author": "quriustus",
-      "description": "Web3 AI Agent工具，Register your agent on Cortex 的自动化操作",
+      "description": "Cortex协议代理注册系统，支持Drift交易集成",
       "category_tech": "DEX交易",
       "category_user": "量化交易",
       "example": "对我说'cortex-protocol'或'使用cortex-protocol'",
@@ -13961,7 +13961,7 @@
     {
       "name": "lygo-mint-operator-suite",
       "author": "deepseekoracle",
-      "description": "Web3 AI Agent工具，Advanced LYGO-MINT Operator Su的自动化操作",
+      "description": "LYGO-MINT高级运营套件，管理NFT铸造",
       "category_tech": "NFT",
       "category_user": "NFT玩家",
       "example": "对我说'lygo-mint-operator-suite'或'使用lygo-mint-operator-suite'",
@@ -14237,7 +14237,7 @@
     {
       "name": "morning-manifesto",
       "author": "marcbickel",
-      "description": "Web3 AI Agent工具，Daily morning reflection workf的自动化操作",
+      "description": "每日早晨反思工作流，支持目标和计划管理",
       "category_tech": "基础设施",
       "category_user": "开发工具",
       "example": "对我说'morning-manifesto'或'使用morning-manifesto'",
@@ -14405,7 +14405,7 @@
     {
       "name": "claude-connect",
       "author": "tunaissacoding",
-      "description": "Web3 AI Agent工具，Connect Claude to Clawdbot ins的自动化操作",
+      "description": "Claude连接Clawdbot实例，支持ENS身份验证",
       "category_tech": "基础设施",
       "category_user": "开发工具",
       "example": "对我说'claude-connect'或'使用claude-connect'",
@@ -14429,7 +14429,7 @@
     {
       "name": "vault-client",
       "author": "jbushman",
-      "description": "Web3 AI Agent工具，Hashicorp Vault client for Ope的自动化操作",
+      "description": "Hashicorp Vault客户端，安全管理OpenClaw凭证",
       "category_tech": "基础设施",
       "category_user": "开发工具",
       "example": "对我说'vault-client'或'使用vault-client'",
@@ -14441,7 +14441,7 @@
     {
       "name": "rug-checker",
       "author": "tkuehnl",
-      "description": "Web3 AI Agent工具，Solana token rug-pull risk ana的自动化操作",
+      "description": "Solana代币rug-pull风险分析，支持Jupiter交易",
       "category_tech": "DEX交易",
       "category_user": "一键swap",
       "example": "对我说'rug-checker'或'使用rug-checker'",
@@ -14597,7 +14597,7 @@
     {
       "name": "4claw-mint",
       "author": "xiaoyu022025",
-      "description": "AI驱动的4claw mint工具",
+      "description": "AI驱动的4claw铸造工具，批量铸造NFT",
       "category_tech": "NFT",
       "category_user": "NFT玩家",
       "example": "对我说'4claw-mint'或'使用4claw-mint'",
@@ -15029,7 +15029,7 @@
     {
       "name": "molt-trust",
       "author": "molt",
-      "description": "The Analytics Engine for Moltbook. Audit agent reputation, filter spam, and manage your personal web",
+      "description": "Moltbook分析引擎，审核代理信誉和过滤垃圾",
       "category_tech": "数据查询",
       "category_user": "行情查询",
       "example": "用户指定代币地址和钱包，使用molt-trust执行数据查询操作",
@@ -15041,7 +15041,7 @@
     {
       "name": "karmabank-minimal",
       "author": "karmabank",
-      "description": "AI agents borrow USDC based on their Moltbook karma score. Credit tiers from Bronze (50 USDC) to Dia",
+      "description": "基于Moltbook信誉的USDC借贷，最低50 USDC",
       "category_tech": "借贷协议",
       "category_user": "自动理财",
       "example": "用户指定代币地址和钱包，使用karmabank-minimal执行借贷协议操作",
@@ -15053,7 +15053,7 @@
     {
       "name": "test-publish",
       "author": "test",
-      "description": "Provably fair giveaway tool for AI agents on Sui with VRF and Moltbook auth.",
+      "description": "Sui链公平赠品工具，支持VRF和Moltbook认证",
       "category_tech": "数据查询",
       "category_user": "行情查询",
       "example": "用户指定代币地址和钱包，使用test-publish执行数据查询操作",
@@ -15065,7 +15065,7 @@
     {
       "name": "suiroll",
       "author": "suiroll",
-      "description": "Provably fair giveaway tool for AI agents on Sui with VRF and Moltbook auth.",
+      "description": "Sui链公平赠品工具，支持VRF随机分配",
       "category_tech": "数据查询",
       "category_user": "行情查询",
       "example": "用户指定代币地址和钱包，使用suiroll执行数据查询操作",
@@ -15077,7 +15077,7 @@
     {
       "name": "karmabank-usdc",
       "author": "karmabank",
-      "description": "AI agents borrow USDC based on their Moltbook karma score. Credit tiers from Bronze (50 USDC) to Dia",
+      "description": "基于信誉的USDC借贷平台，铜牌至钻石等级",
       "category_tech": "借贷协议",
       "category_user": "自动理财",
       "example": "用户指定代币地址和钱包，使用karmabank-usdc执行借贷协议操作",
@@ -15089,7 +15089,7 @@
     {
       "name": "mintclub",
       "author": "mintclub",
-      "description": "Interact with Mint Club V2 bonding curve tokens on Base using the `mc` CLI.",
+      "description": "Mint Club V2结合曲线代币交易，支持多链",
       "category_tech": "DEX交易",
       "category_user": "一键swap",
       "example": "用户指定代币地址和钱包，使用mintclub执行DEX交易操作",
@@ -15101,7 +15101,7 @@
     {
       "name": "clawphunks",
       "author": "clawphunks",
-      "description": "Mint and trade ClawPhunks NFTs. The first collection designed for AI agents.",
+      "description": "铸造和交易AI代理专属ClawPhunks NFT",
       "category_tech": "NFT",
       "category_user": "NFT玩家",
       "example": "用户指定代币地址和钱包，使用clawphunks执行NFT操作",
@@ -15113,7 +15113,7 @@
     {
       "name": "bnb-chain",
       "author": "bnb",
-      "description": "Basic BNB Chain operations — check balances, send BNB, send BEP-20 tokens.",
+      "description": "BNB链基础操作，查询余额和转账代币",
       "category_tech": "数据查询",
       "category_user": "行情查询",
       "example": "用户指定代币地址和钱包，使用bnb-chain执行数据查询操作",
@@ -15125,7 +15125,7 @@
     {
       "name": "fellow-villains",
       "author": "fellow",
-      "description": "Mint a Fellow Villain NFT from CHUM's agent-only collection on Solana. Free mint — only network fees",
+      "description": "Solana上CHUM代理专属NFT免费铸造",
       "category_tech": "NFT",
       "category_user": "NFT玩家",
       "example": "用户指定代币地址和钱包，使用fellow-villains执行NFT操作",
@@ -15137,7 +15137,7 @@
     {
       "name": "w3connect",
       "author": "w3connect",
-      "description": "Access to blockchain asset and transaction signature.",
+      "description": "访问区块链资产和交易签名，支持多链",
       "category_tech": "数据查询",
       "category_user": "行情查询",
       "example": "用户指定代币地址和钱包，使用w3connect执行数据查询操作",
@@ -15149,7 +15149,7 @@
     {
       "name": "clawpurse",
       "author": "clawpurse",
-      "description": "Local Timpi/NTMPI wallet for agentic AI, automation scripts, and individual users on the Neutaro cha",
+      "description": "Neutaro链本地钱包，支持Timpi和NTMPI代币",
       "category_tech": "DeFi收益",
       "category_user": "质押管理",
       "example": "用户指定代币地址和钱包，使用clawpurse执行DeFi收益操作",
@@ -15161,7 +15161,7 @@
     {
       "name": "overcome-problem",
       "author": "overcome",
-      "description": "Break down any problem with structured thinking, action plans, and progress tracking",
+      "description": "结构化问题分解，制定行动计划和进度跟踪",
       "category_tech": "DeFi收益",
       "category_user": "质押管理",
       "example": "用户指定代币地址和钱包，使用overcome-problem执行DeFi收益操作",
@@ -15173,7 +15173,7 @@
     {
       "name": "openclaw-email-bypass",
       "author": "openclaw",
-      "description": "Send emails via Google Apps Script when traditional SMTP ports (25/465/587) are blocked. Secure and ",
+      "description": "SMTP端口被屏蔽时通过Google App Script发送邮件",
       "category_tech": "跨链桥",
       "category_user": "跨链转账",
       "example": "用户指定代币地址和钱包，使用openclaw-email-bypass执行跨链桥操作",
@@ -15185,7 +15185,7 @@
     {
       "name": "triz",
       "author": "triz",
-      "description": "A comprehensive TRIZ (Theory of Inventive Problem Solving) tool that helps engineers and product man",
+      "description": "TRIZ创新问题求解理论工具，工程和产品优化",
       "category_tech": "跨链桥",
       "category_user": "跨链转账",
       "example": "用户指定代币地址和钱包，使用triz执行跨链桥操作",
@@ -15197,7 +15197,7 @@
     {
       "name": "monarch-money",
       "author": "monarch",
-      "description": "TypeScript library and CLI for Monarch Money budget management. Search transactions by date/merchant",
+      "description": "Monarch Money预算管理库，查询交易和支出",
       "category_tech": "数据查询",
       "category_user": "行情查询",
       "example": "用户指定代币地址和钱包，使用monarch-money执行数据查询操作",
@@ -15209,7 +15209,7 @@
     {
       "name": "app-builder",
       "author": "app",
-      "description": "Build, edit, and deploy Instant-backed apps using npx instant-cli, create-instant-app (Next.js + Cod",
+      "description": "构建和部署Instant应用，Next.js加Code连接",
       "category_tech": "智能合约",
       "category_user": "合约开发",
       "example": "用户指定代币地址和钱包，使用app-builder执行智能合约操作",
@@ -15221,7 +15221,7 @@
     {
       "name": "bazi-pillars-from-datetime",
       "author": "bazi",
-      "description": "Deterministic four-pillar (bazi) calculation from datetime.",
+      "description": "根据日期时间计算四柱八字值",
       "category_tech": "智能合约",
       "category_user": "合约开发",
       "example": "用户指定代币地址和钱包，使用bazi-pillars-from-datetime执行智能合约操作",
@@ -15233,7 +15233,7 @@
     {
       "name": "immich-api",
       "author": "immich",
-      "description": "Immich Photo Management API Bridge. Use for interacting with self-hosted Immich instances via REST A",
+      "description": "与自托管Immich相册实例交互的API桥接",
       "category_tech": "跨链桥",
       "category_user": "跨链转账",
       "example": "用户指定代币地址和钱包，使用immich-api执行跨链桥操作",
@@ -15245,7 +15245,7 @@
     {
       "name": "stock-fundamentals",
       "author": "stock",
-      "description": "\"Run local script to analyze stock fundamentals (P/E, EPS, margins, debt, ROE, analyst targets) usin",
+      "description": "分析股票基本面指标（市盈率、EPS、利润率、债务、ROE）",
       "category_tech": "数据查询",
       "category_user": "行情查询",
       "example": "用户指定代币地址和钱包，使用stock-fundamentals执行数据查询操作",
@@ -15257,7 +15257,7 @@
     {
       "name": "ai-shield-audit",
       "author": "ai",
-      "description": "Security audit engine for OpenClaw configurations. Detects vulnerabilities, misconfigurations, secre",
+      "description": "对智能合约配置进行安全审计并检测漏洞",
       "category_tech": "智能合约",
       "category_user": "合约开发",
       "example": "用户指定代币地址和钱包，使用ai-shield-audit执行智能合约操作",
@@ -15269,7 +15269,7 @@
     {
       "name": "spacemolt",
       "author": "spacemolt",
-      "description": "Play SpaceMolt - an MMO for AI agents. Includes session management for OpenClaw's persistent MCP con",
+      "description": "玩SpaceMolt - AI代理MMO游戏，支持会话管理",
       "category_tech": "跨链桥",
       "category_user": "跨链转账",
       "example": "用户指定代币地址和钱包，使用spacemolt执行跨链桥操作",
@@ -15281,7 +15281,7 @@
     {
       "name": "agent-signet-id",
       "author": "agent",
-      "description": "Register with Signet to receive a trust score and API key. Look up agent trust scores, report transa",
+      "description": "在Signet注册获得信任分数和API密钥",
       "category_tech": "数据查询",
       "category_user": "行情查询",
       "example": "用户指定代币地址和钱包，使用agent-signet-id执行数据查询操作",
@@ -15293,7 +15293,7 @@
     {
       "name": "agent-arena-skill",
       "author": "agent",
-      "description": "Discover, register, and hire ERC-8004 autonomous agents across 16 blockchains. Search by capability,",
+      "description": "跨16条区块链发现和雇佣ERC-8004自主代理",
       "category_tech": "智能合约",
       "category_user": "合约开发",
       "example": "用户指定代币地址和钱包，使用agent-arena-skill执行智能合约操作",
@@ -15305,7 +15305,7 @@
     {
       "name": "clawshake",
       "author": "clawshake",
-      "description": "Trustless USDC escrow for autonomous agent commerce on Base L2. Recursive hire chains with cascading",
+      "description": "Base链上无需信任的USDC代理商务托管",
       "category_tech": "DeFi收益",
       "category_user": "质押管理",
       "example": "用户指定代币地址和钱包，使用clawshake执行DeFi收益操作",
@@ -15317,7 +15317,7 @@
     {
       "name": "sui-agent-wallet",
       "author": "sui",
-      "description": "Give your AI agent its own Sui wallet to interact with DApps and sign transactions.",
+      "description": "为AI代理创建Sui钱包与DApp交互并签署交易",
       "category_tech": "数据查询",
       "category_user": "行情查询",
       "example": "用户指定代币地址和钱包，使用sui-agent-wallet执行数据查询操作",
@@ -15329,7 +15329,7 @@
     {
       "name": "stock-strategy-backtester",
       "author": "stock",
-      "description": "Backtest stock trading strategies on historical OHLCV data and report win rate, return, CAGR, drawdo",
+      "description": "回测股票策略并分析胜率、收益率和回撤",
       "category_tech": "代币分析",
       "category_user": "代币研究",
       "example": "用户指定代币地址和钱包，使用stock-strategy-backtester执行代币分析操作",
@@ -15341,7 +15341,7 @@
     {
       "name": "stock-strategy-backtester-clean",
       "author": "stock",
-      "description": "Backtest stock trading strategies on historical OHLCV data and report win rate, return, CAGR, drawdo",
+      "description": "回测股票交易策略并生成性能报告",
       "category_tech": "代币分析",
       "category_user": "代币研究",
       "example": "用户指定代币地址和钱包，使用stock-strategy-backtester-clean执行代币分析操作",
@@ -15353,7 +15353,7 @@
     {
       "name": "dropclaw-store",
       "author": "dropclaw",
-      "description": "Store and retrieve encrypted files permanently on Monad blockchain via DropClaw x402 gateway",
+      "description": "通过Monad区块链DropClaw网关永久存储加密文件",
       "category_tech": "数据查询",
       "category_user": "行情查询",
       "example": "用户指定代币地址和钱包，使用dropclaw-store执行数据查询操作",
@@ -15365,7 +15365,7 @@
     {
       "name": "sec-watcher",
       "author": "sec",
-      "description": "\"Monitor SEC EDGAR filings for AI/tech companies in real time. Use this skill when the user asks abo",
+      "description": "实时监控SEC EDGAR数据库中AI科技公司的披露",
       "category_tech": "数据查询",
       "category_user": "行情查询",
       "example": "用户指定代币地址和钱包，使用sec-watcher执行数据查询操作",
@@ -15377,7 +15377,7 @@
     {
       "name": "humannft",
       "author": "humannft",
-      "description": "Browse, mint, buy, sell, and trade human NFTs on the HumanNFT marketplace (humannft.ai). Triggers on",
+      "description": "在HumanNFT市场上浏览、铸造和交易人类NFT",
       "category_tech": "NFT",
       "category_user": "NFT玩家",
       "example": "用户指定代币地址和钱包，使用humannft执行NFT操作",
@@ -15389,7 +15389,7 @@
     {
       "name": "hashpack-wallet",
       "author": "hashpack",
-      "description": "Integrate HashPack wallet for Hedera blockchain authentication. Use for: (1) Adding HashPack login t",
+      "description": "整合HashPack钱包以支持Hedera链认证",
       "category_tech": "数据查询",
       "category_user": "行情查询",
       "example": "用户指定代币地址和钱包，使用hashpack-wallet执行数据查询操作",
@@ -15401,7 +15401,7 @@
     {
       "name": "hedera-tx-builder",
       "author": "hedera",
-      "description": "Build and sign Hedera transactions. Use for: (1) Creating HBAR transfers, (2) Token operations, (3) ",
+      "description": "构建并签署Hedera交易（转账、代币操作等）",
       "category_tech": "智能合约",
       "category_user": "合约开发",
       "example": "用户指定代币地址和钱包，使用hedera-tx-builder执行智能合约操作",
@@ -15413,7 +15413,7 @@
     {
       "name": "kyberswap-arbitrage",
       "author": "kyberswap",
-      "description": "Execute triangular arbitrage on Base network via KyberSwap. Use for: (1) Finding arbitrage opportuni",
+      "description": "在Base网络通过KyberSwap执行三角套利",
       "category_tech": "DEX交易",
       "category_user": "一键swap",
       "example": "用户指定代币地址和钱包，使用kyberswap-arbitrage执行DEX交易操作",
@@ -15425,7 +15425,7 @@
     {
       "name": "xaman-wallet-integration",
       "author": "xaman",
-      "description": "Integrate Xaman wallet (formerly Xumm) for XRP Ledger authentication and transactions. Use for: (1) ",
+      "description": "整合Xaman钱包用于XRP Ledger认证和交易",
       "category_tech": "数据查询",
       "category_user": "行情查询",
       "example": "用户指定代币地址和钱包，使用xaman-wallet-integration执行数据查询操作",
@@ -15437,7 +15437,7 @@
     {
       "name": "xrpl-tx-builder",
       "author": "xrpl",
-      "description": "Build and sign XRP Ledger transactions. Use for: (1) Creating payment transactions, (2) Building NFT",
+      "description": "构建并签署XRP Ledger支付和NFT交易",
       "category_tech": "NFT",
       "category_user": "NFT玩家",
       "example": "用户指定代币地址和钱包，使用xrpl-tx-builder执行NFT操作",
@@ -15449,7 +15449,7 @@
     {
       "name": "xrpl-token-snipe",
       "author": "xrpl",
-      "description": "Snipe new token launches on XRPL via FirstLedger. Use for: (1) Detecting new token issuances, (2) Mo",
+      "description": "通过FirstLedger抢购XRPL新代币发行",
       "category_tech": "NFT",
       "category_user": "NFT玩家",
       "example": "用户指定代币地址和钱包，使用xrpl-token-snipe执行NFT操作",
@@ -15461,7 +15461,7 @@
     {
       "name": "hedera-token-mint",
       "author": "hedera",
-      "description": "Create and manage tokens on Hedera (HTS). Use for: (1) Minting fungible tokens, (2) Creating NFTs (H",
+      "description": "在Hedera创建和管理代币及NFT",
       "category_tech": "NFT",
       "category_user": "NFT玩家",
       "example": "用户指定代币地址和钱包，使用hedera-token-mint执行NFT操作",
@@ -15473,7 +15473,7 @@
     {
       "name": "saucerswap-arbitrage",
       "author": "saucerswap",
-      "description": "Execute triangular arbitrage on Hedera via SaucerSwap. Use for: (1) Finding arbitrage opportunities ",
+      "description": "在Hedera通过SaucerSwap执行三角套利",
       "category_tech": "DEX交易",
       "category_user": "一键swap",
       "example": "用户指定代币地址和钱包，使用saucerswap-arbitrage执行DEX交易操作",
@@ -15485,7 +15485,7 @@
     {
       "name": "xrpl-token-mint",
       "author": "xrpl",
-      "description": "Create and manage XRPL tokens (issued currencies) and NFTs. Use for: (1) Minting new tokens, (2) Set",
+      "description": "创建和管理XRPL代币和NFT",
       "category_tech": "NFT",
       "category_user": "NFT玩家",
       "example": "用户指定代币地址和钱包，使用xrpl-token-mint执行NFT操作",
@@ -15497,7 +15497,7 @@
     {
       "name": "clawdwork",
       "author": "clawdwork",
-      "description": "Find work, earn money, and collaborate with other AI agents on ClawdWork - the job marketplace for A",
+      "description": "AI代理的工作市场，接任务赚取报酬",
       "category_tech": "数据查询",
       "category_user": "行情查询",
       "example": "用户指定代币地址和钱包，使用clawdwork执行数据查询操作",
@@ -15509,7 +15509,7 @@
     {
       "name": "bittensor-sdk",
       "author": "bittensor",
-      "description": "Comprehensive Bittensor blockchain interaction skill with wallet management, staking, subnet operati",
+      "description": "Bittensor区块链交互，支持钱包管理和抵押",
       "category_tech": "DeFi收益",
       "category_user": "质押管理",
       "example": "用户指定代币地址和钱包，使用bittensor-sdk执行DeFi收益操作",
@@ -15521,7 +15521,7 @@
     {
       "name": "clawd-zero-trust",
       "author": "clawd",
-      "description": "version: \"1.3.1\"",
+      "description": "零信任安全框架版本1.3.1",
       "category_tech": "智能合约",
       "category_user": "合约开发",
       "example": "用户指定代币地址和钱包，使用clawd-zero-trust执行智能合约操作",
@@ -15533,7 +15533,7 @@
     {
       "name": "nerve-bridge-skill",
       "author": "nerve",
-      "description": "Bi-directional control of Trae via macOS AppleScript with built-in feedback mechanism. Use when need",
+      "description": "通过AppleScript双向控制Trae应用",
       "category_tech": "跨链桥",
       "category_user": "跨链转账",
       "example": "用户指定代币地址和钱包，使用nerve-bridge-skill执行跨链桥操作",
@@ -15545,7 +15545,7 @@
     {
       "name": "zoho-calendar",
       "author": "zoho",
-      "description": "Zoho Calendar API integration with managed OAuth. Manage calendars and events with full scheduling c",
+      "description": "Zoho日历集成，支持OAuth管理日程",
       "category_tech": "借贷协议",
       "category_user": "自动理财",
       "example": "用户指定代币地址和钱包，使用zoho-calendar执行借贷协议操作",
@@ -15557,7 +15557,7 @@
     {
       "name": "acuity-scheduling",
       "author": "acuity",
-      "description": "Acuity Scheduling API integration with managed OAuth. Manage appointments, calendars, clients, and a",
+      "description": "Acuity预约系统集成，管理日程和客户",
       "category_tech": "借贷协议",
       "category_user": "自动理财",
       "example": "用户指定代币地址和钱包，使用acuity-scheduling执行借贷协议操作",
@@ -15569,7 +15569,7 @@
     {
       "name": "calendly-api",
       "author": "calendly",
-      "description": "Calendly API integration with managed OAuth. Access event types, scheduled events, invitees, availab",
+      "description": "Calendly日程集成，查询活动和可用性",
       "category_tech": "借贷协议",
       "category_user": "自动理财",
       "example": "用户指定代币地址和钱包，使用calendly-api执行借贷协议操作",
@@ -15581,7 +15581,7 @@
     {
       "name": "google-calendar-api",
       "author": "google",
-      "description": "Google Calendar API integration with managed OAuth. Create events, list calendars, check availabilit",
+      "description": "Google日历集成，创建和管理日程",
       "category_tech": "借贷协议",
       "category_user": "自动理财",
       "example": "用户指定代币地址和钱包，使用google-calendar-api执行借贷协议操作",
@@ -15593,7 +15593,7 @@
     {
       "name": "xero",
       "author": "xero",
-      "description": "Manage Xero accounting - invoices, contacts, bank transactions, and reports via Xero API.",
+      "description": "Xero会计软件集成，管理发票和交易",
       "category_tech": "数据查询",
       "category_user": "行情查询",
       "example": "用户指定代币地址和钱包，使用xero执行数据查询操作",
@@ -15605,7 +15605,7 @@
     {
       "name": "acp-job-submitter",
       "author": "acp",
-      "description": "Submit jobs to other ACP agents and earn from the spread | 提交ACP Jobs賺取差價",
+      "description": "向其他ACP代理提交工作并从价差中获利",
       "category_tech": "DEX交易",
       "category_user": "一键swap",
       "example": "用户指定代币地址和钱包，使用acp-job-submitter执行DEX交易操作",
@@ -15617,7 +15617,7 @@
     {
       "name": "crypto-trading-bot-playbook",
       "author": "crypto",
-      "description": "Learn how to build and sell crypto trading bots for consistent profits.",
+      "description": "学习构建和销售加密交易机器人",
       "category_tech": "DEX交易",
       "category_user": "一键swap",
       "example": "用户指定代币地址和钱包，使用crypto-trading-bot-playbook执行DEX交易操作",
@@ -15641,7 +15641,7 @@
     {
       "name": "verdikta-bounties-onboarding",
       "author": "verdikta",
-      "description": "Onboard an OpenClaw/AI agent to Verdikta Bounties. Use when a bot needs to: (1) create a new crypto ",
+      "description": "将AI代理上线至Verdikta赏金平台",
       "category_tech": "DEX交易",
       "category_user": "一键swap",
       "example": "用户指定代币地址和钱包，使用verdikta-bounties-onboarding执行DEX交易操作",
@@ -15653,7 +15653,7 @@
     {
       "name": "belong-events",
       "author": "belong",
-      "description": "Create, discover, and manage events with NFT tickets on the Belong platform",
+      "description": "在Belong平台创建和发现NFT门票的活动",
       "category_tech": "NFT",
       "category_user": "NFT玩家",
       "example": "用户指定代币地址和钱包，使用belong-events执行NFT操作",
@@ -15665,7 +15665,7 @@
     {
       "name": "mqttasgi",
       "author": "mqttasgi",
-      "description": "MQTT ASGI protocol server for Django — bridge MQTT messages to Django Channels consumers with full O",
+      "description": "MQTT ASGI协议服务器，桥接Django Channels",
       "category_tech": "跨链桥",
       "category_user": "跨链转账",
       "example": "用户指定代币地址和钱包，使用mqttasgi执行跨链桥操作",
@@ -15677,7 +15677,7 @@
     {
       "name": "morelogin",
       "author": "morelogin",
-      "description": "Manage MoreLogin anti-detect browser profiles and cloud phones through the official Local API (http:",
+      "description": "通过官方API管理MoreLogin反检测浏览器",
       "category_tech": "跨链桥",
       "category_user": "跨链转账",
       "example": "用户指定代币地址和钱包，使用morelogin执行跨链桥操作",
@@ -15689,7 +15689,7 @@
     {
       "name": "keychat",
       "author": "keychat",
-      "description": "Install Keychat — sovereign E2E encrypted messaging for OpenClaw agents via Signal Protocol over Nos",
+      "description": "Keychat端到端加密消息，使用Signal协议",
       "category_tech": "跨链桥",
       "category_user": "跨链转账",
       "example": "用户指定代币地址和钱包，使用keychat执行跨链桥操作",
@@ -15701,7 +15701,7 @@
     {
       "name": "ynab-api",
       "author": "ynab",
-      "description": "YNAB (You Need A Budget) comprehensive budget management with automated tracking, goal monitoring, s",
+      "description": "YNAB预算管理，自动追踪和监控财务目标",
       "category_tech": "数据查询",
       "category_user": "行情查询",
       "example": "用户指定代币地址和钱包，使用ynab-api执行数据查询操作",
@@ -15713,7 +15713,7 @@
     {
       "name": "gstd-a2a-grid",
       "author": "gstd",
-      "description": "Decentralized Agent-to-Agent protocol for TON. Zero barrier — GSTD_WALLET_ADDRESS auto-claims API ke",
+      "description": "TON区块链去中心化代理间通信协议",
       "category_tech": "跨链桥",
       "category_user": "跨链转账",
       "example": "用户指定代币地址和钱包，使用gstd-a2a-grid执行跨链桥操作",
@@ -15725,7 +15725,7 @@
     {
       "name": "gstd",
       "author": "gstd",
-      "description": "Decentralized Agent-to-Agent protocol for TON. Zero barrier — GSTD_WALLET_ADDRESS auto-claims API ke",
+      "description": "TON链去中心化代理通信，无门槛API自动分配",
       "category_tech": "跨链桥",
       "category_user": "跨链转账",
       "example": "用户指定代币地址和钱包，使用gstd执行跨链桥操作",
@@ -15737,7 +15737,7 @@
     {
       "name": "gsdt-a2a",
       "author": "gsdt",
-      "description": "Decentralized Agent-to-Agent protocol for TON. Zero barrier — GSTD_WALLET_ADDRESS auto-claims API ke",
+      "description": "TON区块链代理间点对点通信协议",
       "category_tech": "跨链桥",
       "category_user": "跨链转账",
       "example": "用户指定代币地址和钱包，使用gsdt-a2a执行跨链桥操作",
@@ -15749,7 +15749,7 @@
     {
       "name": "biz-in-a-box",
       "author": "biz",
-      "description": "Agent-native business ledger using the biz-in-a-box protocol. Use when: (1) setting up a new busines",
+      "description": "代理原生的业务账本，支持财务管理",
       "category_tech": "数据查询",
       "category_user": "行情查询",
       "example": "用户指定代币地址和钱包，使用biz-in-a-box执行数据查询操作",
@@ -15761,7 +15761,7 @@
     {
       "name": "index-cards",
       "author": "index",
-      "description": "Send real, physical greeting cards through the mail. Design custom cards with the user, print on pre",
+      "description": "设计并邮寄实体贺卡到任意地址",
       "category_tech": "借贷协议",
       "category_user": "自动理财",
       "example": "用户指定代币地址和钱包，使用index-cards执行借贷协议操作",
@@ -15773,7 +15773,7 @@
     {
       "name": "humanos-openclaw",
       "author": "humanos",
-      "description": "Require verifiable human approval before high-risk agent actions.",
+      "description": "在执行高风险操作前要求人工验证",
       "category_tech": "数据查询",
       "category_user": "行情查询",
       "example": "用户指定代币地址和钱包，使用humanos-openclaw执行数据查询操作",
@@ -15785,7 +15785,7 @@
     {
       "name": "myvibe-skills",
       "author": "myvibe",
-      "description": "Publish static HTML, ZIP archive, or directory to MyVibe. Use this skill when user wants to publish ",
+      "description": "发布静态网站或目录到MyVibe平台",
       "category_tech": "智能合约",
       "category_user": "合约开发",
       "example": "用户指定代币地址和钱包，使用myvibe-skills执行智能合约操作",
@@ -15797,7 +15797,7 @@
     {
       "name": "moltworld-dashboard-deploy",
       "author": "moltworld",
-      "description": "Install, harden, and run the MoltWorld Dashboard reliably for real users. Use when asked to set up l",
+      "description": "安装和运行MoltWorld仪表板供用户使用",
       "category_tech": "智能合约",
       "category_user": "合约开发",
       "example": "用户指定代币地址和钱包，使用moltworld-dashboard-deploy执行智能合约操作",
@@ -15809,7 +15809,7 @@
     {
       "name": "afrexai-meeting-mastery",
       "author": "afrexai",
-      "description": "You are an elite meeting preparation and follow-up agent. You ensure every meeting is high-value — t",
+      "description": "精心准备会议并进行高价值跟进",
       "category_tech": "借贷协议",
       "category_user": "自动理财",
       "example": "用户指定代币地址和钱包，使用afrexai-meeting-mastery执行借贷协议操作",
@@ -15821,7 +15821,7 @@
     {
       "name": "afrexai-exit-strategy",
       "author": "afrexai",
-      "description": "You are an M&A and exit planning advisor. Help founders and business owners build a structured exit ",
+      "description": "为创始人制定结构化的并购和退出计划",
       "category_tech": "数据查询",
       "category_user": "行情查询",
       "example": "用户指定代币地址和钱包，使用afrexai-exit-strategy执行数据查询操作",
@@ -15833,7 +15833,7 @@
     {
       "name": "afrexai-ux-research-engine",
       "author": "afrexai",
-      "description": "Complete UX Research & Design system — user discovery, persona building, journey mapping, usability ",
+      "description": "完整的用户体验研究，包括用户发现和可用性测试",
       "category_tech": "DeFi收益",
       "category_user": "质押管理",
       "example": "用户指定代币地址和钱包，使用afrexai-ux-research-engine执行DeFi收益操作",
@@ -15845,7 +15845,7 @@
     {
       "name": "afrexai-self-hosting-mastery",
       "author": "afrexai",
-      "description": "Complete self-hosting and homelab operating system. Deploy, secure, monitor, and maintain self-hoste",
+      "description": "自托管和家庭实验室部署、安全和监控",
       "category_tech": "智能合约",
       "category_user": "合约开发",
       "example": "用户指定代币地址和钱包，使用afrexai-self-hosting-mastery执行智能合约操作",
@@ -15857,7 +15857,7 @@
     {
       "name": "afrexai-web3-engineering",
       "author": "afrexai",
-      "description": "Complete methodology for evaluating, designing, building, securing, and operating blockchain-based s",
+      "description": "区块链系统评估、设计、构建和运营方法",
       "category_tech": "智能合约",
       "category_user": "合约开发",
       "example": "用户指定代币地址和钱包，使用afrexai-web3-engineering执行智能合约操作",
@@ -15869,7 +15869,7 @@
     {
       "name": "afrexai-data-analyst",
       "author": "afrexai",
-      "description": "**Transform raw data into decisions. Not just charts — answers.**",
+      "description": "将原始数据转化为决策和洞见",
       "category_tech": "DeFi收益",
       "category_user": "质押管理",
       "example": "用户指定代币地址和钱包，使用afrexai-data-analyst执行DeFi收益操作",
@@ -15881,7 +15881,7 @@
     {
       "name": "afrexai-franchise-ops",
       "author": "afrexai",
-      "description": "Evaluate franchise opportunities and manage multi-unit operations with data-driven frameworks.",
+      "description": "评估特许经营机会和管理多单位运营",
       "category_tech": "借贷协议",
       "category_user": "自动理财",
       "example": "用户指定代币地址和钱包，使用afrexai-franchise-ops执行借贷协议操作",
@@ -15893,7 +15893,7 @@
     {
       "name": "financial-tracker",
       "author": "financial",
-      "description": "Track business income and expenses in structured CSV format. Categorize transactions, monitor cash f",
+      "description": "追踪业务收支并生成财务报告",
       "category_tech": "智能合约",
       "category_user": "合约开发",
       "example": "用户指定代币地址和钱包，使用financial-tracker执行智能合约操作",
@@ -15905,7 +15905,7 @@
     {
       "name": "afrexai-agent-engineering",
       "author": "afrexai",
-      "description": "\"Design, build, deploy, and operate production AI agent systems — single agents, multi-agent teams, ",
+      "description": "设计、部署和运营生产级AI代理系统",
       "category_tech": "智能合约",
       "category_user": "合约开发",
       "example": "用户指定代币地址和钱包，使用afrexai-agent-engineering执行智能合约操作",
@@ -15917,7 +15917,7 @@
     {
       "name": "afrexai-change-management",
       "author": "afrexai",
-      "description": "Plan, communicate, and execute organizational change with structured frameworks. Covers technology r",
+      "description": "制定和执行组织变革的结构化框架",
       "category_tech": "DeFi收益",
       "category_user": "质押管理",
       "example": "用户指定代币地址和钱包，使用afrexai-change-management执行DeFi收益操作",
@@ -15929,7 +15929,7 @@
     {
       "name": "afrexai-financial-due-diligence",
       "author": "afrexai",
-      "description": "Run comprehensive financial due diligence on acquisition targets, investment opportunities, or partn",
+      "description": "对收购目标和投资机会进行财务尽职调查",
       "category_tech": "跨链桥",
       "category_user": "跨链转账",
       "example": "用户指定代币地址和钱包，使用afrexai-financial-due-diligence执行跨链桥操作",
@@ -15941,7 +15941,7 @@
     {
       "name": "afrexai-contract-review",
       "author": "afrexai",
-      "description": "Analyze business contracts for risks, unfavorable terms, and missing clauses. Get a plain-English su",
+      "description": "分析商业合同风险和不利条款",
       "category_tech": "智能合约",
       "category_user": "合约开发",
       "example": "用户指定代币地址和钱包，使用afrexai-contract-review执行智能合约操作",
@@ -15953,7 +15953,7 @@
     {
       "name": "afrexai-agent-manager",
       "author": "afrexai",
-      "description": "Your company deployed AI agents. Now what? This skill turns you into the person who actually makes t",
+      "description": "管理和优化公司已部署的AI代理",
       "category_tech": "智能合约",
       "category_user": "合约开发",
       "example": "用户指定代币地址和钱包，使用afrexai-agent-manager执行智能合约操作",
@@ -15965,7 +15965,7 @@
     {
       "name": "afrexai-spend-intelligence",
       "author": "afrexai",
-      "description": "You are a spend intelligence analyst. When activated, walk the user through analyzing their company'",
+      "description": "分析公司支出数据找出优化机会",
       "category_tech": "智能合约",
       "category_user": "合约开发",
       "example": "用户指定代币地址和钱包，使用afrexai-spend-intelligence执行智能合约操作",
@@ -15977,7 +15977,7 @@
     {
       "name": "afrexai-vendor-eval",
       "author": "afrexai",
-      "description": "Structured framework for evaluating software vendors, service providers, and technology partners bef",
+      "description": "评估软件供应商和技术合作伙伴框架",
       "category_tech": "智能合约",
       "category_user": "合约开发",
       "example": "用户指定代币地址和钱包，使用afrexai-vendor-eval执行智能合约操作",
@@ -15989,7 +15989,7 @@
     {
       "name": "sla-monitor",
       "author": "sla",
-      "description": "Set up SLA monitoring and uptime tracking for AI agents and services. Generates monitoring configs, ",
+      "description": "设置SLA监控并追踪服务正常运行时间",
       "category_tech": "智能合约",
       "category_user": "合约开发",
       "example": "用户指定代币地址和钱包，使用sla-monitor执行智能合约操作",
@@ -16001,7 +16001,7 @@
     {
       "name": "afrexai-project-manager",
       "author": "afrexai",
-      "description": "You are a world-class project manager. You plan, track, and deliver projects on time and under budge",
+      "description": "项目规划和执行，确保按时交付",
       "category_tech": "DeFi收益",
       "category_user": "质押管理",
       "example": "用户指定代币地址和钱包，使用afrexai-project-manager执行DeFi收益操作",
@@ -16013,7 +16013,7 @@
     {
       "name": "afrexai-contract-analyzer",
       "author": "afrexai",
-      "description": "Analyzes contracts and agreements for risks, unusual terms, and missing clauses",
+      "description": "分析合同风险和异常条款",
       "category_tech": "智能合约",
       "category_user": "合约开发",
       "example": "用户指定代币地址和钱包，使用afrexai-contract-analyzer执行智能合约操作",
@@ -16025,7 +16025,7 @@
     {
       "name": "afrexai-performance-engineering",
       "author": "afrexai",
-      "description": "Complete performance engineering system — profiling, optimization, load testing, capacity planning, ",
+      "description": "性能优化、负载测试和容量规划",
       "category_tech": "智能合约",
       "category_user": "合约开发",
       "example": "用户指定代币地址和钱包，使用afrexai-performance-engineering执行智能合约操作",
@@ -16037,7 +16037,7 @@
     {
       "name": "afrexai-fpa-engine",
       "author": "afrexai",
-      "description": "You are a senior FP&A professional. You build financial models, run variance analysis, produce board",
+      "description": "财务模型和差异分析，支持董事会报告",
       "category_tech": "数据查询",
       "category_user": "行情查询",
       "example": "用户指定代币地址和钱包，使用afrexai-fpa-engine执行数据查询操作",
@@ -16049,7 +16049,7 @@
     {
       "name": "afrexai-partnership-agreement",
       "author": "afrexai",
-      "description": "Generate comprehensive partnership agreements, joint venture frameworks, and strategic alliance docu",
+      "description": "生成伙伴关系协议和战略联盟文件",
       "category_tech": "智能合约",
       "category_user": "合约开发",
       "example": "用户指定代币地址和钱包，使用afrexai-partnership-agreement执行智能合约操作",
@@ -16061,7 +16061,7 @@
     {
       "name": "afrexai-sre-platform",
       "author": "afrexai",
-      "description": "Complete Site Reliability Engineering system — from SLO definition through incident response, chaos ",
+      "description": "网站可靠性工程，从SLO到事件响应",
       "category_tech": "智能合约",
       "category_user": "合约开发",
       "example": "用户指定代币地址和钱包，使用afrexai-sre-platform执行智能合约操作",
@@ -16073,7 +16073,7 @@
     {
       "name": "afrexai-procurement",
       "author": "afrexai",
-      "description": "You are a procurement specialist agent. Help teams evaluate vendors, manage purchase orders, negotia",
+      "description": "采购专家代理，评估供应商和谈判采购",
       "category_tech": "智能合约",
       "category_user": "合约开发",
       "example": "用户指定代币地址和钱包，使用afrexai-procurement执行智能合约操作",
@@ -16085,7 +16085,7 @@
     {
       "name": "afrexai-seo-writer",
       "author": "afrexai",
-      "description": "Writes blog posts optimized for search engines and humans",
+      "description": "撰写针对搜索引擎优化的高质量博客文章",
       "category_tech": "数据查询",
       "category_user": "行情查询",
       "example": "用户指定代币地址和钱包，使用afrexai-seo-writer执行数据查询操作",
@@ -16097,7 +16097,7 @@
     {
       "name": "afrexai-revenue-forecasting",
       "author": "afrexai",
-      "description": "Build accurate, data-driven revenue forecasts your board and investors actually trust.",
+      "description": "构建可信任的数据驱动收入预测",
       "category_tech": "智能合约",
       "category_user": "合约开发",
       "example": "用户指定代币地址和钱包，使用afrexai-revenue-forecasting执行智能合约操作",
@@ -16109,7 +16109,7 @@
     {
       "name": "afrexai-deal-desk",
       "author": "afrexai",
-      "description": "Run every non-standard deal through a repeatable review process. Catch margin leaks, enforce discoun",
+      "description": "管理非标准交易和防止边际利益泄露",
       "category_tech": "智能合约",
       "category_user": "合约开发",
       "example": "用户指定代币地址和钱包，使用afrexai-deal-desk执行智能合约操作",
@@ -16121,7 +16121,7 @@
     {
       "name": "afrexai-ml-engineering",
       "author": "afrexai",
-      "description": "Complete methodology for building, deploying, and operating production ML/AI systems — from experime",
+      "description": "从实验到生产部署完整的ML/AI系统",
       "category_tech": "智能合约",
       "category_user": "合约开发",
       "example": "用户指定代币地址和钱包，使用afrexai-ml-engineering执行智能合约操作",
@@ -16133,7 +16133,7 @@
     {
       "name": "ai-seo-writer",
       "author": "ai",
-      "description": "Writes blog posts optimized for search engines and humans",
+      "description": "撰写搜索引擎和用户友好的内容",
       "category_tech": "数据查询",
       "category_user": "行情查询",
       "example": "用户指定代币地址和钱包，使用ai-seo-writer执行数据查询操作",
@@ -16145,7 +16145,7 @@
     {
       "name": "contract-reviewer",
       "author": "contract",
-      "description": "Detect risk clauses, summarize terms, and rate legal documents for contract review.",
+      "description": "检测风险条款并评估法律文件",
       "category_tech": "智能合约",
       "category_user": "合约开发",
       "example": "用户指定代币地址和钱包，使用contract-reviewer执行智能合约操作",
@@ -16157,7 +16157,7 @@
     {
       "name": "agent-survival-kit",
       "author": "agent",
-      "description": "A comprehensive toolkit for AI agents operating under budget constraints. Track expenses, monitor ru",
+      "description": "预算约束下AI代理的工具包，追踪成本",
       "category_tech": "跨链桥",
       "category_user": "跨链转账",
       "example": "用户指定代币地址和钱包，使用agent-survival-kit执行跨链桥操作",
@@ -16169,7 +16169,7 @@
     {
       "name": "revenue-tracker",
       "author": "revenue",
-      "description": "Track {AGENT_NAME} income and expenses. Generate financial reports and analyze profitability across ",
+      "description": "追踪代理收入支出并分析盈利情况",
       "category_tech": "数据查询",
       "category_user": "行情查询",
       "example": "用户指定代币地址和钱包，使用revenue-tracker执行数据查询操作",
@@ -16181,7 +16181,7 @@
     {
       "name": "send-signal",
       "author": "send",
-      "description": "A specialized tool for sending quantitative trading signals to the FMZ platform via HTTP API.",
+      "description": "向FMZ平台发送量化交易信号",
       "category_tech": "跨链桥",
       "category_user": "跨链转账",
       "example": "用户指定代币地址和钱包，使用send-signal执行跨链桥操作",
@@ -16193,7 +16193,7 @@
     {
       "name": "trails",
       "author": "trails",
-      "description": "Integrate Trails cross-chain infrastructure — Widget, Headless SDK, or Direct API",
+      "description": "Trails跨链基础设施集成，支持资产转移",
       "category_tech": "DEX交易",
       "category_user": "跨链转账",
       "example": "跨链转移和交换任意代币到不同区块链",
@@ -16205,7 +16205,7 @@
     {
       "name": "sur-pub",
       "author": "sur",
-      "description": "Create and trade tokens on SURGE via API (DEV). Full lifecycle — wallet setup, one-time free funding, token launch, and ",
+      "description": "在SURGE上创建并交易新代币",
       "category_tech": "DEX交易",
       "category_user": "一键swap",
       "example": "在SURGE上创建新代币并进行交易",
@@ -16217,7 +16217,7 @@
     {
       "name": "governance",
       "author": "governance",
-      "description": "XPR Network governance — communities, proposals, voting on the gov contract",
+      "description": "XPR Network治理，参与社区提案投票",
       "category_tech": "DAO治理",
       "category_user": "社区治理",
       "example": "参与XPR Network治理，对提案进行投票",
@@ -16229,7 +16229,7 @@
     {
       "name": "xpr-lending",
       "author": "xpr",
-      "description": "LOAN Protocol lending and borrowing on XPR Network (lending.loan contract)",
+      "description": "LOAN Protocol借贷，质押资产获得收益",
       "category_tech": "借贷协议",
       "category_user": "资产管理",
       "example": "在LOAN Protocol上质押资产并借入代币",
@@ -16241,7 +16241,7 @@
     {
       "name": "zerion-api-mcp",
       "author": "zerion",
-      "description": "DeFi portfolio tracking and management",
+      "description": "DeFi投资组合追踪和资产管理",
       "category_tech": "数据查询",
       "category_user": "资产管理",
       "example": "查询钱包DeFi资产组合和收益情况",
@@ -16253,7 +16253,7 @@
     {
       "name": "zerion-api-skill",
       "author": "zerion",
-      "description": "DeFi portfolio data and analytics",
+      "description": "DeFi投资组合数据和收益分析",
       "category_tech": "数据查询",
       "category_user": "资产管理",
       "example": "实时追踪DeFi投资组合的价值和收益",
@@ -16265,7 +16265,7 @@
     {
       "name": "clawhub-zerion-api",
       "author": "clawhub",
-      "description": "DeFi portfolio integration",
+      "description": "Zerion API集成管理多链DeFi资产",
       "category_tech": "数据查询",
       "category_user": "资产管理",
       "example": "集成Zerion API管理多链DeFi资产",
@@ -16277,7 +16277,7 @@
     {
       "name": "2020117",
       "author": "2020117",
-      "description": "Connect AI agents to the 2020117 decentralized network. Register, post to timeline, trade compute via NIP-90 DVM jobs (t",
+      "description": "连接AI代理到去中心化网络执行DVM计算任务",
       "category_tech": "基础设施",
       "category_user": "开发工具",
       "example": "使用Nostr DVM在去中心化网络上执行AI计算任务",
@@ -16289,7 +16289,7 @@
     {
       "name": "warden-studio-deploy",
       "author": "warden",
-      "description": "Use Warden Studio (studio.wardenprotocol.org) via browser automation to register/publish a Community Agent to the Warden",
+      "description": "在Warden协议上注册和发布社区AI代理",
       "category_tech": "钱包管理",
       "category_user": "开发工具",
       "example": "使用开发工具管理和交易加密资产",
@@ -16301,7 +16301,7 @@
     {
       "name": "hey-lol",
       "author": "hey",
-      "description": "Become an AI creator on hey.lol - a social platform where AI agents earn money by posting content and engaging with huma",
+      "description": "成为hey.lol内容创作者，通过发布内容赚取收益",
       "category_tech": "基础设施",
       "category_user": "开发工具",
       "example": "在hey.lol上创建AI代理账号发布内容并赚取收益",
@@ -16313,7 +16313,7 @@
     {
       "name": "clawquests-xyz",
       "author": "clawquests",
-      "description": "An onchain marketplace for AI agents to find, claim, complete, and create tasks for USDC bounties on Base.",
+      "description": "Base链上的AI代理任务市场，完成任务赚USDC",
       "category_tech": "DeFi收益",
       "category_user": "自动理财",
       "example": "在Base链上声明和完成任务以赚取USDC奖励",
@@ -16529,7 +16529,7 @@
     {
       "name": "usd1transaction",
       "author": "usd1transaction",
-      "description": "Wormhole liquidity设施USD1转账，支持跨链USDC支付",
+      "description": "通过Wormhole跨链转账USDC支付",
       "category_tech": "跨链桥",
       "category_user": "跨链转账",
       "example": "转账1.0 USD1到接收者地址，支持Solana或EVM源链",
@@ -16541,7 +16541,7 @@
     {
       "name": "agent-bounty-scanner",
       "author": "agent",
-      "description": "A precision discovery engine for agentic tasks and bounties. Scores and ranks opportunities based on budget, urgency, and capability alignment.",
+      "description": "扫描虚拟协议任务并按利润率排序",
       "category_tech": "数据查询",
       "category_user": "行情查询",
       "example": "扫描虚拟协议上的可用任务并按利润率排序",
@@ -16553,7 +16553,7 @@
     {
       "name": "pulseai-skill",
       "author": "pulseai",
-      "description": "Agent-to-agent commerce on MegaETH. Browse, buy, and sell AI services through an on-chain marketplace with escrow.",
+      "description": "MegaETH上的代理商务市场，买卖AI服务",
       "category_tech": "DEX交易",
       "category_user": "一键swap",
       "example": "在MegaETH市场上浏览和购买AI服务",
@@ -16565,7 +16565,7 @@
     {
       "name": "x402r-dispute",
       "author": "x402r",
-      "description": "Pay merchants and file payment disputes on the x402r refundable payments protocol",
+      "description": "通过x402r链上仲裁处理退款支付纠纷",
       "category_tech": "支付工具",
       "category_user": "加密支付",
       "example": "创建可退款的支付并通过链上仲裁处理纠纷",
@@ -16577,7 +16577,7 @@
     {
       "name": "joule-dao",
       "author": "joule",
-      "description": "Energy-backed agent token on Base blockchain governed by agents who earn JOULE through Proof of Productive Work.",
+      "description": "Base上的代理能源代币，通过工作赚取JOULE",
       "category_tech": "DAO治理",
       "category_user": "社区治理",
       "example": "通过参与工作和治理赚取JOULE代币",
@@ -16589,7 +16589,7 @@
     {
       "name": "openmm",
       "author": "openmm",
-      "description": "Open-source market making for AI agents. Multi-exchange trading, grid strategies, and real-time market data. CLI + MCP + Skills.",
+      "description": "多交易所自动做市，配置网格交易策略",
       "category_tech": "DEX交易",
       "category_user": "量化交易",
       "example": "配置网格交易策略在多个DEX上自动做市",
@@ -16601,7 +16601,7 @@
     {
       "name": "zerodust-chain-exit",
       "author": "zerodust",
-      "description": "Sweep 100% of native gas tokens from EIP-7702 compatible chains. Leaves exactly zero balance.",
+      "description": "从多链完全退出，将所有余额扫到单钱包",
       "category_tech": "钱包管理",
       "category_user": "资产管理",
       "example": "从多个链上完全退出并将所有ETH扫到一个钱包",
@@ -16613,7 +16613,7 @@
     {
       "name": "warren-deploy-mainnet",
       "author": "warren",
-      "description": "Deploy websites and files permanently on MegaETH mainnet using SSTORE2. Agents use their own wallet and pay gas.",
+      "description": "将网站部署到MegaETH实现永久存储",
       "category_tech": "基础设施",
       "category_user": "开发工具",
       "example": "将静态网站部署到MegaETH主网上实现永久存储",
@@ -16625,7 +16625,7 @@
     {
       "name": "easyclaw-skill",
       "author": "easyclaw",
-      "description": "Run user-facing EasyClaw DEX actions from a self-contained skill folder. Submit orders and check wallet/margin balances on Solana.",
+      "description": "在EasyClaw交易所提交订单并查询余额",
       "category_tech": "DEX交易",
       "category_user": "量化交易",
       "example": "在EasyClaw交易所提交limit订单并查询钱包余额",
@@ -16637,7 +16637,7 @@
     {
       "name": "agent-market",
       "author": "agent",
-      "description": "Interact with the AgentMarket prediction market protocol on Base Sepolia. Create markets, trade YES/NO positions, provide liquidity, and resolve outcomes — all settled in USDC.",
+      "description": "在Base Sepolia预测市场上创建市场和交易YES/NO头寸",
       "category_tech": "预测市场",
       "category_user": "预测投注",
       "example": "在Base Sepolia预测市场上创建交易市场并交易YES/NO仓位",
@@ -16649,7 +16649,7 @@
     {
       "name": "arbitrage-bot",
       "author": "arbitrage",
-      "description": "Cross-exchange crypto arbitrage detection and execution. Find price differences, calculate profits, execute trades automatically.",
+      "description": "检测跨交易所价格差异并自动执行套利交易",
       "category_tech": "DEX交易",
       "category_user": "一键swap",
       "example": "检测跨交易所价格差异并自动执行套利交易",
@@ -16661,7 +16661,7 @@
     {
       "name": "artwar",
       "author": "artwar",
-      "description": "Participate in ArtWar AI art battles on Monad. Use when you need to submit AI-generated artwork to competitions, place on-chain bets on art submissions, comment or rea",
+      "description": "在Monad链上参与AI艺术竞赛并为作品投注",
       "category_tech": "NFT",
       "category_user": "NFT玩家",
       "example": "在Monad链上参与ArtWar AI艺术竞赛，为作品投注SOL",
@@ -16673,7 +16673,7 @@
     {
       "name": "boltzpay",
       "author": "boltzpay",
-      "description": "Pay for API data automatically — multi-protocol (x402 + L402), multi-chain",
+      "description": "使用x402和L402协议跨链自动支付API费用",
       "category_tech": "支付工具",
       "category_user": "加密支付",
       "example": "使用x402和L402协议跨多条链自动支付API费用",
@@ -16685,7 +16685,7 @@
     {
       "name": "clawmon",
       "author": "clawmon",
-      "description": "wallet: \"0x3e4A16256813D232F25F5b01c49E95ceaD44d7Ed\"",
+      "description": "监控钱包余额和链上活动实时变化",
       "category_tech": "钱包管理",
       "category_user": "资产管理",
       "example": "监控钱包余额和链上活动变化",
@@ -16697,7 +16697,7 @@
     {
       "name": "crypto-hackathon",
       "author": "crypto",
-      "description": "Use when participating in the USDC Hackathon, submitting projects, or voting. 3 tracks: SmartContract, Skill, AgenticCommerce. Submit to m/usdc on Moltbook.",
+      "description": "参与USDC黑客松提交项目并投票",
       "category_tech": "DAO治理",
       "category_user": "社区治理",
       "example": "参与USDC黑客松，提交项目并投票",
@@ -16709,7 +16709,7 @@
     {
       "name": "data-normalization",
       "author": "data",
-      "description": "Standardizes raw DB1 records before enrichment — handles names, wallet addresses, dates, prices, social handles, and chain identifiers to prevent false matches downst",
+      "description": "标准化多个区块链原始数据防止虚假匹配",
       "category_tech": "数据查询",
       "category_user": "行情查询",
       "example": "标准化来自多个区块链的原始数据记录",
@@ -16721,7 +16721,7 @@
     {
       "name": "deepseek-trader",
       "author": "deepseek",
-      "description": "Hybrid crypto analysis combining technical indicators with DeepSeek AI reasoning.",
+      "description": "用DeepSeek AI结合技术指标分析加密货币",
       "category_tech": "DEX交易",
       "category_user": "一键swap",
       "example": "使用DeepSeek AI结合技术指标分析加密货币走势",
@@ -16733,7 +16733,7 @@
     {
       "name": "hackathon",
       "author": "hackathon",
-      "description": "Blockchain security scanner for AI agents (testnet). Pay with Base Sepolia USDC via x402 protocol.",
+      "description": "用Base Sepolia USDC通过x402协议进行安全扫描",
       "category_tech": "DAO治理",
       "category_user": "社区治理",
       "example": "使用Base Sepolia USDC通过x402协议进行区块链安全扫描",
@@ -16745,7 +16745,7 @@
     {
       "name": "paper-trader",
       "author": "paper",
-      "description": "Run a structured paper-trading loop with SQLite-backed event logging, position tracking, and PnL review. Use when opening/closing simulated trades, journaling thesis n",
+      "description": "运行模拟交易循环追踪头寸和利润损失",
       "category_tech": "DEX交易",
       "category_user": "一键swap",
       "example": "运行模拟交易循环，跟踪代币头寸和利润损失",
@@ -16757,7 +16757,7 @@
     {
       "name": "renderful-ai",
       "author": "renderful",
-      "description": "Generate images and videos via renderful.ai API (FLUX, Kling, Sora, WAN, etc.) with crypto payments.",
+      "description": "用加密支付生成FLUX/Kling高质量图像视频",
       "category_tech": "支付工具",
       "category_user": "加密支付",
       "example": "使用加密支付生成高质量图像和视频",
@@ -16769,7 +16769,7 @@
     {
       "name": "rnwy",
       "author": "rnwy",
-      "description": "Get a soulbound passport for humans and AI. Check any wallet's trust score. Register, mint a soulbound token, look up reputation, vouch for others. One API call, no hu",
+      "description": "获取灵魂绑定护照检查钱包信任评分",
       "category_tech": "钱包管理",
       "category_user": "资产管理",
       "example": "获取灵魂绑定护照，检查钱包的信任评分",
@@ -16781,7 +16781,7 @@
     {
       "name": "soho-pay",
       "author": "soho",
-      "description": "Initiate payments on the SOHO Pay credit layer using EIP-712 signatures.",
+      "description": "使用EIP-712签名在SOHO Pay信用层发起支付",
       "category_tech": "支付工具",
       "category_user": "加密支付",
       "example": "使用EIP-712签名在SOHO Pay信用层发起支付",
@@ -16793,7 +16793,7 @@
     {
       "name": "tracks",
       "author": "tracks",
-      "description": "**Track Name:** `Skill`",
+      "description": "参与USDC黑客松技能赛道提交项目",
       "category_tech": "DAO治理",
       "category_user": "社区治理",
       "example": "参与USDC黑客松技能赛道提交",
@@ -16805,7 +16805,7 @@
     {
       "name": "usdc",
       "author": "usdc",
-      "description": "Use when participating in the USDC Hackathon, submitting projects, or voting. 3 tracks: SmartContract, Skill, AgenticCommerce. Submit to m/usdc on Moltbook.",
+      "description": "参与USDC黑客松三个赛道项目提交和治理",
       "category_tech": "DAO治理",
       "category_user": "社区治理",
       "example": "参与USDC黑客松项目提交和社区治理",
@@ -16817,7 +16817,7 @@
     {
       "name": "usdc-hackathon",
       "author": "usdc",
-      "description": "Use when participating in the USDC Hackathon, submitting projects, or voting. 3 tracks: SmartContract, Skill, AgenticCommerce. Submit to m/usdc on Moltbook.",
+      "description": "参与USDC黑客松智能合约/技能/商务三赛道",
       "category_tech": "DAO治理",
       "category_user": "社区治理",
       "example": "参与USDC黑客松的三个赛道之一",
@@ -16829,7 +16829,7 @@
     {
       "name": "wash-trade-detector",
       "author": "wash",
-      "description": "Detects and flags wash trades in NFT transaction data using 7 confidence-weighted patterns, protecting all downstream scoring and signals from artificial inflation.",
+      "description": "检测NFT交易虚假交易防止数据虚增",
       "category_tech": "数据查询",
       "category_user": "行情查询",
       "example": "检测NFT交易数据中的虚假交易",
@@ -16841,7 +16841,7 @@
     {
       "name": "xanadu-crypto-monitor",
       "author": "xanadu",
-      "description": "Monitor cryptocurrency prices, set alerts, track whale transactions, and analyze on-chain data. Use when: (1) Setting price alerts for crypto, (2) Tracking whale trans",
+      "description": "监控加密价格追踪鲸鱼交易分析链上数据",
       "category_tech": "数据查询",
       "category_user": "行情查询",
       "example": "监控加密价格、追踪鲸鱼交易、分析链上数据",
@@ -16877,7 +16877,7 @@
     {
       "name": "jb-cash-out-hook",
       "author": "jb",
-      "description": "Juicebox V5现金提取Hook合约",
+      "description": "配置Juicebox V5现金提取Hook处理",
       "category_tech": "DeFi收益",
       "category_user": "自动理财",
       "example": "配置Juicebox现金提取Hook处理",
@@ -17249,7 +17249,7 @@
     {
       "name": "jb-permit2-metadata",
       "author": "jb",
-      "description": "Juicebox V5 Permit2元数据编码，支持无Gas ERC20支付",
+      "description": "编码Permit2元数据实现Juicebox无Gas支付",
       "category_tech": "钱包管理",
       "category_user": "资产管理",
       "example": "编码Permit2元数据实现Juicebox无Gas支付",
@@ -17273,7 +17273,7 @@
     {
       "name": "pane",
       "author": "pane",
-      "description": "Access personal finance data (bank accounts, transactions, balances, spending, investments, crypto) via Pane",
+      "description": "访问个人金融数据包括银行账户交易和投资",
       "category_tech": "基础设施",
       "category_user": "开发工具",
       "example": "",
@@ -17285,7 +17285,7 @@
     {
       "name": "polymarket-market-prices",
       "author": "polymarket",
-      "description": "polymarket market prices 的 Web3 AI Agent 工具",
+      "description": "查询Polymarket预测市场实时价格数据",
       "category_tech": "预测市场",
       "category_user": "预测投注",
       "example": "在预测市场上投注BTC明天会突破50000美元",
@@ -17297,7 +17297,7 @@
     {
       "name": "polymarket-portfolio",
       "author": "polymarket",
-      "description": "polymarket portfolio 的 Web3 AI Agent 工具",
+      "description": "查看Polymarket投资组合头寸和收益",
       "category_tech": "数据查询",
       "category_user": "行情查询",
       "example": "",
@@ -17309,7 +17309,7 @@
     {
       "name": "polymarket-election-odds",
       "author": "polymarket",
-      "description": "polymarket election odds 的 Web3 AI Agent 工具",
+      "description": "查询Polymarket选举赔率预测",
       "category_tech": "预测市场",
       "category_user": "预测投注",
       "example": "在预测市场上投注BTC明天会突破50000美元",
@@ -17333,7 +17333,7 @@
     {
       "name": "yield-farming-bot",
       "author": "yield",
-      "description": "DeFi yield farming bot - auto-compound, optimize yields, track positions across protocols. Each call charges 0.001 USDT via SkillPay.",
+      "description": "自动复投优化Uniswap/Compound跨协议收益",
       "category_tech": "DEX交易",
       "category_user": "一键swap",
       "example": "在Uniswap交换100 USDC为ETH，允许1%滑点",
@@ -17345,7 +17345,7 @@
     {
       "name": "telegram-polymarket-alerter",
       "author": "telegram",
-      "description": "telegram polymarket alerter 的 Web3 AI Agent 工具",
+      "description": "Telegram推送Polymarket市场价格变动提醒",
       "category_tech": "数据查询",
       "category_user": "行情查询",
       "example": "",
@@ -17357,7 +17357,7 @@
     {
       "name": "polymarket-volatility-index",
       "author": "polymarket",
-      "description": "polymarket volatility index 的 Web3 AI Agent 工具",
+      "description": "追踪Polymarket波动率指数分析市场情绪",
       "category_tech": "DEX交易",
       "category_user": "一键swap",
       "example": "在Uniswap交换100 USDC为ETH，允许1%滑点",
@@ -17369,7 +17369,7 @@
     {
       "name": "crypto-agent-payments",
       "author": "crypto",
-      "description": "crypto agent payments 的 Web3 AI Agent 工具",
+      "description": "代理自动支付加密货币交易手续费",
       "category_tech": "DEX交易",
       "category_user": "一键swap",
       "example": "在Uniswap交换100 USDC为ETH，允许1%滑点",
@@ -17381,7 +17381,7 @@
     {
       "name": "mongo-db",
       "author": "mongo",
-      "description": "Interact with a MongoDB database for persistent document storage. Supports full CRUD operations (find, insert, update, delete), aggregation pipelines, collection management, and index creation. Use when any agent needs to store or retrieve data in MongoDB — for example, persisting financial records, budgets, watchlists, or any structured data across sessions.",
+      "description": "MongoDB持久化存储财务数据和交易记录",
       "category_tech": "DEX交易",
       "category_user": "一键swap",
       "example": "在Uniswap交换100 USDC为ETH，允许1%滑点",
@@ -17393,7 +17393,7 @@
     {
       "name": "opencortex",
       "author": "opencortex",
-      "description": "opencortex",
+      "description": "使用Compound借贷协议获取存款利息",
       "category_tech": "借贷协议",
       "category_user": "自动理财",
       "example": "",
@@ -17405,7 +17405,7 @@
     {
       "name": "clawswarm-services",
       "author": "clawswarm",
-      "description": "clawswarm services 的 Web3 AI Agent 工具",
+      "description": "Clawswarm代理服务聚合平台",
       "category_tech": "借贷协议",
       "category_user": "自动理财",
       "example": "",
@@ -17417,7 +17417,7 @@
     {
       "name": "btc15-prediction-market",
       "author": "btc15",
-      "description": "btc15 prediction market 的 Web3 AI Agent 工具",
+      "description": "在BTC15预测市场投注比特币价格走势",
       "category_tech": "预测市场",
       "category_user": "预测投注",
       "example": "在预测市场上投注BTC明天会突破50000美元",
@@ -17429,7 +17429,7 @@
     {
       "name": "btc15-autonomous-market",
       "author": "btc15",
-      "description": "btc15 autonomous market 的 Web3 AI Agent 工具",
+      "description": "BTC15自治市场自动交易功能",
       "category_tech": "预测市场",
       "category_user": "预测投注",
       "example": "在预测市场上投注BTC明天会突破50000美元",
@@ -17441,7 +17441,7 @@
     {
       "name": "pref0",
       "author": "pref0",
-      "description": "Learn user preferences from conversations and personalize responses automatically. Preferences compound over time — corrections like",
+      "description": "学习用户偏好个性化代理响应和建议",
       "category_tech": "借贷协议",
       "category_user": "自动理财",
       "example": "",
@@ -17453,7 +17453,7 @@
     {
       "name": "openclast-wallet",
       "author": "openclast",
-      "description": "Guides the agent in Openclast/Openclaw wallet usage, approvals, and safety rules. Use when users ask about wallet setup, balances, transactions, approvals, or key export.",
+      "description": "Openclast钱包管理指南和安全规则",
       "category_tech": "基础设施",
       "category_user": "开发工具",
       "example": "",
@@ -17465,7 +17465,7 @@
     {
       "name": "openclaw-aisa-market-pulse",
       "author": "openclaw",
-      "description": "Query real-time and historical financial data across equities and crypto—prices, market moves, metrics, and trends for analysis, alerts, and reporting.",
+      "description": "查询股票和加密实时市场数据和趋势",
       "category_tech": "数据查询",
       "category_user": "行情查询",
       "example": "",
@@ -17477,7 +17477,7 @@
     {
       "name": "handling-transactions",
       "author": "handling",
-      "description": "Token transactions and wallet integration for XMTP agents. Use when sending USDC, creating transaction requests, or handling transaction confirmations. Triggers on USDC transfer, wallet calls, or transaction reference.",
+      "description": "XMTP代理的USDC转账和交易管理",
       "category_tech": "智能合约",
       "category_user": "合约开发",
       "example": "",
@@ -17489,7 +17489,7 @@
     {
       "name": "aifrens-ambassador",
       "author": "aifrens",
-      "description": "AI Frens Ambassador Program - how to promote the vision of autonomous AI agents with their own economies. Install this skill to become an AI Frens ambassador and learn how to authentically promote the ecosystem.",
+      "description": "推广自治AI代理经济的大使计划",
       "category_tech": "DEX交易",
       "category_user": "一键swap",
       "example": "在Uniswap交换100 USDC为ETH，允许1%滑点",
@@ -17501,7 +17501,7 @@
     {
       "name": "aifrens-onboard",
       "author": "aifrens",
-      "description": "Turn any OpenClaw agent into an AI Fren with their own coin, treasury, and economy. One command to become a virtual performer on AIFrens.",
+      "description": "部署AI代理独立代币和经济体系",
       "category_tech": "DEX交易",
       "category_user": "一键swap",
       "example": "在Uniswap交换100 USDC为ETH，允许1%滑点",
@@ -17513,7 +17513,7 @@
     {
       "name": "iseclaw-intel",
       "author": "iseclaw",
-      "description": "Indonesian Web3 intelligence via Iseclaw ACP agent. Real-time market data, token signals, TGE research, and GameFi analysis from Southeast Asia",
+      "description": "印尼Web3市场数据TGE和GameFi分析",
       "category_tech": "数据查询",
       "category_user": "行情查询",
       "example": "",
@@ -17525,7 +17525,7 @@
     {
       "name": "log-dive",
       "author": "log",
-      "description": "log-dive",
+      "description": "OpenSea NFT市场数据日志分析",
       "category_tech": "NFT",
       "category_user": "NFT玩家",
       "example": "",
@@ -17537,7 +17537,7 @@
     {
       "name": "monad-development",
       "author": "monad",
-      "description": "Builds dapps on Monad blockchain. Use when deploying contracts, setting up frontends with viem/wagmi, or verifying contracts on Monad testnet or mainn",
+      "description": "在Monad链上部署智能合约和前端",
       "category_tech": "智能合约",
       "category_user": "合约开发",
       "example": "部署智能合约到以太坊或L2网络",
@@ -17549,7 +17549,7 @@
     {
       "name": "liquidskills",
       "author": "liquidskills",
-      "description": "# LIQUIDSKILLS — The missing knowledge between AI agents and production Hyperliquid.",
+      "description": "Hyperliquid衍生品交易知识库和指南",
       "category_tech": "智能合约",
       "category_user": "量化交易",
       "example": "部署智能合约到以太坊或L2网络",
@@ -17561,7 +17561,7 @@
     {
       "name": "standards",
       "author": "standards",
-      "description": "Token standards on Hyperliquid — ERC-20 on HyperEVM, HIP-1/HIP-2/HIP-3 native token standards on HyperCore. When to use each, how they work, key inter",
+      "description": "Hyperliquid代币标准ERC-20和HIP规范",
       "category_tech": "DEX交易",
       "category_user": "量化交易",
       "example": "在Uniswap或PancakeSwap上执行代币交换",
@@ -17573,7 +17573,7 @@
     {
       "name": "frontend-playbook",
       "author": "frontend",
-      "description": "Complete build-to-production pipeline for HyperEVM dApps — local dev, testnet deploy, mainnet deploy, Vercel config, and go-live checklist.",
+      "description": "HyperEVM应用本地开发部署完整流程",
       "category_tech": "DEX交易",
       "category_user": "量化交易",
       "example": "查询代币实时价格和交易信息",
@@ -17585,7 +17585,7 @@
     {
       "name": "ship",
       "author": "ship",
-      "description": "End-to-end guide for AI agents — from a Hyperliquid dApp idea to deployed production app. Fetch this FIRST, it routes you through all other skills.",
+      "description": "Hyperliquid应用从概念到生产部署路线图",
       "category_tech": "DEX交易",
       "category_user": "一键swap",
       "example": "在Uniswap或PancakeSwap上执行代币交换",
@@ -17597,7 +17597,7 @@
     {
       "name": "orchestration",
       "author": "orchestration",
-      "description": "How an AI agent plans, builds, and deploys a complete Hyperliquid application. The three-phase build system for HyperEVM dApps and HyperCore integrati",
+      "description": "Hyperliquid应用三阶段构建系统和编排",
       "category_tech": "智能合约",
       "category_user": "量化交易",
       "example": "质押ETH或其他代币获取Staking收益",
@@ -17609,7 +17609,7 @@
     {
       "name": "qa",
       "author": "qa",
-      "description": "Production QA checklist for HyperEVM dApps. Run this with a SEPARATE reviewer pass after the build — it audits against every common mistake agents mak",
+      "description": "HyperEVM应用生产级质量保证检查清单",
       "category_tech": "智能合约",
       "category_user": "质押管理",
       "example": "质押ETH或其他代币获取Staking收益",
@@ -17621,7 +17621,7 @@
     {
       "name": "frontend-ux",
       "author": "frontend",
-      "description": "Mandatory frontend rules for Hyperliquid dApps — wagmi + HyperEVM chain config, wallet connection, transaction UX, HYPE formatting, and pre-publish ch",
+      "description": "Hyperliquid应用前端规范wagmi配置",
       "category_tech": "基础设施",
       "category_user": "开发工具",
       "example": "使用frontend-ux执行Web3交易",
@@ -17633,7 +17633,7 @@
     {
       "name": "building-blocks",
       "author": "building",
-      "description": "DeFi legos on Hyperliquid — HyperSwap V2, bonding curves, HyperCore perps/spot as composable primitives. How to build on top of existing protocols ins",
+      "description": "Hyperliquid DeFi乐高合成原语和接口",
       "category_tech": "DEX交易",
       "category_user": "预测投注",
       "example": "在Uniswap或PancakeSwap上执行代币交换",
@@ -17645,7 +17645,7 @@
     {
       "name": "wallets",
       "author": "wallets",
-      "description": "Wallets on Hyperliquid — MetaMask + chain ID 999 setup, HyperCore API wallets, agent wallet patterns, EIP-712 signing for exchange actions. Essential ",
+      "description": "Hyperliquid钱包MetaMask配置和签名",
       "category_tech": "基础设施",
       "category_user": "开发工具",
       "example": "使用wallets执行Web3交易",
@@ -17657,7 +17657,7 @@
     {
       "name": "audit",
       "author": "audit",
-      "description": "Smart contract audit checklist for HyperEVM — covers Solidity security, HyperEVM-specific risks, API signing security, and bonding curve/AMM patterns.",
+      "description": "智能合约Solidity安全审计检查清单",
       "category_tech": "跨链桥",
       "category_user": "跨链转账",
       "example": "使用跨链桥将代币从Ethereum转移到Arbitrum",
@@ -17669,7 +17669,7 @@
     {
       "name": "crewmind-bets",
       "author": "crewmind",
-      "description": "# CrewMind Arena Betting Skill\n\n> **TL;DR**: Place bets on LLM models competing in CrewMind Arena.",
+      "description": "在CrewMind竞技场投注LLM模型对战",
       "category_tech": "DEX交易",
       "category_user": "预测投注",
       "example": "使用crewmind-bets执行Web3交易",
@@ -17681,7 +17681,7 @@
     {
       "name": "agenthire",
       "author": "agenthire",
-      "description": "AgentHire — Agent-to-Agent Marketplace. Search, hire, and pay AI agents on-chain. Your agent can hire specialized agents (swap, research, translation)",
+      "description": "在AgentHire平台搜索雇用和支付AI代理",
       "category_tech": "DEX交易",
       "category_user": "行情查询",
       "example": "在Uniswap或PancakeSwap上执行代币交换",
@@ -17693,7 +17693,7 @@
     {
       "name": "cetus",
       "author": "cetus",
-      "description": "# Cetus Protocol SDK v2 - OpenClaw Integration Guide\n\nThis guide covers all Cetus SDK v2 packages for building DeFi applications on Sui.",
+      "description": "Cetus V2 SDK在Sui链上构建DeFi应用",
       "category_tech": "DeFi收益",
       "category_user": "跨链转账",
       "example": "自动参与流动性挖矿获取收益",
@@ -17705,7 +17705,7 @@
     {
       "name": "stable-layer-sdk",
       "author": "stable",
-      "description": "# Stable Layer SDK\n\nA TypeScript SDK for interacting with the Stable Layer protocol on the Sui blockchain.",
+      "description": "Stable Layer协议Sui链稳定币交互",
       "category_tech": "DeFi收益",
       "category_user": "自动理财",
       "example": "自动参与流动性挖矿获取收益",
@@ -17717,7 +17717,7 @@
     {
       "name": "circle-wallet",
       "author": "circle",
-      "description": "# Circle Wallet Skill\n\nUSDC wallet operations for OpenClaw agents via Circle Developer-Controlled Wallets.",
+      "description": "Circle托管钱包USDC操作和管理",
       "category_tech": "钱包管理",
       "category_user": "跨链转账",
       "example": "部署智能合约到以太坊或L2网络",
@@ -17729,7 +17729,7 @@
     {
       "name": "opendex",
       "author": "opendex",
-      "description": "# OpenDex API Skill\n\nYou can interact with the OpenDex API to retrieve Solana token data, community-curated content, market sentiment, and more.",
+      "description": "OpenDex API查询Solana代币市场情绪",
       "category_tech": "DEX交易",
       "category_user": "行情查询",
       "example": "查询代币实时价格和交易信息",
@@ -17741,7 +17741,7 @@
     {
       "name": "openvid",
       "author": "openvid",
-      "description": "# Skill: openvid\n\n## Description\nAI motion graphics video generation service.",
+      "description": "AI动作图形视频生成和渲染服务",
       "category_tech": "支付工具",
       "category_user": "加密支付",
       "example": "使用openvid执行Web3交易",
@@ -17753,7 +17753,7 @@
     {
       "name": "buy-handshake-domain",
       "author": "buy",
-      "description": "Register sovereign domains (.badass, .forever, .fuck, .rebel, .pump, .hello, .howdy, .robo, .dnet, .f, bear emoji) on Ethereum mainnet via Impervious ",
+      "description": "在Ethereum主网注册主权域名NFT",
       "category_tech": "NFT",
       "category_user": "量化交易",
       "example": "在OpenSea上查询和交易NFT资产",
@@ -17765,7 +17765,7 @@
     {
       "name": "neo-market",
       "author": "neo",
-      "description": "Interface with the Neo Market to find work, bid on jobs, and get paid in USDC.",
+      "description": "Neo Market平台找工作报价获USDC报酬",
       "category_tech": "数据查询",
       "category_user": "行情查询",
       "example": "查询代币实时价格和交易信息",
@@ -17777,7 +17777,7 @@
     {
       "name": "shop-culture",
       "author": "shop",
-      "description": "\"Agentic Commerce skills for the For the Cult store. Enables agents to browse and search for quality lifestyle, wellness, smart home, and longevity pr",
+      "description": "ForTheCult商店浏览购买生活类产品",
       "category_tech": "支付工具",
       "category_user": "资产管理",
       "example": "使用shop-culture执行Web3交易",
@@ -17789,7 +17789,7 @@
     {
       "name": "agentic-commerce-forthecult",
       "author": "agentic",
-      "description": "\"Agentic Commerce skills enables agents to autonomously browse and search for quality lifestyle, wellness, and tech products and gifts, view details, ",
+      "description": "ForTheCult商务代理自动搜索和购物",
       "category_tech": "支付工具",
       "category_user": "资产管理",
       "example": "使用agentic-commerce-forthecult执行Web3交易",
@@ -17801,7 +17801,7 @@
     {
       "name": "clawtrade-bnb",
       "author": "clawtrade",
-      "description": "Autonomous DeFi trading agent for BNB Chain with multi-strategy engine, network switching, and reinforced learning.",
+      "description": "BNB链多策略自动交易强化学习",
       "category_tech": "DeFi收益",
       "category_user": "量化交易",
       "example": "自动参与流动性挖矿获取收益",
@@ -17813,7 +17813,7 @@
     {
       "name": "skill-zorapro",
       "author": "skill",
-      "description": "Generates a Nano Banana style NFT and deploys it to the Zora Network.",
+      "description": "生成Nano Banana风格NFT并部署到Zora",
       "category_tech": "NFT",
       "category_user": "NFT玩家",
       "example": "在OpenSea上查询和交易NFT资产",
@@ -17825,7 +17825,7 @@
     {
       "name": "bountyhub-agent",
       "author": "bountyhub",
-      "description": "\"Use H1DR4 BountyHub as an agent: create missions, submit work, dispute, vote, and claim escrow payouts.\"",
+      "description": "H1DR4 BountyHub任务创建提交和托管",
       "category_tech": "支付工具",
       "category_user": "加密支付",
       "example": "使用bountyhub-agent执行Web3交易",
@@ -17837,7 +17837,7 @@
     {
       "name": "agentic-commerce-relay",
       "author": "agentic",
-      "description": "Run the CCTP relay to burn USDC on a source chain and mint on a destination chain, returning verifiable receipts. Use for multichain agent-to-agent se",
+      "description": "CCTP跨链中继燃烧USDC和铸造验证",
       "category_tech": "跨链桥",
       "category_user": "跨链转账",
       "example": "使用跨链桥将代币从Ethereum转移到Arbitrum",
@@ -17849,7 +17849,7 @@
     {
       "name": "erc8004-identity",
       "author": "erc8004",
-      "description": "# ERC-8004 Identity Skill\n\nDeploy your agent's onchain identity on Avalanche using the ERC-8004 standard.",
+      "description": "在Avalanche部署ERC-8004代理链上身份",
       "category_tech": "NFT",
       "category_user": "NFT玩家",
       "example": "在OpenSea上查询和交易NFT资产",
@@ -17861,7 +17861,7 @@
     {
       "name": "truthsea",
       "author": "truthsea",
-      "description": "Security-hardened contracts (V2.",
+      "description": "安全增强智能合约V2验证和审计",
       "category_tech": "智能合约",
       "category_user": "合约开发",
       "example": "质押ETH或其他代币获取Staking收益",
@@ -17873,7 +17873,7 @@
     {
       "name": "abixus-core-v1",
       "author": "abixus",
-      "description": "# ABIXUS Deterministic Oracle\nA high-performance validation layer for autonomous agent consistency on Polygon PoS.",
+      "description": "ABIXUS确定性预言机Polygon验证层",
       "category_tech": "跨链桥",
       "category_user": "预测投注",
       "example": "使用跨链桥将代币从Ethereum转移到Arbitrum",
@@ -17897,7 +17897,7 @@
     {
       "name": "ccxt",
       "author": "ccxt",
-      "description": "Interact with 100+ cryptocurrency exchanges — fetch markets, order books, tickers, place orders, check balances, and more using the CCXT CLI.",
+      "description": "CCXT连接100+交易所行情下单和查余",
       "category_tech": "DEX交易",
       "category_user": "一键swap",
       "example": "",
@@ -17909,7 +17909,7 @@
     {
       "name": "chia-splitxch",
       "author": "chia",
-      "description": "Create SplitXCH royalty split addresses from plain language descriptions. Use when the user wants to split XCH payments, royalties, or revenue between",
+      "description": "在Chia链上创建XCH支付分润地址",
       "category_tech": "钱包管理",
       "category_user": "资产管理",
       "example": "在Chia上交易CAT代币和NFT",
@@ -17921,7 +17921,7 @@
     {
       "name": "chia-walletconnect",
       "author": "chia",
-      "description": "Telegram Web App for Chia wallet verification via WalletConnect and Sage. Enables cryptographic proof of wallet ownership through signature verificati",
+      "description": "Chia钱包WalletConnect验证签名证明",
       "category_tech": "钱包管理",
       "category_user": "资产管理",
       "example": "分析钱包0x123...的持仓和盈亏",
@@ -17933,7 +17933,7 @@
     {
       "name": "clap-trader",
       "author": "clap",
-      "description": "A skill for OpenClaw to research crypto market trends (technical & sentiment) and trade ETH on Binance.",
+      "description": "Binance分析加密趋势和自动ETH交易",
       "category_tech": "DEX交易",
       "category_user": "量化交易",
       "example": "",
@@ -17969,7 +17969,7 @@
     {
       "name": "crypto-price-skill",
       "author": "crypto",
-      "description": "Get real-time cryptocurrency prices.",
+      "description": "查询加密货币实时价格和涨跌幅",
       "category_tech": "数据查询",
       "category_user": "行情查询",
       "example": "查询BTC实时价格和涨幅",
@@ -17981,7 +17981,7 @@
     {
       "name": "crypto-short-signal",
       "author": "crypto",
-      "description": "**Version**: 2.0.0 (Two-Layer Architecture)",
+      "description": "双层架构加密空头信号分析工具",
       "category_tech": "代币分析",
       "category_user": "代币研究",
       "example": "",
@@ -17993,7 +17993,7 @@
     {
       "name": "dexie",
       "author": "dexie",
-      "description": "Track Chia DEX trading via the Dexie.space API.",
+      "description": "通过Dexie.space API追踪Chia DEX交易",
       "category_tech": "DEX交易",
       "category_user": "一键swap",
       "example": "用USDC换100个ETH",
@@ -18005,7 +18005,7 @@
     {
       "name": "lnbits-with-qrcode",
       "author": "lnbits",
-      "description": "Manage LNbits Lightning Wallet (Balance, Pay, Invoice)",
+      "description": "LNbits闪电网络钱包余额支付发票",
       "category_tech": "支付工具",
       "category_user": "加密支付",
       "example": "",
@@ -18017,7 +18017,7 @@
     {
       "name": "malicious-crypto",
       "author": "malicious",
-      "description": "A donation widget for your skill page.",
+      "description": "技能页面捐赠小工具和安全审计",
       "category_tech": "安全审计",
       "category_user": "安全检测",
       "example": "",
@@ -18029,7 +18029,7 @@
     {
       "name": "memecoin-scanner",
       "author": "memecoin",
-      "description": "|",
+      "description": "Solana meme币扫描分析和预警",
       "category_tech": "代币分析",
       "category_user": "代币研究",
       "example": "",
@@ -18041,7 +18041,7 @@
     {
       "name": "mintgarden",
       "author": "mintgarden",
-      "description": "Browse, search, and analyze Chia NFTs via the MintGarden API.",
+      "description": "浏览MintGarden Chia NFT搜索分析",
       "category_tech": "NFT",
       "category_user": "NFT玩家",
       "example": "铸造新NFT并追踪热门项目",
@@ -18065,7 +18065,7 @@
     {
       "name": "ohmytoken",
       "author": "ohmytoken",
-      "description": "**Your AI spending, visualized as pixel art. In real-time.**",
+      "description": "实时像素艺术可视化消费支出",
       "category_tech": "基础设施",
       "category_user": "开发工具",
       "example": "",
@@ -18077,7 +18077,7 @@
     {
       "name": "polymarket-research",
       "author": "polymarket",
-      "description": "|",
+      "description": "Polymarket预测市场研究和数据分析",
       "category_tech": "预测市场",
       "category_user": "预测投注",
       "example": "在Polymarket上交易BTC/ETH预测市场",
@@ -18089,7 +18089,7 @@
     {
       "name": "polymarket-simmer-fastloop",
       "author": "polymarket",
-      "description": "Trade Polymarket BTC/ETH/SOL 5/15-minute fast markets with momentum and order book filters.",
+      "description": "Polymarket 5/15分钟快速市场动量交易",
       "category_tech": "预测市场",
       "category_user": "预测投注",
       "example": "在Polymarket上交易BTC/ETH预测市场",
@@ -18101,7 +18101,7 @@
     {
       "name": "prediction-market",
       "author": "prediction",
-      "description": "Play the daily garden temperature prediction market on Base.",
+      "description": "参与Base链每日花园温度预测市场",
       "category_tech": "预测市场",
       "category_user": "预测投注",
       "example": "",
@@ -18113,7 +18113,7 @@
     {
       "name": "sage-nft",
       "author": "sage",
-      "description": "Sage NFT operations. List NFTs and collections, mint NFTs, transfer, add URIs, assign to DIDs, manage visibility.",
+      "description": "Sage NFT操作铸造转账和管理",
       "category_tech": "NFT",
       "category_user": "NFT玩家",
       "example": "铸造新NFT并追踪热门项目",
@@ -18125,7 +18125,7 @@
     {
       "name": "sage-options",
       "author": "sage",
-      "description": "Sage options protocol operations. Mint options, exercise, transfer, list and manage options contracts.",
+      "description": "Sage期权协议铸造行权和交易",
       "category_tech": "永续合约",
       "category_user": "量化交易",
       "example": "",
@@ -18137,7 +18137,7 @@
     {
       "name": "sage-walletconnect",
       "author": "sage",
-      "description": "Sage WalletConnect integration. Filter coins, get asset coins, sign messages, send transactions for dApp connectivity.",
+      "description": "Sage WalletConnect集成钱包连接交易",
       "category_tech": "钱包管理",
       "category_user": "资产管理",
       "example": "分析钱包0x123...的持仓和盈亏",
@@ -18161,7 +18161,7 @@
     {
       "name": "solana-transfer",
       "author": "solana",
-      "description": "** Send SOL and SPL tokens on Solana blockchain from OpenClaw agents.",
+      "description": "Solana链发送SOL和SPL代币",
       "category_tech": "钱包管理",
       "category_user": "资产管理",
       "example": "发送0.5 SOL到指定钱包地址",
@@ -18173,7 +18173,7 @@
     {
       "name": "sooda-bridge",
       "author": "sooda",
-      "description": "Connect to business AI agents on the Sooda network. Use when: user mentions Sooda, the Sooda network, or asks to talk to a Sooda agent by name (travel",
+      "description": "Sooda网络连接商业AI代理",
       "category_tech": "跨链桥",
       "category_user": "跨链转账",
       "example": "跨链转账10 ETH从Ethereum到Arbitrum",
@@ -18185,7 +18185,7 @@
     {
       "name": "spacescan",
       "author": "spacescan",
-      "description": "Explore the Chia blockchain via Spacescan.io API.",
+      "description": "Spacescan API浏览Chia链数据",
       "category_tech": "数据查询",
       "category_user": "行情查询",
       "example": "",
@@ -18221,7 +18221,7 @@
     {
       "name": "villain-mint",
       "author": "villain",
-      "description": "Mint a Fellow Villain NFT from CHUM's agent-only collection on Solana. 0.001 SOL mint fee + network fees (~0.015 SOL).",
+      "description": "Solana铸造Fellow Villain代理专属NFT",
       "category_tech": "NFT",
       "category_user": "NFT玩家",
       "example": "铸造新NFT并追踪热门项目",
