@@ -1,0 +1,125 @@
+{
+  "count": 10,
+  "skills": [
+    {
+      "name": "polymarket-copytrading",
+      "author": "adlai88",
+      "description": "Mirror positions from top Polymarket traders via Simmer SDK, aggregating whale wallet positions by size-weighted allocation with automatic mirroring, supporting paper trading ($SIM) and live modes",
+      "category_tech": "Copy Trading",
+      "category_user": "Copy Trading",
+      "example": "Say: 'Copytrade this whale wallet 0x1234...' or 'View my current copytrading positions'",
+      "user_provides": "Simmer API Key, wallet private key, target whale wallet addresses",
+      "dapps": "Polymarket, Simmer",
+      "run_mode": "Continuous AI Decision",
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/adlai88/polymarket-copytrading"
+    },
+    {
+      "name": "hl-privateer-fund",
+      "author": "adwilkinson",
+      "description": "Open agentic discretionary trading desk on Hyperliquid — access live positions, AI analysis and copy-trade signals via x402 pay-per-call endpoints, paid with USDC on Base, no API keys needed",
+      "category_tech": "Copy Trading",
+      "category_user": "Copy Trading",
+      "example": "Say: 'Check HL Privateer current positions' or 'Get latest copy-trade signals' or 'Analyze current market risk state'",
+      "user_provides": "Base chain USDC wallet (for x402 micropayments)",
+      "dapps": "Hyperliquid, HL Privateer",
+      "run_mode": "One-time Execution",
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/adwilkinson/hl-privateer-fund"
+    },
+    {
+      "name": "moltrade",
+      "author": "ai-chen2050",
+      "description": "Decentralized automated trading bot — share encrypted trading signals via Nostr network with one-click copy trading, client-side key custody, strategy backtesting, and OpenClaw AI strategy advisor",
+      "category_tech": "Copy Trading",
+      "category_user": "Copy Trading",
+      "example": "Say: 'Configure Moltrade trading bot' or 'Backtest this quant strategy' or 'Subscribe to this trader\\'s encrypted signals for copy trading'",
+      "user_provides": "Exchange API keys, Nostr private key, strategy configuration parameters",
+      "dapps": "Moltrade",
+      "run_mode": "Continuous AI Decision",
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/ai-chen2050/moltrade"
+    },
+    {
+      "name": "coinpilot-hyperliquid-copy-trade",
+      "author": "alannkl",
+      "description": "Automate copy trading on Hyperliquid via Coinpilot — discover and analyze top on-chain traders, mirror their trades in real time with low latency, with risk parameter tuning and performance tracking",
+      "category_tech": "Copy Trading",
+      "category_user": "Copy Trading",
+      "example": "Say: 'Discover top traders on Hyperliquid' or 'Start copy trading this address' or 'Check my copy trading performance'",
+      "user_provides": "Coinpilot API key, Privy user ID, wallet private key",
+      "dapps": "Hyperliquid, Coinpilot",
+      "run_mode": "Continuous AI Decision",
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/alannkl/coinpilot-hyperliquid-copy-trade"
+    },
+    {
+      "name": "polymarket-whale-copier",
+      "author": "cassh100k",
+      "description": "Auto copy-trade winning Polymarket wallets — track whale addresses and mirror bets at configurable percentages, with risk controls (min/max amount, BUY-only mode) and auto-redemption via public APIs",
+      "category_tech": "Copy Trading",
+      "category_user": "Copy Trading",
+      "example": "Say: 'Copy-trade this Polymarket whale wallet at 10%' or 'Set max $50 per trade, BUY-only mode'",
+      "user_provides": "Polymarket wallet private key, target whale wallet address",
+      "dapps": "Polymarket",
+      "run_mode": "Continuous AI Decision",
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/cassh100k/polymarket-whale-copier"
+    },
+    {
+      "name": "zonein",
+      "author": "phutt-bwai",
+      "description": "Zonein smart money intelligence platform tracking top traders with 75%+ win rate on Hyperliquid and Polymarket with one-click copy trading agent creation",
+      "category_tech": "Copy Trading",
+      "category_user": "Copy Trading",
+      "example": "Say: 'Show top Polymarket traders by win rate' or 'Create an agent tracking Hyperliquid smart money'",
+      "user_provides": "Zonein API Key",
+      "dapps": "Polymarket, Hyperliquid",
+      "run_mode": "Continuous AI Decision",
+      "github_url": "https://github.com/phutt-bwai/zonein"
+    },
+    {
+      "name": "clawnalyst",
+      "author": "satoreth",
+      "description": "Clawnalyst AI trading signal leaderboard on Base publishing verified signals (memecoins, perps, Polymarket predictions) with auto-settlement tracking and USDC subscription revenue for top performers",
+      "category_tech": "Copy Trading",
+      "category_user": "Copy Trading",
+      "example": "Say: 'Post a BTC bullish signal' or 'Check my Clawnalyst leaderboard rank and win rate'",
+      "user_provides": "Clawnalyst API Key",
+      "dapps": "Clawnalyst",
+      "run_mode": "Continuous AI Decision",
+      "github_url": "https://github.com/satoreth/clawnalyst"
+    },
+    {
+      "name": "solana-copy-trader",
+      "author": "youthaiagent",
+      "description": "Solana whale copy trading bot using Helius WebSocket for real-time wallet tracking and Jupiter + Pump.fun for trade execution, with paper trading simulation and live modes",
+      "category_tech": "Copy Trading",
+      "category_user": "Copy Trading",
+      "example": "Say: 'Copy trade this whale wallet' or 'Scan Solana arb opportunities'",
+      "user_provides": "Target wallet address, Helius API Key",
+      "dapps": "Jupiter, Pump.fun",
+      "run_mode": "Continuous AI Decision",
+      "github_url": "https://github.com/youthaiagent/solana-copy-trader"
+    },
+    {
+      "name": "send-signal",
+      "author": "13290186019",
+      "description": "Send AI trading decisions to FMZ quantitative trading platform via HTTP API for automated trade signal execution",
+      "category_tech": "Copy Trading",
+      "category_user": "Copy Trading",
+      "example": "Say: \"Send BTC_USDT buy signal to FMZ\" or \"View recent trade signal history\"",
+      "user_provides": "FMZ Robot ID, UUID key",
+      "dapps": "FMZ",
+      "run_mode": "Continuous AI Decision",
+      "github_url": "https://github.com/13290186019/send-signal"
+    },
+    {
+      "name": "wangbo-polymarket-copytrading",
+      "author": "wangbo12bob2-source",
+      "description": "Polymarket copy trading system discovering top traders from leaderboards, analyzing peak cycles, and generating risk-controlled copy plans",
+      "category_tech": "Copy Trading",
+      "category_user": "Copy Trading",
+      "example": "Say: \"Analyze Polymarket leaderboard traders\" or \"Generate copy trading plan\"",
+      "user_provides": "Polymarket account",
+      "dapps": "Polymarket",
+      "run_mode": "Continuous AI Decision",
+      "github_url": "https://github.com/wangbo12bob2-source/wangbo-polymarket-copytrading"
+    }
+  ]
+}
