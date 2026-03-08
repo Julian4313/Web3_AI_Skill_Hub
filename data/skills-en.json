@@ -1726,7 +1726,7 @@
       "category_user": "Crypto Payment",
       "example": "Tell me more about this",
       "user_provides": "Wallet address,Token contract",
-      "dapps": "Aave, DEX, Lending, Bridge",
+      "dapps": "Aave",
       "run_mode": "One-shot",
       "github_url": "https://github.com/humanrupert/tether-wallet-development-kit"
     },
@@ -1786,7 +1786,7 @@
       "category_user": "One-click Swap",
       "example": "Tell me more about this",
       "user_provides": "Wallet address,Token contract,Amount",
-      "dapps": "DEX",
+      "dapps": "",
       "run_mode": "One-shot",
       "github_url": "https://github.com/imthatcarlos/solana-swaps"
     },
@@ -1798,7 +1798,7 @@
       "category_user": "One-click Swap",
       "example": "Tell me more about this",
       "user_provides": "Wallet address,Token contract,Amount",
-      "dapps": "DEX",
+      "dapps": "",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/in-liberty420/solana-easy-swap"
     },
@@ -13738,7 +13738,7 @@
       "category_user": "One-click Swap",
       "example": "Say 'hft-paper-trader' or 'Use hft-paper-trader'",
       "user_provides": "Input parameters, configuration",
-      "dapps": "cosmos, polkadot, Uniswap",
+      "dapps": "Cosmos, polkadot, Uniswap",
       "run_mode": "Continuous AI",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/jamierossouw/hft-paper-trader"
     },
@@ -15034,7 +15034,7 @@
       "category_user": "Market Data",
       "example": "user specifies token address and wallet, usemolt-trustexecute data query operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "base",
+      "dapps": "Base",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/molt-trust"
     },
@@ -15046,7 +15046,7 @@
       "category_user": "Auto Finance",
       "example": "user specifies token address and wallet, usekarmabank-minimalexecute lending protocol operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "base",
+      "dapps": "Base",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/karmabank-minimal"
     },
@@ -15058,7 +15058,7 @@
       "category_user": "Market Data",
       "example": "user specifies token address and wallet, usetest-publishexecute data query operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/test-publish"
     },
@@ -15070,7 +15070,7 @@
       "category_user": "Market Data",
       "example": "user specifies token address and wallet, usesuirollexecute data query operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/suiroll"
     },
@@ -15082,7 +15082,7 @@
       "category_user": "Auto Finance",
       "example": "user specifies token address and wallet, usekarmabank-usdcexecute lending protocol operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "base",
+      "dapps": "Base",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/karmabank-usdc"
     },
@@ -15094,7 +15094,7 @@
       "category_user": "One-click Swap",
       "example": "user specifies token address and wallet, usemintclubexecute DEX trading operations",
       "user_provides": "wallet address, token address, transfer amount",
-      "dapps": "uniswap, curve, base, near",
+      "dapps": "uniswap, curve, Base, NEAR",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/mintclub"
     },
@@ -15106,7 +15106,7 @@
       "category_user": "NFT Player",
       "example": "user specifies token address and wallet, useclawphunksexecute NFT operations",
       "user_provides": "token name, token contract address",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/clawphunks"
     },
@@ -15118,7 +15118,7 @@
       "category_user": "Market Data",
       "example": "user specifies token address and wallet, usebnb-chainexecute data query operations",
       "user_provides": "wallet address, token address, transfer amount",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/bnb-chain"
     },
@@ -15130,7 +15130,7 @@
       "category_user": "NFT Player",
       "example": "user specifies token address and wallet, usefellow-villainsexecute NFT operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "solana, base",
+      "dapps": "Solana, Base",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/fellow-villains"
     },
@@ -15142,7 +15142,7 @@
       "category_user": "Market Data",
       "example": "user specifies token address and wallet, usew3connectexecute data query operations",
       "user_provides": "wallet address, token address",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/w3connect"
     },
@@ -15154,7 +15154,7 @@
       "category_user": "Staking",
       "example": "user specifies token address and wallet, useclawpurseexecute DeFi yield operations",
       "user_provides": "wallet address, token address",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/clawpurse"
     },
@@ -15166,7 +15166,7 @@
       "category_user": "Staking",
       "example": "user specifies token address and wallet, useovercome-problemexecute DeFi yield operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "Continuous AI",
       "github_url": "https://github.com/openclaw/skills/tree/main/overcome-problem"
     },
@@ -15178,7 +15178,7 @@
       "category_user": "Cross-chain Transfer",
       "example": "user specifies token address and wallet, useopenclaw-email-bypassexecute cross-chain bridge operations",
       "user_provides": "token name, token contract address",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/openclaw-email-bypass"
     },
@@ -15190,7 +15190,7 @@
       "category_user": "Cross-chain Transfer",
       "example": "user specifies token address and wallet, usetrizexecute cross-chain bridge operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/triz"
     },
@@ -15202,7 +15202,7 @@
       "category_user": "Market Data",
       "example": "user specifies token address and wallet, usemonarch-moneyexecute data query operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/monarch-money"
     },
@@ -15214,7 +15214,7 @@
       "category_user": "Contract Dev",
       "example": "user specifies token address and wallet, useapp-builderexecute smart contract operations",
       "user_provides": "token name, token contract address",
-      "dapps": "flow",
+      "dapps": "Flow",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/app-builder"
     },
@@ -15226,7 +15226,7 @@
       "category_user": "Contract Dev",
       "example": "user specifies token address and wallet, usebazi-pillars-from-datetimeexecute smart contract operations",
       "user_provides": "contract address, function call parameters",
-      "dapps": "flow",
+      "dapps": "Flow",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/bazi-pillars-from-datetime"
     },
@@ -15238,7 +15238,7 @@
       "category_user": "Cross-chain Transfer",
       "example": "user specifies token address and wallet, useimmich-apiexecute cross-chain bridge operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/immich-api"
     },
@@ -15250,7 +15250,7 @@
       "category_user": "Market Data",
       "example": "user specifies token address and wallet, usestock-fundamentalsexecute data query operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "flow",
+      "dapps": "Flow",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/stock-fundamentals"
     },
@@ -15262,7 +15262,7 @@
       "category_user": "Contract Dev",
       "example": "user specifies token address and wallet, useai-shield-auditexecute smart contract operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/ai-shield-audit"
     },
@@ -15274,7 +15274,7 @@
       "category_user": "Cross-chain Transfer",
       "example": "user specifies token address and wallet, usespacemoltexecute cross-chain bridge operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/spacemolt"
     },
@@ -15286,7 +15286,7 @@
       "category_user": "Market Data",
       "example": "user specifies token address and wallet, useagent-signet-idexecute data query operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "base",
+      "dapps": "Base",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/agent-signet-id"
     },
@@ -15298,7 +15298,7 @@
       "category_user": "Contract Dev",
       "example": "user specifies token address and wallet, useagent-arena-skillexecute smart contract operations",
       "user_provides": "contract address, function call parameters",
-      "dapps": "arbitrum, ethereum, base",
+      "dapps": "Arbitrum, Ethereum, Base",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/agent-arena-skill"
     },
@@ -15310,7 +15310,7 @@
       "category_user": "Staking",
       "example": "user specifies token address and wallet, useclawshakeexecute DeFi yield operations",
       "user_provides": "contract address, function call parameters",
-      "dapps": "ethereum, base",
+      "dapps": "Ethereum, Base",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/clawshake"
     },
@@ -15322,7 +15322,7 @@
       "category_user": "Market Data",
       "example": "user specifies token address and wallet, usesui-agent-walletexecute data query operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/sui-agent-wallet"
     },
@@ -15334,7 +15334,7 @@
       "category_user": "Token Research",
       "example": "user specifies token address and wallet, usestock-strategy-backtesterexecute token analysis operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "base",
+      "dapps": "Base",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/stock-strategy-backtester"
     },
@@ -15346,7 +15346,7 @@
       "category_user": "Token Research",
       "example": "user specifies token address and wallet, usestock-strategy-backtester-cleanexecute token analysis operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "base",
+      "dapps": "Base",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/stock-strategy-backtester-clean"
     },
@@ -15358,7 +15358,7 @@
       "category_user": "Market Data",
       "example": "user specifies token address and wallet, usedropclaw-storeexecute data query operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "base, flow",
+      "dapps": "Base, Flow",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/dropclaw-store"
     },
@@ -15370,7 +15370,7 @@
       "category_user": "Market Data",
       "example": "user specifies token address and wallet, usesec-watcherexecute data query operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "Continuous AI",
       "github_url": "https://github.com/openclaw/skills/tree/main/sec-watcher"
     },
@@ -15382,7 +15382,7 @@
       "category_user": "NFT Player",
       "example": "user specifies token address and wallet, usehumannftexecute NFT operations",
       "user_provides": "wallet address, token address",
-      "dapps": "base",
+      "dapps": "Base",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/humannft"
     },
@@ -15394,7 +15394,7 @@
       "category_user": "Market Data",
       "example": "user specifies token address and wallet, usehashpack-walletexecute data query operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/hashpack-wallet"
     },
@@ -15406,7 +15406,7 @@
       "category_user": "Contract Dev",
       "example": "user specifies token address and wallet, usehedera-tx-builderexecute smart contract operations",
       "user_provides": "contract address, function call parameters",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/hedera-tx-builder"
     },
@@ -15418,7 +15418,7 @@
       "category_user": "One-click Swap",
       "example": "user specifies token address and wallet, usekyberswap-arbitrageexecute DEX trading operations",
       "user_provides": "wallet address, token address, transfer amount",
-      "dapps": "base",
+      "dapps": "Base",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/kyberswap-arbitrage"
     },
@@ -15430,7 +15430,7 @@
       "category_user": "Market Data",
       "example": "user specifies token address and wallet, usexaman-wallet-integrationexecute data query operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "flow",
+      "dapps": "Flow",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/xaman-wallet-integration"
     },
@@ -15442,7 +15442,7 @@
       "category_user": "NFT Player",
       "example": "user specifies token address and wallet, usexrpl-tx-builderexecute NFT operations",
       "user_provides": "wallet address, token address, transfer amount",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/xrpl-tx-builder"
     },
@@ -15454,7 +15454,7 @@
       "category_user": "NFT Player",
       "example": "user specifies token address and wallet, usexrpl-token-snipeexecute NFT operations",
       "user_provides": "token name, token contract address",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "Continuous AI",
       "github_url": "https://github.com/openclaw/skills/tree/main/xrpl-token-snipe"
     },
@@ -15466,7 +15466,7 @@
       "category_user": "NFT Player",
       "example": "user specifies token address and wallet, usehedera-token-mintexecute NFT operations",
       "user_provides": "token name, token contract address",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/hedera-token-mint"
     },
@@ -15478,7 +15478,7 @@
       "category_user": "One-click Swap",
       "example": "user specifies token address and wallet, usesaucerswap-arbitrageexecute DEX trading operations",
       "user_provides": "wallet address, token address, transfer amount",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/saucerswap-arbitrage"
     },
@@ -15490,7 +15490,7 @@
       "category_user": "NFT Player",
       "example": "user specifies token address and wallet, usexrpl-token-mintexecute NFT operations",
       "user_provides": "wallet address, token address, transfer amount",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/xrpl-token-mint"
     },
@@ -15502,7 +15502,7 @@
       "category_user": "Market Data",
       "example": "user specifies token address and wallet, useclawdworkexecute data query operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "Continuous AI",
       "github_url": "https://github.com/openclaw/skills/tree/main/clawdwork"
     },
@@ -15514,7 +15514,7 @@
       "category_user": "Staking",
       "example": "user specifies token address and wallet, usebittensor-sdkexecute DeFi yield operations",
       "user_provides": "token name, token contract address",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "Continuous AI",
       "github_url": "https://github.com/openclaw/skills/tree/main/bittensor-sdk"
     },
@@ -15526,7 +15526,7 @@
       "category_user": "Contract Dev",
       "example": "user specifies token address and wallet, useclawd-zero-trustexecute smart contract operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "base, flow",
+      "dapps": "Base, Flow",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/clawd-zero-trust"
     },
@@ -15538,7 +15538,7 @@
       "category_user": "Cross-chain Transfer",
       "example": "user specifies token address and wallet, usenerve-bridge-skillexecute cross-chain bridge operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/nerve-bridge-skill"
     },
@@ -15550,7 +15550,7 @@
       "category_user": "Auto Finance",
       "example": "user specifies token address and wallet, usezoho-calendarexecute lending protocol operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "base",
+      "dapps": "Base",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/zoho-calendar"
     },
@@ -15562,7 +15562,7 @@
       "category_user": "Auto Finance",
       "example": "user specifies token address and wallet, useacuity-schedulingexecute lending protocol operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "base",
+      "dapps": "Base",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/acuity-scheduling"
     },
@@ -15574,7 +15574,7 @@
       "category_user": "Auto Finance",
       "example": "user specifies token address and wallet, usecalendly-apiexecute lending protocol operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "base, flow",
+      "dapps": "Base, Flow",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/calendly-api"
     },
@@ -15586,7 +15586,7 @@
       "category_user": "Auto Finance",
       "example": "user specifies token address and wallet, usegoogle-calendar-apiexecute lending protocol operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "base",
+      "dapps": "Base",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/google-calendar-api"
     },
@@ -15598,7 +15598,7 @@
       "category_user": "Market Data",
       "example": "user specifies token address and wallet, usexeroexecute data query operations",
       "user_provides": "token name, token contract address",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/xero"
     },
@@ -15610,7 +15610,7 @@
       "category_user": "One-click Swap",
       "example": "user specifies token address and wallet, use acp-job-submitter execute DEX trading operations",
       "user_provides": "token name, token contract address",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/acp-job-submitter"
     },
@@ -15622,7 +15622,7 @@
       "category_user": "One-click Swap",
       "example": "user specifies token address and wallet, usecrypto-trading-bot-playbookexecute DEX trading operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "base",
+      "dapps": "Base",
       "run_mode": "Continuous AI",
       "github_url": "https://github.com/openclaw/skills/tree/main/crypto-trading-bot-playbook"
     },
@@ -15634,7 +15634,7 @@
       "category_user": "One-click Swap",
       "example": "user specifies token address and wallet, use crypto-portfolio-tracker execute DEX trading operations",
       "user_provides": "wallet address, token address",
-      "dapps": "ethereum",
+      "dapps": "Ethereum",
       "run_mode": "Continuous AI",
       "github_url": "https://github.com/openclaw/skills/tree/main/crypto-portfolio-tracker"
     },
@@ -15646,7 +15646,7 @@
       "category_user": "One-click Swap",
       "example": "user specifies token address and wallet, useverdikta-bounties-onboardingexecute DEX trading operations",
       "user_provides": "wallet address, token address",
-      "dapps": "base, flow",
+      "dapps": "Base, Flow",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/verdikta-bounties-onboarding"
     },
@@ -15658,7 +15658,7 @@
       "category_user": "NFT Player",
       "example": "user specifies token address and wallet, usebelong-eventsexecute NFT operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "base",
+      "dapps": "Base",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/belong-events"
     },
@@ -15670,7 +15670,7 @@
       "category_user": "Cross-chain Transfer",
       "example": "user specifies token address and wallet, usemqttasgiexecute cross-chain bridge operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/mqttasgi"
     },
@@ -15682,7 +15682,7 @@
       "category_user": "Cross-chain Transfer",
       "example": "user specifies token address and wallet, usemoreloginexecute cross-chain bridge operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "base",
+      "dapps": "Base",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/morelogin"
     },
@@ -15694,7 +15694,7 @@
       "category_user": "Cross-chain Transfer",
       "example": "user specifies token address and wallet, usekeychatexecute cross-chain bridge operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/keychat"
     },
@@ -15706,7 +15706,7 @@
       "category_user": "Market Data",
       "example": "user specifies token address and wallet, useynab-apiexecute data query operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "flow",
+      "dapps": "Flow",
       "run_mode": "Continuous AI",
       "github_url": "https://github.com/openclaw/skills/tree/main/ynab-api"
     },
@@ -15718,7 +15718,7 @@
       "category_user": "Cross-chain Transfer",
       "example": "user specifies token address and wallet, usegstd-a2a-gridexecute cross-chain bridge operations",
       "user_provides": "wallet address, token address",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/gstd-a2a-grid"
     },
@@ -15730,7 +15730,7 @@
       "category_user": "Cross-chain Transfer",
       "example": "user specifies token address and wallet, usegstdexecute cross-chain bridge operations",
       "user_provides": "wallet address, token address",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/gstd"
     },
@@ -15742,7 +15742,7 @@
       "category_user": "Cross-chain Transfer",
       "example": "user specifies token address and wallet, usegsdt-a2aexecute cross-chain bridge operations",
       "user_provides": "wallet address, token address",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/gsdt-a2a"
     },
@@ -15754,7 +15754,7 @@
       "category_user": "Market Data",
       "example": "user specifies token address and wallet, usebiz-in-a-boxexecute data query operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "flow",
+      "dapps": "Flow",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/biz-in-a-box"
     },
@@ -15766,7 +15766,7 @@
       "category_user": "Auto Finance",
       "example": "user specifies token address and wallet, useindex-cardsexecute lending protocol operations",
       "user_provides": "wallet address, token address",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/index-cards"
     },
@@ -15778,7 +15778,7 @@
       "category_user": "Market Data",
       "example": "user specifies token address and wallet, usehumanos-openclawexecute data query operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/humanos-openclaw"
     },
@@ -15790,7 +15790,7 @@
       "category_user": "Contract Dev",
       "example": "user specifies token address and wallet, usemyvibe-skillsexecute smart contract operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/myvibe-skills"
     },
@@ -15802,7 +15802,7 @@
       "category_user": "Contract Dev",
       "example": "user specifies token address and wallet, usemoltworld-dashboard-deployexecute smart contract operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "base, flow",
+      "dapps": "Base, Flow",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/moltworld-dashboard-deploy"
     },
@@ -15814,7 +15814,7 @@
       "category_user": "Auto Finance",
       "example": "user specifies token address and wallet, useafrexai-meeting-masteryexecute lending protocol operations",
       "user_provides": "wallet address, token address",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "Continuous AI",
       "github_url": "https://github.com/openclaw/skills/tree/main/afrexai-meeting-mastery"
     },
@@ -15826,7 +15826,7 @@
       "category_user": "Market Data",
       "example": "user specifies token address and wallet, useafrexai-exit-strategyexecute data query operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/afrexai-exit-strategy"
     },
@@ -15838,7 +15838,7 @@
       "category_user": "Staking",
       "example": "user specifies token address and wallet, useafrexai-ux-research-engineexecute DeFi yield operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "flow",
+      "dapps": "Flow",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/afrexai-ux-research-engine"
     },
@@ -15850,7 +15850,7 @@
       "category_user": "Contract Dev",
       "example": "user specifies token address and wallet, useafrexai-self-hosting-masteryexecute smart contract operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "Continuous AI",
       "github_url": "https://github.com/openclaw/skills/tree/main/afrexai-self-hosting-mastery"
     },
@@ -15862,7 +15862,7 @@
       "category_user": "Contract Dev",
       "example": "user specifies token address and wallet, useafrexai-web3-engineeringexecute smart contract operations",
       "user_provides": "contract address, function call parameters",
-      "dapps": "base",
+      "dapps": "Base",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/afrexai-web3-engineering"
     },
@@ -15874,7 +15874,7 @@
       "category_user": "Staking",
       "example": "user specifies token address and wallet, useafrexai-data-analystexecute DeFi yield operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "base",
+      "dapps": "Base",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/afrexai-data-analyst"
     },
@@ -15886,7 +15886,7 @@
       "category_user": "Auto Finance",
       "example": "user specifies token address and wallet, useafrexai-franchise-opsexecute lending protocol operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "flow",
+      "dapps": "Flow",
       "run_mode": "Continuous AI",
       "github_url": "https://github.com/openclaw/skills/tree/main/afrexai-franchise-ops"
     },
@@ -15898,7 +15898,7 @@
       "category_user": "Contract Dev",
       "example": "user specifies token address and wallet, usefinancial-trackerexecute smart contract operations",
       "user_provides": "contract address, function call parameters",
-      "dapps": "flow",
+      "dapps": "Flow",
       "run_mode": "Continuous AI",
       "github_url": "https://github.com/openclaw/skills/tree/main/financial-tracker"
     },
@@ -15922,7 +15922,7 @@
       "category_user": "Staking",
       "example": "user specifies token address and wallet, useafrexai-change-managementexecute DeFi yield operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/afrexai-change-management"
     },
@@ -15934,7 +15934,7 @@
       "category_user": "Cross-chain Transfer",
       "example": "user specifies token address and wallet, useafrexai-financial-due-diligenceexecute cross-chain bridge operations",
       "user_provides": "contract address, function call parameters",
-      "dapps": "flow",
+      "dapps": "Flow",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/afrexai-financial-due-diligence"
     },
@@ -15946,7 +15946,7 @@
       "category_user": "Contract Dev",
       "example": "user specifies token address and wallet, useafrexai-contract-reviewexecute smart contract operations",
       "user_provides": "contract address, function call parameters",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/afrexai-contract-review"
     },
@@ -15958,7 +15958,7 @@
       "category_user": "Contract Dev",
       "example": "user specifies token address and wallet, useafrexai-agent-managerexecute smart contract operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "base",
+      "dapps": "Base",
       "run_mode": "Continuous AI",
       "github_url": "https://github.com/openclaw/skills/tree/main/afrexai-agent-manager"
     },
@@ -15970,7 +15970,7 @@
       "category_user": "Contract Dev",
       "example": "user specifies token address and wallet, useafrexai-spend-intelligenceexecute smart contract operations",
       "user_provides": "contract address, function call parameters",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/afrexai-spend-intelligence"
     },
@@ -15982,7 +15982,7 @@
       "category_user": "Contract Dev",
       "example": "user specifies token address and wallet, useafrexai-vendor-evalexecute smart contract operations",
       "user_provides": "contract address, function call parameters",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/afrexai-vendor-eval"
     },
@@ -15994,7 +15994,7 @@
       "category_user": "Contract Dev",
       "example": "user specifies token address and wallet, usesla-monitorexecute smart contract operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "Continuous AI",
       "github_url": "https://github.com/openclaw/skills/tree/main/sla-monitor"
     },
@@ -16006,7 +16006,7 @@
       "category_user": "Staking",
       "example": "user specifies token address and wallet, useafrexai-project-managerexecute DeFi yield operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "Continuous AI",
       "github_url": "https://github.com/openclaw/skills/tree/main/afrexai-project-manager"
     },
@@ -16018,7 +16018,7 @@
       "category_user": "Contract Dev",
       "example": "user specifies token address and wallet, useafrexai-contract-analyzerexecute smart contract operations",
       "user_provides": "contract address, function call parameters",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/afrexai-contract-analyzer"
     },
@@ -16030,7 +16030,7 @@
       "category_user": "Contract Dev",
       "example": "user specifies token address and wallet, useafrexai-performance-engineeringexecute smart contract operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "base",
+      "dapps": "Base",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/afrexai-performance-engineering"
     },
@@ -16042,7 +16042,7 @@
       "category_user": "Market Data",
       "example": "user specifies token address and wallet, useafrexai-fpa-engineexecute data query operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "base, flow",
+      "dapps": "Base, Flow",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/afrexai-fpa-engine"
     },
@@ -16054,7 +16054,7 @@
       "category_user": "Contract Dev",
       "example": "user specifies token address and wallet, useafrexai-partnership-agreementexecute smart contract operations",
       "user_provides": "contract address, function call parameters",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/afrexai-partnership-agreement"
     },
@@ -16066,7 +16066,7 @@
       "category_user": "Contract Dev",
       "example": "user specifies token address and wallet, useafrexai-sre-platformexecute smart contract operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/afrexai-sre-platform"
     },
@@ -16078,7 +16078,7 @@
       "category_user": "Contract Dev",
       "example": "user specifies token address and wallet, useafrexai-procurementexecute smart contract operations",
       "user_provides": "contract address, function call parameters",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/afrexai-procurement"
     },
@@ -16090,7 +16090,7 @@
       "category_user": "Market Data",
       "example": "user specifies token address and wallet, useafrexai-seo-writerexecute data query operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "near",
+      "dapps": "NEAR",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/afrexai-seo-writer"
     },
@@ -16102,7 +16102,7 @@
       "category_user": "Contract Dev",
       "example": "user specifies token address and wallet, useafrexai-revenue-forecastingexecute smart contract operations",
       "user_provides": "contract address, function call parameters",
-      "dapps": "base",
+      "dapps": "Base",
       "run_mode": "Continuous AI",
       "github_url": "https://github.com/openclaw/skills/tree/main/afrexai-revenue-forecasting"
     },
@@ -16114,7 +16114,7 @@
       "category_user": "Contract Dev",
       "example": "user specifies token address and wallet, useafrexai-deal-deskexecute smart contract operations",
       "user_provides": "contract address, function call parameters",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/afrexai-deal-desk"
     },
@@ -16126,7 +16126,7 @@
       "category_user": "Contract Dev",
       "example": "user specifies token address and wallet, useafrexai-ml-engineeringexecute smart contract operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "base, near",
+      "dapps": "Base, NEAR",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/afrexai-ml-engineering"
     },
@@ -16138,7 +16138,7 @@
       "category_user": "Market Data",
       "example": "user specifies token address and wallet, useai-seo-writerexecute data query operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "near",
+      "dapps": "NEAR",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/ai-seo-writer"
     },
@@ -16150,7 +16150,7 @@
       "category_user": "Contract Dev",
       "example": "user specifies token address and wallet, usecontract-reviewerexecute smart contract operations",
       "user_provides": "contract address, function call parameters",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/contract-reviewer"
     },
@@ -16162,7 +16162,7 @@
       "category_user": "Cross-chain Transfer",
       "example": "user specifies token address and wallet, useagent-survival-kitexecute cross-chain bridge operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "Continuous AI",
       "github_url": "https://github.com/openclaw/skills/tree/main/agent-survival-kit"
     },
@@ -16174,7 +16174,7 @@
       "category_user": "Market Data",
       "example": "user specifies token address and wallet, userevenue-trackerexecute data query operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "Continuous AI",
       "github_url": "https://github.com/openclaw/skills/tree/main/revenue-tracker"
     },
@@ -16186,7 +16186,7 @@
       "category_user": "Cross-chain Transfer",
       "example": "user specifies token address and wallet, usesend-signalexecute cross-chain bridge operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/send-signal"
     },
@@ -16210,7 +16210,7 @@
       "category_user": "One-click Swap",
       "example": "Create new token on SURGE and perform transaction",
       "user_provides": "wallet address, token address, API key",
-      "dapps": "Raydium,Curve,SURGE",
+      "dapps": "Raydium, Curve, SURGE",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/sur-pub"
     },
@@ -16222,7 +16222,7 @@
       "category_user": "Community Governance",
       "example": "Use governance to perform automated Web3 operations",
       "user_provides": "token address、API key、price",
-      "dapps": "LOAN,XPR",
+      "dapps": "LOAN, XPR",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/governance"
     },
@@ -16234,7 +16234,7 @@
       "category_user": "Asset Management",
       "example": "Stake assets on LOAN Protocol and borrow token",
       "user_provides": "token address, API key, price",
-      "dapps": "Compound,LOAN,XPR",
+      "dapps": "Compound, LOAN, XPR",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/xpr-lending"
     },
@@ -16282,7 +16282,7 @@
       "category_user": "Dev Tools",
       "example": "use Nostr DVM on decentralized network execute AI computing tasks",
       "user_provides": "wallet address, API key",
-      "dapps": "N/A",
+      "dapps": "",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/2020117"
     },
@@ -16642,7 +16642,7 @@
       "category_user": "Prediction Betting",
       "example": "Create transaction market on Base Sepolia prediction market and transaction YES/NO position",
       "user_provides": "specific parameters",
-      "dapps": "base, maker, usdc",
+      "dapps": "Base, maker, usdc",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/agent-market"
     },
@@ -16654,7 +16654,7 @@
       "category_user": "One-click Swap",
       "example": "Detect cross-exchange price differences and auto execute arbitrage transaction",
       "user_provides": "exchange API key or token symbol",
-      "dapps": "DEX protocols, base, raydium, solana, uniswap, usdt",
+      "dapps": "DEX protocols, Base, raydium, Solana, uniswap, usdt",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/arbitrage-bot"
     },
@@ -16666,7 +16666,7 @@
       "category_user": "NFT Player",
       "example": "Use artwar to perform automated Web3 operations",
       "user_provides": "specific parameters",
-      "dapps": "base, monad",
+      "dapps": "Base, monad",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/artwar"
     },
@@ -16678,7 +16678,7 @@
       "category_user": "Crypto Payment",
       "example": "use x402 and L402 protocol across multiple chain auto pay API fee",
       "user_provides": "wallet and payment parameters",
-      "dapps": "base, solana, usdc",
+      "dapps": "Base, Solana, usdc",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/boltzpay"
     },
@@ -16690,7 +16690,7 @@
       "category_user": "Asset Management",
       "example": "monitor wallet balance and chain activity changes",
       "user_provides": "specific parameters",
-      "dapps": "base, monad",
+      "dapps": "Base, monad",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/clawmon"
     },
@@ -16726,7 +16726,7 @@
       "category_user": "One-click Swap",
       "example": "use DeepSeek AI combining technical indicators analyze cryptocurrency trend",
       "user_provides": "token address and trading parameters",
-      "dapps": "solana",
+      "dapps": "Solana",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/deepseek-trader"
     },
@@ -16738,7 +16738,7 @@
       "category_user": "Community Governance",
       "example": "use Base Sepolia USDC through x402 protocol perform blockchain security scan",
       "user_provides": "wallet address, token name, blockchain network",
-      "dapps": "base, usdc",
+      "dapps": "Base, usdc",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/hackathon"
     },
@@ -16750,7 +16750,7 @@
       "category_user": "One-click Swap",
       "example": "Use paper trader to perform automated Web3 operations",
       "user_provides": "token address and trading parameters",
-      "dapps": "base, weth",
+      "dapps": "Base, weth",
       "run_mode": "Continuous AI",
       "github_url": "https://github.com/openclaw/skills/tree/main/paper-trader"
     },
@@ -16762,7 +16762,7 @@
       "category_user": "Crypto Payment",
       "example": "Use renderful ai to perform automated Web3 operations",
       "user_provides": "specific parameters",
-      "dapps": "base, solana",
+      "dapps": "Base, Solana",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/renderful-ai"
     },
@@ -16774,7 +16774,7 @@
       "category_user": "Asset Management",
       "example": "Use rnwy to perform automated Web3 operations",
       "user_provides": "wallet address",
-      "dapps": "base",
+      "dapps": "Base",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/rnwy"
     },
@@ -16786,7 +16786,7 @@
       "category_user": "Crypto Payment",
       "example": "use EIP-712 signature on SOHO Pay credit layer initiate payment",
       "user_provides": "wallet and payment parameters",
-      "dapps": "base",
+      "dapps": "Base",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/soho-pay"
     },
@@ -16798,7 +16798,7 @@
       "category_user": "Community Governance",
       "example": "Use tracks to perform automated Web3 operations",
       "user_provides": "specific parameters",
-      "dapps": "base, usdc",
+      "dapps": "Base, usdc",
       "run_mode": "Continuous AI",
       "github_url": "https://github.com/openclaw/skills/tree/main/tracks"
     },
@@ -17278,7 +17278,7 @@
       "category_user": "Dev Tools",
       "example": "",
       "user_provides": "wallet address",
-      "dapps": "N/A",
+      "dapps": "",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/pane"
     },
@@ -17290,7 +17290,7 @@
       "category_user": "Prediction Betting",
       "example": "Use polymarket market prices to perform automated Web3 operations",
       "user_provides": "N/A",
-      "dapps": "N/A",
+      "dapps": "",
       "run_mode": "Continuous AI",
       "github_url": "https://github.com/openclaw/skills/tree/main/polymarket-market-prices"
     },
@@ -17302,7 +17302,7 @@
       "category_user": "Market Data",
       "example": "",
       "user_provides": "transaction amount, wallet address",
-      "dapps": "N/A",
+      "dapps": "",
       "run_mode": "Continuous AI",
       "github_url": "https://github.com/openclaw/skills/tree/main/polymarket-portfolio"
     },
@@ -17314,7 +17314,7 @@
       "category_user": "Prediction Betting",
       "example": "Use polymarket election odds to perform automated Web3 operations",
       "user_provides": "N/A",
-      "dapps": "N/A",
+      "dapps": "",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/polymarket-election-odds"
     },
@@ -17350,7 +17350,7 @@
       "category_user": "Market Data",
       "example": "",
       "user_provides": "N/A",
-      "dapps": "N/A",
+      "dapps": "",
       "run_mode": "Continuous AI",
       "github_url": "https://github.com/openclaw/skills/tree/main/telegram-polymarket-alerter"
     },
@@ -17362,7 +17362,7 @@
       "category_user": "One-click Swap",
       "example": "swap 100 USDC for ETH on Uniswap, allow 1% slippage",
       "user_provides": "N/A",
-      "dapps": "N/A",
+      "dapps": "",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/polymarket-volatility-index"
     },
@@ -17374,7 +17374,7 @@
       "category_user": "One-click Swap",
       "example": "swap 100 USDC for ETH on Uniswap, allow 1% slippage",
       "user_provides": "token name, blockchain network, wallet address",
-      "dapps": "N/A",
+      "dapps": "",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/crypto-agent-payments"
     },
@@ -17386,7 +17386,7 @@
       "category_user": "One-click Swap",
       "example": "swap 100 USDC for ETH on Uniswap, allow 1% slippage",
       "user_provides": "N/A",
-      "dapps": "N/A",
+      "dapps": "",
       "run_mode": "Continuous AI",
       "github_url": "https://github.com/openclaw/skills/tree/main/mongo-db"
     },
@@ -17458,7 +17458,7 @@
       "category_user": "Dev Tools",
       "example": "",
       "user_provides": "blockchain network, wallet address",
-      "dapps": "N/A",
+      "dapps": "",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/openclast-wallet"
     },
@@ -17470,7 +17470,7 @@
       "category_user": "Market Data",
       "example": "",
       "user_provides": "token name",
-      "dapps": "N/A",
+      "dapps": "",
       "run_mode": "Continuous AI",
       "github_url": "https://github.com/openclaw/skills/tree/main/openclaw-aisa-market-pulse"
     },
@@ -17482,7 +17482,7 @@
       "category_user": "Contract Dev",
       "example": "",
       "user_provides": "token name, blockchain network, wallet address",
-      "dapps": "N/A",
+      "dapps": "",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/handling-transactions"
     },
@@ -17518,7 +17518,7 @@
       "category_user": "Market Data",
       "example": "",
       "user_provides": "transaction amount, token name, blockchain network",
-      "dapps": "N/A",
+      "dapps": "",
       "run_mode": "Continuous AI",
       "github_url": "https://github.com/openclaw/skills/tree/main/iseclaw-intel"
     },
@@ -17542,7 +17542,7 @@
       "category_user": "Contract Dev",
       "example": "Use monad development to perform automated Web3 operations",
       "user_provides": "target blockchain, wallet address",
-      "dapps": "N/A",
+      "dapps": "",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/monad-development"
     },
@@ -17554,7 +17554,7 @@
       "category_user": "Quant Trading",
       "example": "Use liquidskills to perform automated Web3 operations",
       "user_provides": "token address/name, target blockchain",
-      "dapps": "N/A",
+      "dapps": "",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/liquidskills"
     },
@@ -17566,7 +17566,7 @@
       "category_user": "Quant Trading",
       "example": "execute token swap on Uniswap or PancakeSwap",
       "user_provides": "token address/name, wallet address",
-      "dapps": "N/A",
+      "dapps": "",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/standards"
     },
@@ -17614,7 +17614,7 @@
       "category_user": "Staking",
       "example": "stake ETH or other token get staking yield",
       "user_provides": "target blockchain, wallet address",
-      "dapps": "N/A",
+      "dapps": "",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/qa"
     },
@@ -17626,7 +17626,7 @@
       "category_user": "Dev Tools",
       "example": "usefrontend-uxexecuteWeb3transaction",
       "user_provides": "target blockchain, wallet address",
-      "dapps": "N/A",
+      "dapps": "",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/frontend-ux"
     },
@@ -17650,7 +17650,7 @@
       "category_user": "Dev Tools",
       "example": "usewalletsexecuteWeb3transaction",
       "user_provides": "target blockchain, wallet address",
-      "dapps": "N/A",
+      "dapps": "",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/wallets"
     },
@@ -17674,7 +17674,7 @@
       "category_user": "Prediction Betting",
       "example": "usecrewmind-betsexecuteWeb3transaction",
       "user_provides": "target blockchain, wallet address",
-      "dapps": "N/A",
+      "dapps": "",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/crewmind-bets"
     },
@@ -17698,7 +17698,7 @@
       "category_user": "Cross-chain Transfer",
       "example": "Use cetus to perform automated Web3 operations",
       "user_provides": "wallet address",
-      "dapps": "N/A",
+      "dapps": "",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/cetus"
     },
@@ -17710,7 +17710,7 @@
       "category_user": "Auto Finance",
       "example": "Use stable layer sdk to perform automated Web3 operations",
       "user_provides": "transactionamount、target blockchain, wallet address",
-      "dapps": "N/A",
+      "dapps": "",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/stable-layer-sdk"
     },
@@ -17722,7 +17722,7 @@
       "category_user": "Cross-chain Transfer",
       "example": "Use circle wallet to perform automated Web3 operations",
       "user_provides": "target blockchain, wallet address",
-      "dapps": "N/A",
+      "dapps": "",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/circle-wallet"
     },
@@ -17818,7 +17818,7 @@
       "category_user": "NFT Player",
       "example": "query and transaction NFT assets on OpenSea",
       "user_provides": "target blockchain, wallet address",
-      "dapps": "N/A",
+      "dapps": "",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/skill-zorapro"
     },
@@ -17842,7 +17842,7 @@
       "category_user": "Cross-chain Transfer",
       "example": "use cross-chain bridge transfer token from Ethereum to Arbitrum",
       "user_provides": "transaction amount, token address/name, recipient address, target blockchain",
-      "dapps": "N/A",
+      "dapps": "",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/agentic-commerce-relay"
     },
