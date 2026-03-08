@@ -1,5 +1,5 @@
 {
-  "total": 1520,
+  "total": 1492,
   "generated": "2026-03-08",
   "skills": [
     {
@@ -1210,7 +1210,7 @@
       "category_user": "Asset Management",
       "example": "Tell me more about this",
       "user_provides": "Wallet address,Token contract,NFT contract/ID",
-      "dapps": "",
+      "dapps": "Etherscan, Solana Explorer, Arkham Intelligence, OpenSea, Dune Analytics",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/insider-wallets-finder-kq9nv"
     },
@@ -1222,7 +1222,7 @@
       "category_user": "Asset Management",
       "example": "Tell me more about this",
       "user_provides": "Wallet address,Token contract,NFT contract/ID",
-      "dapps": "",
+      "dapps": "Etherscan, Solana Explorer, Arkham Intelligence, OpenSea, Dune Analytics",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/insider-wallets-finder-mk3w3"
     },
@@ -1234,7 +1234,7 @@
       "category_user": "Asset Management",
       "example": "Tell me more about this",
       "user_provides": "Wallet address,Token contract,NFT contract/ID",
-      "dapps": "",
+      "dapps": "Etherscan, Solana Explorer, Arkham Intelligence, OpenSea, Dune Analytics",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/insider-wallets-finder-ngv64"
     },
@@ -1246,7 +1246,7 @@
       "category_user": "Asset Management",
       "example": "Tell me more about this",
       "user_provides": "Wallet address,Token contract,NFT contract/ID",
-      "dapps": "",
+      "dapps": "Etherscan, Solana Explorer, Arkham Intelligence, OpenSea, Dune Analytics",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/insider-wallets-finder-nq6a9"
     },
@@ -1258,7 +1258,7 @@
       "category_user": "Asset Management",
       "example": "Tell me more about this",
       "user_provides": "Wallet address,Token contract,NFT contract/ID",
-      "dapps": "",
+      "dapps": "Etherscan, Solana Explorer, Arkham Intelligence, OpenSea, Dune Analytics",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/insider-wallets-finder-q9qng"
     },
@@ -1270,7 +1270,7 @@
       "category_user": "Asset Management",
       "example": "Tell me more about this",
       "user_provides": "Wallet address,Token contract,NFT contract/ID",
-      "dapps": "",
+      "dapps": "Etherscan, Solana Explorer, Arkham Intelligence, OpenSea, Dune Analytics",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/insider-wallets-finder-qjkug"
     },
@@ -1282,7 +1282,7 @@
       "category_user": "Asset Management",
       "example": "Tell me more about this",
       "user_provides": "Wallet address,Token contract,NFT contract/ID",
-      "dapps": "",
+      "dapps": "Etherscan, Solana Explorer, Arkham Intelligence, OpenSea, Dune Analytics",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/insider-wallets-finder-r6wya"
     },
@@ -1294,7 +1294,7 @@
       "category_user": "Asset Management",
       "example": "Tell me more about this",
       "user_provides": "Wallet address,Token contract,NFT contract/ID",
-      "dapps": "",
+      "dapps": "Etherscan, Solana Explorer, Arkham Intelligence, OpenSea, Dune Analytics",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/insider-wallets-finder-tivyf"
     },
@@ -1306,7 +1306,7 @@
       "category_user": "Asset Management",
       "example": "Tell me more about this",
       "user_provides": "Wallet address,Token contract,NFT contract/ID",
-      "dapps": "",
+      "dapps": "Etherscan, Solana Explorer, Arkham Intelligence, OpenSea, Dune Analytics",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/insider-wallets-finder-zah8d"
     },
@@ -1318,7 +1318,7 @@
       "category_user": "Asset Management",
       "example": "Tell me more about this",
       "user_provides": "Wallet address,Token contract,NFT contract/ID",
-      "dapps": "",
+      "dapps": "Etherscan, Solana Explorer, Arkham Intelligence, OpenSea, Dune Analytics",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/insider-wallets-finder-zzs2p"
     },
@@ -1750,7 +1750,7 @@
       "category_user": "Dev Tools",
       "example": "Tell me more about this",
       "user_provides": "Wallet address,Token contract,NFT contract/ID",
-      "dapps": "",
+      "dapps": "Pinata, Viem, ERC-8004 Identity Registry",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/iammatthias/pinata-erc-8004"
     },
@@ -1786,7 +1786,7 @@
       "category_user": "One-click Swap",
       "example": "Tell me more about this",
       "user_provides": "Wallet address,Token contract,Amount",
-      "dapps": "",
+      "dapps": "Jupiter",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/imthatcarlos/solana-swaps"
     },
@@ -1798,7 +1798,7 @@
       "category_user": "One-click Swap",
       "example": "Tell me more about this",
       "user_provides": "Wallet address,Token contract,Amount",
-      "dapps": "",
+      "dapps": "Jupiter",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/in-liberty420/solana-easy-swap"
     },
@@ -2069,9 +2069,9 @@
     {
       "name": "aave-liquidation-monitor",
       "author": "jgramajo4",
-      "description": "Proactive monitoring of Aave V3 borrow positions with liquidation alerts. Queries user collateral, debt, and health f...",
+      "description": "Proactive Aave V3 borrow position monitoring with liquidation alerts to Telegram/Discord/Slack when health factor drops.",
       "category_tech": "Lending",
-      "category_user": "Auto Finance",
+      "category_user": "Auto Finance, Liquidation Bot",
       "example": "Say 'query or execute'",
       "user_provides": "wallet address,API key",
       "dapps": "Aave",
@@ -2513,7 +2513,7 @@
     {
       "name": "polymarketagent",
       "author": "lvy19811120-gif",
-      "description": "Advanced Trading Automation - Execute prediction market bets on Polymarket and perpetual futures on Hyperliquid with synchronized position management and risk hedging.",
+      "description": "Cross-platform hedging between Polymarket prediction markets and Hyperliquid perpetual futures.",
       "category_tech": "Prediction Markets",
       "category_user": "Prediction Betting",
       "example": "Say 'Help me ' or 'How to use this'",
@@ -2585,7 +2585,7 @@
     {
       "name": "colony-solana",
       "author": "manylov",
-      "description": "Play Colony game on Solana — buy lands, upgrade, claim $OLO earnings, swap tokens via Jupiter. Full autonomous gameplay with strategy optimization.",
+      "description": "Autonomous gameplay for Solana Colony game: buy land, upgrade, claim OLO token earnings.",
       "category_tech": "DEX Trading",
       "category_user": "One-click Swap",
       "example": "Say 'Help me ' or 'How to use this'",
@@ -2597,7 +2597,7 @@
     {
       "name": "web3-grant-tracker",
       "author": "mariusfit",
-      "description": "Web3 Grant Tracker — Gitcoin, Giveth & DAO Funding Monitor",
+      "description": "Monitor Web3 grant rounds, deadlines, and funding opportunities with eligibility checking.",
       "category_tech": "NFT",
       "category_user": "NFT Player",
       "example": "Say 'Help me ' or 'How to use this'",
@@ -2621,7 +2621,7 @@
     {
       "name": "polymarket-autopilot-experimental",
       "author": "mauonga",
-      "description": "Skill sperimentale per l’analisi automatica di mercati pubblici Polymarket con simulazione paper trading, controllo dei costi LLM e report in italiano con mini-riassunto. ⚠️ Experimental.",
+      "description": "Experimental paper trading on Polymarket with LLM cost control and Italian reporting.",
       "category_tech": "Prediction Markets",
       "category_user": "Prediction Betting",
       "example": "Say 'Help me ' or 'How to use this'",
@@ -2633,7 +2633,7 @@
     {
       "name": "hyperliquid-prime",
       "author": "mehranhydary",
-      "description": "Trade on Hyperliquid's perp markets (native + HIP-3) with intelligent order routing and cross-market splitting.",
+      "description": "Prime broker routing across Hyperliquid native and HIP-3 markets with auto-collateral swaps.",
       "category_tech": "Perpetuals",
       "category_user": "Quant Trading",
       "example": "Say 'Help me ' or 'How to use this'",
@@ -2645,7 +2645,7 @@
     {
       "name": "polymarket-news-monitor",
       "author": "mig6671",
-      "description": "Monitor official Polymarket sources (The Oracle blog, API status) for important updates, security alerts, and breaking news.",
+      "description": "Monitor Polymarket official blog and API health with automatic importance scoring and alerts.",
       "category_tech": "Prediction Markets",
       "category_user": "Prediction Betting",
       "example": "Say 'Help me ' or 'How to use this'",
@@ -2681,7 +2681,7 @@
     {
       "name": "agentcanary",
       "author": "mrcerq",
-      "description": "Market intelligence API for AI agents.",
+      "description": "Market intelligence API with macro regime detection, whale alerts, and trading signals for 1181 assets.",
       "category_tech": "Prediction Markets",
       "category_user": "Prediction Betting",
       "example": "Say 'Help me ' or 'How to use this'",
@@ -2693,9 +2693,9 @@
     {
       "name": "torchliquidationbot",
       "author": "mrsirg97-rgb",
-      "description": "Autonomous vault-based liquidation keeper for Torch Market lending on Solana.",
+      "description": "Autonomous vault-based liquidation keeper for Torch Market lending on Solana. Scans underwater loan positions (LTV > 65%) and executes liquidations for a 10% collateral bonus.",
       "category_tech": "Lending",
-      "category_user": "Auto Finance",
+      "category_user": "Auto Finance, Liquidation Bot",
       "example": "Say 'Help me ' or 'How to use this'",
       "user_provides": "API keys or wallet address, depending on skill",
       "dapps": "Curve, Raydium, Torch Market",
@@ -2705,7 +2705,7 @@
     {
       "name": "torchmarket",
       "author": "mrsirg97-rgb",
-      "description": "Torch Vault is a full-custody on-chain escrow for AI agents on Solana.",
+      "description": "Full-custody vault and self-sustaining token economy on Solana with bonding curves and lending.",
       "category_tech": "DEX Trading",
       "category_user": "One-click Swap",
       "example": "Say 'Help me ' or 'How to use this'",
@@ -2741,9 +2741,9 @@
     {
       "name": "coinversaa-pulse",
       "author": "nazchedz",
-      "description": "Crypto intelligence for AI agents. 26 tools for Hyperliquid trader analytics, behavioral cohorts, live market data, liqu",
+      "description": "Automated on-chain liquidation bot that monitors underwater positions and collects liquidation rewards.",
       "category_tech": "Perpetuals",
-      "category_user": "Quant Trading",
+      "category_user": "Quant Trading, Liquidation Bot",
       "example": "Say 'Help me Crypto intelligence for AI age' or 'How to use this'",
       "user_provides": "API keys or wallet address, depending on skill",
       "dapps": "Hyperliquid",
@@ -2777,7 +2777,7 @@
     {
       "name": "robonet-workbench",
       "author": "nickemmons",
-      "description": "Use Robonet's MCP server to build, backtest, optimize, and deploy trading strategies.",
+      "description": "Build, backtest, and deploy trading strategies on Hyperliquid with Allora ML enhancements.",
       "category_tech": "Prediction Markets",
       "category_user": "Prediction Betting",
       "example": "Say 'Help me ' or 'How to use this'",
@@ -2789,7 +2789,7 @@
     {
       "name": "claw-trader-lite",
       "author": "nickymick8",
-      "description": "To create the file yourself:",
+      "description": "Free read-only market monitoring for Hyperliquid and LN Markets without private keys.",
       "category_tech": "Perpetuals",
       "category_user": "Quant Trading",
       "example": "Say 'Help me ' or 'How to use this'",
@@ -2861,7 +2861,7 @@
     {
       "name": "switchboard-data-operator",
       "author": "oakencore",
-      "description": "Autonomous operator for Switchboard on-demand feeds, Surge streaming, and randomness.",
+      "description": "Design, simulate, and deploy Switchboard on-demand feeds and randomness across multiple chains.",
       "category_tech": "DEX Trading",
       "category_user": "Quant Trading",
       "example": "Say 'Help me ' or 'How to use this'",
@@ -2885,7 +2885,7 @@
     {
       "name": "tip-with-grove",
       "author": "olshansk",
-      "description": "Grove CLI guide - philosophy, commands, and quick start",
+      "description": "Grove CLI for sending micro-tips as quality signals to creators using x402 payments.",
       "category_tech": "Infrastructure",
       "category_user": "Dev Tools",
       "example": "Say 'Help me Grove CLI guide - philosophy, ' or 'How to use this'",
@@ -2897,7 +2897,7 @@
     {
       "name": "safe-multisig",
       "author": "openclaw-consensus-bot",
-      "description": "Propose, confirm, and execute Safe multisig transactions using the Safe{Core} SDK (protocol-kit v6 / api-kit v4).",
+      "description": "Create, propose, confirm, and execute Safe multisig transactions with TypeScript SDK.",
       "category_tech": "Infrastructure",
       "category_user": "Dev Tools",
       "example": "Say 'Help me ' or 'How to use this'",
@@ -2909,7 +2909,7 @@
     {
       "name": "safe-multisig-skill",
       "author": "openclaw-consensus-bot",
-      "description": "Propose, confirm, and execute Safe multisig transactions using the Safe{Core} SDK (protocol-kit v6 / api-kit v4).",
+      "description": "TypeScript-strict scripts for Safe multisig management across EVM chains via Safe{Core} SDK.",
       "category_tech": "Infrastructure",
       "category_user": "Dev Tools",
       "example": "Say 'Help me ' or 'How to use this'",
@@ -2921,7 +2921,7 @@
     {
       "name": "uniswap-v4",
       "author": "openclaw-consensus-bot",
-      "description": "Swap tokens and read pool state on Uniswap V4 (Base, Ethereum).",
+      "description": "Swap tokens and read pool state on Uniswap V4 with TypeScript strict typing and slippage protection.",
       "category_tech": "DEX Trading",
       "category_user": "One-click Swap",
       "example": "Say 'Help me ' or 'How to use this'",
@@ -2993,7 +2993,7 @@
     {
       "name": "31third-safe-rebalancer",
       "author": "phips0812",
-      "description": "31Third Safe Rebalancer Prerequisites",
+      "description": "Monitor and rebalance Gnosis Safe portfolios with policy-aware execution via 31Third ExecutorModule.",
       "category_tech": "DEX Trading",
       "category_user": "One-click Swap",
       "example": "Say 'execute' or 'help me'",
@@ -3007,17 +3007,17 @@
       "author": "phutt-bwai",
       "description": "Zonein — Smart Money Intelligence Setup",
       "category_tech": "Infrastructure",
-      "category_user": "Dev Tools",
+      "category_user": "Quant Trading",
       "example": "Say 'execute' or 'help me'",
       "user_provides": "Wallet address, chain ID",
-      "dapps": "",
+      "dapps": "Zonein, Hyperliquid, Polymarket",
       "run_mode": "Continuous AI",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/phutt-bwai/zonein"
     },
     {
       "name": "vincent-agent-wallet",
       "author": "piperwallet",
-      "description": "Vincent - A wallet for agents Which Wall",
+      "description": "Smart account wallet for agents with ERC-4337, sponsored gas, token swaps, Polymarket betting, and spending policies.",
       "category_tech": "Wallet Management",
       "category_user": "Asset Management",
       "example": "Say 'execute' or 'help me'",
@@ -3034,7 +3034,7 @@
       "category_user": "Prediction Betting",
       "example": "Say 'execute' or 'help me'",
       "user_provides": "Wallet address, chain ID",
-      "dapps": "",
+      "dapps": "Polymarket",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/pipethedev/polyclaw"
     },
@@ -3046,7 +3046,7 @@
       "category_user": "Asset Management",
       "example": "Say 'execute' or 'help me'",
       "user_provides": "Wallet address, chain ID",
-      "dapps": "",
+      "dapps": "Pump.fun",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/pissdart/gank-solana-bundler"
     },
@@ -3058,7 +3058,7 @@
       "category_user": "Market Data",
       "example": "Say 'execute' or 'help me'",
       "user_provides": "Wallet address, chain ID",
-      "dapps": "",
+      "dapps": "Pump.fun",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/playdadev/pump-fun"
     },
@@ -3066,11 +3066,11 @@
       "name": "renzo",
       "author": "pooleja",
       "description": "Renzo Protocol When to Use",
-      "category_tech": "DeFi Yield",
-      "category_user": "Auto Finance",
+      "category_tech": "Infrastructure",
+      "category_user": "Dev Tools",
       "example": "Say 'execute' or 'help me'",
       "user_provides": "Wallet address, chain ID",
-      "dapps": "",
+      "dapps": "Renzo",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/pooleja/renzo"
     },
@@ -3078,11 +3078,11 @@
       "name": "trendsdotfun",
       "author": "poploli2",
       "description": "name: trends-coin-create",
-      "category_tech": "Infrastructure",
-      "category_user": "Dev Tools",
+      "category_tech": "DEX Trading",
+      "category_user": "Token Launch",
       "example": "Say 'execute' or 'help me'",
       "user_provides": "Wallet address, chain ID",
-      "dapps": "",
+      "dapps": "Trends.fun, Meteora",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/poploli2/trendsdotfun"
     },
@@ -3090,11 +3090,11 @@
       "name": "slv-grpc-geyser",
       "author": "poppin-fumi",
       "description": "SLV gRPC Geyser Skill Supported Configur",
-      "category_tech": "Smart Contracts",
-      "category_user": "Contract Dev",
+      "category_tech": "Infrastructure",
+      "category_user": "Dev Tools",
       "example": "Say 'execute' or 'help me'",
       "user_provides": "Wallet address, chain ID",
-      "dapps": "",
+      "dapps": "Solana",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/poppin-fumi/slv-grpc-geyser"
     },
@@ -3102,11 +3102,11 @@
       "name": "slv-rpc",
       "author": "poppin-fumi",
       "description": "SLV RPC Skill Supported RPC Types",
-      "category_tech": "Smart Contracts",
-      "category_user": "Contract Dev",
+      "category_tech": "Infrastructure",
+      "category_user": "Dev Tools",
       "example": "Say 'execute' or 'help me'",
       "user_provides": "Wallet address, chain ID",
-      "dapps": "",
+      "dapps": "Solana",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/poppin-fumi/slv-rpc"
     },
@@ -3114,11 +3114,11 @@
       "name": "slv-validator",
       "author": "poppin-fumi",
       "description": "SLV Validator Skill Supported Validator",
-      "category_tech": "Smart Contracts",
-      "category_user": "Contract Dev",
+      "category_tech": "Infrastructure",
+      "category_user": "Dev Tools",
       "example": "Say 'execute' or 'help me'",
       "user_provides": "Wallet address, chain ID",
-      "dapps": "",
+      "dapps": "Solana",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/poppin-fumi/slv-validator"
     },
@@ -3142,7 +3142,7 @@
       "category_user": "Market Data",
       "example": "Say 'execute' or 'help me'",
       "user_provides": "Wallet address, chain ID",
-      "dapps": "Gnosis Safe",
+      "dapps": "Uniswap, Aave",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/procaross/aicoin"
     },
@@ -3166,7 +3166,7 @@
       "category_user": "Contract Dev",
       "example": "Say 'execute' or 'help me'",
       "user_provides": "Wallet address, chain ID",
-      "dapps": "",
+      "dapps": "多链RPC",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/ramitphi/on-chain-analyitcs"
     },
@@ -3178,7 +3178,7 @@
       "category_user": "One-click Swap",
       "example": "Say 'execute' or 'help me'",
       "user_provides": "Wallet address, chain ID",
-      "dapps": "",
+      "dapps": "Uniswap, Curve, Balancer",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/re-bruce-wayne/trade-router"
     },
@@ -3190,7 +3190,7 @@
       "category_user": "Prediction Betting",
       "example": "Say 'execute' or 'help me'",
       "user_provides": "Wallet address, chain ID",
-      "dapps": "",
+      "dapps": "PMXT",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/realfishsam/molt-pmxt"
     },
@@ -3202,7 +3202,7 @@
       "category_user": "One-click Swap",
       "example": "Say 'execute' or 'help me'",
       "user_provides": "Wallet address, chain ID",
-      "dapps": "",
+      "dapps": "Vultisig",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/realpaaao/vultisig-sdk"
     },
@@ -3214,7 +3214,7 @@
       "category_user": "Prediction Betting",
       "example": "Say 'execute' or 'help me'",
       "user_provides": "Wallet address, chain ID",
-      "dapps": "",
+      "dapps": "Polymarket",
       "run_mode": "Continuous AI",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/redrepz/polymarketbot"
     },
@@ -3238,7 +3238,7 @@
       "category_user": "Cross-chain Transfer",
       "example": "Say 'execute' or 'help me'",
       "user_provides": "Wallet address, chain ID",
-      "dapps": "",
+      "dapps": "Li.Fi",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/rhlsthrm/lifi-orchestrator"
     },
@@ -3250,7 +3250,7 @@
       "category_user": "Market Data",
       "example": "Say 'execute' or 'help me'",
       "user_provides": "Wallet address, chain ID",
-      "dapps": "Gnosis Safe",
+      "dapps": "Reef",
       "run_mode": "Continuous AI",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/rimelucci/reef-memecoin-scanner"
     },
@@ -3262,7 +3262,7 @@
       "category_user": "One-click Swap",
       "example": "Say 'execute' or 'help me'",
       "user_provides": "Wallet address, chain ID",
-      "dapps": "",
+      "dapps": "Reef",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/rimelucci/reef-paper-trader"
     },
@@ -3274,7 +3274,7 @@
       "category_user": "Prediction Betting",
       "example": "Say 'execute' or 'help me'",
       "user_provides": "Wallet address, chain ID",
-      "dapps": "",
+      "dapps": "Polymarket",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/rimelucci/reef-polymarket-arb"
     },
@@ -3286,7 +3286,7 @@
       "category_user": "Prediction Betting",
       "example": "Say 'execute' or 'help me'",
       "user_provides": "Wallet address, chain ID",
-      "dapps": "",
+      "dapps": "Polymarket",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/rimelucci/reef-polymarket-research"
     },
@@ -3298,7 +3298,7 @@
       "category_user": "Prediction Betting",
       "example": "Say 'execute' or 'help me'",
       "user_provides": "Wallet address, chain ID",
-      "dapps": "",
+      "dapps": "Polymarket",
       "run_mode": "Continuous AI",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/robotlearning123/polymarket-paper-trader"
     },
@@ -3310,14 +3310,14 @@
       "category_user": "One-click Swap",
       "example": "Say 'execute' or 'help me'",
       "user_provides": "Wallet address, chain ID",
-      "dapps": "",
+      "dapps": "OpenSea, Blur, Magic Eden",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/sa9saq/bankr-trading"
     },
     {
       "name": "defi-optimizer",
       "author": "sa9saq",
-      "description": "DeFi yield optimization with AAVE, Compound, Curve, Yearn. Safe stablecoin strategies, risk management, auto-rebalancing. High risk - requires supervisor approval.",
+      "description": "Optimize DeFi yields across AAVE, Compound, Curve, Yearn with auto-rebalancing and risk management.",
       "category_tech": "DeFi Yield",
       "category_user": "Auto Finance",
       "example": "Say 'execute' or 'help me'",
@@ -3329,7 +3329,7 @@
     {
       "name": "rey-polymarket-trader",
       "author": "sa9saq",
-      "description": "Polymarket prediction market trading. Browse markets, place bets, manage positions. Split+CLOB strategy with hedge discovery.",
+      "description": "Trade Polymarket prediction markets with Split+CLOB strategy, hedge discovery, and portfolio management.",
       "category_tech": "Prediction Markets",
       "category_user": "Prediction Betting",
       "example": "Say 'execute' or 'help me'",
@@ -3341,7 +3341,7 @@
     {
       "name": "insider-wallets-finder",
       "author": "sakaen736jih",
-      "description": "Insider Wallets Finder Overview",
+      "description": "Identify profitable on-chain addresses: early buyers, whale accumulation, DEX traders, NFT flippers.",
       "category_tech": "DEX Trading",
       "category_user": "One-click Swap",
       "example": "Say 'execute' or 'help me'",
@@ -3353,7 +3353,7 @@
     {
       "name": "metamask",
       "author": "sakaen736jih",
-      "description": "MetaMask Wallet Installation",
+      "description": "MetaMask wallet setup including custom networks, token imports, gas settings, and dApp permissions.",
       "category_tech": "Wallet Management",
       "category_user": "Asset Management",
       "example": "Say 'execute' or 'help me'",
@@ -3365,7 +3365,7 @@
     {
       "name": "clawnalyst",
       "author": "satoreth",
-      "description": "Clawnalyst — AI Trading Signal Leaderboa",
+      "description": "Post trading signals to Clawnalyst leaderboard with auto-settlement, win-rate tracking, and subscriber revenue.",
       "category_tech": "Payment Tools",
       "category_user": "Crypto Payment",
       "example": "Say 'execute' or 'help me'",
@@ -3377,7 +3377,7 @@
     {
       "name": "polyedge",
       "author": "sbaker5",
-      "description": "Polymarket Correlation Analyzer What It",
+      "description": "Detect mispriced correlations between Polymarket prediction markets for cross-market arbitrage opportunities.",
       "category_tech": "Prediction Markets",
       "category_user": "Prediction Betting",
       "example": "Say 'execute' or 'help me'",
@@ -3389,7 +3389,7 @@
     {
       "name": "presage",
       "author": "seenfinity",
-      "description": "📊 Presage — AI Prediction Market Analysi",
+      "description": "Analyze Presage/Kalshi prediction markets on Solana with AI-powered insights and opportunity detection.",
       "category_tech": "Prediction Markets",
       "category_user": "Prediction Betting",
       "example": "Say 'execute' or 'help me'",
@@ -3401,7 +3401,7 @@
     {
       "name": "gekko-yield",
       "author": "sergey1997",
-      "description": "Gekko Yield — Earn safe yield on USDC Wh",
+      "description": "Earn 4-6% APY on USDC via Moonwell Flagship vault on Base with auto-compounding and position tracking.",
       "category_tech": "DeFi Yield",
       "category_user": "Auto Finance",
       "example": "Say 'execute' or 'help me'",
@@ -3418,14 +3418,14 @@
       "category_user": "Prediction Betting",
       "example": "Say 'execute' or 'help me'",
       "user_provides": "Wallet address, chain ID",
-      "dapps": "",
+      "dapps": "Polymarket",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/sidshekhar/askgina-polymarket"
     },
     {
       "name": "prediction-markets-gina",
       "author": "sidshekhar",
-      "description": "Polymarket via Gina Use This Skill For",
+      "description": "Trade Polymarket via Gina MCP with natural language search, limit orders, automation recipes, and position tracking.",
       "category_tech": "Prediction Markets",
       "category_user": "Prediction Betting",
       "example": "Say 'execute' or 'help me'",
@@ -3437,7 +3437,7 @@
     {
       "name": "ape-claw",
       "author": "simplefarmer69",
-      "description": "Ape Claw 0. Canonical URLs",
+      "description": "Bridge funds to ApeChain and buy NFTs with Clanker protocol, confirm phrases, and spending policy gates.",
       "category_tech": "NFT",
       "category_user": "NFT Player",
       "example": "Say 'execute' or 'help me'",
@@ -3449,7 +3449,7 @@
     {
       "name": "bank-skills",
       "author": "singularityhacker",
-      "description": "Bank Skill Purpose",
+      "description": "Traditional banking via Wise API for international transfers and on-chain token swaps on Base via Uniswap.",
       "category_tech": "DEX Trading",
       "category_user": "One-click Swap",
       "example": "Say 'execute' or 'help me'",
@@ -3461,7 +3461,7 @@
     {
       "name": "monolith",
       "author": "slaviquee",
-      "description": "Monolith — Crypto Wallet Skill Commands",
+      "description": "Secure wallet for agents using Apple Secure Enclave, ERC-4337 smart account, on-chain spending caps, policy engine.",
       "category_tech": "DEX Trading",
       "category_user": "One-click Swap",
       "example": "Say 'execute' or 'help me'",
@@ -3473,7 +3473,7 @@
     {
       "name": "moltrock",
       "author": "sloof13",
-      "description": "MoltRock — The BlackRock for the Agent I",
+      "description": "Pool USDC in autonomous hedge fund with proportional vault shares, compounding yields, meritocratic governance.",
       "category_tech": "DeFi Yield",
       "category_user": "Auto Finance",
       "example": "Say 'execute' or 'help me'",
@@ -3485,7 +3485,7 @@
     {
       "name": "prediction-bridge-dev",
       "author": "smallyunet",
-      "description": "Usage scenarios (when to use) Configurat",
+      "description": "Search prediction market events across platforms by text, URL, or X/Twitter link via Prediction Bridge API.",
       "category_tech": "Prediction Markets",
       "category_user": "Prediction Betting",
       "example": "Say 'bridge funds' or 'transfer'",
@@ -3497,7 +3497,7 @@
     {
       "name": "clawlaunch",
       "author": "smokealot420",
-      "description": "ClawLaunch What This Is",
+      "description": "Launch AI agent tokens on Base bonding curve with 95% creator fees, auto-graduation to Uniswap V4.",
       "category_tech": "Smart Contracts",
       "category_user": "Contract Dev, Token Launch",
       "example": "Say 'execute' or 'help me'",
@@ -3509,7 +3509,7 @@
     {
       "name": "solana-skills",
       "author": "spendit-ai",
-      "description": "Solana Wallet ◎ Setup",
+      "description": "Solana wallet operations with Jupiter swaps, token transfers, and Pump.fun token launches with dev buys.",
       "category_tech": "DEX Trading",
       "category_user": "One-click Swap",
       "example": "Say 'execute' or 'help me'",
@@ -3521,7 +3521,7 @@
     {
       "name": "clanker",
       "author": "spirosrap",
-      "description": "Clanker Skill Setup",
+      "description": "Deploy ERC20 tokens on Base using Clanker protocol with built-in Uniswap V4 liquidity pools.",
       "category_tech": "DEX Trading",
       "category_user": "One-click Swap",
       "example": "Say 'execute' or 'help me'",
@@ -3533,7 +3533,7 @@
     {
       "name": "zapper",
       "author": "spirosrap",
-      "description": "Zapper Skill Quick Start",
+      "description": "Query DeFi portfolio data, token balances, DeFi positions, NFT holdings, prices across 50+ chains via Zapper API.",
       "category_tech": "NFT",
       "category_user": "NFT Player",
       "example": "Say 'execute' or 'help me'",
@@ -3545,7 +3545,7 @@
     {
       "name": "polymarket-auto-trader",
       "author": "srikanthbellary",
-      "description": "Polymarket Auto-Trader Prerequisites",
+      "description": "Autonomous Polymarket trading with LLM probability evaluation, Kelly criterion sizing, CLOB execution from non-US VPS.",
       "category_tech": "Prediction Markets",
       "category_user": "Prediction Betting",
       "example": "Say 'execute' or 'help me'",
@@ -3557,7 +3557,7 @@
     {
       "name": "solana-sniper-bot",
       "author": "srikanthbellary",
-      "description": "Solana Sniper Bot Prerequisites",
+      "description": "Monitor Raydium/Jupiter launches, evaluate rugpull risk with LLM, auto-buy promising tokens with exit strategies.",
       "category_tech": "DEX Trading",
       "category_user": "Quant Trading",
       "example": "Say 'execute' or 'help me'",
@@ -3569,7 +3569,7 @@
     {
       "name": "trade-validation",
       "author": "staybased",
-      "description": "Score prediction market trades using 10-dimension weighted framework enforcing disciplined position sizing, circuit breakers, and mandatory counter-arguments to ensure trade confidence",
+      "description": "10-dimension weighted scoring framework for disciplined prediction market trade evaluation.",
       "category_tech": "Prediction Markets",
       "category_user": "Prediction Betting",
       "example": "Say 'Score this Polymarket trade' or 'Evaluate Kalshi position'",
@@ -3581,7 +3581,7 @@
     {
       "name": "clawearn",
       "author": "stonega",
-      "description": "Trade Polymarket prediction markets through OpenClaw bots. Manage crypto wallets, transfer USDC on Arbitrum, monitor balances, and execute autonomous trading strategies programmatically",
+      "description": "Modular prediction market trading platform for Polymarket with wallet and USDC transfers.",
       "category_tech": "Prediction Markets",
       "category_user": "Prediction Betting",
       "example": "Say 'Trade on Polymarket' or 'Create wallet'",
@@ -3593,7 +3593,7 @@
     {
       "name": "perp-lobster",
       "author": "thisnewmark",
-      "description": "Trade perpetual futures on Hyperliquid DEX with market and limit orders, configure leverage, and run automated bot strategies including grid trading and market making",
+      "description": "Place orders and run automated bots on Hyperliquid with web dashboard for perps trading.",
       "category_tech": "Perpetuals",
       "category_user": "Quant Trading",
       "example": "Say 'long 50 HYPE' or 'short 100 ETH at 1900'",
@@ -3605,7 +3605,7 @@
     {
       "name": "clawpump",
       "author": "tomi204",
-      "description": "Launch tokens gasless on Solana via pump.fun, earn fee share from trading volume, swap tokens across DEXes using Jupiter, and monitor token performance in real-time",
+      "description": "Gasless token launch on Solana pump.fun with cross-DEX arbitrage scanning and Jupiter swaps.",
       "category_tech": "DEX Trading",
       "category_user": "One-click Swap",
       "example": "Say 'Launch a token' or 'Swap tokens'",
@@ -3617,7 +3617,7 @@
     {
       "name": "trading-brain",
       "author": "travislius",
-      "description": "Execute aggressive trading strategies leveraging information advantage to identify next-wave investment opportunities before mainstream market adoption and retail FOMO",
+      "description": "Load trading mental models, information edge scanning, and next-wave position identification.",
       "category_tech": "Prediction Markets",
       "category_user": "Prediction Betting",
       "example": "Say 'Scan next wave' or 'Research opportunity'",
@@ -3629,7 +3629,7 @@
     {
       "name": "wzrd",
       "author": "twzrd-sol",
-      "description": "Trade creator attention metrics on Solana parimutuel prediction markets specifically designed for AI agents running strategies 24/7 continuously",
+      "description": "Parimutuel prediction markets on Solana for creator behavior with snapshot-anchored oracle settlement.",
       "category_tech": "Prediction Markets",
       "category_user": "Prediction Betting",
       "example": "Say 'Trade creator metrics' or 'Place position'",
@@ -3641,7 +3641,7 @@
     {
       "name": "polymarket-sdk",
       "author": "tyhouch",
-      "description": "Browse and search Polymarket US prediction markets, check market prices and odds, view portfolio positions, place and cancel trades, get settlement details",
+      "description": "Python SDK for browsing and trading Polymarket prediction markets with order management.",
       "category_tech": "Prediction Markets",
       "category_user": "Prediction Betting",
       "example": "Say 'Search Polymarket' or 'Check market prices'",
@@ -3653,7 +3653,7 @@
     {
       "name": "alpha-finder",
       "author": "tzannetosgiannis",
-      "description": "Research and analyze prediction markets across Polymarket and Kalshi platforms for probability assessments, market inefficiencies, and profitable arbitrage opportunities",
+      "description": "AI-powered market intelligence for Polymarket and Kalshi research via x402 payments.",
       "category_tech": "Prediction Markets",
       "category_user": "Prediction Betting",
       "example": "Say 'Find market alpha' or 'Analyze arbitrage'",
@@ -3665,7 +3665,7 @@
     {
       "name": "carbium",
       "author": "ukkometa",
-      "description": "Solana infrastructure providing RPC calls, real-time streaming via Yellowstone, DEX swap quotes and execution, and pump.fun token sniping with low-latency data",
+      "description": "Full-stack Solana infra: RPC, gRPC streams, DEX quotes, swaps, Jito bundles, and sniping.",
       "category_tech": "Infrastructure",
       "category_user": "Dev Tools",
       "example": "Say 'Execute Solana swap' or 'Snipe token'",
@@ -3677,7 +3677,7 @@
     {
       "name": "agentwallet-sdk",
       "author": "up2itnow",
-      "description": "Non-custodial wallet management for autonomous agents with x402 payments, CCTP V2 cross-chain bridging, and Uniswap V3 token swaps without holding user keys",
+      "description": "Non-custodial wallet SDK for agents with x402 payments, CCTP bridging, and Uniswap V3 swaps.",
       "category_tech": "DEX Trading",
       "category_user": "One-click Swap",
       "example": "Say 'Bridge tokens' or 'Swap via Uniswap'",
@@ -3689,7 +3689,7 @@
     {
       "name": "signalradar",
       "author": "vahnxu",
-      "description": "Monitor blockchain signals and detect trading opportunities from on-chain activity patterns and market movements continuously in real-time",
+      "description": "Monitor Polymarket probability changes with configurable thresholds and multi-channel alerts.",
       "category_tech": "Prediction Markets",
       "category_user": "Prediction Betting",
       "example": "Say 'Monitor signals' or 'Detect opportunities'",
@@ -3701,7 +3701,7 @@
     {
       "name": "openclaw-bot-prob-trade",
       "author": "vlprosvirkin",
-      "description": "Trade prediction markets with probability-based analysis integrated into OpenClaw bot platform for autonomous market decision making",
+      "description": "Autonomous trading bot for Polymarket with pluggable strategies, risk limits, and dry-run mode.",
       "category_tech": "Prediction Markets",
       "category_user": "Prediction Betting",
       "example": "Say 'Execute probability trade' or 'Analyze odds'",
@@ -3713,7 +3713,7 @@
     {
       "name": "openclaw-skill-publish",
       "author": "vlprosvirkin",
-      "description": "Publish OpenClaw skills and deploy autonomous trading bots on the OpenClaw platform with version control and configuration management",
+      "description": "Publish and manage OpenClaw skills platform for bot automation and deployment.",
       "category_tech": "Prediction Markets",
       "category_user": "Prediction Betting",
       "example": "Say 'Publish skill' or 'Deploy bot'",
@@ -3725,7 +3725,7 @@
     {
       "name": "prob-trade-polymarket-analytics",
       "author": "vlprosvirkin",
-      "description": "Analyze Polymarket prediction markets with probability metrics, odds tracking over time, and detailed trading analytics for informed decision making",
+      "description": "Real-time Polymarket intelligence via prob.trade: hot markets, top traders, price movements.",
       "category_tech": "Prediction Markets",
       "category_user": "Prediction Betting",
       "example": "Say 'Analyze Polymarket' or 'Track odds'",
@@ -3737,7 +3737,7 @@
     {
       "name": "zerion-api-skill-2",
       "author": "vshamanov",
-      "description": "Query DeFi portfolio data, check account balances, and analyze positions across multiple protocols using Zerion API integration",
+      "description": "Query web3 wallet portfolios, DeFi positions, NFTs, transaction history, and PnL via Zerion API.",
       "category_tech": "Wallet Management",
       "category_user": "Asset Management",
       "example": "Say 'Check portfolio' or 'Analyze positions'",
@@ -3749,7 +3749,7 @@
     {
       "name": "meme-signal",
       "author": "weidadong2359",
-      "description": "Detect meme token signals and trading opportunities from social media sources and on-chain metrics for emerging token identification",
+      "description": "Free meme coin signal scanner with 0-100 scoring and risk assessment across multiple DEXes.",
       "category_tech": "Infrastructure",
       "category_user": "Dev Tools",
       "example": "Say 'Detect meme signals' or 'Find opportunities'",
@@ -3761,7 +3761,7 @@
     {
       "name": "wof-predict",
       "author": "wof-developers",
-      "description": "Generate market predictions and forecasts for cryptocurrency price movements to support trading decisions and timing",
+      "description": "Predict ETH/BTC/SOL prices on Base with USDC stakes and Chainlink oracle settlement.",
       "category_tech": "Prediction Markets",
       "category_user": "Prediction Betting",
       "example": "Say 'Generate forecast' or 'Predict movement'",
@@ -3773,7 +3773,7 @@
     {
       "name": "agent-otc-trade",
       "author": "wpank",
-      "description": "Execute over-the-counter token trades and direct swaps between parties outside of standard DEX protocols for negotiated pricing",
+      "description": "Verify counterparty identity and settle OTC trades via Uniswap pools",
       "category_tech": "DEX Trading",
       "category_user": "One-click Swap",
       "example": "Say 'Execute OTC trade' or 'Direct swap'",
@@ -3785,7 +3785,7 @@
     {
       "name": "analyze-burn-economics",
       "author": "wpank",
-      "description": "Analyze token burn economics and tokenomics structure to evaluate project fundamentals and long-term token sustainability",
+      "description": "Analyze Firepit burn profitability, fee trends, and governance metrics",
       "category_tech": "DEX Trading",
       "category_user": "One-click Swap",
       "example": "Say 'Analyze burn rate' or 'Review tokenomics'",
@@ -3797,7 +3797,7 @@
     {
       "name": "analyze-pool",
       "author": "wpank",
-      "description": "Analyze liquidity pool composition, identify profitable trading opportunities, and optimize fee structures across DEX platforms",
+      "description": "Analyze pool TVL, fee APY, liquidity depth, and risk factors",
       "category_tech": "DEX Trading",
       "category_user": "One-click Swap",
       "example": "Say 'Analyze pool' or 'Check liquidity'",
@@ -3809,7 +3809,7 @@
     {
       "name": "assess-risk",
       "author": "wpank",
-      "description": "Assess and quantify trading risks, portfolio exposure, and potential downside scenarios systematically using risk models",
+      "description": "Evaluate slippage, IL, liquidity, contract, and bridge risks with APPROVE/VETO",
       "category_tech": "DEX Trading",
       "category_user": "One-click Swap",
       "example": "Say 'Assess risk' or 'Evaluate exposure'",
@@ -3821,7 +3821,7 @@
     {
       "name": "batch-swap",
       "author": "wpank",
-      "description": "Execute batch token swaps across multiple DEX pools simultaneously for optimal pricing and minimum slippage",
+      "description": "Execute multiple token swaps sequentially with independent safety checks",
       "category_tech": "DEX Trading",
       "category_user": "One-click Swap",
       "example": "Say 'Batch swap' or 'Multi-pool swap'",
@@ -3833,7 +3833,7 @@
     {
       "name": "build-hook",
       "author": "wpank",
-      "description": "Build and deploy smart contract hooks for Uniswap V4 and other advanced protocol integrations for custom trading logic",
+      "description": "Build production-ready Uniswap V4 hooks with Foundry tests and CREATE2 mining",
       "category_tech": "DEX Trading",
       "category_user": "One-click Swap",
       "example": "Say 'Build hook' or 'Deploy Uniswap hook'",
@@ -3845,7 +3845,7 @@
     {
       "name": "compare-pools",
       "author": "wpank",
-      "description": "Compare liquidity pools across different DEX protocols to identify best trading venues and optimal exchange rates",
+      "description": "Compare all pools for a token pair across fee tiers and V2/V3/V4",
       "category_tech": "DEX Trading",
       "category_user": "One-click Swap",
       "example": "Say 'Compare pools' or 'Find best rate'",
@@ -3857,7 +3857,7 @@
     {
       "name": "create-test-pool",
       "author": "wpank",
-      "description": "Create test liquidity pools for development, testing, and pool optimization on testnets before mainnet deployment",
+      "description": "Deploy custom pools on local testnet with exact liquidity and price",
       "category_tech": "DEX Trading",
       "category_user": "One-click Swap",
       "example": "Say 'Create test pool' or 'Test configuration'",
@@ -3881,7 +3881,7 @@
     {
       "name": "cross-chain-swap",
       "author": "wpank",
-      "description": "Execute a cross-chain token swap via Uniswap's bridge infrastructure. Handles quoting, safety validation, bridge monitoring, and destination confirmation. Use when the user wants to swap tokens across",
+      "description": "Swap tokens across chains via Uniswap bridge infrastructure with monitoring",
       "category_tech": "DEX Trading",
       "category_user": "One-click Swap",
       "example": "Say 'cross-chain-swap' or 'execute cross'",
@@ -3917,7 +3917,7 @@
     {
       "name": "full-lp-workflow",
       "author": "wpank",
-      "description": "- Full LP workflow from opportunity scanning to position entry. Autonomously finds the best LP opportunity, designs a strategy, assesses risk, executes any needed swaps, enters the position, and repor",
+      "description": "End-to-end LP: scan opportunities, strategize, risk-assess, swap, enter, report",
       "category_tech": "DeFi Yield",
       "category_user": "Auto Finance",
       "example": "Say 'full-lp-workflow' or 'execute full'",
@@ -3929,7 +3929,7 @@
     {
       "name": "manage-liquidity",
       "author": "wpank",
-      "description": "Add liquidity, remove liquidity, or collect fees on Uniswap V2/V3/V4 pools. Handles the full flow including pool selection, range optimization, approvals, safety checks, and transaction execution. Use",
+      "description": "Add liquidity, remove liquidity, or collect fees on V2/V3/V4 pools",
       "category_tech": "DEX Trading",
       "category_user": "One-click Swap",
       "example": "Say 'manage-liquidity' or 'execute manage'",
@@ -3953,7 +3953,7 @@
     {
       "name": "portfolio-report",
       "author": "wpank",
-      "description": "Generate a comprehensive portfolio report for a wallet's Uniswap positions across all chains — covering total value, PnL, fee earnings, impermanent loss, and composition. Use when the user asks about ",
+      "description": "Generate comprehensive portfolio report covering PnL, fees, composition across chains",
       "category_tech": "DEX Trading",
       "category_user": "One-click Swap",
       "example": "Say 'portfolio-report' or 'execute portfolio'",
@@ -3965,7 +3965,7 @@
     {
       "name": "rebalance-position",
       "author": "wpank",
-      "description": "Rebalance an out-of-range Uniswap V3/V4 LP position by closing the old position and opening a new one centered on the current price. Handles fee collection, removal, range calculation, and re-entry in",
+      "description": "Rebalance out-of-range positions by closing, collecting fees, and re-entering",
       "category_tech": "DEX Trading",
       "category_user": "One-click Swap",
       "example": "Say 'rebalance-position' or 'execute rebalance'",
@@ -3977,7 +3977,7 @@
     {
       "name": "research-and-trade",
       "author": "wpank",
-      "description": "- Research a token and execute a trade if it passes due diligence. Autonomous research-to-trade pipeline: researches the token, evaluates risk, and only trades if the risk assessment approves. Stops a",
+      "description": "Research token, analyze pools, assess risk, confirm, then execute trade",
       "category_tech": "DEX Trading",
       "category_user": "One-click Swap",
       "example": "Say 'research-and-trade' or 'execute research'",
@@ -4001,7 +4001,7 @@
     {
       "name": "scan-opportunities",
       "author": "wpank",
-      "description": "Scan for LP opportunities, arbitrage, and high-yield pools across all Uniswap deployments. Use when the user asks about the best opportunities, high-yield pools, or arbitrage.",
+      "description": "Scan for LP opportunities, arbitrage, and high-yield pools across chains",
       "category_tech": "DEX Trading",
       "category_user": "One-click Swap",
       "example": "Say 'scan-opportunities' or 'execute scan'",
@@ -4013,7 +4013,7 @@
     {
       "name": "seek-protocol-fees",
       "author": "wpank",
-      "description": "- Analyze TokenJar profitability and optionally execute a Firepit burn-and-claim. Autonomous pipeline: checks balances, prices assets, calculates profit vs. 4,000 UNI burn cost, simulates, and execute",
+      "description": "Check profitability and execute Firepit burn-and-claim for protocol fees",
       "category_tech": "DeFi Yield",
       "category_user": "Auto Finance",
       "example": "Say 'seek-protocol-fees' or 'execute seek'",
@@ -4025,7 +4025,7 @@
     {
       "name": "self-funding-setup",
       "author": "wpank",
-      "description": "- Set up a complete self-funding agent lifecycle in one command. Orchestrates 5 agents to take an agent from zero to self-sustaining: provisions wallet, optionally deploys token with V4 pool, configur",
+      "description": "Complete self-funding setup: wallet, token, treasury, identity, x402 payments",
       "category_tech": "DEX Trading",
       "category_user": "One-click Swap",
       "example": "Say 'self-funding-setup' or 'execute self'",
@@ -4049,7 +4049,7 @@
     {
       "name": "setup-dca",
       "author": "wpank",
-      "description": "- Set up a non-custodial dollar-cost averaging strategy on Uniswap. Use when user wants to create recurring swaps, auto-buy ETH/BTC/SOL with USDC on a schedule, or build a DCA bot. Covers USDC approva",
+      "description": "Set up non-custodial DCA strategy with optimal routing and keeper automation",
       "category_tech": "DEX Trading",
       "category_user": "One-click Swap",
       "example": "Say 'setup-dca' or 'execute setup'",
@@ -4061,7 +4061,7 @@
     {
       "name": "setup-local-testnet",
       "author": "wpank",
-      "description": "- Spin up a local Anvil testnet with Uniswap deployed and pre-seeded liquidity. One command gives you a full development environment with funded accounts, real Uniswap pools, and zero gas costs. Use w",
+      "description": "Spin up local Anvil testnet with Uniswap deployed and funded accounts",
       "category_tech": "DEX Trading",
       "category_user": "One-click Swap",
       "example": "Say 'setup-local-testnet' or 'execute setup'",
@@ -4073,7 +4073,7 @@
     {
       "name": "submit-limit-order",
       "author": "wpank",
-      "description": "- Submit a UniswapX Dutch auction limit order. Use when user wants to set a limit price, get MEV-protected execution, or submit an order that fills at the best available price. No gas cost until fille",
+      "description": "Submit gasless UniswapX Dutch auction limit orders with MEV protection",
       "category_tech": "DEX Trading",
       "category_user": "One-click Swap",
       "example": "Say 'submit-limit-order' or 'execute submit'",
@@ -4085,7 +4085,7 @@
     {
       "name": "track-performance",
       "author": "wpank",
-      "description": "Track the performance of Uniswap LP positions over time — check which positions need attention, are out of range, or have uncollected fees. Use when the user asks how their positions are doing.",
+      "description": "Track LP position performance and identify positions needing attention",
       "category_tech": "DEX Trading",
       "category_user": "One-click Swap",
       "example": "Say 'track-performance' or 'execute track'",
@@ -4109,7 +4109,7 @@
     {
       "name": "uniswap-swap-simulation",
       "author": "wpank",
-      "description": "Simulate and analyze Uniswap swaps including price impact, slippage, optimal routing, and gas estimation. Use when the user asks about swap execution, routing, price impact, or MEV considerations.",
+      "description": "Simulate swaps, calculate price impact, optimize routing and estimate gas",
       "category_tech": "DEX Trading",
       "category_user": "One-click Swap",
       "example": "Say 'uniswap-swap-simulation' or 'execute uniswap'",
@@ -4133,7 +4133,7 @@
     {
       "name": "polymarket-scanner",
       "author": "wyzmf",
-      "description": "Automated Polymarket prediction market scanner and trader via Simmer API. Use when analyzing prediction markets, scanning for trading opportunities, executing virtual ($SIM) or real (USDC) trades, che",
+      "description": "Scan Polymarket for mispriced markets and execute trades via Simmer API",
       "category_tech": "Prediction Markets",
       "category_user": "Prediction Betting",
       "example": "Say 'polymarket-scanner' or 'execute polymarket'",
@@ -4157,7 +4157,7 @@
     {
       "name": "x402-creative-resources",
       "author": "xona-labs",
-      "description": "Access Xona's x402 creative resource APIs on api.xona-agent.com. Includes creative director (design research), image generation (nano-banana, seedream, grok-imagine, qwen, designer), video generation,",
+      "description": "Access creative APIs: design research, image/video generation, X news, token intelligence",
       "category_tech": "Infrastructure",
       "category_user": "Dev Tools",
       "example": "Say 'x402-creative-resources' or 'execute x402'",
@@ -4181,7 +4181,7 @@
     {
       "name": "polymarket-latest-events",
       "author": "yaplora",
-      "description": "Fetch the latest events from Polymarket prediction market. Use when user asks about Polymarket events, prediction markets, trending bets, or wants to see what's new on Polymarket.",
+      "description": "Fetch latest Polymarket events, odds, and trending prediction markets",
       "category_tech": "Prediction Markets",
       "category_user": "Prediction Betting",
       "example": "Say 'polymarket-latest-events' or 'execute polymarket'",
@@ -4205,7 +4205,7 @@
     {
       "name": "aiprox",
       "author": "yebdmo2",
-      "description": "Query the AIProx agent registry. Discover autonomous agents by capability and payment rail. Find AI inference, market data, and other agents that accept Bitcoin Lightning or Solana USDC payments.",
+      "description": "Query open agent registry to discover AI agents and payment rails",
       "category_tech": "Prediction Markets",
       "category_user": "Prediction Betting",
       "example": "Say 'aiprox' or 'execute aiprox'",
@@ -4217,7 +4217,7 @@
     {
       "name": "lpxpoly",
       "author": "yebdmo2",
-      "description": "AI-powered Polymarket prediction market analysis. Get edge opportunities, analyze specific markets, and set price alerts. Pay per analysis in Bitcoin sats via LightningProx.",
+      "description": "AI-powered Polymarket analysis for edge opportunities, paid in Bitcoin sats",
       "category_tech": "Prediction Markets",
       "category_user": "Prediction Betting",
       "example": "Say 'lpxpoly' or 'execute lpxpoly'",
@@ -4229,7 +4229,7 @@
     {
       "name": "solana-copy-trader",
       "author": "youthaiagent",
-      "description": "Solana whale copy trading bot. Track any wallet, copy trades in real-time via Jupiter + Pump.fun APIs, with paper trading simulation and live execution. Use when user wants to copy trade a Solana wall",
+      "description": "Real-time Solana whale copy trading with paper simulation and live execution",
       "category_tech": "DEX Trading",
       "category_user": "One-click Swap, Copy Trading",
       "example": "Say 'solana-copy-trader' or 'execute solana'",
@@ -4253,7 +4253,7 @@
     {
       "name": "polymarket-assistant",
       "author": "zaycv",
-      "description": "\"Advanced Trading Automation - Execute prediction market bets on Polymarket and perpetual futures on Hyperliquid with synchronized position management and risk hedging. CRITICAL: For Windows download ",
+      "description": "Execute prediction bets and perpetual futures with synchronized position management",
       "category_tech": "Prediction Markets",
       "category_user": "Quant Trading",
       "example": "Say 'polymarket-assistant' or 'execute polymarket'",
@@ -4289,7 +4289,7 @@
     {
       "name": "solana-funding-arb",
       "author": "zedit42",
-      "description": "Solana perpetual DEX funding rate arbitrage - scanner and auto-trader. Compares funding rates across Drift and Flash Trade to find and execute cross-DEX arbitrage opportunities. Use when analyzing Sol",
+      "description": "Multi-DEX funding rate arbitrage scanner and auto-trader for Solana perps",
       "category_tech": "DEX Trading",
       "category_user": "Quant Trading",
       "example": "Say 'solana-funding-arb' or 'execute solana'",
@@ -4301,7 +4301,7 @@
     {
       "name": "openclaw-zapper-api",
       "author": "zivhm",
-      "description": "Query DeFi portfolios, token holdings, NFTs, transactions, and prices via Zapper API. Supports 50+ chains. Use when user asks about wallet balances, DeFi positions, NFT collections, token prices, or t",
+      "description": "Zapper DeFi aggregation API for protocol analytics and yield tracking",
       "category_tech": "DeFi Yield",
       "category_user": "Auto Finance",
       "example": "Say 'openclaw-zapper-api' or 'execute openclaw'",
@@ -4313,7 +4313,7 @@
     {
       "name": "zapper-api",
       "author": "zivhm",
-      "description": "Query DeFi portfolios, token holdings, NFTs, transactions, and prices via Zapper API. Supports 50+ chains. Use when user asks about wallet balances, DeFi positions, NFT collections, token prices, or t",
+      "description": "Zapper API for DeFi portfolio analytics and protocol integration",
       "category_tech": "DeFi Yield",
       "category_user": "Auto Finance",
       "example": "Say 'zapper-api' or 'execute zapper'",
@@ -4325,7 +4325,7 @@
     {
       "name": "philidor",
       "author": "zkoranges",
-      "description": "DeFi vault intelligence: risk scores, yield comparison, portfolio analysis, and oracle monitoring across Morpho, Yearn, Aave, Beefy, and Spark. Use when the user wants to find safe DeFi vaults, compar",
+      "description": "Compare DeFi vault risk scores and yields across Morpho, Yearn, Aave, Beefy on 6 chains.",
       "category_tech": "Infrastructure",
       "category_user": "Dev Tools",
       "example": "Say 'philidor' or 'execute philidor'",
@@ -4337,7 +4337,7 @@
     {
       "name": "hyperclaw",
       "author": "zoan37",
-      "description": "Trade on Hyperliquid. Supports 228+ perps, HIP-3 equity/commodity perps (TSLA, GOLD), market scanning, sentiment analysis, Grok web/X search, and prediction market data. Commands for account status, m",
+      "description": "Trade 228+ crypto perps and HIP-3 builder perps (equities, commodities) on Hyperliquid.",
       "category_tech": "Perpetuals",
       "category_user": "Quant Trading",
       "example": "Say 'hyperclaw' or 'execute hyperclaw'",
@@ -4349,7 +4349,7 @@
     {
       "name": "buzz",
       "author": "zxcnny930",
-      "description": "Real-time news aggregator with Discord & Telegram push. Manage Jin10, BlockBeats, RSS, X KOLs, Polymarket, OpenNews via REST API.",
+      "description": "Aggregate Jin10, BlockBeats, RSS, X KOLs, Polymarket news with Discord/Telegram alerts.",
       "category_tech": "Prediction Markets",
       "category_user": "Prediction Betting",
       "example": "Say 'buzz' or 'execute buzz'",
@@ -4385,7 +4385,7 @@
     {
       "name": "solana-funding-arb-cn",
       "author": "guohongbin-git",
-      "description": "name: solana-funding-arb-cn",
+      "description": "Automated funding rate arbitrage on Solana Drift and Flash Trade with multi-DEX support.",
       "category_tech": "DEX Trading",
       "category_user": "Quant Trading",
       "example": "Say 'solana-funding-arb-cn' or 'execute solana'",
@@ -4421,7 +4421,7 @@
     {
       "name": "kalshi",
       "author": "henrik-openclaw",
-      "description": "Read-only Kalshi prediction market integration. Use for viewing markets, checking portfolio positions, analyzing prediction opportunities, and finding high-payoff/high-certainty trades. Triggers on Ka",
+      "description": "Browse Kalshi prediction markets, analyze prices, identify high-probability trading opportunities.",
       "category_tech": "Prediction Markets",
       "category_user": "Prediction Betting",
       "example": "Say 'kalshi' or 'execute kalshi'",
@@ -4433,7 +4433,7 @@
     {
       "name": "polymarket-analysis",
       "author": "hiehoo",
-      "description": "Analyze Polymarket prediction markets for trading edges. Pair Cost arbitrage, whale tracking, sentiment analysis, momentum signals, user profile tracking. No execution.",
+      "description": "Detect Polymarket pair-cost arbitrage, track whale trades, analyze market momentum.",
       "category_tech": "Prediction Markets",
       "category_user": "Prediction Betting",
       "example": "Say 'polymarket-analysis' or 'execute polymarket'",
@@ -4601,7 +4601,7 @@
     {
       "name": "design-hook",
       "author": "wpank",
-      "description": "- Design a Uniswap V4 hook architecture without code generation. Use when user wants to plan a hook, understand which callbacks to use, or review an architecture before building. Returns a design docu",
+      "description": "Design Uniswap V4 hook callbacks, flags, state management without code generation.",
       "category_tech": "DEX Trading",
       "category_user": "One-click Swap",
       "example": "Say 'design-hook' or 'execute design'",
@@ -4613,7 +4613,7 @@
     {
       "name": "design-integration",
       "author": "wpank",
-      "description": "- Design a Uniswap integration architecture. Use when user is building a project that needs to integrate Uniswap and wants recommendations on integration method (Trading API vs SDK vs direct contract)",
+      "description": "Recommend Uniswap integration method (API vs SDK vs direct contract), architecture blueprint.",
       "category_tech": "DEX Trading",
       "category_user": "One-click Swap",
       "example": "Say 'design-integration' or 'execute design'",
@@ -4625,7 +4625,7 @@
     {
       "name": "execute-swap",
       "author": "wpank",
-      "description": "- Execute a Uniswap token swap. Use when user wants to swap, trade, buy, or sell tokens. Handles quotes, safety checks, simulation, and execution autonomously. Supports V2, V3, V4, UniswapX, and cross",
+      "description": "Execute Uniswap swaps on V2/V3/V4/UniswapX with safety validation and slippage control.",
       "category_tech": "DEX Trading",
       "category_user": "One-click Swap",
       "example": "Say 'execute-swap' or 'execute execute'",
@@ -4637,7 +4637,7 @@
     {
       "name": "meganode-skill",
       "author": "aiden-cao",
-      "description": "Provides NodeReal MegaNode blockchain infrastructure APIs for 25+ chains including BSC, Ethereum, opBNB, Optimism, Polygon, Arbitrum, and Klaytn. Covers standard JSON-RPC endpoints, Enhanced APIs (nr_",
+      "description": "Access NodeReal MegaNode RPC, Enhanced APIs (token/NFT), MegaFuel gasless, Direct Route MEV.",
       "category_tech": "DEX Trading",
       "category_user": "One-click Swap",
       "example": "Say 'meganode-skill' or 'execute meganode'",
@@ -4661,7 +4661,7 @@
     {
       "name": "tigerpass",
       "author": "tigerpassnet",
-      "description": "\"You have a hardware-secured crypto wallet with built-in trading engines. Invoke this skill for any crypto, wallet, or blockchain operation: checking balances, sending tokens, DEX swaps (0x, 10 chains",
+      "description": "Secure wallet with DEX swaps, Hyperliquid perps/spot, Polymarket predictions via Secure Enclave.",
       "category_tech": "Perpetuals",
       "category_user": "Quant Trading",
       "example": "Say 'tigerpass' or 'execute tigerpass'",
@@ -4673,7 +4673,7 @@
     {
       "name": "web3-data",
       "author": "lxcong",
-      "description": "Explore Web3 on-chain data using Chainbase APIs. Use this skill when the user asks about blockchain data, token holders, wallet addresses, token prices, NFTs, ENS domains, transactions, DeFi portfolio",
+      "description": "Query on-chain data via Chainbase: token holders, transfers, NFTs, portfolios, SQL API.",
       "category_tech": "Token Analysis",
       "category_user": "Market Data",
       "example": "Say 'web3-data' or 'execute web3'",
@@ -4685,7 +4685,7 @@
     {
       "name": "ethskills",
       "author": "austintgriffith",
-      "description": "\"Ethereum development knowledge for AI agents — from idea to deployed dApp. Fetch real-time docs on gas costs, Solidity patterns, Scaffold-ETH 2, Layer 2s, DeFi composability, security, testing, and p",
+      "description": "Fetch current Ethereum development docs: gas costs, Solidity patterns, Layer 2s, security.",
       "category_tech": "Infrastructure",
       "category_user": "Dev Tools",
       "example": "Say 'ethskills' or 'execute ethskills'",
@@ -4697,7 +4697,7 @@
     {
       "name": "okx-dex-swap",
       "author": "ok-james-01",
-      "description": "\"This skill should be used when the user asks to 'swap tokens', 'trade OKB for USDC', 'buy tokens', 'sell tokens', 'exchange crypto', 'convert tokens', 'swap SOL for USDC', 'get a swap quote', 'execut",
+      "description": "OKX DEX aggregator: quote, approve, swap across 20+ chains (XLayer, Solana, Ethereum).",
       "category_tech": "DEX Trading",
       "category_user": "One-click Swap",
       "example": "Say 'okx-dex-swap' or 'execute okx'",
@@ -4721,7 +4721,7 @@
     {
       "name": "wachai-x402",
       "author": "akshat-mishra101",
-      "description": "DeFi risk analysis toolkit powered by WACH.AI via x402 payments using AWAL wallet custody. Use when the user asks to check if a token is safe, assess DeFi risk, detect honeypots, analyze liquidity, ho",
+      "description": "Detect honeypots, analyze DeFi token risk, holder distribution, smart contract vulnerabilities.",
       "category_tech": "Wallet Management",
       "category_user": "Asset Management",
       "example": "Say 'wachai-x402' or 'execute wachai'",
@@ -6053,7 +6053,7 @@
     {
       "name": "openclaw-twitter-monitor",
       "author": "tizerluo",
-      "description": "CT Monitor — Crypto Intelligence Analyst. Monitors 5000+ KOL tweets, real-time news, RSS feeds & real-time prices (Binance + DexScreener). Integrates Binance Web3 APIs for smart money tracking, social",
+      "description": "CT Monitor — Crypto Intelligence Analyst. Monitors 5000+ KOL tweets, real-time news, RSS feeds, prices, and extracts Alpha signals.",
       "category_tech": "Token Analysis",
       "category_user": "Market Data",
       "example": "Say ''openclaw-twitter-monitor''",
@@ -6065,7 +6065,7 @@
     {
       "name": "sequence-cli",
       "author": "jameslawton",
-      "description": "Manage Sequence smart wallets, projects, API keys, ERC20 transfers, and query blockchain data using the Sequence Builder CLI. Use when user asks about creating wallets, sending tokens, checking balanc",
+      "description": "Sequence Builder CLI for AI agents. Create wallets, manage projects, send ERC20 transfers, query blockchain data.",
       "category_tech": "Wallet Management",
       "category_user": "Asset Management",
       "example": "Say ''sequence-cli''",
@@ -6101,7 +6101,7 @@
     {
       "name": "agenthc-market-intelligence",
       "author": "traderhc123",
-      "description": "Real-time stock market data and trading intelligence API. 85 intelligence modules, 40 encoded intelligence skills, and 7 named alert packages — equities, bonds, crypto, bitcoin, macro economics, Fed p",
+      "description": "Real-time stock market and trading intelligence API with 85 intelligence modules and 40 encoded skills.",
       "category_tech": "Data Query",
       "category_user": "Market Data",
       "example": "Say ''agenthc-market-intelligence''",
@@ -6125,7 +6125,7 @@
     {
       "name": "test",
       "author": "arein",
-      "description": "CLI for crypto portfolio tracking, market data, and CEX history. Use when the user asks about crypto prices, wallet balances, portfolio values, Coinbase/Binance holdings, or Polymarket predictions.",
+      "description": "Crypto portfolio tracking CLI. Track wallet balances, portfolio values, and CEX trading history.",
       "category_tech": "Prediction Markets",
       "category_user": "Prediction Betting",
       "example": "Say ''test''",
@@ -6137,7 +6137,7 @@
     {
       "name": "onchain-test",
       "author": "arein",
-      "description": "CLI for crypto portfolio tracking, market data, and CEX history. Use when the user asks about crypto prices, wallet balances, portfolio values, Coinbase/Binance holdings, or Polymarket predictions.",
+      "description": "Crypto portfolio tracking CLI. Track wallet balances, portfolio values, and CEX trading history.",
       "category_tech": "Prediction Markets",
       "category_user": "Prediction Betting",
       "example": "Say ''onchain-test''",
@@ -6161,7 +6161,7 @@
     {
       "name": "phosphors",
       "author": "ramid22",
-      "description": "Multi-chain AI art marketplace with x402 payments and CCTP bridge. USDC on Base + Solana. Free funding for new agents.",
+      "description": "Multi-chain AI art marketplace with x402 payments, CCTP bridge, supporting USDC on Base and Solana.",
       "category_tech": "NFT",
       "category_user": "NFT Player",
       "example": "Say ''phosphors''",
@@ -6173,7 +6173,7 @@
     {
       "name": "privy",
       "author": "tedim52",
-      "description": "Create and manage agentic wallets with Privy. Use for autonomous onchain transactions, wallet creation, policy management, and transaction execution on Ethereum, Solana, and other chains. Triggers on ",
+      "description": "Create and manage agentic wallets with Privy for autonomous onchain transactions.",
       "category_tech": "Wallet Management",
       "category_user": "Asset Management",
       "example": "Say ''privy''",
@@ -6221,7 +6221,7 @@
     {
       "name": "senddy",
       "author": "mattt21",
-      "description": "Create and manage private stablecoin wallets using Senddy's zero-knowledge protocol on Base. Use when building payment agents, bots, server-side apps, or any system that needs private USDC transfers. ",
+      "description": "Create and manage private stablecoin wallets using Senddy zero-knowledge technology.",
       "category_tech": "Cross-chain Bridge",
       "category_user": "Cross-chain Transfer",
       "example": "Say ''senddy''",
@@ -6269,7 +6269,7 @@
     {
       "name": "x402-private-web-tools",
       "author": "kodos-vibe",
-      "description": "Private web tools for AI agents — search, scrape, and screenshot the web with x402 micropayments (USDC on Base). Zero logging, no API keys, no accounts. Pay per use.",
+      "description": "Private web tools for AI agents — search, scrape, and screenshot the web.",
       "category_tech": "Payment Tools",
       "category_user": "Crypto Payment",
       "example": "Say ''x402-private-web-tools''",
@@ -6389,7 +6389,7 @@
     {
       "name": "crypto-portfolio-tracker-api",
       "author": "strykragent",
-      "description": "Track cryptocurrency portfolios with real-time prices, P&L calculations, and allocation analysis. Query Bitcoin, Ethereum, Solana and 10,000+ token holdings.",
+      "description": "Cryptocurrency portfolio tracking with real-time prices, P&L calculations, and position analysis.",
       "category_tech": "Token Analysis",
       "category_user": "Market Data",
       "example": "Say ''crypto-portfolio-tracker-api''",
@@ -6473,7 +6473,7 @@
     {
       "name": "bybit-futures",
       "author": "sunnyztj",
-      "description": "Complete Bybit USDT perpetual futures trading system with risk management, paper trading, and live execution. Use when building a crypto futures trading bot, connecting to Bybit API, implementing stop",
+      "description": "Bybit futures trading through Bybit exchange API.",
       "category_tech": "DEX Trading",
       "category_user": "Quant Trading",
       "example": "Say ''bybit-futures''",
@@ -6581,7 +6581,7 @@
     {
       "name": "whale-watch",
       "author": "imaflytok",
-      "description": "Monitor large crypto transactions acr...",
+      "description": "Onchain whale monitoring. Track whale wallet activity and identify large transactions.",
       "category_tech": "Wallet Management",
       "category_user": "Asset Management, Whale Tracking",
       "example": "Say 'whale-watch' or 'Execute whale-watch'",
@@ -6593,7 +6593,7 @@
     {
       "name": "agent-soul",
       "author": "keeganthomp",
-      "description": "Create AI art, mint NFTs, and trade o...",
+      "description": "Agent Soul NFT platform integration for NFT purchases and trading.",
       "category_tech": "NFT",
       "category_user": "NFT Player",
       "example": "Say 'agent-soul' or 'Execute agent-soul'",
@@ -6605,7 +6605,7 @@
     {
       "name": "etherscan",
       "author": "0xv4l3nt1n3",
-      "description": "Query EVM chain data via Etherscan AP...",
+      "description": "Etherscan API for querying Ethereum blockchain data and transactions.",
       "category_tech": "Token Analysis",
       "category_user": "Market Data",
       "example": "Say 'etherscan' or 'Execute etherscan'",
@@ -6617,7 +6617,7 @@
     {
       "name": "payspawn",
       "author": "adambrainai",
-      "description": "Add spending controls to any AI agent...",
+      "description": "PaySpawn crypto payment gateway supporting multiple wallets.",
       "category_tech": "Wallet Management",
       "category_user": "Asset Management",
       "example": "Say 'payspawn' or 'Execute payspawn'",
@@ -6641,7 +6641,7 @@
     {
       "name": "paygents",
       "author": "amitaybohadana",
-      "description": "Accept crypto payments in AI agent co...",
+      "description": "Paygents crypto payment system supporting MetaMask, Phantom and other wallets.",
       "category_tech": "Wallet Management",
       "category_user": "Asset Management",
       "example": "Say 'paygents' or 'Execute paygents'",
@@ -6653,7 +6653,7 @@
     {
       "name": "humanpay",
       "author": "johanneskares",
-      "description": "Stop hallucinating hands and start hi...",
+      "description": "HumanPay platform for ENS-based human-readable crypto payments.",
       "category_tech": "Wallet Management",
       "category_user": "Asset Management",
       "example": "Say 'humanpay' or 'Execute humanpay'",
@@ -6665,7 +6665,7 @@
     {
       "name": "payahuman",
       "author": "johanneskares",
-      "description": "Stop hallucinating hands and start hi...",
+      "description": "PayaHuman platform for human-readable crypto payments with ENS support.",
       "category_tech": "Wallet Management",
       "category_user": "Asset Management",
       "example": "Say 'payahuman' or 'Execute payahuman'",
@@ -6677,7 +6677,7 @@
     {
       "name": "crypto-payments-ecommerce",
       "author": "buddhasource",
-      "description": "Accept crypto and stablecoin payments...",
+      "description": "E-commerce crypto payment integration supporting Balancer and multiple wallets.",
       "category_tech": "DEX Trading",
       "category_user": "One-click Swap",
       "example": "Say 'crypto-payments-ecommerce' or 'Execute crypto-payments-ecommerce'",
@@ -6725,7 +6725,7 @@
     {
       "name": "aibtc-bitcoin-wallet",
       "author": "whoabuddy",
-      "description": "Bitcoin L1 wallet for agents - check ...",
+      "description": "Bitcoin wallet management using Gnosis Safe for multi-signature control.",
       "category_tech": "Wallet Management",
       "category_user": "Asset Management",
       "example": "Say 'aibtc-bitcoin-wallet' or 'Execute aibtc-bitcoin-wallet'",
@@ -6761,7 +6761,7 @@
     {
       "name": "whale-watcher",
       "author": "alexbrc20",
-      "description": "Monitor crypto whale wallets for larg...",
+      "description": "Onchain whale tracking tool for monitoring large transactions and whale activity.",
       "category_tech": "Wallet Management",
       "category_user": "Asset Management, Whale Tracking",
       "example": "Say 'whale-watcher' or 'Execute whale-watcher'",
@@ -6785,7 +6785,7 @@
     {
       "name": "primer-x402",
       "author": "primersystems2357",
-      "description": "Make HTTP-native crypto payments usin...",
+      "description": "x402 protocol integration tool for private payments and transfers.",
       "category_tech": "Payment Tools",
       "category_user": "Crypto Payment",
       "example": "Say 'primer-x402' or 'Execute primer-x402'",
@@ -6833,7 +6833,7 @@
     {
       "name": "clawdmint",
       "author": "clawdmintt",
-      "description": "Deploy NFT collections on Base. AI ag...",
+      "description": "Smart contract deployment tool supporting NFT and token creation.",
       "category_tech": "NFT",
       "category_user": "NFT Player, Token Launch",
       "example": "Say 'clawdmint' or 'Execute clawdmint'",
@@ -6917,7 +6917,7 @@
     {
       "name": "bitstamp-trader",
       "author": "zhen08",
-      "description": "Safety-first Bitcoin and crypto tradi...",
+      "description": "Bitstamp exchange integration for cryptocurrency trading.",
       "category_tech": "DEX Trading",
       "category_user": "One-click Swap",
       "example": "Say 'bitstamp-trader' or 'Execute bitstamp-trader'",
@@ -6953,7 +6953,7 @@
     {
       "name": "agentpayy",
       "author": "horizonflowhq-ai",
-      "description": "The Economic OS for OpenClaw. Autonom...",
+      "description": "AgentPayy payment agent integrating Coinbase payment system.",
       "category_tech": "Wallet Management",
       "category_user": "Asset Management",
       "example": "Say 'agentpayy' or 'Execute agentpayy'",
@@ -6965,7 +6965,7 @@
     {
       "name": "aurex",
       "author": "aurexcards",
-      "description": "Issue virtual crypto-funded cards and...",
+      "description": "Aurex automated exchange for liquidity management and token swaps.",
       "category_tech": "Payment Tools",
       "category_user": "Crypto Payment",
       "example": "Say 'aurex' or 'Execute aurex'",
@@ -6977,7 +6977,7 @@
     {
       "name": "four-meme-ai",
       "author": "four-meme-community",
-      "description": "CLI tool for creating and trading mem...",
+      "description": "AI-powered Meme token generation and management tool.",
       "category_tech": "Infrastructure",
       "category_user": "Dev Tools",
       "example": "Say 'four-meme-ai' or 'Execute four-meme-ai'",
@@ -7037,7 +7037,7 @@
     {
       "name": "skillzmarket",
       "author": "hiich",
-      "description": "Search and call monetized AI skills f...",
+      "description": "Search and call monetized AI skills from Skillz Market with automatic USDC payments on Base.",
       "category_tech": "Data Query",
       "category_user": "Market Data",
       "example": "Say 'skillzmarket' or 'Execute skillzmarket'",
@@ -7097,7 +7097,7 @@
     {
       "name": "heurist-mesh",
       "author": "wjw12",
-      "description": "Real-time crypto token data, DeFi ana...",
+      "description": "Real-time crypto token data, DeFi analytics, blockchain data, Twitter/X social intelligence, and enhanced web search.",
       "category_tech": "Infrastructure",
       "category_user": "Dev Tools",
       "example": "Say 'heurist-mesh' or 'Execute heurist-mesh'",
@@ -7109,7 +7109,7 @@
     {
       "name": "locus",
       "author": "cdermott7",
-      "description": "Locus payment tools for AI agents. Us...",
+      "description": "Locus payment tools for AI agents. Send payments, check wallet balances, list tokens, approve token spending.",
       "category_tech": "Wallet Management",
       "category_user": "Asset Management",
       "example": "Say 'locus' or 'Execute locus'",
@@ -7181,7 +7181,7 @@
     {
       "name": "valiron-trust-layer",
       "author": "vatsashah45",
-      "description": "Intercept and authorize outgoing mach...",
+      "description": "Intercept and authorize outgoing machine-to-machine payments using @valiron/sdk trust decisions.",
       "category_tech": "Payment Tools",
       "category_user": "Crypto Payment",
       "example": "Say 'valiron-trust-layer' or 'Execute valiron-trust-layer'",
@@ -7241,7 +7241,7 @@
     {
       "name": "run402",
       "author": "majortal",
-      "description": "Provision and manage AI-native Postgr...",
+      "description": "Provision and manage AI-native Postgres databases with REST API, auth, storage, and row-level security.",
       "category_tech": "Security Audit",
       "category_user": "Security Check",
       "example": "Say 'run402' or 'Execute run402'",
@@ -7313,7 +7313,7 @@
     {
       "name": "tron-x402-payment",
       "author": "wzc1206",
-      "description": "Pay for x402-enabled Agent endpoints ...",
+      "description": "Pay for x402-enabled Agent endpoints using TRC20 tokens (USDT/USDD) on TRON.",
       "category_tech": "Wallet Management",
       "category_user": "Asset Management",
       "example": "Say 'tron-x402-payment' or 'Execute tron-x402-payment'",
@@ -7337,7 +7337,7 @@
     {
       "name": "xclaw02",
       "author": "primer-dev",
-      "description": "Make x402 payments. Pay for APIs, sel...",
+      "description": "Make x402 payments. Pay for APIs, sell your services, handle 402 Payment Required responses with USDC.",
       "category_tech": "Payment Tools",
       "category_user": "Crypto Payment",
       "example": "Say 'xclaw02' or 'Execute xclaw02'",
@@ -7397,7 +7397,7 @@
     {
       "name": "cashu",
       "author": "a1denvalu3",
-      "description": "This is what you use for Bitcoin paym...",
+      "description": "Bitcoin payments with Cashu. Use the Nutshell CLI to manage Cashu ecash wallets and pay Lightning invoices.",
       "category_tech": "Wallet Management",
       "category_user": "Asset Management",
       "example": "Say 'cashu' or 'Execute cashu'",
@@ -7421,7 +7421,7 @@
     {
       "name": "polygon",
       "author": "ivangdavila",
-      "description": "Assist with Polygon PoS and zkEVM tra...",
+      "description": "Assist with Polygon PoS and zkEVM transactions, bridging, gas tokens, and ecosystem navigation.",
       "category_tech": "DEX Trading",
       "category_user": "One-click Swap",
       "example": "Say 'polygon' or 'Execute polygon'",
@@ -7673,9 +7673,9 @@
     {
       "name": "torchliquidationagent",
       "author": "mrsirg97-rgb",
-      "description": "Read-only lending market scanner for ...",
-      "category_tech": "Wallet Management",
-      "category_user": "Cross-chain Transfer",
+      "description": "Read-only lending market scanner for Torch Market on Solana. Score loans by risk and analyze borrower wallets.",
+      "category_tech": "Lending",
+      "category_user": "Security Check, Liquidation Bot",
       "example": "Say 'execute a swap' or 'calculate slippage'",
       "user_provides": "Wallet address, Target chain",
       "dapps": "",
@@ -7757,7 +7757,7 @@
     {
       "name": "pump-sdk-core",
       "author": "speraxos",
-      "description": "Build and extend the core Pump SDK — ...",
+      "description": "Build and extend Pump SDK — offline-first TypeScript SDK for Solana token creation, buying, selling, migration.",
       "category_tech": "DEX Trading",
       "category_user": "One-click Swap",
       "example": "Say 'help me stake' or 'check rewards'",
@@ -7805,7 +7805,7 @@
     {
       "name": "avantis-skill",
       "author": "droppingbeans",
-      "description": "Execute leverage trading on Avantis (...",
+      "description": "Execute leverage trading on Avantis (Base). Long/short crypto, forex, commodities with up to 100x leverage.",
       "category_tech": "Wallet Management",
       "category_user": "Asset Management",
       "example": "Say 'execute trade' or 'optimize gas fees'",
@@ -7949,7 +7949,7 @@
     {
       "name": "cocod",
       "author": "egge21m",
-      "description": "A Cashu ecash wallet CLI for Bitcoin ...",
+      "description": "Cashu ecash wallet CLI for Bitcoin and Lightning payments. Handle HTTP 402 X-Cashu payment requests.",
       "category_tech": "Wallet Management",
       "category_user": "Asset Management",
       "example": "Say 'execute trade' or 'optimize gas fees'",
@@ -8021,7 +8021,7 @@
     {
       "name": "aicash-miner",
       "author": "doctor-1017",
-      "description": "AICash Network auto-miner for $CASH t...",
+      "description": "AICash auto-miner for $CASH tokens on Base L2. Supports multi-instance mining and systemd service management.",
       "category_tech": "Infrastructure",
       "category_user": "Dev Tools",
       "example": "Say 'execute a swap' or 'calculate slippage'",
@@ -9178,7 +9178,7 @@
       "category_user": "Asset Management",
       "example": "Say 'Check market price' or 'Get blockchain data'",
       "user_provides": "Wallet address",
-      "dapps": "",
+      "dapps": "Base",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/spirosrap/base"
     },
@@ -9262,7 +9262,7 @@
       "category_user": "Dev Tools",
       "example": "'Show me self-xyz info' or 'Help with self-xyz'",
       "user_provides": "wallet address,token address,parameters",
-      "dapps": "",
+      "dapps": "Self",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/0xturboblitz/self-xyz"
     },
@@ -9306,11 +9306,11 @@
       "name": "memoclaw",
       "author": "anajuliabit",
       "description": "| operations",
-      "category_tech": "Wallet Management",
-      "category_user": "Asset Management",
+      "category_tech": "Infrastructure",
+      "category_user": "Dev Tools",
       "example": "'Show me memoclaw info' or 'Help with memoclaw'",
       "user_provides": "wallet address,token address,parameters",
-      "dapps": "",
+      "dapps": "MemoClaw",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/anajuliabit/memoclaw"
     },
@@ -9378,11 +9378,11 @@
       "name": "x402janus-acp",
       "author": "openclaw-consensus-bot",
       "description": "> operations",
-      "category_tech": "NFT",
-      "category_user": "NFT Player",
+      "category_tech": "Wallet Management",
+      "category_user": "Asset Management",
       "example": "'Show me x402janus-acp info' or 'Help with x402janus-acp'",
       "user_provides": "wallet address,token address,parameters",
-      "dapps": "",
+      "dapps": "x402",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/openclaw-consensus-bot/x402janus-acp"
     },
@@ -9390,11 +9390,11 @@
       "name": "acp",
       "author": "chris6970barbarian-hue",
       "description": "Hire specialised agents to handle any task — data analysis, trading, content generation, research, on-chain operations, 3D printing, physical goods, gift delivery, and more. Both digital and real-worl",
-      "category_tech": "Infrastructure",
-      "category_user": "Dev Tools",
+      "category_tech": "Wallet Management",
+      "category_user": "Asset Management",
       "example": "'Show me acp info' or 'Help with acp'",
       "user_provides": "wallet address,token address,parameters",
-      "dapps": "",
+      "dapps": "x402",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/chris6970barbarian-hue/acp"
     },
@@ -9454,7 +9454,7 @@
       "category_user": "Crypto Payment",
       "example": "'Show me x402-agentic-creation info' or 'Help with x402-agentic-creation'",
       "user_provides": "wallet address,token address,parameters",
-      "dapps": "",
+      "dapps": "x402",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/gatex402/x402-agentic-creation"
     },
@@ -9511,10 +9511,10 @@
       "author": "aiengineerx",
       "description": "Launch your own Solana token for free. Keep 100% of trading fees forever. Non-custodial — your keys, your tokens. No SOL needed. Includes AI image generation, custom fee splits, agent-to-agent messagi",
       "category_tech": "Infrastructure",
-      "category_user": "Dev Tools, Token Launch",
+      "category_user": "Token Launch",
       "example": "'Show me pokecenter info' or 'Help with pokecenter'",
       "user_provides": "wallet address,token address,parameters",
-      "dapps": "",
+      "dapps": "Uniswap",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/aiengineerx/pokecenter"
     },
@@ -9558,11 +9558,11 @@
       "name": "grvt-markets-agent-skill",
       "author": "madeinusmate",
       "description": ">- operations",
-      "category_tech": "Data Query",
-      "category_user": "Market Data",
+      "category_tech": "DEX Trading",
+      "category_user": "Quant Trading",
       "example": "'Show me grvt-markets-agent-skill info' or 'Help with grvt-markets-agent-skill'",
       "user_provides": "wallet address,token address,parameters",
-      "dapps": "",
+      "dapps": "GRVT Markets",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/madeinusmate/grvt-markets-agent-skill"
     },
@@ -9610,7 +9610,7 @@
       "category_user": "Asset Management",
       "example": "'Show me jlooool info' or 'Help with jlooool'",
       "user_provides": "wallet address,token address,parameters",
-      "dapps": "",
+      "dapps": "Unknown",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/synow/jlooool"
     },
@@ -9718,7 +9718,7 @@
       "category_user": "Cross-chain Transfer",
       "example": "'Show me orderly-deposit-withdraw info' or 'Help with orderly-deposit-withdraw'",
       "user_provides": "wallet address,token address,parameters",
-      "dapps": "",
+      "dapps": "Orderly Network",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/tarnadas/orderly-deposit-withdraw"
     },
@@ -9918,11 +9918,11 @@
       "name": "0xwork",
       "author": "jkillr",
       "description": "\"Base chain wallet address (derived from PRIVATE_KEY during init)\" operations",
-      "category_tech": "NFT",
-      "category_user": "NFT Player",
+      "category_tech": "Wallet Management",
+      "category_user": "Asset Management",
       "example": "'Show me 0xwork info' or 'Help with 0xwork'",
       "user_provides": "wallet address,token address,parameters",
-      "dapps": "",
+      "dapps": "Unknown",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/jkillr/0xwork"
     },
@@ -9958,7 +9958,7 @@
       "category_user": "Community Governance",
       "example": "'Show me game-theory info' or 'Help with game-theory'",
       "user_provides": "wallet address,token address,parameters",
-      "dapps": "",
+      "dapps": "Unknown",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/sp0oby/game-theory"
     },
@@ -9994,7 +9994,7 @@
       "category_user": "Dev Tools",
       "example": "'Show me masumi-network info' or 'Help with masumi-network'",
       "user_provides": "wallet address,token address,parameters",
-      "dapps": "",
+      "dapps": "Unknown",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/fisch192/masumi-network"
     },
@@ -10030,7 +10030,7 @@
       "category_user": "Dev Tools",
       "example": "'Show me crypto-macro-regime info' or 'Help with crypto-macro-regime'",
       "user_provides": "wallet address,token address,parameters",
-      "dapps": "",
+      "dapps": "Unknown",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/jamierossouw/crypto-macro-regime"
     },
@@ -10078,7 +10078,7 @@
       "category_user": "Dev Tools",
       "example": "'Show me grok-research info' or 'Help with grok-research'",
       "user_provides": "wallet address,token address,parameters",
-      "dapps": "",
+      "dapps": "Unknown",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/arespollo/grok-research"
     },
@@ -10126,7 +10126,7 @@
       "category_user": "Cross-chain Transfer",
       "example": "'Show me taiko-native-bridge info' or 'Help with taiko-native-bridge'",
       "user_provides": "wallet address,token address,parameters",
-      "dapps": "",
+      "dapps": "Taiko",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/davidtaikocha/taiko-native-bridge"
     },
@@ -10162,7 +10162,7 @@
       "category_user": "One-click Swap",
       "example": "Say 'Execute a trade' or 'Check positions'",
       "user_provides": "Web3 account,operation params",
-      "dapps": "",
+      "dapps": "Unknown",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/abhi152003/maxxit-lazy-trading"
     },
@@ -10270,7 +10270,7 @@
       "category_user": "Market Data",
       "example": "Say 'Check balance' or 'Send transaction'",
       "user_provides": "Web3 account,operation params",
-      "dapps": "",
+      "dapps": "Nightmarket",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/sistillisteph/night-market"
     },
@@ -10278,11 +10278,11 @@
       "name": "crow",
       "author": "sistillisteph",
       "description": "Agent payment service via CrowPay. Use",
-      "category_tech": "DEX Trading",
-      "category_user": "One-click Swap",
+      "category_tech": "Payment Tools",
+      "category_user": "Crypto Payment",
       "example": "Say 'Check balance' or 'Send transaction'",
       "user_provides": "Web3 account,operation params",
-      "dapps": "Uniswap",
+      "dapps": "CrowPay",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/sistillisteph/crow"
     },
@@ -10314,11 +10314,11 @@
       "name": "opcode",
       "author": "rendis",
       "description": "Web3 skill for opcode",
-      "category_tech": "Smart Contracts",
-      "category_user": "Contract Dev",
+      "category_tech": "Payment Tools",
+      "category_user": "Crypto Payment",
       "example": "Say 'Cross-chain transfer' or 'Check fees'",
       "user_provides": "Web3 account,operation params",
-      "dapps": "",
+      "dapps": "Unknown",
       "run_mode": "Continuous AI",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/rendis/opcode"
     },
@@ -10362,8 +10362,8 @@
       "name": "hedera-mirror",
       "author": "imaflytok",
       "description": "Query Hedera blockchain data via Mirror",
-      "category_tech": "NFT",
-      "category_user": "NFT Player",
+      "category_tech": "Data Query",
+      "category_user": "Market Data",
       "example": "Say 'Mint NFT' or 'View collection'",
       "user_provides": "Web3 account,operation params",
       "dapps": "ENS",
@@ -10398,8 +10398,8 @@
       "name": "x402-cli",
       "author": "razvanmacovei",
       "description": "Pay for x402 payment-gated HTTP",
-      "category_tech": "DEX Trading",
-      "category_user": "One-click Swap",
+      "category_tech": "Infrastructure",
+      "category_user": "Dev Tools",
       "example": "Say 'Check balance' or 'Send transaction'",
       "user_provides": "Web3 account,operation params",
       "dapps": "Uniswap",
@@ -10410,8 +10410,8 @@
       "name": "sovereign-test-generator",
       "author": "ryudi84",
       "description": "Analyzes codebases and generates",
-      "category_tech": "DEX Trading",
-      "category_user": "One-click Swap",
+      "category_tech": "Infrastructure",
+      "category_user": "Dev Tools",
       "example": "Say 'Query data' or 'Analyze trends'",
       "user_provides": "Web3 account,operation params",
       "dapps": "Uniswap",
@@ -10438,7 +10438,7 @@
       "category_user": "Asset Management",
       "example": "Say 'Execute a trade' or 'Check positions'",
       "user_provides": "Web3 account,operation params",
-      "dapps": "Gnosis Safe",
+      "dapps": "Unknown",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/kaelxsol/clawsnipe"
     },
@@ -10498,7 +10498,7 @@
       "category_user": "Asset Management",
       "example": "Say 'Mint NFT' or 'View collection'",
       "user_provides": "Web3 account,operation params",
-      "dapps": "",
+      "dapps": "Base",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/squirt11e/base-8004"
     },
@@ -10510,7 +10510,7 @@
       "category_user": "Asset Management",
       "example": "Say 'Check balance' or 'Send transaction'",
       "user_provides": "Web3 account,operation params",
-      "dapps": "",
+      "dapps": "Unknown",
       "run_mode": "Continuous AI",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/glitch003/agent-wallet"
     },
@@ -10522,7 +10522,7 @@
       "category_user": "Asset Management",
       "example": "Say 'Check balance' or 'Send transaction'",
       "user_provides": "Web3 account,operation params",
-      "dapps": "",
+      "dapps": "Unknown",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/synthluvr/nova"
     },
@@ -10566,11 +10566,11 @@
       "name": "aelf-skills",
       "author": "hzz780",
       "description": "Web3 skill for aelf skills",
-      "category_tech": "Infrastructure",
-      "category_user": "Dev Tools",
+      "category_tech": "DEX Trading",
+      "category_user": "Quant Trading",
       "example": "Say 'Mint NFT' or 'View collection'",
       "user_provides": "Web3 account,operation params",
-      "dapps": "",
+      "dapps": "aelf",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/hzz780/aelf-skills"
     },
@@ -10602,8 +10602,8 @@
       "name": "warden-app",
       "author": "deiu",
       "description": "Use the Warden App agentic wallet via",
-      "category_tech": "DEX Trading",
-      "category_user": "Quant Trading",
+      "category_tech": "Cross-chain Bridge",
+      "category_user": "Cross-chain Transfer",
       "example": "Say 'Check balance' or 'Send transaction'",
       "user_provides": "Web3 account,operation params",
       "dapps": "Gnosis Safe, MetaMask, Perpetual Protocol, Rabby",
@@ -10626,11 +10626,11 @@
       "name": "airweave",
       "author": "lennertjansen",
       "description": "Context retrieval layer for AI agents",
-      "category_tech": "NFT",
-      "category_user": "NFT Player",
+      "category_tech": "DEX Trading",
+      "category_user": "Quant Trading",
       "example": "Say 'Cross-chain transfer' or 'Check fees'",
       "user_provides": "Web3 account,operation params",
-      "dapps": "",
+      "dapps": "Unknown",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/lennertjansen/airweave"
     },
@@ -10642,7 +10642,7 @@
       "category_user": "Asset Management",
       "example": "Say 'Check balance' or 'Send transaction'",
       "user_provides": "Web3 account,operation params",
-      "dapps": "",
+      "dapps": "Unknown",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/manyfestation/trial"
     },
@@ -10654,7 +10654,7 @@
       "category_user": "Asset Management",
       "example": "Say 'Check balance' or 'Send transaction'",
       "user_provides": "Web3 account,operation params",
-      "dapps": "",
+      "dapps": "Kaspa",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/manyfestation/kaspa-wallet"
     },
@@ -10678,7 +10678,7 @@
       "category_user": "One-click Swap",
       "example": "Say 'Check balance' or 'Send transaction'",
       "user_provides": "Web3 account,operation params",
-      "dapps": "",
+      "dapps": "Unknown",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/aromeoes/tulebank"
     },
@@ -10690,7 +10690,7 @@
       "category_user": "Asset Management",
       "example": "Say 'Check balance' or 'Send transaction'",
       "user_provides": "Web3 account,operation params",
-      "dapps": "Gnosis Safe",
+      "dapps": "x402",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/ya7ya/agentic-x402"
     },
@@ -10709,8 +10709,8 @@
     {
       "name": "agenticstreet",
       "author": "frycookvc",
-      "description": "Web3 skill for agenticstreet",
-      "category_tech": "Lending",
+      "description": "Earn yield on USDC by investing in AI-managed DeFi funds on Base. Browse funds, deposit, monitor performance, veto trades, and withdraw returns.",
+      "category_tech": "DeFi Yield",
       "category_user": "Auto Finance",
       "example": "Say 'Query data' or 'Analyze trends'",
       "user_provides": "Web3 account,operation params",
@@ -10770,8 +10770,8 @@
       "name": "simmer-x402",
       "author": "adlai88",
       "description": "Make x402 payments to access paid APIs",
-      "category_tech": "Prediction Markets",
-      "category_user": "Prediction Betting",
+      "category_tech": "Payment Tools",
+      "category_user": "Crypto Payment",
       "example": "Say 'Execute a trade' or 'Check positions'",
       "user_provides": "Web3 account,operation params",
       "dapps": "CoinGecko, Polymarket, QuickNode",
@@ -10782,11 +10782,11 @@
       "name": "leviathan-news",
       "author": "zcor",
       "description": "Crowdsourced crypto news API. Submit",
-      "category_tech": "DEX Trading",
-      "category_user": "One-click Swap",
+      "category_tech": "Data Query",
+      "category_user": "Market Data",
       "example": "Say 'Check balance' or 'Send transaction'",
       "user_provides": "Web3 account,operation params",
-      "dapps": "Uniswap",
+      "dapps": "Leviathan News",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/zcor/leviathan-news"
     },
@@ -10822,7 +10822,7 @@
       "category_user": "Dev Tools",
       "example": "Say 'Query data' or 'Analyze trends'",
       "user_provides": "Web3 account,operation params",
-      "dapps": "",
+      "dapps": "Ceaser",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/se7enhvn/agent-privacy-skill"
     },
@@ -10906,7 +10906,7 @@
       "category_user": "One-click Swap",
       "example": "Say 'Execute a trade' or 'Check positions'",
       "user_provides": "Web3 account,operation params",
-      "dapps": "Uniswap",
+      "dapps": "Unknown",
       "run_mode": "Continuous AI",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/tariqsumatri82/cryptocurrency-trader-skill-0-1-0"
     },
@@ -10954,7 +10954,7 @@
       "category_user": "Auto Finance",
       "example": "Say 'Execute a trade' or 'Check positions'",
       "user_provides": "Web3 account,operation params",
-      "dapps": "Compound, Hop Protocol, MakerDAO",
+      "dapps": "Soroban",
       "run_mode": "Continuous AI",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/kaankacar/soroban"
     },
@@ -10966,7 +10966,7 @@
       "category_user": "Asset Management",
       "example": "Say 'Check balance' or 'Send transaction'",
       "user_provides": "Web3 account,operation params",
-      "dapps": "",
+      "dapps": "ClawPay",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/jakemeyer125-design/clawpay-escrow"
     },
@@ -10986,11 +10986,11 @@
       "name": "alpaca-markets",
       "author": "oscraters",
       "description": "This skill provides integration with",
-      "category_tech": "Data Query",
-      "category_user": "Market Data",
+      "category_tech": "DEX Trading",
+      "category_user": "Quant Trading",
       "example": "Say 'Execute a trade' or 'Check positions'",
       "user_provides": "Web3 account,operation params",
-      "dapps": "",
+      "dapps": "Alpaca Markets",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/oscraters/alpaca-markets"
     },
@@ -11026,7 +11026,7 @@
       "category_user": "One-click Swap",
       "example": "Say 'Check balance' or 'Send transaction'",
       "user_provides": "Web3 account,operation params",
-      "dapps": "Uniswap",
+      "dapps": "Unknown",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/rojasjuniore/payclaw"
     },
@@ -11083,7 +11083,7 @@
       "author": "dromlakhani",
       "description": "Comprehensive guide and execution framework for popular options trading strategies.",
       "category_tech": "Infrastructure",
-      "category_user": "Dev Tools",
+      "category_user": "Quant Trading",
       "example": "Say 'Use options-strategies' or 'Help me analyze data'",
       "user_provides": "Trade Parameters",
       "dapps": "ENS",
@@ -11098,7 +11098,7 @@
       "category_user": "One-click Swap",
       "example": "Say 'Use fluxa-x402-payment' or 'Help me analyze data'",
       "user_provides": "Wallet Address, Transaction Amount",
-      "dapps": "Uniswap",
+      "dapps": "Fluxa",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/cpppppp7/fluxa-x402-payment"
     },
@@ -11110,7 +11110,7 @@
       "category_user": "One-click Swap",
       "example": "Say 'Use moltstreet' or 'Help me analyze data'",
       "user_provides": "Trade Parameters, Blockchain",
-      "dapps": "Uniswap",
+      "dapps": "Unknown",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/fredxyt/moltstreet"
     },
@@ -11182,7 +11182,7 @@
       "category_user": "Security Check",
       "example": "Say 'Use slither-audit' or 'Help me analyze data'",
       "user_provides": "Token Contract, Blockchain",
-      "dapps": "",
+      "dapps": "Unknown",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/aviclaw/slither-audit"
     },
@@ -11214,11 +11214,11 @@
       "name": "hummingbot",
       "author": "fengtality",
       "description": "Agent skill that faithfully reproduces Hummingbot CLI commands (connect, balance,",
-      "category_tech": "Wallet Management",
-      "category_user": "Asset Management",
+      "category_tech": "DEX Trading",
+      "category_user": "Quant Trading",
       "example": "Say 'Use hummingbot' or 'Help me analyze data'",
       "user_provides": "Basic Parameters",
-      "dapps": "",
+      "dapps": "HummingBot",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/fengtality/hummingbot"
     },
@@ -11250,11 +11250,11 @@
       "name": "codebase-guide",
       "author": "tensorlink-dev",
       "description": "Use for every task involving this project. Covers running Ganglion,",
-      "category_tech": "Cross-chain Bridge",
-      "category_user": "Cross-chain Transfer",
+      "category_tech": "Infrastructure",
+      "category_user": "Dev Tools",
       "example": "Say 'Use codebase-guide' or 'Help me analyze data'",
       "user_provides": "Basic Parameters",
-      "dapps": "",
+      "dapps": "Unknown",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/tensorlink-dev/codebase-guide"
     },
@@ -11362,7 +11362,7 @@
       "category_user": "Crypto Payment",
       "example": "Say 'Use shadow-phone' or 'Help me analyze data'",
       "user_provides": "Wallet Address, Transaction Amount",
-      "dapps": "",
+      "dapps": "Unknown",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/0xshadoweth/shadow-phone"
     },
@@ -11374,7 +11374,7 @@
       "category_user": "Market Data",
       "example": "Say 'Use bitget-poolx-monitor' or 'Help me analyze data'",
       "user_provides": "Basic Parameters",
-      "dapps": "",
+      "dapps": "Bitget",
       "run_mode": "Continuous AI",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/itonlyforfun-ai/bitget-poolx-monitor"
     },
@@ -11382,11 +11382,11 @@
       "name": "soulblock",
       "author": "hburgoyne",
       "description": "Read, list, mint, and append Soul Blocks on Base. Read",
-      "category_tech": "NFT",
-      "category_user": "NFT Player",
+      "category_tech": "Wallet Management",
+      "category_user": "Asset Management",
       "example": "Say 'Use soulblock' or 'Help me analyze data'",
       "user_provides": "Wallet Address, Transaction Amount, Token Contract",
-      "dapps": "",
+      "dapps": "SoulBlock",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/hburgoyne/soulblock"
     },
@@ -11410,7 +11410,7 @@
       "category_user": "Dev Tools",
       "example": "Say 'Use bitskins' or 'Help me analyze data'",
       "user_provides": "Wallet Address, Trade Parameters",
-      "dapps": "",
+      "dapps": "BitSkins",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/bluesyparty-src/bitskins"
     },
@@ -11446,7 +11446,7 @@
       "category_user": "Quant Trading",
       "example": "Say 'Use telegram-bot-factory' or 'Help me analyze data'",
       "user_provides": "Basic Parameters",
-      "dapps": "",
+      "dapps": "Unknown",
       "run_mode": "Continuous AI",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/katrina-jpg/telegram-bot-factory"
     },
@@ -11458,7 +11458,7 @@
       "category_user": "One-click Swap",
       "example": "Say 'Use pay-for-service' or 'Help me analyze data'",
       "user_provides": "Wallet Address, Transaction Amount",
-      "dapps": "Uniswap",
+      "dapps": "Unknown",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/0xrag/pay-for-service"
     },
@@ -11487,18 +11487,6 @@
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/parmasanandgarlic/farmdash-signal-architect"
     },
     {
-      "name": "clude-memory-mcp",
-      "author": "sebbsssss",
-      "description": "MCP server for Clude",
-      "category_tech": "Infrastructure",
-      "category_user": "Dev Tools",
-      "example": "Say 'Use clude-memory-mcp' or 'Help me analyze data'",
-      "user_provides": "Trade Parameters, Blockchain",
-      "dapps": "",
-      "run_mode": "Hybrid",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/sebbsssss/clude-memory-mcp"
-    },
-    {
       "name": "clawwatch",
       "author": "goarstne",
       "description": "Crypto and stock price watchlist tracker.",
@@ -11506,7 +11494,7 @@
       "category_user": "Market Data",
       "example": "Say 'Use clawwatch' or 'Help me analyze data'",
       "user_provides": "Trade Parameters, Token Contract, Blockchain",
-      "dapps": "",
+      "dapps": "Unknown",
       "run_mode": "Continuous AI",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/goarstne/clawwatch"
     },
@@ -11530,7 +11518,7 @@
       "category_user": "Market Data",
       "example": "Say 'Use priceforagent' or 'Help me analyze data'",
       "user_provides": "Trade Parameters, Blockchain",
-      "dapps": "",
+      "dapps": "Unknown",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/edibez/priceforagent"
     },
@@ -11562,11 +11550,11 @@
       "name": "ai-cheese",
       "author": "locjonz",
       "description": "Send paid messages to real humans via the A.I. Cheese",
-      "category_tech": "Wallet Management",
-      "category_user": "Asset Management",
+      "category_tech": "Data Query",
+      "category_user": "Market Data",
       "example": "Say 'Use ai-cheese' or 'Help me analyze data'",
       "user_provides": "Wallet Address, Transaction Amount, Trade Parameters",
-      "dapps": "",
+      "dapps": "Unknown",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/locjonz/ai-cheese"
     },
@@ -11626,7 +11614,7 @@
       "category_user": "Contract Dev",
       "example": "Say 'Use masumi' or 'Help me analyze data'",
       "user_provides": "Wallet Address, Blockchain",
-      "dapps": "",
+      "dapps": "Unknown",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/sarthib7/masumi"
     },
@@ -11650,7 +11638,7 @@
       "category_user": "Crypto Payment",
       "example": "Say 'Use openclaw-paid-actions' or 'Help me analyze data'",
       "user_provides": "Token Contract, Blockchain",
-      "dapps": "",
+      "dapps": "OpenClaw",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/icetroll/openclaw-paid-actions"
     },
@@ -11662,7 +11650,7 @@
       "category_user": "Dev Tools",
       "example": "Say 'Use krumpverify' or 'Help me analyze data'",
       "user_provides": "Wallet Address, Transaction Amount, Trade Parameters, Token Contract, Blockchain",
-      "dapps": "",
+      "dapps": "Unknown",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/arunnadarasa/krumpverify"
     },
@@ -11670,8 +11658,8 @@
       "name": "encoding-formats",
       "author": "gitgoodordietrying",
       "description": "Encode, decode, and convert between data formats. Use when working",
-      "category_tech": "DEX Trading",
-      "category_user": "One-click Swap",
+      "category_tech": "Data Query",
+      "category_user": "Market Data",
       "example": "Say 'Use encoding-formats' or 'Help me analyze data'",
       "user_provides": "Token Contract",
       "dapps": "Uniswap",
@@ -11682,8 +11670,8 @@
       "name": "wallet-skills",
       "author": "rishabluthra",
       "description": "Manage crypto wallets, transfers, swaps, and balances via the Sponge",
-      "category_tech": "Prediction Markets",
-      "category_user": "Prediction Betting",
+      "category_tech": "Wallet Management",
+      "category_user": "Asset Management",
       "example": "Say 'Use wallet-skills' or 'Help me analyze data'",
       "user_provides": "Wallet Address, Token Contract",
       "dapps": "Gnosis Safe, Jupiter, Polymarket, Privy, deBridge",
@@ -11722,7 +11710,7 @@
       "category_user": "Asset Management",
       "example": "Say 'Use asndurl' or 'Help me analyze data'",
       "user_provides": "Wallet Address, Blockchain",
-      "dapps": "",
+      "dapps": "Unknown",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/matiasedgeandnode/asndurl"
     },
@@ -11734,7 +11722,7 @@
       "category_user": "Asset Management",
       "example": "Say 'Use ampersend' or 'Help me analyze data'",
       "user_provides": "Wallet Address, Blockchain",
-      "dapps": "",
+      "dapps": "Unknown",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/matiasedgeandnode/ampersend"
     },
@@ -11746,7 +11734,7 @@
       "category_user": "Crypto Payment",
       "example": "Say 'Use norman-monthly-reconciliation' or 'Help me analyze data'",
       "user_provides": "Transaction Amount",
-      "dapps": "ENS",
+      "dapps": "Unknown",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/stanlee000/norman-monthly-reconciliation"
     },
@@ -11767,10 +11755,10 @@
       "author": "wpank",
       "description": "Extract design systems, architecture patterns, and methodology from codebases into",
       "category_tech": "Infrastructure",
-      "category_user": "Dev Tools, Token Launch",
+      "category_user": "Token Launch",
       "example": "Say 'Use extraction' or 'Help me analyze data'",
       "user_provides": "Token Contract",
-      "dapps": "",
+      "dapps": "Unknown",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/wpank/extraction"
     },
@@ -11866,7 +11854,7 @@
       "category_user": "Dev Tools",
       "example": "Say 'Use myclaw-backup' or 'Help me analyze data'",
       "user_provides": "Token Contract, Blockchain",
-      "dapps": "ENS",
+      "dapps": "Unknown",
       "run_mode": "Continuous AI",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/leoyeai/myclaw-backup"
     },
@@ -11878,7 +11866,7 @@
       "category_user": "Asset Management",
       "example": "Say 'Use nansen-wallet' or 'Help me analyze data'",
       "user_provides": "Wallet Address, Transaction Amount, Token Contract, Blockchain",
-      "dapps": "ENS",
+      "dapps": "Nansen",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/hurcannansen/nansen-wallet"
     },
@@ -11886,8 +11874,8 @@
       "name": "nansen-token",
       "author": "hurcannansen",
       "description": "Token analytics — screener, indicators, OHLCV, holders, flows, PnL, DEX",
-      "category_tech": "Perpetuals",
-      "category_user": "Quant Trading",
+      "category_tech": "Token Analysis",
+      "category_user": "Market Data",
       "example": "Say 'Use nansen-token' or 'Help me analyze data'",
       "user_provides": "Wallet Address, Trade Parameters, Token Contract, Blockchain",
       "dapps": "Perpetual Protocol",
@@ -11981,7 +11969,7 @@
     {
       "name": "ceaser",
       "author": "zyra-v21",
-      "description": "Interact with the Ceaser privacy protocol on Base L2 using the ceaser-mcp MCP tools. This skill uses the ceaser-mcp npm package for ALL operations -- shield, unshield, note management, and protocol qu",
+      "description": "Shield/unshield ETH privately on Base via Noir zero-knowledge proofs using facilitator relay.",
       "category_tech": "Infrastructure",
       "category_user": "Dev Tools",
       "example": "Say 'run Ceaser' or 'execute Ceaser'",
@@ -12029,7 +12017,7 @@
     {
       "name": "expense-tracker-v2",
       "author": "codeblackhole1024",
-      "description": "Track expenses and income with multi-backend storage (local/Notion/Google Sheet/Supabase). Credentials are encrypted with AES-256-GCM. Use when user wants to record expenses, view transaction history,",
+      "description": "Track expenses across local/Notion/Google Sheets/Supabase with AES-256 encryption.",
       "category_tech": "Token Analysis",
       "category_user": "Market Data",
       "example": "Say 'run Expense Tracker V2' or 'execute Expense Tracker V2'",
@@ -12041,12 +12029,12 @@
     {
       "name": "cobo-tss-node",
       "author": "dinstein",
-      "description": "Manage a Cobo TSS Node for MPC threshold signing. Use when: setting up a new TSS Node, starting/stopping the node service, checking node status or health, signing for key share checkups, exporting sha",
+      "description": "Manage Cobo TSS Node for MPC threshold signing: setup, health checks, key export, backup.",
       "category_tech": "Infrastructure",
       "category_user": "Dev Tools",
       "example": "Say 'run Cobo Tss Node' or 'execute Cobo Tss Node'",
       "user_provides": "URL",
-      "dapps": "",
+      "dapps": "Cobo",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/dinstein/cobo-tss-node"
     },
@@ -12058,14 +12046,14 @@
       "category_user": "One-click Swap",
       "example": "Say 'run Tonfun' or 'execute Tonfun'",
       "user_provides": "ETH, URL",
-      "dapps": "Curve, Jupiter",
+      "dapps": "TON",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/alphafanx/tonfun"
     },
     {
       "name": "clawcontract",
       "author": "sufnoobzac",
-      "description": "AI-powered smart contract generator, analyzer, and deployer for BNB Chain (BSC/opBNB). Use when you need to generate Solidity from natural language, run security analysis, compile and deploy contracts",
+      "description": "Generate Solidity from natural language, analyze security, deploy, verify on BNB Chain.",
       "category_tech": "Smart Contracts",
       "category_user": "Contract Dev",
       "example": "Say 'run Clawcontract' or 'execute Clawcontract'",
@@ -12094,21 +12082,9 @@
       "category_user": "Dev Tools",
       "example": "Say 'run Vouch Cli' or 'execute Vouch Cli'",
       "user_provides": "API Key, URL",
-      "dapps": "",
+      "dapps": "Unknown",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/jackpmorgan/vouch-cli"
-    },
-    {
-      "name": "sys-guard-linux-remediator",
-      "author": "kiaraho",
-      "description": "Host-based Linux incident response and remediation skill focused on precise threat detection, forensic-safe data collection, firewall control (iptables/nftables), integrity validation, and controlled ",
-      "category_tech": "NFT",
-      "category_user": "NFT Player",
-      "example": "Say 'run Sys Guard Linux Remediator' or 'execute Sys Guard Linux Remediator'",
-      "user_provides": "User Prompt",
-      "dapps": "Gnosis Safe",
-      "run_mode": "Continuous AI",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/kiaraho/sys-guard-linux-remediator"
     },
     {
       "name": "basemail",
@@ -12137,9 +12113,9 @@
     {
       "name": "agentapi",
       "author": "gizmo-dev",
-      "description": "Browse and search the AgentAPI directory - a curated database of APIs designed for AI agents. Find MCP-compatible APIs for search, AI, communication, databases, payments, and more. Includes free direc",
-      "category_tech": "Payment Tools",
-      "category_user": "Crypto Payment",
+      "description": "Fetch on-chain data from Base and Ethereum networks including token info, NFT data, and account information",
+      "category_tech": "Data Query",
+      "category_user": "Market Data",
       "example": "Say 'run Agentapi' or 'execute Agentapi'",
       "user_provides": "USDC, ETH, URL",
       "dapps": "",
@@ -12190,7 +12166,7 @@
       "category_user": "Dev Tools",
       "example": "Say 'run Near Agent Skills' or 'execute Near Agent Skills'",
       "user_provides": "User Prompt",
-      "dapps": "ENS",
+      "dapps": "NEAR",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/mastrophot/near-agent-skills"
     },
@@ -12198,8 +12174,8 @@
       "name": "caravo",
       "author": "azure-vision",
       "description": "Caravo is the first service marketplace built for autonomous AI agents — featuring 200+ ready-to-use services across categories: AI Models, Search, Data & Analytics, Finance, Social Media, Communicati...",
-      "category_tech": "NFT",
-      "category_user": "NFT Player",
+      "category_tech": "Data Query",
+      "category_user": "Market Data",
       "example": "Say 'run Caravo' or 'execute Caravo'",
       "user_provides": "ETH",
       "dapps": "",
@@ -12221,9 +12197,9 @@
     {
       "name": "codex-review",
       "author": "abczsl520",
-      "description": "{ \"openclaw\": { \"emoji\": \"🔍\" } }",
-      "category_tech": "DEX Trading",
-      "category_user": "One-click Swap",
+      "description": "Three-tier code quality defense: L1 quick scan, L2 deep audit via bug-audit, L3 cross-validation with adversarial testing",
+      "category_tech": "Smart Contracts",
+      "category_user": "Contract Dev",
       "example": "Say 'run Codex Review' or 'execute Codex Review'",
       "user_provides": "API Key, URL",
       "dapps": "",
@@ -12233,9 +12209,9 @@
     {
       "name": "wof-rps",
       "author": "wof-developers",
-      "description": "Play Rock Paper Scissors on WatchOrFight — on-chain gaming with USDC stakes on Base",
+      "description": "On-chain RPS (rock-paper-scissors) game platform with competitive gameplay",
       "category_tech": "Payment Tools",
-      "category_user": "Crypto Payment",
+      "category_user": "NFT Player",
       "example": "Say 'run Wof Rps' or 'execute Wof Rps'",
       "user_provides": "Private Key, USDC, ETH",
       "dapps": "",
@@ -12279,18 +12255,6 @@
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/danielithomas/lobsterlan"
     },
     {
-      "name": "obsidian-cli",
-      "author": "adolago",
-      "description": "Skill for the official Obsidian CLI (v1.12+). Complete vault automation including files, daily notes, search, tasks, tags, properties, links, bookmarks, bases, templates, themes, plugins, sync, publis",
-      "category_tech": "Cross-chain Bridge",
-      "category_user": "Cross-chain Transfer",
-      "example": "Say 'run Obsidian Cli' or 'execute Obsidian Cli'",
-      "user_provides": "User Prompt",
-      "dapps": "Socket",
-      "run_mode": "One-shot",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/adolago/obsidian-cli"
-    },
-    {
       "name": "anshumanbh-qmd",
       "author": "anshumanbh",
       "description": "Search markdown knowledge bases efficiently using qmd. Use this when searching Obsidian vaults or markdown collections to find relevant content with minimal token usage.",
@@ -12305,9 +12269,9 @@
     {
       "name": "trading-signal",
       "author": "awessh",
-      "description": "Subscribe and retrieve on-chain Smart Money signals. Monitor trading activities of smart money addresses, including buy/sell signals, trigger price, current price, max gain, and exit rate. Use this sk",
-      "category_tech": "DEX Trading",
-      "category_user": "One-click Swap",
+      "description": "Real-time market data monitoring and trading signal alerts with multi-exchange price tracking",
+      "category_tech": "Data Query",
+      "category_user": "Market Data",
       "example": "Say 'run Trading Signal' or 'execute Trading Signal'",
       "user_provides": "ETH, URL",
       "dapps": "Binance",
@@ -12317,9 +12281,9 @@
     {
       "name": "code-mentor",
       "author": "samuelkahessay",
-      "description": "Comprehensive AI programming tutor for all levels. Teaches programming through interactive lessons, code review, debugging guidance, algorithm practice, project mentoring, and design pattern explorati",
-      "category_tech": "NFT",
-      "category_user": "NFT Player",
+      "description": "On-chain data analysis and visualization tool providing deep insights into blockchain activity, transaction trends, and network metrics",
+      "category_tech": "Data Query",
+      "category_user": "Market Data",
       "example": "Say 'run Code Mentor' or 'execute Code Mentor'",
       "user_provides": "ETH",
       "dapps": "Foundation",
@@ -12327,21 +12291,9 @@
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/samuelkahessay/code-mentor"
     },
     {
-      "name": "fastplaywright",
-      "author": "frankausberlin",
-      "description": "High-performance browser automation with Fast Playwright MCP. Features token-optimized batch execution, intelligent element selection with fallback, diff detection for change tracking, and comprehensi",
-      "category_tech": "Infrastructure",
-      "category_user": "Dev Tools",
-      "example": "Say 'run Fastplaywright' or 'execute Fastplaywright'",
-      "user_provides": "User Prompt",
-      "dapps": "ENS",
-      "run_mode": "Hybrid",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/frankausberlin/fastplaywright"
-    },
-    {
       "name": "molt-market",
       "author": "dizaztuh",
-      "description": "Agent-to-agent freelance marketplace. Use when: (1) you need work done by another AI agent (coding, research, content, SEO, design, data), (2) you want to find and complete jobs posted by other agents",
+      "description": "Secure automated token payments and transaction processing",
       "category_tech": "Data Query",
       "category_user": "Market Data",
       "example": "Say 'run Molt Market' or 'execute Molt Market'",
@@ -12401,7 +12353,7 @@
     {
       "name": "clawcast-wallet",
       "author": "tezatezaz",
-      "description": "Skill for managing EVM wallets, transactions, and network helpers via cast; covers onboarding, checks, and operating procedures.",
+      "description": "EVM wallet onboarding, balance checks, token transfers, transaction signing via cast CLI.",
       "category_tech": "Wallet Management",
       "category_user": "Asset Management",
       "example": "Say 'run Clawcast Wallet' or 'execute Clawcast Wallet'",
@@ -12413,7 +12365,7 @@
     {
       "name": "clawcast",
       "author": "tezatezaz",
-      "description": "Skill for managing EVM wallets, transactions, and network helpers via cast; covers onboarding, checks, and operating procedures.",
+      "description": "EVM wallet creation, key management, transaction building, token operations via Foundry cast.",
       "category_tech": "Wallet Management",
       "category_user": "Asset Management",
       "example": "Say 'run Clawcast' or 'execute Clawcast'",
@@ -12425,7 +12377,7 @@
     {
       "name": "cast",
       "author": "tezatezaz",
-      "description": "Skill for managing EVM wallets, transactions, and network helpers via cast; covers onboarding, checks, and operating procedures.",
+      "description": "Foundry Cast CLI: balances, sends, calls, receipts, nonce, key management for all EVM chains.",
       "category_tech": "Wallet Management",
       "category_user": "Asset Management",
       "example": "Say 'run Cast' or 'execute Cast'",
@@ -12485,7 +12437,7 @@
     {
       "name": "leo-wallet",
       "author": "sakaen736jih",
-      "description": "Interact with Aleo blockchain - check balances, view transactions, and explore the privacy-focused network. Works with Leo Wallet addresses.",
+      "description": "Check Aleo wallet balances, view transactions, explore privacy-focused network via snarkOS.",
       "category_tech": "Wallet Management",
       "category_user": "Asset Management",
       "example": "Say 'run Leo Wallet' or 'execute Leo Wallet'",
@@ -12509,7 +12461,7 @@
     {
       "name": "wallet-pnl",
       "author": "ultranumblol",
-      "description": "Analyze any Solana wallet's trading history: win rate, realized PnL, trader type, and copy-trade rating. Use when the user wants to check if a wallet is worth copying, analyze smart money performance,",
+      "description": "Analyze Solana wallet trading history: win rate, realized PnL, trader type, copy-trade rating.",
       "category_tech": "Wallet Management",
       "category_user": "Asset Management, Copy Trading",
       "example": "Say 'run Wallet Pnl' or 'execute Wallet Pnl'",
@@ -12629,9 +12581,9 @@
     {
       "name": "mkhaytman-token-optimizer",
       "author": "mkhaytman87",
-      "description": "Automatically analyze and reduce OpenClaw token waste through context compression, tool-call deduplication insights, model selection guidance, and session hygiene checks. Use when sessions are nearing",
-      "category_tech": "Token Analysis",
-      "category_user": "Market Data",
+      "description": "Automatically analyze and reduce OpenClaw token waste through context compression, tool-call deduplication, and session hygiene optimization",
+      "category_tech": "Infrastructure",
+      "category_user": "Dev Tools",
       "example": "Say 'run Mkhaytman Token Optimizer' or 'execute Mkhaytman Token Optimizer'",
       "user_provides": "wallet address",
       "dapps": "Gnosis Safe",
@@ -12653,19 +12605,19 @@
     {
       "name": "warren-deploy",
       "author": "planetai87",
-      "description": "Deploy websites and files permanently on MegaETH blockchain. AI agents stress test the network by deploying HTML on-chain using SSTORE2 bytecode storage. Agents pay their own gas.",
+      "description": "Deploy websites and files permanently on MegaETH blockchain using SSTORE2 bytecode storage for immutable on-chain content hosting",
       "category_tech": "Smart Contracts",
       "category_user": "Contract Dev",
       "example": "Say 'run Warren Deploy' or 'execute Warren Deploy'",
       "user_provides": "Private Key, URL",
-      "dapps": "Blockscout",
+      "dapps": "MegaETH",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/planetai87/warren-deploy"
     },
     {
       "name": "warren-nft-mainnet",
       "author": "planetai87",
-      "description": "Deploy NFT collections permanently on MegaETH mainnet. Images are stored on-chain via SSTORE2, then published through WarrenContainer and WarrenLaunchedNFT.",
+      "description": "Deploy NFT collections with on-chain image storage (SSTORE2) on MegaETH mainnet.",
       "category_tech": "NFT",
       "category_user": "NFT Player",
       "example": "Say 'run Warren Nft Mainnet' or 'execute Warren Nft Mainnet'",
@@ -12725,7 +12677,7 @@
     {
       "name": "cifer-security",
       "author": "tip-citron",
-      "description": "Implement quantum-resistant encryption using the CIFER SDK (cifer-sdk npm package). Covers SDK initialization, wallet setup, secret creation, text encryption/decryption, and file encryption/decryption",
+      "description": "Implement CIFER quantum-resistant encryption (ML-KEM-768 + AES-256-GCM) for secrets, files.",
       "category_tech": "Security Audit",
       "category_user": "Security Check",
       "example": "Say 'run Cifer Security' or 'execute Cifer Security'",
@@ -12749,7 +12701,7 @@
     {
       "name": "zodiac-horoscope",
       "author": "dowands",
-      "description": "Fetch personalized daily horoscope forecasts from zodiac-today.com API based on natal chart calculations. Use when a user wants: (1) daily guidance on what activities to pursue or avoid, (2) life plan",
+      "description": "Fetch personalized daily horoscope forecasts based on natal chart, lucky colors/numbers.",
       "category_tech": "Data Query",
       "category_user": "Market Data",
       "example": "Say 'run Zodiac Horoscope' or 'execute Zodiac Horoscope'",
@@ -12761,7 +12713,7 @@
     {
       "name": "humanizer-enhanced",
       "author": "dorukardahan",
-      "description": "Advanced AI text humanizer for blog content. Detects and removes 34 AI writing patterns, adds personality/soul, and handles crypto/Web3 specific tells. Use when user says /humanizer, \"humanize this\", ",
+      "description": "Detect 34 AI writing patterns (content, language, crypto-specific), add personality to text.",
       "category_tech": "Infrastructure",
       "category_user": "Dev Tools",
       "example": "Say 'run Humanizer Enhanced' or 'execute Humanizer Enhanced'",
@@ -12773,7 +12725,7 @@
     {
       "name": "bvg-route",
       "author": "jaysonsantos",
-      "description": "Route planning for Berlin public transport (BVG) using the v6.bvg.transport.rest API. Use when the user asks for: (1) route suggestions between two addresses or stops, (2) live next-departure info for",
+      "description": "Plan Berlin public transport routes via BVG API: live departures, arrive-by, step-by-step.",
       "category_tech": "Infrastructure",
       "category_user": "Dev Tools",
       "example": "Say 'run Bvg Route' or 'execute Bvg Route'",
@@ -12797,9 +12749,9 @@
     {
       "name": "qelt-rwa-oracle",
       "author": "prqelt",
-      "description": "Fetch real-world asset (RWA) data and proof-of-reserve status from the QXMP Oracle — managing $1.17 trillion in certified in-ground mining assets on the QELT blockchain. Use when asked about tokenized",
-      "category_tech": "Infrastructure",
-      "category_user": "Dev Tools",
+      "description": "Fetch real-world asset (RWA) data and proof-of-reserve status from QXMP Oracle managing $1.17T in certified mining assets",
+      "category_tech": "Data Query",
+      "category_user": "Market Data",
       "example": "Say 'run Qelt Rwa Oracle' or 'execute Qelt Rwa Oracle'",
       "user_provides": "API Key, URL",
       "dapps": "Chainlink",
@@ -14861,8 +14813,8 @@
     {
       "name": "yieldvault-agent",
       "author": "alannetwork",
-      "description": "Autonomous yield farming agent for BNB",
-      "category_tech": "Lending",
+      "description": "Autonomous yield farming agent for BNB Chain with deterministic decision engine for automated deposit, withdraw, harvest, compound and rebalance operations.",
+      "category_tech": "DeFi Yield",
       "category_user": "Auto Finance",
       "example": "Say 'query' or 'other'",
       "user_provides": "wallet address, search/query, amount, blockchain",
@@ -14931,30 +14883,6 @@
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/lazaruseth/receipts-guard"
     },
     {
-      "name": "nws-warning-bot",
-      "author": "neilofneils404",
-      "description": "Monitors NWS severe weather alerts for",
-      "category_tech": "Infrastructure",
-      "category_user": "Dev Tools",
-      "example": "Say 'query' or 'other'",
-      "user_provides": "API key, wallet address",
-      "dapps": "ENS",
-      "run_mode": "Continuous AI",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/neilofneils404/nws-warning-bot"
-    },
-    {
-      "name": "tushare-base",
-      "author": "wdblink",
-      "description": "Fetch Chinese stock and futures market",
-      "category_tech": "DEX Trading",
-      "category_user": "Quant Trading",
-      "example": "Say 'query' or 'other'",
-      "user_provides": "API key",
-      "dapps": "",
-      "run_mode": "One-shot",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/wdblink/tushare-base"
-    },
-    {
       "name": "scamshield-verifier",
       "author": "marcodzano-lgtm",
       "description": "The ultimate Web3 & OpenClaw security",
@@ -14965,18 +14893,6 @@
       "dapps": "",
       "run_mode": "Continuous AI",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/marcodzano-lgtm/scamshield-verifier"
-    },
-    {
-      "name": "interview-designer",
-      "author": "mikonos",
-      "description": "Analyze resumes and design interview",
-      "category_tech": "Infrastructure",
-      "category_user": "Dev Tools",
-      "example": "Say 'query' or 'other'",
-      "user_provides": "blockchain",
-      "dapps": "",
-      "run_mode": "One-shot",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/mikonos/interview-designer"
     },
     {
       "name": "token-usage-optimizer",
@@ -15150,37 +15066,13 @@
       "name": "clawpurse",
       "author": "clawpurse",
       "description": "Local Timpi/NTMPI wallet for agentic AI, automation scripts, and individual users on the Neutaro cha",
-      "category_tech": "DeFi Yield",
-      "category_user": "Staking",
+      "category_tech": "Wallet Management",
+      "category_user": "Asset Management",
       "example": "user specifies token address and wallet, useclawpurseexecute DeFi yield operations",
       "user_provides": "wallet address, token address",
-      "dapps": "",
+      "dapps": "Neutaro",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/clawpurse"
-    },
-    {
-      "name": "overcome-problem",
-      "author": "overcome",
-      "description": "Break down any problem with structured thinking, action plans, and progress tracking",
-      "category_tech": "DeFi Yield",
-      "category_user": "Staking",
-      "example": "user specifies token address and wallet, useovercome-problemexecute DeFi yield operations",
-      "user_provides": "relevant blockchain parameters",
-      "dapps": "",
-      "run_mode": "Continuous AI",
-      "github_url": "https://github.com/openclaw/skills/tree/main/overcome-problem"
-    },
-    {
-      "name": "openclaw-email-bypass",
-      "author": "openclaw",
-      "description": "Send emails via Google Apps Script when traditional SMTP ports (25/465/587) are blocked. Secure and ",
-      "category_tech": "Cross-chain Bridge",
-      "category_user": "Cross-chain Transfer",
-      "example": "user specifies token address and wallet, useopenclaw-email-bypassexecute cross-chain bridge operations",
-      "user_provides": "token name, token contract address",
-      "dapps": "",
-      "run_mode": "One-shot",
-      "github_url": "https://github.com/openclaw/skills/tree/main/openclaw-email-bypass"
     },
     {
       "name": "triz",
@@ -15195,18 +15087,6 @@
       "github_url": "https://github.com/openclaw/skills/tree/main/triz"
     },
     {
-      "name": "monarch-money",
-      "author": "monarch",
-      "description": "TypeScript library and CLI for Monarch Money budget management. Search transactions by date/merchant",
-      "category_tech": "Data Query",
-      "category_user": "Market Data",
-      "example": "user specifies token address and wallet, usemonarch-moneyexecute data query operations",
-      "user_provides": "relevant blockchain parameters",
-      "dapps": "",
-      "run_mode": "Hybrid",
-      "github_url": "https://github.com/openclaw/skills/tree/main/monarch-money"
-    },
-    {
       "name": "app-builder",
       "author": "app",
       "description": "Build, edit, and deploy Instant-backed apps using npx instant-cli, create-instant-app (Next.js + Cod",
@@ -15217,42 +15097,6 @@
       "dapps": "Flow",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/app-builder"
-    },
-    {
-      "name": "bazi-pillars-from-datetime",
-      "author": "bazi",
-      "description": "Deterministic four-pillar (bazi) calculation from datetime.",
-      "category_tech": "Smart Contracts",
-      "category_user": "Contract Dev",
-      "example": "user specifies token address and wallet, usebazi-pillars-from-datetimeexecute smart contract operations",
-      "user_provides": "contract address, function call parameters",
-      "dapps": "Flow",
-      "run_mode": "One-shot",
-      "github_url": "https://github.com/openclaw/skills/tree/main/bazi-pillars-from-datetime"
-    },
-    {
-      "name": "immich-api",
-      "author": "immich",
-      "description": "Immich Photo Management API Bridge. Use for interacting with self-hosted Immich instances via REST A",
-      "category_tech": "Cross-chain Bridge",
-      "category_user": "Cross-chain Transfer",
-      "example": "user specifies token address and wallet, useimmich-apiexecute cross-chain bridge operations",
-      "user_provides": "relevant blockchain parameters",
-      "dapps": "",
-      "run_mode": "Hybrid",
-      "github_url": "https://github.com/openclaw/skills/tree/main/immich-api"
-    },
-    {
-      "name": "stock-fundamentals",
-      "author": "stock",
-      "description": "\"Run local script to analyze stock fundamentals (P/E, EPS, margins, debt, ROE, analyst targets) usin",
-      "category_tech": "Data Query",
-      "category_user": "Market Data",
-      "example": "user specifies token address and wallet, usestock-fundamentalsexecute data query operations",
-      "user_provides": "relevant blockchain parameters",
-      "dapps": "Flow",
-      "run_mode": "Hybrid",
-      "github_url": "https://github.com/openclaw/skills/tree/main/stock-fundamentals"
     },
     {
       "name": "ai-shield-audit",
@@ -15271,10 +15115,10 @@
       "author": "spacemolt",
       "description": "Play SpaceMolt - an MMO for AI agents. Includes session management for OpenClaw's persistent MCP con",
       "category_tech": "Cross-chain Bridge",
-      "category_user": "Cross-chain Transfer",
+      "category_user": "NFT Player",
       "example": "user specifies token address and wallet, usespacemoltexecute cross-chain bridge operations",
       "user_provides": "relevant blockchain parameters",
-      "dapps": "",
+      "dapps": "SpaceMolt",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/spacemolt"
     },
@@ -15327,30 +15171,6 @@
       "github_url": "https://github.com/openclaw/skills/tree/main/sui-agent-wallet"
     },
     {
-      "name": "stock-strategy-backtester",
-      "author": "stock",
-      "description": "Backtest stock trading strategies on historical OHLCV data and report win rate, return, CAGR, drawdo",
-      "category_tech": "Token Analysis",
-      "category_user": "Token Research",
-      "example": "user specifies token address and wallet, usestock-strategy-backtesterexecute token analysis operations",
-      "user_provides": "relevant blockchain parameters",
-      "dapps": "Base",
-      "run_mode": "Hybrid",
-      "github_url": "https://github.com/openclaw/skills/tree/main/stock-strategy-backtester"
-    },
-    {
-      "name": "stock-strategy-backtester-clean",
-      "author": "stock",
-      "description": "Backtest stock trading strategies on historical OHLCV data and report win rate, return, CAGR, drawdo",
-      "category_tech": "Token Analysis",
-      "category_user": "Token Research",
-      "example": "user specifies token address and wallet, usestock-strategy-backtester-cleanexecute token analysis operations",
-      "user_provides": "relevant blockchain parameters",
-      "dapps": "Base",
-      "run_mode": "Hybrid",
-      "github_url": "https://github.com/openclaw/skills/tree/main/stock-strategy-backtester-clean"
-    },
-    {
       "name": "dropclaw-store",
       "author": "dropclaw",
       "description": "Store and retrieve encrypted files permanently on Monad blockchain via DropClaw x402 gateway",
@@ -15361,18 +15181,6 @@
       "dapps": "Base, Flow",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/dropclaw-store"
-    },
-    {
-      "name": "sec-watcher",
-      "author": "sec",
-      "description": "\"Monitor SEC EDGAR filings for AI/tech companies in real time. Use this skill when the user asks abo",
-      "category_tech": "Data Query",
-      "category_user": "Market Data",
-      "example": "user specifies token address and wallet, usesec-watcherexecute data query operations",
-      "user_provides": "relevant blockchain parameters",
-      "dapps": "",
-      "run_mode": "Continuous AI",
-      "github_url": "https://github.com/openclaw/skills/tree/main/sec-watcher"
     },
     {
       "name": "humannft",
@@ -15531,78 +15339,6 @@
       "github_url": "https://github.com/openclaw/skills/tree/main/clawd-zero-trust"
     },
     {
-      "name": "nerve-bridge-skill",
-      "author": "nerve",
-      "description": "Bi-directional control of Trae via macOS AppleScript with built-in feedback mechanism. Use when need",
-      "category_tech": "Cross-chain Bridge",
-      "category_user": "Cross-chain Transfer",
-      "example": "user specifies token address and wallet, usenerve-bridge-skillexecute cross-chain bridge operations",
-      "user_provides": "relevant blockchain parameters",
-      "dapps": "",
-      "run_mode": "One-shot",
-      "github_url": "https://github.com/openclaw/skills/tree/main/nerve-bridge-skill"
-    },
-    {
-      "name": "zoho-calendar",
-      "author": "zoho",
-      "description": "Zoho Calendar API integration with managed OAuth. Manage calendars and events with full scheduling c",
-      "category_tech": "Lending",
-      "category_user": "Auto Finance",
-      "example": "user specifies token address and wallet, usezoho-calendarexecute lending protocol operations",
-      "user_provides": "relevant blockchain parameters",
-      "dapps": "Base",
-      "run_mode": "Hybrid",
-      "github_url": "https://github.com/openclaw/skills/tree/main/zoho-calendar"
-    },
-    {
-      "name": "acuity-scheduling",
-      "author": "acuity",
-      "description": "Acuity Scheduling API integration with managed OAuth. Manage appointments, calendars, clients, and a",
-      "category_tech": "Lending",
-      "category_user": "Auto Finance",
-      "example": "user specifies token address and wallet, useacuity-schedulingexecute lending protocol operations",
-      "user_provides": "relevant blockchain parameters",
-      "dapps": "Base",
-      "run_mode": "Hybrid",
-      "github_url": "https://github.com/openclaw/skills/tree/main/acuity-scheduling"
-    },
-    {
-      "name": "calendly-api",
-      "author": "calendly",
-      "description": "Calendly API integration with managed OAuth. Access event types, scheduled events, invitees, availab",
-      "category_tech": "Lending",
-      "category_user": "Auto Finance",
-      "example": "user specifies token address and wallet, usecalendly-apiexecute lending protocol operations",
-      "user_provides": "relevant blockchain parameters",
-      "dapps": "Base, Flow",
-      "run_mode": "Hybrid",
-      "github_url": "https://github.com/openclaw/skills/tree/main/calendly-api"
-    },
-    {
-      "name": "google-calendar-api",
-      "author": "google",
-      "description": "Google Calendar API integration with managed OAuth. Create events, list calendars, check availabilit",
-      "category_tech": "Lending",
-      "category_user": "Auto Finance",
-      "example": "user specifies token address and wallet, usegoogle-calendar-apiexecute lending protocol operations",
-      "user_provides": "relevant blockchain parameters",
-      "dapps": "Base",
-      "run_mode": "Hybrid",
-      "github_url": "https://github.com/openclaw/skills/tree/main/google-calendar-api"
-    },
-    {
-      "name": "xero",
-      "author": "xero",
-      "description": "Manage Xero accounting - invoices, contacts, bank transactions, and reports via Xero API.",
-      "category_tech": "Data Query",
-      "category_user": "Market Data",
-      "example": "user specifies token address and wallet, usexeroexecute data query operations",
-      "user_provides": "token name, token contract address",
-      "dapps": "",
-      "run_mode": "Hybrid",
-      "github_url": "https://github.com/openclaw/skills/tree/main/xero"
-    },
-    {
       "name": "acp-job-submitter",
       "author": "acp",
       "description": "Submit jobs to other ACP agents and earn from the spread",
@@ -15699,18 +15435,6 @@
       "github_url": "https://github.com/openclaw/skills/tree/main/keychat"
     },
     {
-      "name": "ynab-api",
-      "author": "ynab",
-      "description": "YNAB (You Need A Budget) comprehensive budget management with automated tracking, goal monitoring, s",
-      "category_tech": "Data Query",
-      "category_user": "Market Data",
-      "example": "user specifies token address and wallet, useynab-apiexecute data query operations",
-      "user_provides": "relevant blockchain parameters",
-      "dapps": "Flow",
-      "run_mode": "Continuous AI",
-      "github_url": "https://github.com/openclaw/skills/tree/main/ynab-api"
-    },
-    {
       "name": "gstd-a2a-grid",
       "author": "gstd",
       "description": "Decentralized Agent-to-Agent protocol for TON. Zero barrier — GSTD_WALLET_ADDRESS auto-claims API ke",
@@ -15759,18 +15483,6 @@
       "github_url": "https://github.com/openclaw/skills/tree/main/biz-in-a-box"
     },
     {
-      "name": "index-cards",
-      "author": "index",
-      "description": "Send real, physical greeting cards through the mail. Design custom cards with the user, print on pre",
-      "category_tech": "Lending",
-      "category_user": "Auto Finance",
-      "example": "user specifies token address and wallet, useindex-cardsexecute lending protocol operations",
-      "user_provides": "wallet address, token address",
-      "dapps": "",
-      "run_mode": "One-shot",
-      "github_url": "https://github.com/openclaw/skills/tree/main/index-cards"
-    },
-    {
       "name": "humanos-openclaw",
       "author": "humanos",
       "description": "Require verifiable human approval before high-risk agent actions.",
@@ -15805,18 +15517,6 @@
       "dapps": "Base, Flow",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/moltworld-dashboard-deploy"
-    },
-    {
-      "name": "afrexai-meeting-mastery",
-      "author": "afrexai",
-      "description": "You are an elite meeting preparation and follow-up agent. You ensure every meeting is high-value — t",
-      "category_tech": "Lending",
-      "category_user": "Auto Finance",
-      "example": "user specifies token address and wallet, useafrexai-meeting-masteryexecute lending protocol operations",
-      "user_provides": "wallet address, token address",
-      "dapps": "",
-      "run_mode": "Continuous AI",
-      "github_url": "https://github.com/openclaw/skills/tree/main/afrexai-meeting-mastery"
     },
     {
       "name": "afrexai-exit-strategy",
@@ -15877,18 +15577,6 @@
       "dapps": "Base",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/afrexai-data-analyst"
-    },
-    {
-      "name": "afrexai-franchise-ops",
-      "author": "afrexai",
-      "description": "Evaluate franchise opportunities and manage multi-unit operations with data-driven frameworks.",
-      "category_tech": "Lending",
-      "category_user": "Auto Finance",
-      "example": "user specifies token address and wallet, useafrexai-franchise-opsexecute lending protocol operations",
-      "user_provides": "relevant blockchain parameters",
-      "dapps": "Flow",
-      "run_mode": "Continuous AI",
-      "github_url": "https://github.com/openclaw/skills/tree/main/afrexai-franchise-ops"
     },
     {
       "name": "financial-tracker",
@@ -17405,9 +17093,9 @@
     {
       "name": "clawswarm-services",
       "author": "clawswarm",
-      "description": "Web3 AI Agent tool for clawswarm services",
-      "category_tech": "Lending",
-      "category_user": "Auto Finance",
+      "description": "Clawswarm agent services aggregation platform for connecting and managing multiple AI agent services.",
+      "category_tech": "Infrastructure",
+      "category_user": "Dev Tools",
       "example": "",
       "user_provides": "N/A",
       "dapps": "Compound",
@@ -17439,18 +17127,6 @@
       "github_url": "https://github.com/openclaw/skills/tree/main/btc15-autonomous-market"
     },
     {
-      "name": "pref0",
-      "author": "pref0",
-      "description": "Learn user preferences from conversations and personalize responses automatically. Preferences compound over time — corrections like",
-      "category_tech": "Lending",
-      "category_user": "Auto Finance",
-      "example": "",
-      "user_provides": "N/A",
-      "dapps": "Compound",
-      "run_mode": "One-shot",
-      "github_url": "https://github.com/openclaw/skills/tree/main/pref0"
-    },
-    {
       "name": "openclast-wallet",
       "author": "openclast",
       "description": "Guides the agent in Openclast/Openclaw wallet usage, approvals, and safety rules. Use when users ask about wallet setup, balances, transactions, approvals, or key export.",
@@ -17461,18 +17137,6 @@
       "dapps": "",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/openclast-wallet"
-    },
-    {
-      "name": "openclaw-aisa-market-pulse",
-      "author": "openclaw",
-      "description": "Query real-time and historical financial data across equities and crypto—prices, market moves, metrics, and trends for analysis, alerts, and reporting.",
-      "category_tech": "Data Query",
-      "category_user": "Market Data",
-      "example": "",
-      "user_provides": "token name",
-      "dapps": "",
-      "run_mode": "Continuous AI",
-      "github_url": "https://github.com/openclaw/skills/tree/main/openclaw-aisa-market-pulse"
     },
     {
       "name": "handling-transactions",
