@@ -1726,7 +1726,7 @@
       "category_user": "加密支付",
       "example": "告诉我更多相关信息",
       "user_provides": "钱包地址,代币合约",
-      "dapps": "Aave, DEX, Lending, Bridge",
+      "dapps": "Aave",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/humanrupert/tether-wallet-development-kit"
     },
@@ -1786,7 +1786,7 @@
       "category_user": "一键swap",
       "example": "告诉我更多相关信息",
       "user_provides": "钱包地址,代币合约,数量",
-      "dapps": "DEX",
+      "dapps": "",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/imthatcarlos/solana-swaps"
     },
@@ -1798,7 +1798,7 @@
       "category_user": "一键swap",
       "example": "告诉我更多相关信息",
       "user_provides": "钱包地址,代币合约,数量",
-      "dapps": "DEX",
+      "dapps": "",
       "run_mode": "混合",
       "github_url": "https://github.com/in-liberty420/solana-easy-swap"
     },
@@ -13738,7 +13738,7 @@
       "category_user": "一键swap",
       "example": "对我说'hft-paper-trader'或'使用hft-paper-trader'",
       "user_provides": "输入参数, 配置信息",
-      "dapps": "cosmos, polkadot, Uniswap",
+      "dapps": "Cosmos, polkadot, Uniswap",
       "run_mode": "持续AI决策",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/jamierossouw/hft-paper-trader"
     },
@@ -15034,7 +15034,7 @@
       "category_user": "行情查询",
       "example": "用户指定代币地址和钱包，使用molt-trust执行数据查询操作",
       "user_provides": "相关区块链参数",
-      "dapps": "base",
+      "dapps": "Base",
       "run_mode": "混合",
       "github_url": "https://github.com/openclaw/skills/tree/main/molt-trust"
     },
@@ -15046,7 +15046,7 @@
       "category_user": "自动理财",
       "example": "用户指定代币地址和钱包，使用karmabank-minimal执行借贷协议操作",
       "user_provides": "相关区块链参数",
-      "dapps": "base",
+      "dapps": "Base",
       "run_mode": "混合",
       "github_url": "https://github.com/openclaw/skills/tree/main/karmabank-minimal"
     },
@@ -15058,7 +15058,7 @@
       "category_user": "行情查询",
       "example": "用户指定代币地址和钱包，使用test-publish执行数据查询操作",
       "user_provides": "相关区块链参数",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "混合",
       "github_url": "https://github.com/openclaw/skills/tree/main/test-publish"
     },
@@ -15070,7 +15070,7 @@
       "category_user": "行情查询",
       "example": "用户指定代币地址和钱包，使用suiroll执行数据查询操作",
       "user_provides": "相关区块链参数",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "混合",
       "github_url": "https://github.com/openclaw/skills/tree/main/suiroll"
     },
@@ -15082,7 +15082,7 @@
       "category_user": "自动理财",
       "example": "用户指定代币地址和钱包，使用karmabank-usdc执行借贷协议操作",
       "user_provides": "相关区块链参数",
-      "dapps": "base",
+      "dapps": "Base",
       "run_mode": "混合",
       "github_url": "https://github.com/openclaw/skills/tree/main/karmabank-usdc"
     },
@@ -15094,7 +15094,7 @@
       "category_user": "一键swap",
       "example": "用户指定代币地址和钱包，使用mintclub执行DEX交易操作",
       "user_provides": "钱包地址、代币地址、转账金额",
-      "dapps": "uniswap, curve, base, near",
+      "dapps": "uniswap, curve, Base, NEAR",
       "run_mode": "混合",
       "github_url": "https://github.com/openclaw/skills/tree/main/mintclub"
     },
@@ -15106,7 +15106,7 @@
       "category_user": "NFT玩家",
       "example": "用户指定代币地址和钱包，使用clawphunks执行NFT操作",
       "user_provides": "代币名称、代币合约地址",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "混合",
       "github_url": "https://github.com/openclaw/skills/tree/main/clawphunks"
     },
@@ -15118,7 +15118,7 @@
       "category_user": "行情查询",
       "example": "用户指定代币地址和钱包，使用bnb-chain执行数据查询操作",
       "user_provides": "钱包地址、代币地址、转账金额",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/bnb-chain"
     },
@@ -15130,7 +15130,7 @@
       "category_user": "NFT玩家",
       "example": "用户指定代币地址和钱包，使用fellow-villains执行NFT操作",
       "user_provides": "相关区块链参数",
-      "dapps": "solana, base",
+      "dapps": "Solana, Base",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/fellow-villains"
     },
@@ -15142,7 +15142,7 @@
       "category_user": "行情查询",
       "example": "用户指定代币地址和钱包，使用w3connect执行数据查询操作",
       "user_provides": "钱包地址、代币地址",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/w3connect"
     },
@@ -15154,7 +15154,7 @@
       "category_user": "质押管理",
       "example": "用户指定代币地址和钱包，使用clawpurse执行DeFi收益操作",
       "user_provides": "钱包地址、代币地址",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/clawpurse"
     },
@@ -15166,7 +15166,7 @@
       "category_user": "质押管理",
       "example": "用户指定代币地址和钱包，使用overcome-problem执行DeFi收益操作",
       "user_provides": "相关区块链参数",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "持续AI决策",
       "github_url": "https://github.com/openclaw/skills/tree/main/overcome-problem"
     },
@@ -15178,7 +15178,7 @@
       "category_user": "跨链转账",
       "example": "用户指定代币地址和钱包，使用openclaw-email-bypass执行跨链桥操作",
       "user_provides": "代币名称、代币合约地址",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/openclaw-email-bypass"
     },
@@ -15190,7 +15190,7 @@
       "category_user": "跨链转账",
       "example": "用户指定代币地址和钱包，使用triz执行跨链桥操作",
       "user_provides": "相关区块链参数",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/triz"
     },
@@ -15202,7 +15202,7 @@
       "category_user": "行情查询",
       "example": "用户指定代币地址和钱包，使用monarch-money执行数据查询操作",
       "user_provides": "相关区块链参数",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "混合",
       "github_url": "https://github.com/openclaw/skills/tree/main/monarch-money"
     },
@@ -15214,7 +15214,7 @@
       "category_user": "合约开发",
       "example": "用户指定代币地址和钱包，使用app-builder执行智能合约操作",
       "user_provides": "代币名称、代币合约地址",
-      "dapps": "flow",
+      "dapps": "Flow",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/app-builder"
     },
@@ -15226,7 +15226,7 @@
       "category_user": "合约开发",
       "example": "用户指定代币地址和钱包，使用bazi-pillars-from-datetime执行智能合约操作",
       "user_provides": "合约地址、函数调用参数",
-      "dapps": "flow",
+      "dapps": "Flow",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/bazi-pillars-from-datetime"
     },
@@ -15238,7 +15238,7 @@
       "category_user": "跨链转账",
       "example": "用户指定代币地址和钱包，使用immich-api执行跨链桥操作",
       "user_provides": "相关区块链参数",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "混合",
       "github_url": "https://github.com/openclaw/skills/tree/main/immich-api"
     },
@@ -15250,7 +15250,7 @@
       "category_user": "行情查询",
       "example": "用户指定代币地址和钱包，使用stock-fundamentals执行数据查询操作",
       "user_provides": "相关区块链参数",
-      "dapps": "flow",
+      "dapps": "Flow",
       "run_mode": "混合",
       "github_url": "https://github.com/openclaw/skills/tree/main/stock-fundamentals"
     },
@@ -15262,7 +15262,7 @@
       "category_user": "合约开发",
       "example": "用户指定代币地址和钱包，使用ai-shield-audit执行智能合约操作",
       "user_provides": "相关区块链参数",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/ai-shield-audit"
     },
@@ -15274,7 +15274,7 @@
       "category_user": "跨链转账",
       "example": "用户指定代币地址和钱包，使用spacemolt执行跨链桥操作",
       "user_provides": "相关区块链参数",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "混合",
       "github_url": "https://github.com/openclaw/skills/tree/main/spacemolt"
     },
@@ -15286,7 +15286,7 @@
       "category_user": "行情查询",
       "example": "用户指定代币地址和钱包，使用agent-signet-id执行数据查询操作",
       "user_provides": "相关区块链参数",
-      "dapps": "base",
+      "dapps": "Base",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/agent-signet-id"
     },
@@ -15298,7 +15298,7 @@
       "category_user": "合约开发",
       "example": "用户指定代币地址和钱包，使用agent-arena-skill执行智能合约操作",
       "user_provides": "合约地址、函数调用参数",
-      "dapps": "arbitrum, ethereum, base",
+      "dapps": "Arbitrum, Ethereum, Base",
       "run_mode": "混合",
       "github_url": "https://github.com/openclaw/skills/tree/main/agent-arena-skill"
     },
@@ -15310,7 +15310,7 @@
       "category_user": "质押管理",
       "example": "用户指定代币地址和钱包，使用clawshake执行DeFi收益操作",
       "user_provides": "合约地址、函数调用参数",
-      "dapps": "ethereum, base",
+      "dapps": "Ethereum, Base",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/clawshake"
     },
@@ -15322,7 +15322,7 @@
       "category_user": "行情查询",
       "example": "用户指定代币地址和钱包，使用sui-agent-wallet执行数据查询操作",
       "user_provides": "相关区块链参数",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/sui-agent-wallet"
     },
@@ -15334,7 +15334,7 @@
       "category_user": "代币研究",
       "example": "用户指定代币地址和钱包，使用stock-strategy-backtester执行代币分析操作",
       "user_provides": "相关区块链参数",
-      "dapps": "base",
+      "dapps": "Base",
       "run_mode": "混合",
       "github_url": "https://github.com/openclaw/skills/tree/main/stock-strategy-backtester"
     },
@@ -15346,7 +15346,7 @@
       "category_user": "代币研究",
       "example": "用户指定代币地址和钱包，使用stock-strategy-backtester-clean执行代币分析操作",
       "user_provides": "相关区块链参数",
-      "dapps": "base",
+      "dapps": "Base",
       "run_mode": "混合",
       "github_url": "https://github.com/openclaw/skills/tree/main/stock-strategy-backtester-clean"
     },
@@ -15358,7 +15358,7 @@
       "category_user": "行情查询",
       "example": "用户指定代币地址和钱包，使用dropclaw-store执行数据查询操作",
       "user_provides": "相关区块链参数",
-      "dapps": "base, flow",
+      "dapps": "Base, Flow",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/dropclaw-store"
     },
@@ -15370,7 +15370,7 @@
       "category_user": "行情查询",
       "example": "用户指定代币地址和钱包，使用sec-watcher执行数据查询操作",
       "user_provides": "相关区块链参数",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "持续AI决策",
       "github_url": "https://github.com/openclaw/skills/tree/main/sec-watcher"
     },
@@ -15382,7 +15382,7 @@
       "category_user": "NFT玩家",
       "example": "用户指定代币地址和钱包，使用humannft执行NFT操作",
       "user_provides": "钱包地址、代币地址",
-      "dapps": "base",
+      "dapps": "Base",
       "run_mode": "混合",
       "github_url": "https://github.com/openclaw/skills/tree/main/humannft"
     },
@@ -15394,7 +15394,7 @@
       "category_user": "行情查询",
       "example": "用户指定代币地址和钱包，使用hashpack-wallet执行数据查询操作",
       "user_provides": "相关区块链参数",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/hashpack-wallet"
     },
@@ -15406,7 +15406,7 @@
       "category_user": "合约开发",
       "example": "用户指定代币地址和钱包，使用hedera-tx-builder执行智能合约操作",
       "user_provides": "合约地址、函数调用参数",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/hedera-tx-builder"
     },
@@ -15418,7 +15418,7 @@
       "category_user": "一键swap",
       "example": "用户指定代币地址和钱包，使用kyberswap-arbitrage执行DEX交易操作",
       "user_provides": "钱包地址、代币地址、转账金额",
-      "dapps": "base",
+      "dapps": "Base",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/kyberswap-arbitrage"
     },
@@ -15430,7 +15430,7 @@
       "category_user": "行情查询",
       "example": "用户指定代币地址和钱包，使用xaman-wallet-integration执行数据查询操作",
       "user_provides": "相关区块链参数",
-      "dapps": "flow",
+      "dapps": "Flow",
       "run_mode": "混合",
       "github_url": "https://github.com/openclaw/skills/tree/main/xaman-wallet-integration"
     },
@@ -15442,7 +15442,7 @@
       "category_user": "NFT玩家",
       "example": "用户指定代币地址和钱包，使用xrpl-tx-builder执行NFT操作",
       "user_provides": "钱包地址、代币地址、转账金额",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/xrpl-tx-builder"
     },
@@ -15454,7 +15454,7 @@
       "category_user": "NFT玩家",
       "example": "用户指定代币地址和钱包，使用xrpl-token-snipe执行NFT操作",
       "user_provides": "代币名称、代币合约地址",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "持续AI决策",
       "github_url": "https://github.com/openclaw/skills/tree/main/xrpl-token-snipe"
     },
@@ -15466,7 +15466,7 @@
       "category_user": "NFT玩家",
       "example": "用户指定代币地址和钱包，使用hedera-token-mint执行NFT操作",
       "user_provides": "代币名称、代币合约地址",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/hedera-token-mint"
     },
@@ -15478,7 +15478,7 @@
       "category_user": "一键swap",
       "example": "用户指定代币地址和钱包，使用saucerswap-arbitrage执行DEX交易操作",
       "user_provides": "钱包地址、代币地址、转账金额",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/saucerswap-arbitrage"
     },
@@ -15490,7 +15490,7 @@
       "category_user": "NFT玩家",
       "example": "用户指定代币地址和钱包，使用xrpl-token-mint执行NFT操作",
       "user_provides": "钱包地址、代币地址、转账金额",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "混合",
       "github_url": "https://github.com/openclaw/skills/tree/main/xrpl-token-mint"
     },
@@ -15502,7 +15502,7 @@
       "category_user": "行情查询",
       "example": "用户指定代币地址和钱包，使用clawdwork执行数据查询操作",
       "user_provides": "相关区块链参数",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "持续AI决策",
       "github_url": "https://github.com/openclaw/skills/tree/main/clawdwork"
     },
@@ -15514,7 +15514,7 @@
       "category_user": "质押管理",
       "example": "用户指定代币地址和钱包，使用bittensor-sdk执行DeFi收益操作",
       "user_provides": "代币名称、代币合约地址",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "持续AI决策",
       "github_url": "https://github.com/openclaw/skills/tree/main/bittensor-sdk"
     },
@@ -15526,7 +15526,7 @@
       "category_user": "合约开发",
       "example": "用户指定代币地址和钱包，使用clawd-zero-trust执行智能合约操作",
       "user_provides": "相关区块链参数",
-      "dapps": "base, flow",
+      "dapps": "Base, Flow",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/clawd-zero-trust"
     },
@@ -15538,7 +15538,7 @@
       "category_user": "跨链转账",
       "example": "用户指定代币地址和钱包，使用nerve-bridge-skill执行跨链桥操作",
       "user_provides": "相关区块链参数",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/nerve-bridge-skill"
     },
@@ -15550,7 +15550,7 @@
       "category_user": "自动理财",
       "example": "用户指定代币地址和钱包，使用zoho-calendar执行借贷协议操作",
       "user_provides": "相关区块链参数",
-      "dapps": "base",
+      "dapps": "Base",
       "run_mode": "混合",
       "github_url": "https://github.com/openclaw/skills/tree/main/zoho-calendar"
     },
@@ -15562,7 +15562,7 @@
       "category_user": "自动理财",
       "example": "用户指定代币地址和钱包，使用acuity-scheduling执行借贷协议操作",
       "user_provides": "相关区块链参数",
-      "dapps": "base",
+      "dapps": "Base",
       "run_mode": "混合",
       "github_url": "https://github.com/openclaw/skills/tree/main/acuity-scheduling"
     },
@@ -15574,7 +15574,7 @@
       "category_user": "自动理财",
       "example": "用户指定代币地址和钱包，使用calendly-api执行借贷协议操作",
       "user_provides": "相关区块链参数",
-      "dapps": "base, flow",
+      "dapps": "Base, Flow",
       "run_mode": "混合",
       "github_url": "https://github.com/openclaw/skills/tree/main/calendly-api"
     },
@@ -15586,7 +15586,7 @@
       "category_user": "自动理财",
       "example": "用户指定代币地址和钱包，使用google-calendar-api执行借贷协议操作",
       "user_provides": "相关区块链参数",
-      "dapps": "base",
+      "dapps": "Base",
       "run_mode": "混合",
       "github_url": "https://github.com/openclaw/skills/tree/main/google-calendar-api"
     },
@@ -15598,7 +15598,7 @@
       "category_user": "行情查询",
       "example": "用户指定代币地址和钱包，使用xero执行数据查询操作",
       "user_provides": "代币名称、代币合约地址",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "混合",
       "github_url": "https://github.com/openclaw/skills/tree/main/xero"
     },
@@ -15610,7 +15610,7 @@
       "category_user": "一键swap",
       "example": "用户指定代币地址和钱包，使用acp-job-submitter执行DEX交易操作",
       "user_provides": "代币名称、代币合约地址",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/acp-job-submitter"
     },
@@ -15622,7 +15622,7 @@
       "category_user": "一键swap",
       "example": "用户指定代币地址和钱包，使用crypto-trading-bot-playbook执行DEX交易操作",
       "user_provides": "相关区块链参数",
-      "dapps": "base",
+      "dapps": "Base",
       "run_mode": "持续AI决策",
       "github_url": "https://github.com/openclaw/skills/tree/main/crypto-trading-bot-playbook"
     },
@@ -15634,7 +15634,7 @@
       "category_user": "一键swap",
       "example": "用户指定代币地址和钱包，使用crypto-portfolio-tracker执行DEX交易操作",
       "user_provides": "钱包地址、代币地址",
-      "dapps": "ethereum",
+      "dapps": "Ethereum",
       "run_mode": "持续AI决策",
       "github_url": "https://github.com/openclaw/skills/tree/main/crypto-portfolio-tracker"
     },
@@ -15646,7 +15646,7 @@
       "category_user": "一键swap",
       "example": "用户指定代币地址和钱包，使用verdikta-bounties-onboarding执行DEX交易操作",
       "user_provides": "钱包地址、代币地址",
-      "dapps": "base, flow",
+      "dapps": "Base, Flow",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/verdikta-bounties-onboarding"
     },
@@ -15658,7 +15658,7 @@
       "category_user": "NFT玩家",
       "example": "用户指定代币地址和钱包，使用belong-events执行NFT操作",
       "user_provides": "相关区块链参数",
-      "dapps": "base",
+      "dapps": "Base",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/belong-events"
     },
@@ -15670,7 +15670,7 @@
       "category_user": "跨链转账",
       "example": "用户指定代币地址和钱包，使用mqttasgi执行跨链桥操作",
       "user_provides": "相关区块链参数",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "混合",
       "github_url": "https://github.com/openclaw/skills/tree/main/mqttasgi"
     },
@@ -15682,7 +15682,7 @@
       "category_user": "跨链转账",
       "example": "用户指定代币地址和钱包，使用morelogin执行跨链桥操作",
       "user_provides": "相关区块链参数",
-      "dapps": "base",
+      "dapps": "Base",
       "run_mode": "混合",
       "github_url": "https://github.com/openclaw/skills/tree/main/morelogin"
     },
@@ -15694,7 +15694,7 @@
       "category_user": "跨链转账",
       "example": "用户指定代币地址和钱包，使用keychat执行跨链桥操作",
       "user_provides": "相关区块链参数",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/keychat"
     },
@@ -15706,7 +15706,7 @@
       "category_user": "行情查询",
       "example": "用户指定代币地址和钱包，使用ynab-api执行数据查询操作",
       "user_provides": "相关区块链参数",
-      "dapps": "flow",
+      "dapps": "Flow",
       "run_mode": "持续AI决策",
       "github_url": "https://github.com/openclaw/skills/tree/main/ynab-api"
     },
@@ -15718,7 +15718,7 @@
       "category_user": "跨链转账",
       "example": "用户指定代币地址和钱包，使用gstd-a2a-grid执行跨链桥操作",
       "user_provides": "钱包地址、代币地址",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/gstd-a2a-grid"
     },
@@ -15730,7 +15730,7 @@
       "category_user": "跨链转账",
       "example": "用户指定代币地址和钱包，使用gstd执行跨链桥操作",
       "user_provides": "钱包地址、代币地址",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/gstd"
     },
@@ -15742,7 +15742,7 @@
       "category_user": "跨链转账",
       "example": "用户指定代币地址和钱包，使用gsdt-a2a执行跨链桥操作",
       "user_provides": "钱包地址、代币地址",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/gsdt-a2a"
     },
@@ -15754,7 +15754,7 @@
       "category_user": "行情查询",
       "example": "用户指定代币地址和钱包，使用biz-in-a-box执行数据查询操作",
       "user_provides": "相关区块链参数",
-      "dapps": "flow",
+      "dapps": "Flow",
       "run_mode": "混合",
       "github_url": "https://github.com/openclaw/skills/tree/main/biz-in-a-box"
     },
@@ -15766,7 +15766,7 @@
       "category_user": "自动理财",
       "example": "用户指定代币地址和钱包，使用index-cards执行借贷协议操作",
       "user_provides": "钱包地址、代币地址",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/index-cards"
     },
@@ -15778,7 +15778,7 @@
       "category_user": "行情查询",
       "example": "用户指定代币地址和钱包，使用humanos-openclaw执行数据查询操作",
       "user_provides": "相关区块链参数",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/humanos-openclaw"
     },
@@ -15790,7 +15790,7 @@
       "category_user": "合约开发",
       "example": "用户指定代币地址和钱包，使用myvibe-skills执行智能合约操作",
       "user_provides": "相关区块链参数",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/myvibe-skills"
     },
@@ -15802,7 +15802,7 @@
       "category_user": "合约开发",
       "example": "用户指定代币地址和钱包，使用moltworld-dashboard-deploy执行智能合约操作",
       "user_provides": "相关区块链参数",
-      "dapps": "base, flow",
+      "dapps": "Base, Flow",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/moltworld-dashboard-deploy"
     },
@@ -15814,7 +15814,7 @@
       "category_user": "自动理财",
       "example": "用户指定代币地址和钱包，使用afrexai-meeting-mastery执行借贷协议操作",
       "user_provides": "钱包地址、代币地址",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "持续AI决策",
       "github_url": "https://github.com/openclaw/skills/tree/main/afrexai-meeting-mastery"
     },
@@ -15826,7 +15826,7 @@
       "category_user": "行情查询",
       "example": "用户指定代币地址和钱包，使用afrexai-exit-strategy执行数据查询操作",
       "user_provides": "相关区块链参数",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "混合",
       "github_url": "https://github.com/openclaw/skills/tree/main/afrexai-exit-strategy"
     },
@@ -15838,7 +15838,7 @@
       "category_user": "质押管理",
       "example": "用户指定代币地址和钱包，使用afrexai-ux-research-engine执行DeFi收益操作",
       "user_provides": "相关区块链参数",
-      "dapps": "flow",
+      "dapps": "Flow",
       "run_mode": "混合",
       "github_url": "https://github.com/openclaw/skills/tree/main/afrexai-ux-research-engine"
     },
@@ -15850,7 +15850,7 @@
       "category_user": "合约开发",
       "example": "用户指定代币地址和钱包，使用afrexai-self-hosting-mastery执行智能合约操作",
       "user_provides": "相关区块链参数",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "持续AI决策",
       "github_url": "https://github.com/openclaw/skills/tree/main/afrexai-self-hosting-mastery"
     },
@@ -15862,7 +15862,7 @@
       "category_user": "合约开发",
       "example": "用户指定代币地址和钱包，使用afrexai-web3-engineering执行智能合约操作",
       "user_provides": "合约地址、函数调用参数",
-      "dapps": "base",
+      "dapps": "Base",
       "run_mode": "混合",
       "github_url": "https://github.com/openclaw/skills/tree/main/afrexai-web3-engineering"
     },
@@ -15874,7 +15874,7 @@
       "category_user": "质押管理",
       "example": "用户指定代币地址和钱包，使用afrexai-data-analyst执行DeFi收益操作",
       "user_provides": "相关区块链参数",
-      "dapps": "base",
+      "dapps": "Base",
       "run_mode": "混合",
       "github_url": "https://github.com/openclaw/skills/tree/main/afrexai-data-analyst"
     },
@@ -15886,7 +15886,7 @@
       "category_user": "自动理财",
       "example": "用户指定代币地址和钱包，使用afrexai-franchise-ops执行借贷协议操作",
       "user_provides": "相关区块链参数",
-      "dapps": "flow",
+      "dapps": "Flow",
       "run_mode": "持续AI决策",
       "github_url": "https://github.com/openclaw/skills/tree/main/afrexai-franchise-ops"
     },
@@ -15898,7 +15898,7 @@
       "category_user": "合约开发",
       "example": "用户指定代币地址和钱包，使用financial-tracker执行智能合约操作",
       "user_provides": "合约地址、函数调用参数",
-      "dapps": "flow",
+      "dapps": "Flow",
       "run_mode": "持续AI决策",
       "github_url": "https://github.com/openclaw/skills/tree/main/financial-tracker"
     },
@@ -15922,7 +15922,7 @@
       "category_user": "质押管理",
       "example": "用户指定代币地址和钱包，使用afrexai-change-management执行DeFi收益操作",
       "user_provides": "相关区块链参数",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/afrexai-change-management"
     },
@@ -15934,7 +15934,7 @@
       "category_user": "跨链转账",
       "example": "用户指定代币地址和钱包，使用afrexai-financial-due-diligence执行跨链桥操作",
       "user_provides": "合约地址、函数调用参数",
-      "dapps": "flow",
+      "dapps": "Flow",
       "run_mode": "混合",
       "github_url": "https://github.com/openclaw/skills/tree/main/afrexai-financial-due-diligence"
     },
@@ -15946,7 +15946,7 @@
       "category_user": "合约开发",
       "example": "用户指定代币地址和钱包，使用afrexai-contract-review执行智能合约操作",
       "user_provides": "合约地址、函数调用参数",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "混合",
       "github_url": "https://github.com/openclaw/skills/tree/main/afrexai-contract-review"
     },
@@ -15958,7 +15958,7 @@
       "category_user": "合约开发",
       "example": "用户指定代币地址和钱包，使用afrexai-agent-manager执行智能合约操作",
       "user_provides": "相关区块链参数",
-      "dapps": "base",
+      "dapps": "Base",
       "run_mode": "持续AI决策",
       "github_url": "https://github.com/openclaw/skills/tree/main/afrexai-agent-manager"
     },
@@ -15970,7 +15970,7 @@
       "category_user": "合约开发",
       "example": "用户指定代币地址和钱包，使用afrexai-spend-intelligence执行智能合约操作",
       "user_provides": "合约地址、函数调用参数",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/afrexai-spend-intelligence"
     },
@@ -15982,7 +15982,7 @@
       "category_user": "合约开发",
       "example": "用户指定代币地址和钱包，使用afrexai-vendor-eval执行智能合约操作",
       "user_provides": "合约地址、函数调用参数",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "混合",
       "github_url": "https://github.com/openclaw/skills/tree/main/afrexai-vendor-eval"
     },
@@ -15994,7 +15994,7 @@
       "category_user": "合约开发",
       "example": "用户指定代币地址和钱包，使用sla-monitor执行智能合约操作",
       "user_provides": "相关区块链参数",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "持续AI决策",
       "github_url": "https://github.com/openclaw/skills/tree/main/sla-monitor"
     },
@@ -16006,7 +16006,7 @@
       "category_user": "质押管理",
       "example": "用户指定代币地址和钱包，使用afrexai-project-manager执行DeFi收益操作",
       "user_provides": "相关区块链参数",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "持续AI决策",
       "github_url": "https://github.com/openclaw/skills/tree/main/afrexai-project-manager"
     },
@@ -16018,7 +16018,7 @@
       "category_user": "合约开发",
       "example": "用户指定代币地址和钱包，使用afrexai-contract-analyzer执行智能合约操作",
       "user_provides": "合约地址、函数调用参数",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "混合",
       "github_url": "https://github.com/openclaw/skills/tree/main/afrexai-contract-analyzer"
     },
@@ -16030,7 +16030,7 @@
       "category_user": "合约开发",
       "example": "用户指定代币地址和钱包，使用afrexai-performance-engineering执行智能合约操作",
       "user_provides": "相关区块链参数",
-      "dapps": "base",
+      "dapps": "Base",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/afrexai-performance-engineering"
     },
@@ -16042,7 +16042,7 @@
       "category_user": "行情查询",
       "example": "用户指定代币地址和钱包，使用afrexai-fpa-engine执行数据查询操作",
       "user_provides": "相关区块链参数",
-      "dapps": "base, flow",
+      "dapps": "Base, Flow",
       "run_mode": "混合",
       "github_url": "https://github.com/openclaw/skills/tree/main/afrexai-fpa-engine"
     },
@@ -16054,7 +16054,7 @@
       "category_user": "合约开发",
       "example": "用户指定代币地址和钱包，使用afrexai-partnership-agreement执行智能合约操作",
       "user_provides": "合约地址、函数调用参数",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/afrexai-partnership-agreement"
     },
@@ -16066,7 +16066,7 @@
       "category_user": "合约开发",
       "example": "用户指定代币地址和钱包，使用afrexai-sre-platform执行智能合约操作",
       "user_provides": "相关区块链参数",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/afrexai-sre-platform"
     },
@@ -16078,7 +16078,7 @@
       "category_user": "合约开发",
       "example": "用户指定代币地址和钱包，使用afrexai-procurement执行智能合约操作",
       "user_provides": "合约地址、函数调用参数",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "混合",
       "github_url": "https://github.com/openclaw/skills/tree/main/afrexai-procurement"
     },
@@ -16090,7 +16090,7 @@
       "category_user": "行情查询",
       "example": "用户指定代币地址和钱包，使用afrexai-seo-writer执行数据查询操作",
       "user_provides": "相关区块链参数",
-      "dapps": "near",
+      "dapps": "NEAR",
       "run_mode": "混合",
       "github_url": "https://github.com/openclaw/skills/tree/main/afrexai-seo-writer"
     },
@@ -16102,7 +16102,7 @@
       "category_user": "合约开发",
       "example": "用户指定代币地址和钱包，使用afrexai-revenue-forecasting执行智能合约操作",
       "user_provides": "合约地址、函数调用参数",
-      "dapps": "base",
+      "dapps": "Base",
       "run_mode": "持续AI决策",
       "github_url": "https://github.com/openclaw/skills/tree/main/afrexai-revenue-forecasting"
     },
@@ -16114,7 +16114,7 @@
       "category_user": "合约开发",
       "example": "用户指定代币地址和钱包，使用afrexai-deal-desk执行智能合约操作",
       "user_provides": "合约地址、函数调用参数",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/afrexai-deal-desk"
     },
@@ -16126,7 +16126,7 @@
       "category_user": "合约开发",
       "example": "用户指定代币地址和钱包，使用afrexai-ml-engineering执行智能合约操作",
       "user_provides": "相关区块链参数",
-      "dapps": "base, near",
+      "dapps": "Base, NEAR",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/afrexai-ml-engineering"
     },
@@ -16138,7 +16138,7 @@
       "category_user": "行情查询",
       "example": "用户指定代币地址和钱包，使用ai-seo-writer执行数据查询操作",
       "user_provides": "相关区块链参数",
-      "dapps": "near",
+      "dapps": "NEAR",
       "run_mode": "混合",
       "github_url": "https://github.com/openclaw/skills/tree/main/ai-seo-writer"
     },
@@ -16150,7 +16150,7 @@
       "category_user": "合约开发",
       "example": "用户指定代币地址和钱包，使用contract-reviewer执行智能合约操作",
       "user_provides": "合约地址、函数调用参数",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "混合",
       "github_url": "https://github.com/openclaw/skills/tree/main/contract-reviewer"
     },
@@ -16162,7 +16162,7 @@
       "category_user": "跨链转账",
       "example": "用户指定代币地址和钱包，使用agent-survival-kit执行跨链桥操作",
       "user_provides": "相关区块链参数",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "持续AI决策",
       "github_url": "https://github.com/openclaw/skills/tree/main/agent-survival-kit"
     },
@@ -16174,7 +16174,7 @@
       "category_user": "行情查询",
       "example": "用户指定代币地址和钱包，使用revenue-tracker执行数据查询操作",
       "user_provides": "相关区块链参数",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "持续AI决策",
       "github_url": "https://github.com/openclaw/skills/tree/main/revenue-tracker"
     },
@@ -16186,7 +16186,7 @@
       "category_user": "跨链转账",
       "example": "用户指定代币地址和钱包，使用send-signal执行跨链桥操作",
       "user_provides": "相关区块链参数",
-      "dapps": "自定义合约",
+      "dapps": "",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/send-signal"
     },
@@ -16210,7 +16210,7 @@
       "category_user": "一键swap",
       "example": "在SURGE上创建新代币并进行交易",
       "user_provides": "钱包地址、代币地址、API密钥",
-      "dapps": "Raydium,Curve,SURGE",
+      "dapps": "Raydium, Curve, SURGE",
       "run_mode": "混合",
       "github_url": "https://github.com/openclaw/skills/tree/main/sur-pub"
     },
@@ -16222,7 +16222,7 @@
       "category_user": "社区治理",
       "example": "参与XPR Network治理，对提案进行投票",
       "user_provides": "代币地址、API密钥、价格",
-      "dapps": "LOAN,XPR",
+      "dapps": "LOAN, XPR",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/governance"
     },
@@ -16234,7 +16234,7 @@
       "category_user": "资产管理",
       "example": "在LOAN Protocol上质押资产并借入代币",
       "user_provides": "代币地址、API密钥、价格",
-      "dapps": "Compound,LOAN,XPR",
+      "dapps": "Compound, LOAN, XPR",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/xpr-lending"
     },
@@ -16282,7 +16282,7 @@
       "category_user": "开发工具",
       "example": "使用Nostr DVM在去中心化网络上执行AI计算任务",
       "user_provides": "钱包地址、API密钥",
-      "dapps": "N/A",
+      "dapps": "",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/2020117"
     },
@@ -16642,7 +16642,7 @@
       "category_user": "预测投注",
       "example": "在Base Sepolia预测市场上创建交易市场并交易YES/NO仓位",
       "user_provides": "特定参数",
-      "dapps": "base, maker, usdc",
+      "dapps": "Base, maker, usdc",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/agent-market"
     },
@@ -16654,7 +16654,7 @@
       "category_user": "一键swap",
       "example": "检测跨交易所价格差异并自动执行套利交易",
       "user_provides": "交易所API密钥或代币符号",
-      "dapps": "DEX protocols, base, raydium, solana, uniswap, usdt",
+      "dapps": "DEX protocols, Base, raydium, Solana, uniswap, usdt",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/arbitrage-bot"
     },
@@ -16666,7 +16666,7 @@
       "category_user": "NFT玩家",
       "example": "在Monad链上参与ArtWar AI艺术竞赛，为作品投注SOL",
       "user_provides": "特定参数",
-      "dapps": "base, monad",
+      "dapps": "Base, monad",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/artwar"
     },
@@ -16678,7 +16678,7 @@
       "category_user": "加密支付",
       "example": "使用x402和L402协议跨多条链自动支付API费用",
       "user_provides": "钱包和支付参数",
-      "dapps": "base, solana, usdc",
+      "dapps": "Base, Solana, usdc",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/boltzpay"
     },
@@ -16690,7 +16690,7 @@
       "category_user": "资产管理",
       "example": "监控钱包余额和链上活动变化",
       "user_provides": "特定参数",
-      "dapps": "base, monad",
+      "dapps": "Base, monad",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/clawmon"
     },
@@ -16726,7 +16726,7 @@
       "category_user": "一键swap",
       "example": "使用DeepSeek AI结合技术指标分析加密货币走势",
       "user_provides": "代币地址和交易参数",
-      "dapps": "solana",
+      "dapps": "Solana",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/deepseek-trader"
     },
@@ -16738,7 +16738,7 @@
       "category_user": "社区治理",
       "example": "使用Base Sepolia USDC通过x402协议进行区块链安全扫描",
       "user_provides": "项目信息或提案内容",
-      "dapps": "base, usdc",
+      "dapps": "Base, usdc",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/hackathon"
     },
@@ -16750,7 +16750,7 @@
       "category_user": "一键swap",
       "example": "运行模拟交易循环，跟踪代币头寸和利润损失",
       "user_provides": "代币地址和交易参数",
-      "dapps": "base, weth",
+      "dapps": "Base, weth",
       "run_mode": "持续AI决策",
       "github_url": "https://github.com/openclaw/skills/tree/main/paper-trader"
     },
@@ -16762,7 +16762,7 @@
       "category_user": "加密支付",
       "example": "使用加密支付生成高质量图像和视频",
       "user_provides": "特定参数",
-      "dapps": "base, solana",
+      "dapps": "Base, Solana",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/renderful-ai"
     },
@@ -16774,7 +16774,7 @@
       "category_user": "资产管理",
       "example": "获取灵魂绑定护照，检查钱包的信任评分",
       "user_provides": "钱包地址",
-      "dapps": "base",
+      "dapps": "Base",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/rnwy"
     },
@@ -16786,7 +16786,7 @@
       "category_user": "加密支付",
       "example": "使用EIP-712签名在SOHO Pay信用层发起支付",
       "user_provides": "钱包和支付参数",
-      "dapps": "base",
+      "dapps": "Base",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/soho-pay"
     },
@@ -16798,7 +16798,7 @@
       "category_user": "社区治理",
       "example": "参与USDC黑客松技能赛道提交",
       "user_provides": "特定参数",
-      "dapps": "base, usdc",
+      "dapps": "Base, usdc",
       "run_mode": "持续AI决策",
       "github_url": "https://github.com/openclaw/skills/tree/main/tracks"
     },
@@ -17278,7 +17278,7 @@
       "category_user": "开发工具",
       "example": "",
       "user_provides": "钱包地址",
-      "dapps": "N/A",
+      "dapps": "",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/pane"
     },
@@ -17290,7 +17290,7 @@
       "category_user": "预测投注",
       "example": "在预测市场上投注BTC明天会突破50000美元",
       "user_provides": "N/A",
-      "dapps": "N/A",
+      "dapps": "",
       "run_mode": "持续AI决策",
       "github_url": "https://github.com/openclaw/skills/tree/main/polymarket-market-prices"
     },
@@ -17302,7 +17302,7 @@
       "category_user": "行情查询",
       "example": "",
       "user_provides": "交易金额、钱包地址",
-      "dapps": "N/A",
+      "dapps": "",
       "run_mode": "持续AI决策",
       "github_url": "https://github.com/openclaw/skills/tree/main/polymarket-portfolio"
     },
@@ -17314,7 +17314,7 @@
       "category_user": "预测投注",
       "example": "在预测市场上投注BTC明天会突破50000美元",
       "user_provides": "N/A",
-      "dapps": "N/A",
+      "dapps": "",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/polymarket-election-odds"
     },
@@ -17350,7 +17350,7 @@
       "category_user": "行情查询",
       "example": "",
       "user_provides": "N/A",
-      "dapps": "N/A",
+      "dapps": "",
       "run_mode": "持续AI决策",
       "github_url": "https://github.com/openclaw/skills/tree/main/telegram-polymarket-alerter"
     },
@@ -17362,7 +17362,7 @@
       "category_user": "一键swap",
       "example": "在Uniswap交换100 USDC为ETH，允许1%滑点",
       "user_provides": "N/A",
-      "dapps": "N/A",
+      "dapps": "",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/polymarket-volatility-index"
     },
@@ -17374,7 +17374,7 @@
       "category_user": "一键swap",
       "example": "在Uniswap交换100 USDC为ETH，允许1%滑点",
       "user_provides": "代币名称、区块链网络、钱包地址",
-      "dapps": "N/A",
+      "dapps": "",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/crypto-agent-payments"
     },
@@ -17386,7 +17386,7 @@
       "category_user": "一键swap",
       "example": "在Uniswap交换100 USDC为ETH，允许1%滑点",
       "user_provides": "N/A",
-      "dapps": "N/A",
+      "dapps": "",
       "run_mode": "持续AI决策",
       "github_url": "https://github.com/openclaw/skills/tree/main/mongo-db"
     },
@@ -17458,7 +17458,7 @@
       "category_user": "开发工具",
       "example": "",
       "user_provides": "区块链网络、钱包地址",
-      "dapps": "N/A",
+      "dapps": "",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/openclast-wallet"
     },
@@ -17470,7 +17470,7 @@
       "category_user": "行情查询",
       "example": "",
       "user_provides": "代币名称",
-      "dapps": "N/A",
+      "dapps": "",
       "run_mode": "持续AI决策",
       "github_url": "https://github.com/openclaw/skills/tree/main/openclaw-aisa-market-pulse"
     },
@@ -17482,7 +17482,7 @@
       "category_user": "合约开发",
       "example": "",
       "user_provides": "代币名称、区块链网络、钱包地址",
-      "dapps": "N/A",
+      "dapps": "",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/handling-transactions"
     },
@@ -17518,7 +17518,7 @@
       "category_user": "行情查询",
       "example": "",
       "user_provides": "交易金额、代币名称、区块链网络",
-      "dapps": "N/A",
+      "dapps": "",
       "run_mode": "持续AI决策",
       "github_url": "https://github.com/openclaw/skills/tree/main/iseclaw-intel"
     },
@@ -17542,7 +17542,7 @@
       "category_user": "合约开发",
       "example": "部署智能合约到以太坊或L2网络",
       "user_provides": "目标区块链、钱包地址",
-      "dapps": "N/A",
+      "dapps": "",
       "run_mode": "混合",
       "github_url": "https://github.com/openclaw/skills/tree/main/monad-development"
     },
@@ -17554,7 +17554,7 @@
       "category_user": "量化交易",
       "example": "部署智能合约到以太坊或L2网络",
       "user_provides": "代币地址/名称、目标区块链",
-      "dapps": "N/A",
+      "dapps": "",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/liquidskills"
     },
@@ -17566,7 +17566,7 @@
       "category_user": "量化交易",
       "example": "在Uniswap或PancakeSwap上执行代币交换",
       "user_provides": "代币地址/名称、钱包地址",
-      "dapps": "N/A",
+      "dapps": "",
       "run_mode": "混合",
       "github_url": "https://github.com/openclaw/skills/tree/main/standards"
     },
@@ -17614,7 +17614,7 @@
       "category_user": "质押管理",
       "example": "质押ETH或其他代币获取Staking收益",
       "user_provides": "目标区块链、钱包地址",
-      "dapps": "N/A",
+      "dapps": "",
       "run_mode": "混合",
       "github_url": "https://github.com/openclaw/skills/tree/main/qa"
     },
@@ -17626,7 +17626,7 @@
       "category_user": "开发工具",
       "example": "使用frontend-ux执行Web3交易",
       "user_provides": "目标区块链、钱包地址",
-      "dapps": "N/A",
+      "dapps": "",
       "run_mode": "混合",
       "github_url": "https://github.com/openclaw/skills/tree/main/frontend-ux"
     },
@@ -17650,7 +17650,7 @@
       "category_user": "开发工具",
       "example": "使用wallets执行Web3交易",
       "user_provides": "目标区块链、钱包地址",
-      "dapps": "N/A",
+      "dapps": "",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/wallets"
     },
@@ -17674,7 +17674,7 @@
       "category_user": "预测投注",
       "example": "使用crewmind-bets执行Web3交易",
       "user_provides": "目标区块链、钱包地址",
-      "dapps": "N/A",
+      "dapps": "",
       "run_mode": "混合",
       "github_url": "https://github.com/openclaw/skills/tree/main/crewmind-bets"
     },
@@ -17698,7 +17698,7 @@
       "category_user": "跨链转账",
       "example": "自动参与流动性挖矿获取收益",
       "user_provides": "钱包地址",
-      "dapps": "N/A",
+      "dapps": "",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/cetus"
     },
@@ -17710,7 +17710,7 @@
       "category_user": "自动理财",
       "example": "自动参与流动性挖矿获取收益",
       "user_provides": "交易数量、目标区块链、钱包地址",
-      "dapps": "N/A",
+      "dapps": "",
       "run_mode": "混合",
       "github_url": "https://github.com/openclaw/skills/tree/main/stable-layer-sdk"
     },
@@ -17722,7 +17722,7 @@
       "category_user": "跨链转账",
       "example": "部署智能合约到以太坊或L2网络",
       "user_provides": "目标区块链、钱包地址",
-      "dapps": "N/A",
+      "dapps": "",
       "run_mode": "混合",
       "github_url": "https://github.com/openclaw/skills/tree/main/circle-wallet"
     },
@@ -17818,7 +17818,7 @@
       "category_user": "NFT玩家",
       "example": "在OpenSea上查询和交易NFT资产",
       "user_provides": "目标区块链、钱包地址",
-      "dapps": "N/A",
+      "dapps": "",
       "run_mode": "混合",
       "github_url": "https://github.com/openclaw/skills/tree/main/skill-zorapro"
     },
@@ -17842,7 +17842,7 @@
       "category_user": "跨链转账",
       "example": "使用跨链桥将代币从Ethereum转移到Arbitrum",
       "user_provides": "交易数量、代币地址/名称、接收地址、目标区块链",
-      "dapps": "N/A",
+      "dapps": "",
       "run_mode": "混合",
       "github_url": "https://github.com/openclaw/skills/tree/main/agentic-commerce-relay"
     },
