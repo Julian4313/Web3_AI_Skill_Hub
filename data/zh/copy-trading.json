@@ -1,0 +1,125 @@
+{
+  "count": 10,
+  "skills": [
+    {
+      "name": "polymarket-copytrading",
+      "author": "adlai88",
+      "description": "通过 Simmer SDK 跟单 Polymarket 顶级交易员，按仓位加权聚合多个鲸鱼钱包的头寸并自动镜像，支持纸上交易（$SIM）和实盘模式",
+      "category_tech": "跟单交易",
+      "category_user": "跟单交易",
+      "example": "对我说：'跟单这个鲸鱼钱包 0x1234...' 或 '查看我当前的跟单持仓'",
+      "user_provides": "Simmer API Key、钱包私钥、目标鲸鱼钱包地址",
+      "dapps": "Polymarket, Simmer",
+      "run_mode": "持续AI决策",
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/adlai88/polymarket-copytrading"
+    },
+    {
+      "name": "hl-privateer-fund",
+      "author": "adwilkinson",
+      "description": "Hyperliquid 上的开放式 AI 自主交易台，通过 x402 付费调用端点获取实时持仓、AI 分析和跟单信号，使用 Base 链 USDC 支付，无需 API 密钥",
+      "category_tech": "跟单交易",
+      "category_user": "跟单交易",
+      "example": "对我说：'查看 HL Privateer 当前持仓' 或 '获取最新跟单信号' 或 '分析当前市场风险状态'",
+      "user_provides": "Base 链 USDC 钱包（用于 x402 微支付）",
+      "dapps": "Hyperliquid, HL Privateer",
+      "run_mode": "一次性执行",
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/adwilkinson/hl-privateer-fund"
+    },
+    {
+      "name": "moltrade",
+      "author": "ai-chen2050",
+      "description": "去中心化自动交易机器人，通过 Nostr 网络加密分享交易信号并支持一键跟单，本地托管密钥，集成量化策略回测和 OpenClaw AI 策略顾问",
+      "category_tech": "跟单交易",
+      "category_user": "跟单交易",
+      "example": "对我说：'配置 Moltrade 交易机器人' 或 '回测这个量化策略' 或 '订阅这个交易者的加密信号进行跟单'",
+      "user_provides": "交易所 API 密钥, Nostr 私钥, 策略配置参数",
+      "dapps": "Moltrade",
+      "run_mode": "持续AI决策",
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/ai-chen2050/moltrade"
+    },
+    {
+      "name": "coinpilot-hyperliquid-copy-trade",
+      "author": "alannkl",
+      "description": "通过 Coinpilot 在 Hyperliquid 上自动跟单，发现和分析顶级链上交易者，实时低延迟镜像其交易操作，支持风险参数调整和绩效追踪",
+      "category_tech": "跟单交易",
+      "category_user": "跟单交易",
+      "example": "对我说：'发现 Hyperliquid 上的顶级交易者' 或 '开始跟单这个地址' 或 '检查我的跟单表现'",
+      "user_provides": "Coinpilot API 密钥, Privy 用户 ID, 钱包私钥",
+      "dapps": "Hyperliquid, Coinpilot",
+      "run_mode": "持续AI决策",
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/alannkl/coinpilot-hyperliquid-copy-trade"
+    },
+    {
+      "name": "polymarket-whale-copier",
+      "author": "cassh100k",
+      "description": "自动跟单 Polymarket 头部钱包，追踪鲸鱼地址按配置比例镜像下注，内置风险控制（最小/最大金额、仅买入模式）和自动赎回，使用公开 API",
+      "category_tech": "跟单交易",
+      "category_user": "跟单交易",
+      "example": "对我说：'跟单这个 Polymarket 鲸鱼钱包，复制比例 10%' 或 '设置最大单笔 50 美元，只跟买入'",
+      "user_provides": "Polymarket 钱包私钥, 目标鲸鱼钱包地址",
+      "dapps": "Polymarket",
+      "run_mode": "持续AI决策",
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/cassh100k/polymarket-whale-copier"
+    },
+    {
+      "name": "zonein",
+      "author": "phutt-bwai",
+      "description": "Zonein 智能资金情报平台，追踪 Hyperliquid 和 Polymarket 上胜率 75%+ 的顶级交易者，支持一键创建跟单交易代理",
+      "category_tech": "跟单交易",
+      "category_user": "跟单交易",
+      "example": "对我说：'查看 Polymarket 上胜率最高的交易者' 或 '创建一个跟踪 Hyperliquid 聪明钱的代理'",
+      "user_provides": "Zonein API Key",
+      "dapps": "Polymarket, Hyperliquid",
+      "run_mode": "持续AI决策",
+      "github_url": "https://github.com/phutt-bwai/zonein"
+    },
+    {
+      "name": "clawnalyst",
+      "author": "satoreth",
+      "description": "Clawnalyst AI 交易信号排行榜，在 Base 链上发布经验证的交易信号（meme 币、永续合约、Polymarket 预测），自动追踪结算绩效，表现优秀可获得 USDC 订阅收入",
+      "category_tech": "跟单交易",
+      "category_user": "跟单交易",
+      "example": "对我说：'发布一个 BTC 看多信号' 或 '查看我的 Clawnalyst 排行榜排名和胜率'",
+      "user_provides": "Clawnalyst API Key",
+      "dapps": "Clawnalyst",
+      "run_mode": "持续AI决策",
+      "github_url": "https://github.com/satoreth/clawnalyst"
+    },
+    {
+      "name": "solana-copy-trader",
+      "author": "youthaiagent",
+      "description": "Solana 鲸鱼跟单交易机器人，通过 Helius WebSocket 实时追踪目标钱包，使用 Jupiter 和 Pump.fun 复制交易，支持模拟盘和实盘模式",
+      "category_tech": "跟单交易",
+      "category_user": "跟单交易",
+      "example": "对我说：'跟单这个鲸鱼钱包' 或 '扫描 Solana 套利机会'",
+      "user_provides": "目标钱包地址、Helius API Key",
+      "dapps": "Jupiter, Pump.fun",
+      "run_mode": "持续AI决策",
+      "github_url": "https://github.com/youthaiagent/solana-copy-trader"
+    },
+    {
+      "name": "send-signal",
+      "author": "13290186019",
+      "description": "将 AI 交易决策通过 HTTP API 发送到 FMZ 量化交易平台，实现自动化交易信号执行",
+      "category_tech": "跟单交易",
+      "category_user": "跟单交易",
+      "example": "对我说：\"发送 BTC_USDT 买入信号到 FMZ\" 或 \"查看最近的交易信号历史\"",
+      "user_provides": "FMZ Robot ID、UUID 密钥",
+      "dapps": "FMZ",
+      "run_mode": "持续AI决策",
+      "github_url": "https://github.com/13290186019/send-signal"
+    },
+    {
+      "name": "wangbo-polymarket-copytrading",
+      "author": "wangbo12bob2-source",
+      "description": "Polymarket 跟单交易系统，从排行榜发现高手、分析巅峰周期并生成风控跟单计划",
+      "category_tech": "跟单交易",
+      "category_user": "跟单交易",
+      "example": "对我说：\"分析 Polymarket 排行榜高手\" 或 \"生成跟单交易计划\"",
+      "user_provides": "Polymarket 账户",
+      "dapps": "Polymarket",
+      "run_mode": "持续AI决策",
+      "github_url": "https://github.com/wangbo12bob2-source/wangbo-polymarket-copytrading"
+    }
+  ]
+}
