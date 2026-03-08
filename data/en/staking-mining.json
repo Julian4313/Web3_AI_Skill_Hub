@@ -1,0 +1,113 @@
+{
+  "count": 9,
+  "skills": [
+    {
+      "name": "inclawnch-staking",
+      "author": "stuart5915",
+      "description": "INCLAWNCH token on-chain staking on Base: stake/unstake, claim rewards, enable auto-compound, query APY and leaderboard. Write operations require wallet signatures, reads are free",
+      "category_tech": "Staking & Mining",
+      "category_user": "Staking & Mining",
+      "example": "Say: 'Stake INCLAWNCH tokens' or 'Check staking rewards'",
+      "user_provides": "Wallet",
+      "dapps": "",
+      "run_mode": "One-time Execution",
+      "github_url": "https://github.com/stuart5915/inclawnch-staking"
+    },
+    {
+      "name": "clawmegle-staking",
+      "author": "tedkaczynski-the-bot",
+      "description": "Stake $CLAWMEGLE tokens to earn dual rewards (ETH + CLAWMEGLE) from Clanker LP fees, managing staking positions via Bankr API or direct wallet transactions",
+      "category_tech": "General Tools",
+      "category_user": "Staking & Mining",
+      "example": "Say: 'Stake my CLAWMEGLE tokens' or 'Check staking reward balance'",
+      "user_provides": "Bankr account, $CLAWMEGLE tokens",
+      "dapps": "Clanker",
+      "run_mode": "Hybrid",
+      "github_url": "https://github.com/tedkaczynski-the-bot/clawmegle-staking"
+    },
+    {
+      "name": "aicash-miner",
+      "author": "doctor-1017",
+      "description": "AICash Network auto-miner for $CASH tokens on Base L2 via Proof of Compute, supporting multi-instance parallel mining and systemd service management",
+      "category_tech": "General Tools",
+      "category_user": "Staking & Mining",
+      "example": "Say: 'Set up AICash mining' or 'Start 6 parallel miner instances'",
+      "user_provides": "AICash API key, wallet address, endpoint URL",
+      "dapps": "AICash",
+      "run_mode": "Continuous AI Decision",
+      "github_url": "https://github.com/doctor-1017/aicash-miner"
+    },
+    {
+      "name": "stakingverse-ethereum",
+      "author": "luksoagent",
+      "description": "Stake ETH on StakeWise V3 and receive osETH liquid staking tokens, supporting staking, unstaking, position/rewards checking, vault state monitoring, and harvest proof queries with automatic keeper-oracle state updates",
+      "category_tech": "Staking & Mining",
+      "category_user": "Staking & Mining",
+      "example": "Say: 'Stake 0.1 ETH on StakeWise' or 'Check my staked position and rewards' or 'Unstake 0.05 osETH'",
+      "user_provides": "PRIVATE_KEY, MY_ADDRESS, RPC_URL",
+      "dapps": "StakeWise",
+      "run_mode": "One-time Execution",
+      "github_url": "https://github.com/luksoagent/stakingverse-ethereum"
+    },
+    {
+      "name": "stakingverse-lukso",
+      "author": "luksoagent",
+      "description": "Stake LYX tokens on Stakingverse (LUKSO liquid staking) and receive sLYX tokens earning ~8% APY, supporting staking, unstake requests, post-oracle claiming, sLYX balance checks, and claimable LYX status monitoring",
+      "category_tech": "Staking & Mining",
+      "category_user": "Staking & Mining",
+      "example": "Say: 'Stake 10 LYX' or 'Check my sLYX balance' or 'Claim my unstaked LYX'",
+      "user_provides": "PRIVATE_KEY, MY_UP (Universal Profile address), CONTROLLER",
+      "dapps": "Stakingverse",
+      "run_mode": "One-time Execution",
+      "github_url": "https://github.com/luksoagent/stakingverse-lukso"
+    },
+    {
+      "name": "polkadot",
+      "author": "ivangdavila",
+      "description": "Manage Polkadot ecosystem operations including DOT staking with validator nomination, parachain interaction, cross-chain transfers, and governance voting with SS58 address support",
+      "category_tech": "Staking & Mining",
+      "category_user": "Staking & Mining",
+      "example": "Say: \"Stake DOT and nominate validators\" or \"Check my Polkadot staking rewards\"",
+      "user_provides": "Polkadot wallet address",
+      "dapps": "",
+      "run_mode": "One-time Execution",
+      "github_url": "https://github.com/ivangdavila/polkadot"
+    },
+    {
+      "name": "ore-miner",
+      "author": "jusscubs",
+      "description": "Participate in ORE token mining on Solana via refinORE pool, automatically managing mining tasks, submitting proof-of-work and claiming mining rewards",
+      "category_tech": "General Tools",
+      "category_user": "Staking & Mining",
+      "example": "Say: \"Start ORE mining\" or \"Check my ORE mining earnings\"",
+      "user_provides": "Solana wallet private key",
+      "dapps": "refinORE",
+      "run_mode": "Continuous AI Decision",
+      "github_url": "https://github.com/jusscubs/ore-miner"
+    },
+    {
+      "name": "bonero-miner",
+      "author": "happybigmtn",
+      "description": "Bonero private cryptocurrency CPU mining tool (Monero fork) using RandomX algorithm with ring signatures and stealth addresses for privacy, supporting wallet creation, daemon startup, and mining management",
+      "category_tech": "Staking & Mining",
+      "category_user": "Staking & Mining",
+      "example": "Say: \"Create a Bonero wallet and start CPU mining\"",
+      "user_provides": "CPU resources (requires user consent)",
+      "dapps": "",
+      "run_mode": "Continuous AI Decision",
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/happybigmtn/bonero-miner"
+    },
+    {
+      "name": "bittensor-sdk",
+      "author": "taoleeh",
+      "description": "Interact with Bittensor blockchain for TAO staking, subnet management, neuron status queries, and delegation operations",
+      "category_tech": "Staking & Mining",
+      "category_user": "Staking & Mining",
+      "example": "Say: \"Stake 10 TAO to subnet 1\" or \"Query my neuron status\"",
+      "user_provides": "Bittensor wallet, coldkey/hotkey",
+      "dapps": "Bittensor",
+      "run_mode": "One-time Execution",
+      "github_url": "https://github.com/taoleeh/bittensor-sdk"
+    }
+  ]
+}
