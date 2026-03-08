@@ -1,0 +1,173 @@
+{
+  "count": 14,
+  "skills": [
+    {
+      "name": "lifi-skill",
+      "author": "fabriziogianni7",
+      "description": "Execute cross-chain and same-chain token swaps and bridges via LI.FI API — route quoting, chain/token validation, transaction building, and status tracking, aggregating multiple bridge and DEX protocols",
+      "category_tech": "Cross-chain Bridge",
+      "category_user": "Cross-chain Transfer",
+      "example": "Say: 'Bridge ETH from Ethereum to Arbitrum' or 'Find optimal route for USDC from Polygon to Base'",
+      "user_provides": "LI.FI API key",
+      "dapps": "LI.FI",
+      "run_mode": "One-time Execution",
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/fabriziogianni7/lifi-skill"
+    },
+    {
+      "name": "multichain-protocol",
+      "author": "kyounesmercatura",
+      "description": "MeneseSDK 19-chain wallet on ICP for token transfers, multi-DEX swaps (Raydium/Uniswap/Cetus), cross-chain bridging, DeFi positions and automated trading strategies",
+      "category_tech": "Cross-chain Bridge",
+      "category_user": "Cross-chain Transfer",
+      "example": "Say: 'Send USDC from Solana to Ethereum' or 'Swap SOL on Raydium'",
+      "user_provides": "ICP DeveloperKey",
+      "dapps": "Raydium, Uniswap, ICPSwap, Cetus, Aave, Lido",
+      "run_mode": "Hybrid",
+      "github_url": "https://github.com/kyounesmercatura/multichain-protocol"
+    },
+    {
+      "name": "abstract-onboard",
+      "author": "masoncags-tech",
+      "description": "Full Abstract ZK Stack L2 toolkit for smart contract deployment, asset bridging, AGW wallet creation, DEX trading (Kona/Aborean) and Myriad prediction markets",
+      "category_tech": "Cross-chain Bridge",
+      "category_user": "Cross-chain Transfer",
+      "example": "Say: 'Bridge ETH to Abstract' or 'Deploy a smart contract on Abstract'",
+      "user_provides": "Wallet private key, Node.js environment",
+      "dapps": "Myriad, Kona, Aborean",
+      "run_mode": "One-time Execution",
+      "github_url": "https://github.com/masoncags-tech/abstract-onboard"
+    },
+    {
+      "name": "lifi-crosschain",
+      "author": "rhlsthrm",
+      "description": "LI.FI cross-chain aggregator finding optimal routes across 35+ chains comparing dozens of bridges (Stargate, Hop, Across) and DEXes for swaps, bridges, route queries, and tracking",
+      "category_tech": "Cross-chain Bridge",
+      "category_user": "Cross-chain Transfer",
+      "example": "Say: 'Bridge 0.1 ETH from Ethereum to Polygon' or 'Track my cross-chain transaction status'",
+      "user_provides": "LI.FI API Key (optional)",
+      "dapps": "LI.FI",
+      "run_mode": "One-time Execution",
+      "github_url": "https://github.com/rhlsthrm/lifi-crosschain"
+    },
+    {
+      "name": "lifi-orchestrator",
+      "author": "rhlsthrm",
+      "description": "LI.FI cross-chain orchestrator with Python scripts for bridging and swapping across 15+ chains including Ethereum, Polygon, Arbitrum, Base, and Solana with quote, execute, and status tracking",
+      "category_tech": "Cross-chain Bridge",
+      "category_user": "Cross-chain Transfer",
+      "example": "Say: 'Get a cross-chain quote for ETH to Polygon USDC' or 'Execute a bridge and track progress'",
+      "user_provides": "Private key, LI.FI API Key (optional)",
+      "dapps": "LI.FI",
+      "run_mode": "One-time Execution",
+      "github_url": "https://github.com/rhlsthrm/lifi-orchestrator"
+    },
+    {
+      "name": "cross-chain-swap",
+      "author": "wpank",
+      "description": "Execute cross-chain token swaps handling quoting, route evaluation, safety checks, bridge monitoring, and destination confirmation in one workflow",
+      "category_tech": "Cross-chain Bridge",
+      "category_user": "Cross-chain Transfer",
+      "example": "Say: 'Swap ETH on Arbitrum for USDC on Base'",
+      "user_provides": "Source chain token, destination chain token",
+      "dapps": "Uniswap",
+      "run_mode": "One-time Execution",
+      "github_url": "https://github.com/wpank/cross-chain-swap"
+    },
+    {
+      "name": "near-intents",
+      "author": "cuongdcdev",
+      "description": "NEAR Intents 1Click SDK universal cross-chain swap and bridge tool supporting 14+ blockchains (NEAR/Base/ETH/Solana/BTC etc.), auto-completing swaps by depositing to a generated address",
+      "category_tech": "Cross-chain Bridge",
+      "category_user": "Cross-chain Transfer",
+      "example": "Say: 'Bridge USDC from Base to Solana' or 'Cross-chain swap ETH for SOL'",
+      "user_provides": "",
+      "dapps": "",
+      "run_mode": "One-time Execution",
+      "github_url": "https://github.com/cuongdcdev/near-intents"
+    },
+    {
+      "name": "universal-trading",
+      "author": "0xmomo-ngclubs",
+      "description": "Execute cross-chain token trading on EVM and Solana with Particle Network Universal Account SDK for unified convert/swap flows, asset transfers, and custom transactions",
+      "category_tech": "Cross-chain Bridge",
+      "category_user": "One-click Swap",
+      "example": "Say: 'Cross-chain swap tokens' or 'Set up Universal Account'",
+      "user_provides": "Particle Network credentials",
+      "dapps": "",
+      "run_mode": "One-time Execution",
+      "github_url": "https://github.com/0xmomo-ngclubs/universal-trading"
+    },
+    {
+      "name": "bridge-tokens",
+      "author": "wpank",
+      "description": "Cross-chain token bridge tool using Uniswap routing to move tokens between chains (e.g., USDC from Ethereum to Base) without token swaps",
+      "category_tech": "Cross-chain Bridge",
+      "category_user": "Cross-chain Transfer",
+      "example": "Say: 'Bridge USDC from Ethereum to Base' or 'Move ETH cross-chain'",
+      "user_provides": "Wallet",
+      "dapps": "Uniswap",
+      "run_mode": "One-time Execution",
+      "github_url": "https://github.com/wpank/bridge-tokens"
+    },
+    {
+      "name": "taiko-native-bridge",
+      "author": "davidtaikocha",
+      "description": "Taiko native cross-chain bridge CLI tool for bidirectional ETH transfers between Ethereum L1 and Taiko L2, supporting deposit and withdrawal operations",
+      "category_tech": "Cross-chain Bridge",
+      "category_user": "Cross-chain Transfer",
+      "example": "Say: \"Bridge ETH from Ethereum to Taiko\" or \"Withdraw ETH from Taiko to L1\"",
+      "user_provides": "Wallet private key, ETH",
+      "dapps": "Taiko",
+      "run_mode": "One-time Execution",
+      "github_url": "https://github.com/davidtaikocha/taiko-native-bridge"
+    },
+    {
+      "name": "cosmos",
+      "author": "Unknown",
+      "description": "Cosmos ecosystem navigation guide covering IBC cross-chain communication, ATOM staking, multi-chain wallet management and Cosmos Hub interaction",
+      "category_tech": "Cross-chain Bridge",
+      "category_user": "Cross-chain Transfer",
+      "example": "Say: \"Transfer from Cosmos Hub to Osmosis via IBC\"",
+      "user_provides": "Cosmos wallet address",
+      "dapps": "",
+      "run_mode": "One-time Execution",
+      "github_url": "https://github.com/Unknown/cosmos"
+    },
+    {
+      "name": "trails",
+      "author": "Unknown",
+      "description": "Trails cross-chain infrastructure integration guide supporting Widget/SDK/API integration for cross-chain swaps, bridging, payments and chain abstraction",
+      "category_tech": "Cross-chain Bridge",
+      "category_user": "One-click Swap",
+      "example": "Say: \"Help me integrate the Trails cross-chain swap Widget\"",
+      "user_provides": "Project code, integration preference",
+      "dapps": "Trails",
+      "run_mode": "One-time Execution",
+      "github_url": "https://github.com/Unknown/trails"
+    },
+    {
+      "name": "htlc",
+      "author": "web4agent",
+      "description": "Hash Time Locked Contract atomic swaps for inscriptions and NFTs on Base, Ethereum, Arbitrum and other EVM chains",
+      "category_tech": "Cross-chain Bridge",
+      "category_user": "Cross-chain Transfer",
+      "example": "Say: \"Create an HTLC atomic swap\" or \"Securely trade NFT via hash lock\"",
+      "user_provides": "Wallet private key",
+      "dapps": "",
+      "run_mode": "One-time Execution",
+      "github_url": "https://github.com/web4agent/htlc"
+    },
+    {
+      "name": "nexwave-gateway",
+      "author": "botmechanic",
+      "description": "Unified crosschain USDC balance via Circle Gateway, deposit on any chain and instantly mint on destination in <500ms without bridging",
+      "category_tech": "Cross-chain Bridge",
+      "category_user": "Cross-chain Transfer",
+      "example": "Say: \"Check unified USDC balance\" or \"Deposit from Polygon and mint on Arbitrum\"",
+      "user_provides": "Circle API key and entity secret",
+      "dapps": "Circle",
+      "run_mode": "One-time Execution",
+      "github_url": "https://github.com/botmechanic/nexwave-gateway"
+    }
+  ]
+}
