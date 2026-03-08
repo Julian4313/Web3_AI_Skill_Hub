@@ -20,7 +20,7 @@
     {
       "file": "en/derivatives.json",
       "category": "Derivatives Trading",
-      "count": 180
+      "count": 52
     },
     {
       "file": "en/dex-trading.json",
@@ -55,7 +55,7 @@
     {
       "file": "en/prediction-market.json",
       "category": "Prediction Market",
-      "count": 3
+      "count": 131
     },
     {
       "file": "en/security-audit.json",
