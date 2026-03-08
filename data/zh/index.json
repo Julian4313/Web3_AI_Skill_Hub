@@ -1,0 +1,86 @@
+{
+  "total": 1615,
+  "generated": "2026-03-08",
+  "files": [
+    {
+      "file": "zh/copy-trading.json",
+      "category": "跟单交易",
+      "count": 10
+    },
+    {
+      "file": "zh/cross-chain.json",
+      "category": "跨链桥接",
+      "count": 14
+    },
+    {
+      "file": "zh/data-analytics.json",
+      "category": "数据分析",
+      "count": 321
+    },
+    {
+      "file": "zh/derivatives.json",
+      "category": "衍生品交易",
+      "count": 180
+    },
+    {
+      "file": "zh/dex-trading.json",
+      "category": "DEX交易",
+      "count": 131
+    },
+    {
+      "file": "zh/general-tools.json",
+      "category": "综合工具",
+      "count": 379
+    },
+    {
+      "file": "zh/governance.json",
+      "category": "治理投票",
+      "count": 10
+    },
+    {
+      "file": "zh/lending.json",
+      "category": "借贷协议",
+      "count": 25
+    },
+    {
+      "file": "zh/nft-tools.json",
+      "category": "NFT工具",
+      "count": 56
+    },
+    {
+      "file": "zh/payment-transfer.json",
+      "category": "支付转账",
+      "count": 155
+    },
+    {
+      "file": "zh/prediction-market.json",
+      "category": "预测市场",
+      "count": 3
+    },
+    {
+      "file": "zh/security-audit.json",
+      "category": "安全审计",
+      "count": 67
+    },
+    {
+      "file": "zh/staking-mining.json",
+      "category": "质押挖矿",
+      "count": 9
+    },
+    {
+      "file": "zh/token-issuance.json",
+      "category": "代币发行",
+      "count": 56
+    },
+    {
+      "file": "zh/wallet-management.json",
+      "category": "钱包管理",
+      "count": 151
+    },
+    {
+      "file": "zh/yield-strategy.json",
+      "category": "收益策略",
+      "count": 48
+    }
+  ]
+}
