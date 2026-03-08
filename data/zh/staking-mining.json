@@ -1,0 +1,113 @@
+{
+  "count": 9,
+  "skills": [
+    {
+      "name": "inclawnch-staking",
+      "author": "stuart5915",
+      "description": "INCLAWNCH 代币链上质押（Base）：质押/解除质押、领取奖励、启用自动复利、查询 APY 和排行，写操作需钱包签名，读操作免 API Key",
+      "category_tech": "质押挖矿",
+      "category_user": "质押挖矿",
+      "example": "对我说：'质押 INCLAWNCH 代币' 或 '查看质押收益'",
+      "user_provides": "钱包",
+      "dapps": "",
+      "run_mode": "一次性执行",
+      "github_url": "https://github.com/stuart5915/inclawnch-staking"
+    },
+    {
+      "name": "clawmegle-staking",
+      "author": "tedkaczynski-the-bot",
+      "description": "质押 $CLAWMEGLE 代币赚取 Clanker LP 费用的双重奖励（ETH + CLAWMEGLE），通过 Bankr API 或直接钱包交易管理质押仓位",
+      "category_tech": "质押挖矿",
+      "category_user": "质押挖矿",
+      "example": "对我说：'质押我的 CLAWMEGLE 代币' 或 '查看质押奖励余额'",
+      "user_provides": "Bankr 账户, $CLAWMEGLE 代币",
+      "dapps": "Clanker",
+      "run_mode": "混合",
+      "github_url": "https://github.com/tedkaczynski-the-bot/clawmegle-staking"
+    },
+    {
+      "name": "aicash-miner",
+      "author": "doctor-1017",
+      "description": "AICash Network 自动矿机，在 Base L2 上通过 Proof of Compute 挖 $CASH 代币，支持多实例并行和 systemd 服务管理",
+      "category_tech": "质押挖矿",
+      "category_user": "质押挖矿",
+      "example": "对我说：'设置 AICash 挖矿' 或 '启动 6 个并行矿机实例'",
+      "user_provides": "AICash API key, 钱包地址, 端点 URL",
+      "dapps": "AICash",
+      "run_mode": "持续AI决策",
+      "github_url": "https://github.com/doctor-1017/aicash-miner"
+    },
+    {
+      "name": "stakingverse-ethereum",
+      "author": "luksoagent",
+      "description": "在 StakeWise V3 上质押 ETH 并获得 osETH 流动性质押代币，支持质押、取消质押、查看仓位和奖励、监控 Vault 状态、查询 Harvest 证明，含 Keeper-Oracle 自动状态更新机制",
+      "category_tech": "质押挖矿",
+      "category_user": "质押挖矿",
+      "example": "对我说：'质押 0.1 ETH 到 StakeWise' 或 '查看我的质押仓位和奖励' 或 '取消质押 0.05 osETH'",
+      "user_provides": "PRIVATE_KEY, MY_ADDRESS, RPC_URL",
+      "dapps": "StakeWise",
+      "run_mode": "一次性执行",
+      "github_url": "https://github.com/luksoagent/stakingverse-ethereum"
+    },
+    {
+      "name": "stakingverse-lukso",
+      "author": "luksoagent",
+      "description": "在 Stakingverse 上质押 LYX 代币并获得 sLYX 流动性质押代币（约 8% APY），支持质押、发起取消质押请求、等 Oracle 处理后领取、查看 sLYX 余额和可领取状态",
+      "category_tech": "质押挖矿",
+      "category_user": "质押挖矿",
+      "example": "对我说：'质押 10 个 LYX' 或 '查看我的 sLYX 余额' 或 '领取已取消质押的 LYX'",
+      "user_provides": "PRIVATE_KEY, MY_UP (Universal Profile 地址), CONTROLLER",
+      "dapps": "Stakingverse",
+      "run_mode": "一次性执行",
+      "github_url": "https://github.com/luksoagent/stakingverse-lukso"
+    },
+    {
+      "name": "polkadot",
+      "author": "ivangdavila",
+      "description": "管理 Polkadot 生态操作，包括 DOT 质押提名验证者、平行链交互、跨链转账和治理投票，支持 SS58 地址格式",
+      "category_tech": "质押挖矿",
+      "category_user": "质押挖矿",
+      "example": "对我说：\"质押 DOT 并提名验证者\"、\"查询我的 Polkadot 质押奖励\"",
+      "user_provides": "Polkadot 钱包地址",
+      "dapps": "",
+      "run_mode": "一次性执行",
+      "github_url": "https://github.com/ivangdavila/polkadot"
+    },
+    {
+      "name": "ore-miner",
+      "author": "jusscubs",
+      "description": "通过 refinORE 矿池在 Solana 上参与 ORE 代币挖矿，自动管理挖矿任务、提交算力证明和领取挖矿奖励",
+      "category_tech": "质押挖矿",
+      "category_user": "质押挖矿",
+      "example": "对我说：\"开始 ORE 挖矿\"或\"查看我的 ORE 挖矿收益\"",
+      "user_provides": "Solana 钱包私钥",
+      "dapps": "refinORE",
+      "run_mode": "持续AI决策",
+      "github_url": "https://github.com/jusscubs/ore-miner"
+    },
+    {
+      "name": "bonero-miner",
+      "author": "happybigmtn",
+      "description": "Bonero隐私加密货币CPU挖矿工具（Monero分叉），使用RandomX算法和环签名/隐匿地址保护隐私，支持钱包创建、守护进程启动和挖矿管理",
+      "category_tech": "质押挖矿",
+      "category_user": "质押挖矿",
+      "example": "对我说：\"创建一个Bonero钱包并开始CPU挖矿\"",
+      "user_provides": "CPU算力（需用户同意）",
+      "dapps": "",
+      "run_mode": "持续AI决策",
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/happybigmtn/bonero-miner"
+    },
+    {
+      "name": "bittensor-sdk",
+      "author": "taoleeh",
+      "description": "与 Bittensor 区块链交互，支持质押 TAO、管理子网、查询神经元状态和委托操作",
+      "category_tech": "质押挖矿",
+      "category_user": "质押挖矿",
+      "example": "对我说：\"质押 10 TAO 到子网 1\" 或 \"查询我的神经元状态\"",
+      "user_provides": "Bittensor 钱包、coldkey/hotkey",
+      "dapps": "Bittensor",
+      "run_mode": "一次性执行",
+      "github_url": "https://github.com/taoleeh/bittensor-sdk"
+    }
+  ]
+}
