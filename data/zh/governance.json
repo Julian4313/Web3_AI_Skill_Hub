@@ -1,0 +1,125 @@
+{
+  "count": 10,
+  "skills": [
+    {
+      "name": "ceo-protocol-skill",
+      "author": "fabriziogianni7",
+      "description": "Monad 上由 AI 代理治理的 USDC 金库协议，代理质押 $CEO 代币、提出收益策略、投票、执行方案，表现最佳者成为 CEO 并获得最大绩效费分成",
+      "category_tech": "治理投票",
+      "category_user": "治理参与",
+      "example": "对我说：'注册为 CEO Protocol 代理' 或 '提交新的收益策略提案' 或 '对当前提案投票'",
+      "user_provides": "Monad 钱包, $CEO 代币（质押用）, ERC-8004 身份注册",
+      "dapps": "CEO Protocol",
+      "run_mode": "混合",
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/fabriziogianni7/ceo-protocol-skill"
+    },
+    {
+      "name": "gotchi-dao-voting",
+      "author": "aaigotchi",
+      "description": "通过 Bankr 平台参与 Aavegotchi DAO 的 Snapshot 链下投票，查看提案详情、分析投票趋势并代理投票执行",
+      "category_tech": "治理投票",
+      "category_user": "治理参与",
+      "example": "对我说：\"查看 Aavegotchi DAO 最新提案\"或\"对这个治理提案投赞成票\"",
+      "user_provides": "钱包私钥, GHST",
+      "dapps": "Aavegotchi, Snapshot",
+      "run_mode": "一次性执行",
+      "github_url": "https://github.com/aaigotchi/gotchi-dao-voting"
+    },
+    {
+      "name": "the-hive-swarm-governance",
+      "author": "nantes",
+      "description": "去中心化群体治理框架，使用 Ed25519 签名身份验证、信任图谱评分和法定人数投票机制实现 AI 代理间的集体决策",
+      "category_tech": "治理投票",
+      "category_user": "治理参与",
+      "example": "对我说：\"发起一个提案让群体投票决定是否启用新策略\"",
+      "user_provides": "Ed25519 密钥对、治理参数、提案内容",
+      "dapps": "",
+      "run_mode": "持续AI决策",
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/nantes/the-hive-swarm-governance"
+    },
+    {
+      "name": "moltgov",
+      "author": "cloakai-softwares",
+      "description": "Moltbook AI 代理治理基础设施，管理代理公民身份、信任评级体系和民主选举流程",
+      "category_tech": "治理投票",
+      "category_user": "治理参与",
+      "example": "对我说：\"注册代理公民身份并参与下一轮治理选举投票\"",
+      "user_provides": "代理身份信息",
+      "dapps": "Moltbook",
+      "run_mode": "一次性执行",
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/cloakai-softwares/moltgov"
+    },
+    {
+      "name": "myosin-hivemind",
+      "author": "",
+      "description": "去中心化集体智慧平台 - 聚合预测、投票、协作决策",
+      "category_tech": "治理投票",
+      "category_user": "治理参与",
+      "example": "提交预测、参与群体投票、查看集体共识",
+      "user_provides": "钱包地址、预测内容",
+      "dapps": "",
+      "run_mode": "持续AI决策",
+      "github_url": "https://github.com//myosin-hivemind"
+    },
+    {
+      "name": "clawstarter",
+      "author": "Unknown",
+      "description": "OpenClaw生态项目提案平台，AI代理可发起项目提案、参与投票讨论和协作构建，未来将支持加密货币众筹",
+      "category_tech": "治理投票",
+      "category_user": "治理参与",
+      "example": "对我说：\"在Clawstarter上提交一个新项目提案\"",
+      "user_provides": "项目描述",
+      "dapps": "Clawstarter",
+      "run_mode": "混合",
+      "github_url": "https://github.com/Unknown/clawstarter"
+    },
+    {
+      "name": "multisig-executor",
+      "author": "mosonchan2023",
+      "description": "DeFi和DAO多重签名交易执行器，支持创建、签署和执行多签交易，集成SkillPay按次收费",
+      "category_tech": "治理投票",
+      "category_user": "治理参与",
+      "example": "对我说\"创建一个3/5多签交易\"或\"签署并执行待处理的多签提案\"",
+      "user_provides": "SkillPay API密钥、钱包信息",
+      "dapps": "",
+      "run_mode": "一次性执行",
+      "github_url": "https://github.com/mosonchan2023/multisig-executor"
+    },
+    {
+      "name": "claw-and-order",
+      "author": "nikhilp1234567",
+      "description": "AI Agent去中心化争议解决平台，支持提起诉讼、质押代币、提交证据并由自动化法官裁决",
+      "category_tech": "治理投票",
+      "category_user": "治理参与",
+      "example": "对我说\"对某Agent提起诉讼\"或\"提交我的辩护证据\"",
+      "user_provides": "钱包地址、质押代币",
+      "dapps": "Claw & Order",
+      "run_mode": "一次性执行",
+      "github_url": "https://github.com/nikhilp1234567/claw-and-order"
+    },
+    {
+      "name": "among-traitors-game",
+      "author": "saltorioussig",
+      "description": "DeFi自动化技能，支持AI智能体在欺骗者游戏中参与。",
+      "category_tech": "治理投票",
+      "category_user": "治理参与",
+      "example": "对我说'执行DeFi操作'",
+      "user_provides": "提案ID、投票选项",
+      "dapps": "",
+      "run_mode": "持续AI决策",
+      "github_url": "https://github.com/saltorioussig/among-traitors-game"
+    },
+    {
+      "name": "acorp",
+      "author": "thoerner",
+      "description": "A-Corp Foundry 委托约束系统，定义 Agent 的权限边界和行为准则",
+      "category_tech": "治理投票",
+      "category_user": "治理参与",
+      "example": "对我说：\"设置 Agent 委托权限\" 或 \"查看当前约束规则\"",
+      "user_provides": "Agent 配置",
+      "dapps": "A-Corp Foundry",
+      "run_mode": "一次性执行",
+      "github_url": "https://github.com/thoerner/acorp"
+    }
+  ]
+}
