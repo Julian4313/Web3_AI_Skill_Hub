@@ -378,6 +378,35 @@
     return function () { clearTimeout(t); t = setTimeout(fn, ms); };
   }
 
+  // ─── JS Tooltip (avoids overflow clipping) ─────────────────────
+  (function setupTooltip() {
+    let tip = null;
+    document.addEventListener('mouseenter', e => {
+      if (!e.target.classList.contains('tooltip-trigger')) return;
+      const text = e.target.getAttribute('data-tip');
+      if (!text) return;
+      tip = document.createElement('div');
+      tip.className = 'js-tooltip';
+      tip.textContent = text;
+      document.body.appendChild(tip);
+      const rect = e.target.getBoundingClientRect();
+      const tipW = 280;
+      let left = rect.right + 10;
+      let top = rect.top - 10;
+      // If overflows right, show on left side
+      if (left + tipW > window.innerWidth - 10) left = rect.left - tipW - 10;
+      // If overflows bottom, shift up
+      if (top + 120 > window.innerHeight) top = window.innerHeight - 130;
+      if (top < 10) top = 10;
+      tip.style.left = left + 'px';
+      tip.style.top = top + 'px';
+    }, true);
+    document.addEventListener('mouseleave', e => {
+      if (!e.target.classList.contains('tooltip-trigger')) return;
+      if (tip) { tip.remove(); tip = null; }
+    }, true);
+  })();
+
   // Go
   init();
 })();
