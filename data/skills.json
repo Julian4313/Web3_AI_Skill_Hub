@@ -1,5 +1,5 @@
 {
-  "total": 1492,
+  "total": 1458,
   "generated": "2026-03-08",
   "skills": [
     {
@@ -11626,7 +11626,7 @@
       "category_user": "资产管理",
       "example": "对我说'ampersend相关的具体操作'或'帮我使用ampersend'",
       "user_provides": "钱包地址/Wallet Address, 区块链/Blockchain",
-      "dapps": [],
+      "dapps": "",
       "run_mode": "混合",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/matiasedgeandnode/ampersend"
     },
@@ -11638,7 +11638,7 @@
       "category_user": "加密支付",
       "example": "对我说'norman-monthly-reconciliation相关的具体操作'或'帮我使用norman-monthly-reconciliation'",
       "user_provides": "交易数量/Transaction Amount",
-      "dapps": [],
+      "dapps": "",
       "run_mode": "混合",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/stanlee000/norman-monthly-reconciliation"
     },
@@ -11662,7 +11662,7 @@
       "category_user": "代币发射",
       "example": "对我说'extraction相关的具体操作'或'帮我使用extraction'",
       "user_provides": "代币合约/Token Contract",
-      "dapps": [],
+      "dapps": "",
       "run_mode": "混合",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/wpank/extraction"
     },
@@ -11758,7 +11758,7 @@
       "category_user": "开发工具",
       "example": "对我说'myclaw-backup相关的具体操作'或'帮我使用myclaw-backup'",
       "user_provides": "代币合约/Token Contract, 区块链/Blockchain",
-      "dapps": [],
+      "dapps": "",
       "run_mode": "持续AI决策",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/leoyeai/myclaw-backup"
     },
@@ -11938,7 +11938,7 @@
       "category_user": "开发工具",
       "example": "对我说'运行vouch-cli'或'执行vouch-cli'",
       "user_provides": "API密钥, 网址",
-      "dapps": [],
+      "dapps": "",
       "run_mode": "一次性执行",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/jackpmorgan/vouch-cli"
     },
