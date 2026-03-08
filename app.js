@@ -420,7 +420,7 @@
     }, true);
     // Mobile: tap to toggle
     document.addEventListener('click', e => {
-      if (e.target.classList.contains('tooltip-trigger')) {
+      if (e.target && e.target.classList && e.target.classList.contains('tooltip-trigger')) {
         e.preventDefault();
         e.stopPropagation();
         if (tip) hideTip(); else showTip(e.target);
