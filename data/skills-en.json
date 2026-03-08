@@ -1,5 +1,5 @@
 {
-  "total": 1492,
+  "total": 1458,
   "generated": "2026-03-08",
   "skills": [
     {
@@ -11626,7 +11626,7 @@
       "category_user": "Asset Management",
       "example": "Say 'Use ampersend' or 'Help me analyze data'",
       "user_provides": "Wallet Address, Blockchain",
-      "dapps": [],
+      "dapps": "",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/matiasedgeandnode/ampersend"
     },
@@ -11638,7 +11638,7 @@
       "category_user": "Crypto Payment",
       "example": "Say 'Use norman-monthly-reconciliation' or 'Help me analyze data'",
       "user_provides": "Transaction Amount",
-      "dapps": [],
+      "dapps": "",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/stanlee000/norman-monthly-reconciliation"
     },
@@ -11662,7 +11662,7 @@
       "category_user": "Token Launch",
       "example": "Say 'Use extraction' or 'Help me analyze data'",
       "user_provides": "Token Contract",
-      "dapps": [],
+      "dapps": "",
       "run_mode": "Hybrid",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/wpank/extraction"
     },
@@ -11758,7 +11758,7 @@
       "category_user": "Dev Tools",
       "example": "Say 'Use myclaw-backup' or 'Help me analyze data'",
       "user_provides": "Token Contract, Blockchain",
-      "dapps": [],
+      "dapps": "",
       "run_mode": "Continuous AI",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/leoyeai/myclaw-backup"
     },
@@ -11938,7 +11938,7 @@
       "category_user": "Dev Tools",
       "example": "Say 'run Vouch Cli' or 'execute Vouch Cli'",
       "user_provides": "API Key, URL",
-      "dapps": [],
+      "dapps": "",
       "run_mode": "One-shot",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/jackpmorgan/vouch-cli"
     },
