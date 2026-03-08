@@ -20,7 +20,7 @@
     {
       "file": "zh/derivatives.json",
       "category": "衍生品交易",
-      "count": 180
+      "count": 52
     },
     {
       "file": "zh/dex-trading.json",
@@ -55,7 +55,7 @@
     {
       "file": "zh/prediction-market.json",
       "category": "预测市场",
-      "count": 3
+      "count": 131
     },
     {
       "file": "zh/security-audit.json",
