@@ -98,14 +98,50 @@
     init();
   };
 
+  // Category → icon + gradient mapping
+  const CAT_STYLE = {
+    'DEX交易':   { icon: '🔄', bg: 'linear-gradient(135deg,#6c5ce7,#a29bfe)' },
+    'DEX Trading': { icon: '🔄', bg: 'linear-gradient(135deg,#6c5ce7,#a29bfe)' },
+    '永续合约':   { icon: '📈', bg: 'linear-gradient(135deg,#e17055,#fab1a0)' },
+    'Perpetuals': { icon: '📈', bg: 'linear-gradient(135deg,#e17055,#fab1a0)' },
+    '借贷协议':   { icon: '🏦', bg: 'linear-gradient(135deg,#00b894,#55efc4)' },
+    'Lending':    { icon: '🏦', bg: 'linear-gradient(135deg,#00b894,#55efc4)' },
+    'DeFi收益':   { icon: '🌾', bg: 'linear-gradient(135deg,#fdcb6e,#f39c12)' },
+    'DeFi Yield': { icon: '🌾', bg: 'linear-gradient(135deg,#fdcb6e,#f39c12)' },
+    '预测市场':   { icon: '🎯', bg: 'linear-gradient(135deg,#fd79a8,#e84393)' },
+    'Prediction Markets': { icon: '🎯', bg: 'linear-gradient(135deg,#fd79a8,#e84393)' },
+    '钱包管理':   { icon: '👛', bg: 'linear-gradient(135deg,#0984e3,#74b9ff)' },
+    'Wallet Management': { icon: '👛', bg: 'linear-gradient(135deg,#0984e3,#74b9ff)' },
+    'NFT':        { icon: '🎨', bg: 'linear-gradient(135deg,#e056fd,#be2edd)' },
+    '跨链桥':     { icon: '🌉', bg: 'linear-gradient(135deg,#00cec9,#81ecec)' },
+    'Cross-chain Bridge': { icon: '🌉', bg: 'linear-gradient(135deg,#00cec9,#81ecec)' },
+    '数据查询':   { icon: '📊', bg: 'linear-gradient(135deg,#636e72,#b2bec3)' },
+    'Data Query':  { icon: '📊', bg: 'linear-gradient(135deg,#636e72,#b2bec3)' },
+    '代币分析':   { icon: '🔍', bg: 'linear-gradient(135deg,#ffeaa7,#dfe6e9)' },
+    'Token Analysis': { icon: '🔍', bg: 'linear-gradient(135deg,#ffeaa7,#dfe6e9)' },
+    '支付工具':   { icon: '💳', bg: 'linear-gradient(135deg,#55efc4,#00b894)' },
+    'Payment Tools': { icon: '💳', bg: 'linear-gradient(135deg,#55efc4,#00b894)' },
+    '智能合约':   { icon: '📜', bg: 'linear-gradient(135deg,#a29bfe,#6c5ce7)' },
+    'Smart Contracts': { icon: '📜', bg: 'linear-gradient(135deg,#a29bfe,#6c5ce7)' },
+    '安全审计':   { icon: '🛡️', bg: 'linear-gradient(135deg,#d63031,#ff7675)' },
+    'Security Audit': { icon: '🛡️', bg: 'linear-gradient(135deg,#d63031,#ff7675)' },
+    'DAO治理':    { icon: '🏛️', bg: 'linear-gradient(135deg,#0984e3,#74b9ff)' },
+    'DAO Governance': { icon: '🏛️', bg: 'linear-gradient(135deg,#0984e3,#74b9ff)' },
+    '基础设施':   { icon: '⚙️', bg: 'linear-gradient(135deg,#2d3436,#636e72)' },
+    'Infrastructure': { icon: '⚙️', bg: 'linear-gradient(135deg,#2d3436,#636e72)' },
+  };
+  const DEFAULT_STYLE = { icon: '🔗', bg: 'linear-gradient(135deg,#636e72,#b2bec3)' };
+
   // Normalize skill object from either enriched or basic format
   function normalizeSkill(s, i) {
+    const cat = s.category || s.category_tech || '其他';
+    const style = CAT_STYLE[cat] || DEFAULT_STYLE;
     return {
       id: s.id || i + 1,
       name: s.name || s.displayName || s.slug || '',
       author: s.author || (s.slug || '').split('/')[0] || 'unknown',
       desc: s.desc || s.what_it_does || s.summary || '',
-      category: s.category || s.category_tech || '其他',
+      category: cat,
       userCat: s.userCat || s.category_user || '其他',
       userCls: s.userCls || 'other',
       example: s.example || '',
@@ -113,8 +149,8 @@
       dapps: s.dapps || '',
       runMode: s.runMode || s.run_mode || '一次性执行',
       github: s.github || s.github_url || (s.slug ? `https://github.com/${s.slug}` : ''),
-      icon: s.icon || '🔗',
-      iconBg: s.iconBg || 'linear-gradient(135deg,#636e72,#b2bec3)',
+      icon: s.icon || style.icon,
+      iconBg: s.iconBg || style.bg,
       web3Score: s.web3Score || 0
     };
   }
@@ -275,7 +311,7 @@
       <div class="dm-section">
         <div class="dm-section-title">
           ${t('runModeTitle')}
-          <span class="tooltip-trigger" title="${t('tooltipText')}">?</span>
+          <span class="tooltip-trigger" data-tip="${t('tooltipText')}">?</span>
         </div>
         <span style="display:inline-block;padding:6px 16px;border-radius:8px;font-size:13px;font-weight:600;${isContinuous ? 'background:rgba(239,68,68,0.15);color:#ef4444' : isHybrid ? 'background:rgba(245,158,11,0.15);color:#f59e0b' : 'background:rgba(34,197,94,0.15);color:#22c55e'}">${esc(s.runMode)}</span>
       </div>
