@@ -11,7 +11,7 @@
 
   const I18N = {
     zh: {
-      subtitle: '开源 AI Agent Skill，源码逐个分析',
+      subtitle: 'Web3 AI Agent Skill 聚合平台，AI 智能筛选，一站发现',
       statSkills: '总 Skill', statTech: '技术赛道', statUser: '用户场景', statAuthor: '贡献者',
       searchPlaceholder: '🔍 搜索 Skill 名称、描述、DApp、作者...',
       filterTech: '技术赛道', filterUser: '用户场景', filterDapp: '交互平台', filterAll: '全部',
@@ -34,7 +34,7 @@
       footerText: '数据来源 <a href="https://clawhub.ai" target="_blank">ClawHub</a> · 源码分析自 <a href="https://github.com/openclaw/skills" target="_blank">OpenClaw</a> · 每6小时自动同步 · Claude AI 智能分析',
     },
     en: {
-      subtitle: 'Open-source AI Agent Skills, analyzed one by one',
+      subtitle: 'Web3 AI Agent Skill Aggregator — AI-Curated, All in One Place',
       statSkills: 'Skills', statTech: 'Categories', statUser: 'Use Cases', statAuthor: 'Contributors',
       searchPlaceholder: '🔍 Search skill name, description, DApp, author...',
       filterTech: 'Category', filterUser: 'Use Case', filterDapp: 'DApp', filterAll: 'All',
@@ -112,37 +112,64 @@
     init();
   };
 
-  // Category → icon + gradient mapping
+  // Category → icon + gradient mapping (covers all 16 categories × ZH/EN)
   const CAT_STYLE = {
-    'DEX交易':   { icon: '🔄', bg: 'linear-gradient(135deg,#6c5ce7,#a29bfe)' },
-    'DEX Trading': { icon: '🔄', bg: 'linear-gradient(135deg,#6c5ce7,#a29bfe)' },
-    '永续合约':   { icon: '📈', bg: 'linear-gradient(135deg,#e17055,#fab1a0)' },
-    'Perpetuals': { icon: '📈', bg: 'linear-gradient(135deg,#e17055,#fab1a0)' },
-    '借贷协议':   { icon: '🏦', bg: 'linear-gradient(135deg,#00b894,#55efc4)' },
-    'Lending':    { icon: '🏦', bg: 'linear-gradient(135deg,#00b894,#55efc4)' },
-    'DeFi收益':   { icon: '🌾', bg: 'linear-gradient(135deg,#fdcb6e,#f39c12)' },
-    'DeFi Yield': { icon: '🌾', bg: 'linear-gradient(135deg,#fdcb6e,#f39c12)' },
-    '预测市场':   { icon: '🎯', bg: 'linear-gradient(135deg,#fd79a8,#e84393)' },
-    'Prediction Markets': { icon: '🎯', bg: 'linear-gradient(135deg,#fd79a8,#e84393)' },
-    '钱包管理':   { icon: '👛', bg: 'linear-gradient(135deg,#0984e3,#74b9ff)' },
+    // DEX交易
+    'DEX交易':           { icon: '🔄', bg: 'linear-gradient(135deg,#6c5ce7,#a29bfe)' },
+    'DEX Trading':       { icon: '🔄', bg: 'linear-gradient(135deg,#6c5ce7,#a29bfe)' },
+    // 借贷协议
+    '借贷协议':           { icon: '🏦', bg: 'linear-gradient(135deg,#00b894,#55efc4)' },
+    'Lending Protocol':  { icon: '🏦', bg: 'linear-gradient(135deg,#00b894,#55efc4)' },
+    'Lending':           { icon: '🏦', bg: 'linear-gradient(135deg,#00b894,#55efc4)' },
+    // 收益策略
+    '收益策略':           { icon: '🌾', bg: 'linear-gradient(135deg,#fdcb6e,#f39c12)' },
+    'Yield Strategy':    { icon: '🌾', bg: 'linear-gradient(135deg,#fdcb6e,#f39c12)' },
+    // NFT工具
+    'NFT工具':           { icon: '🎨', bg: 'linear-gradient(135deg,#e056fd,#be2edd)' },
+    'NFT Tools':         { icon: '🎨', bg: 'linear-gradient(135deg,#e056fd,#be2edd)' },
+    'NFT':               { icon: '🎨', bg: 'linear-gradient(135deg,#e056fd,#be2edd)' },
+    // 钱包管理
+    '钱包管理':           { icon: '👛', bg: 'linear-gradient(135deg,#0984e3,#74b9ff)' },
     'Wallet Management': { icon: '👛', bg: 'linear-gradient(135deg,#0984e3,#74b9ff)' },
-    'NFT':        { icon: '🎨', bg: 'linear-gradient(135deg,#e056fd,#be2edd)' },
-    '跨链桥':     { icon: '🌉', bg: 'linear-gradient(135deg,#00cec9,#81ecec)' },
-    'Cross-chain Bridge': { icon: '🌉', bg: 'linear-gradient(135deg,#00cec9,#81ecec)' },
-    '数据查询':   { icon: '📊', bg: 'linear-gradient(135deg,#636e72,#b2bec3)' },
-    'Data Query':  { icon: '📊', bg: 'linear-gradient(135deg,#636e72,#b2bec3)' },
-    '代币分析':   { icon: '🔍', bg: 'linear-gradient(135deg,#ffeaa7,#dfe6e9)' },
-    'Token Analysis': { icon: '🔍', bg: 'linear-gradient(135deg,#ffeaa7,#dfe6e9)' },
-    '支付工具':   { icon: '💳', bg: 'linear-gradient(135deg,#55efc4,#00b894)' },
-    'Payment Tools': { icon: '💳', bg: 'linear-gradient(135deg,#55efc4,#00b894)' },
-    '智能合约':   { icon: '📜', bg: 'linear-gradient(135deg,#a29bfe,#6c5ce7)' },
-    'Smart Contracts': { icon: '📜', bg: 'linear-gradient(135deg,#a29bfe,#6c5ce7)' },
-    '安全审计':   { icon: '🛡️', bg: 'linear-gradient(135deg,#d63031,#ff7675)' },
-    'Security Audit': { icon: '🛡️', bg: 'linear-gradient(135deg,#d63031,#ff7675)' },
-    'DAO治理':    { icon: '🏛️', bg: 'linear-gradient(135deg,#0984e3,#74b9ff)' },
-    'DAO Governance': { icon: '🏛️', bg: 'linear-gradient(135deg,#0984e3,#74b9ff)' },
-    '基础设施':   { icon: '⚙️', bg: 'linear-gradient(135deg,#2d3436,#636e72)' },
-    'Infrastructure': { icon: '⚙️', bg: 'linear-gradient(135deg,#2d3436,#636e72)' },
+    // 跨链桥接
+    '跨链桥接':           { icon: '🌉', bg: 'linear-gradient(135deg,#00cec9,#81ecec)' },
+    'Cross-chain Bridge':{ icon: '🌉', bg: 'linear-gradient(135deg,#00cec9,#81ecec)' },
+    // 数据分析
+    '数据分析':           { icon: '📊', bg: 'linear-gradient(135deg,#636e72,#b2bec3)' },
+    'Data Analytics':    { icon: '📊', bg: 'linear-gradient(135deg,#636e72,#b2bec3)' },
+    'Data Analysis':     { icon: '📊', bg: 'linear-gradient(135deg,#636e72,#b2bec3)' },
+    // 安全审计
+    '安全审计':           { icon: '🛡️', bg: 'linear-gradient(135deg,#d63031,#ff7675)' },
+    'Security Audit':    { icon: '🛡️', bg: 'linear-gradient(135deg,#d63031,#ff7675)' },
+    // 代币发行
+    '代币发行':           { icon: '🪙', bg: 'linear-gradient(135deg,#f39c12,#f1c40f)' },
+    'Token Issuance':    { icon: '🪙', bg: 'linear-gradient(135deg,#f39c12,#f1c40f)' },
+    'Token Launch':      { icon: '🪙', bg: 'linear-gradient(135deg,#f39c12,#f1c40f)' },
+    // 治理投票
+    '治理投票':           { icon: '🏛️', bg: 'linear-gradient(135deg,#0984e3,#74b9ff)' },
+    'Governance Voting': { icon: '🏛️', bg: 'linear-gradient(135deg,#0984e3,#74b9ff)' },
+    'Governance':        { icon: '🏛️', bg: 'linear-gradient(135deg,#0984e3,#74b9ff)' },
+    // 衍生品交易
+    '衍生品交易':         { icon: '📈', bg: 'linear-gradient(135deg,#e17055,#fab1a0)' },
+    'Derivatives Trading':{ icon: '📈', bg: 'linear-gradient(135deg,#e17055,#fab1a0)' },
+    // 支付转账
+    '支付转账':           { icon: '💳', bg: 'linear-gradient(135deg,#55efc4,#00b894)' },
+    'Payment & Transfer':{ icon: '💳', bg: 'linear-gradient(135deg,#55efc4,#00b894)' },
+    // 跟单交易
+    '跟单交易':           { icon: '👥', bg: 'linear-gradient(135deg,#a29bfe,#6c5ce7)' },
+    'Copy Trading':      { icon: '👥', bg: 'linear-gradient(135deg,#a29bfe,#6c5ce7)' },
+    // 综合工具
+    '综合工具':           { icon: '🔗', bg: 'linear-gradient(135deg,#2d3436,#636e72)' },
+    'General Tools':     { icon: '🔗', bg: 'linear-gradient(135deg,#2d3436,#636e72)' },
+    'Comprehensive Tools':{ icon: '🔗', bg: 'linear-gradient(135deg,#2d3436,#636e72)' },
+    'Multi-purpose Tool':{ icon: '🔗', bg: 'linear-gradient(135deg,#2d3436,#636e72)' },
+    // 质押挖矿
+    '质押挖矿':           { icon: '⛏️', bg: 'linear-gradient(135deg,#e84393,#fd79a8)' },
+    'Staking & Mining':  { icon: '⛏️', bg: 'linear-gradient(135deg,#e84393,#fd79a8)' },
+    // 预测市场
+    '预测市场':           { icon: '🎯', bg: 'linear-gradient(135deg,#fd79a8,#e84393)' },
+    'Prediction Market': { icon: '🎯', bg: 'linear-gradient(135deg,#fd79a8,#e84393)' },
+    'Prediction Markets':{ icon: '🎯', bg: 'linear-gradient(135deg,#fd79a8,#e84393)' },
   };
   const DEFAULT_STYLE = { icon: '🔗', bg: 'linear-gradient(135deg,#636e72,#b2bec3)' };
 
