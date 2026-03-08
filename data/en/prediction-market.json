@@ -1,0 +1,41 @@
+{
+  "count": 3,
+  "skills": [
+    {
+      "name": "polyclawster-agent",
+      "author": "al1enjesus",
+      "description": "Automatically trade on Polymarket prediction markets with AI whale signal tracking, YES/NO betting, portfolio management, and auto-trade loops using a Polygon USDC wallet",
+      "category_tech": "Prediction Market",
+      "category_user": "Prediction Market",
+      "example": "Say: \"Get Polymarket whale trading signals\" or \"Auto-trade on prediction markets\"",
+      "user_provides": "Telegram ID, trading budget",
+      "dapps": "Polymarket",
+      "run_mode": "Continuous AI Decision",
+      "github_url": "https://github.com/al1enjesus/polyclawster-agent"
+    },
+    {
+      "name": "market-configurable-skills",
+      "author": "franckstone",
+      "description": "Configurable crypto price prediction market contracts (GouGouBi) with Polymarket-style CPMM market maker, using Uniswap V3 pool prices as oracle, supporting YES/NO trading and automatic round settlement",
+      "category_tech": "Prediction Market",
+      "category_user": "Prediction Market",
+      "example": "Say: \"Create an ETH price prediction market\" or \"Buy YES positions in the prediction market\"",
+      "user_provides": "EVM wallet, liquidity token, oracle pool parameters",
+      "dapps": "Uniswap",
+      "run_mode": "Hybrid",
+      "github_url": "https://github.com/franckstone/market-configurable-skills"
+    },
+    {
+      "name": "create-prediction-markets",
+      "author": "proxima424",
+      "description": "Create, trade, and settle prediction markets on Base with any ERC-20 collateral — for information finance, probability estimation contests, and token utility via PNP Markets",
+      "category_tech": "Prediction Market",
+      "category_user": "Prediction Market",
+      "example": "Say: \"Create a prediction market on whether ETH hits $10k\" or \"Buy YES tokens in a prediction market\"",
+      "user_provides": "Wallet private key, Base RPC, collateral token",
+      "dapps": "PNP Markets",
+      "run_mode": "One-time Execution",
+      "github_url": "https://github.com/proxima424/create-prediction-markets"
+    }
+  ]
+}
