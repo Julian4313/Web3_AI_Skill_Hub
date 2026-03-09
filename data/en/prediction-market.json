@@ -1,5 +1,5 @@
 {
-  "count": 131,
+  "count": 141,
   "skills": [
     {
       "name": "polyclawster-agent",
@@ -1572,6 +1572,126 @@
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
       "github_url": "https://github.com/whh110112/polymarket-btc-5m-arbitrage"
+    },
+    {
+      "name": "polymarket-bot",
+      "author": "deliverydriver",
+      "description": "Polymarket automated trading bot framework — market data fetching, price monitoring, order execution, and arbitrage strategy detection on Polygon",
+      "category_tech": "Prediction Market",
+      "category_user": "Arbitrage Bot",
+      "example": "Say: 'Fetch active Polymarket markets' or 'Run arbitrage detection strategy' or 'Place an order on this market'",
+      "user_provides": "Polymarket wallet (Polygon chain), Python + Web3.py",
+      "dapps": "Polymarket",
+      "run_mode": "Continuous AI Decision",
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/deliverydriver/polymarket-bot"
+    },
+    {
+      "name": "polymarket-oracle",
+      "author": "georges91560",
+      "description": "Multi-strategy arbitrage and trading bot for Polymarket — scans all market categories (crypto, politics, sports, economics, entertainment) for parity arbitrage, logical arbitrage, tail-end trading, and market-making strategies",
+      "category_tech": "Prediction Market",
+      "category_user": "Arbitrage Bot",
+      "example": "Say: 'Start Polymarket arbitrage scan' or 'Detect parity arbitrage opportunities in current markets'",
+      "user_provides": "Polymarket API credentials (Key/Secret/Passphrase), wallet private key (optional)",
+      "dapps": "Polymarket",
+      "run_mode": "Continuous AI Decision",
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/georges91560/polymarket-oracle"
+    },
+    {
+      "name": "polymarket-arbitrage",
+      "author": "johny0920",
+      "description": "Polymarket prediction market arbitrage monitor and execution engine detecting probability mismatch, cross-market spread and orderbook inefficiency opportunities in paper and live modes",
+      "category_tech": "Prediction Market",
+      "category_user": "Arbitrage Bot",
+      "example": "Say: 'Scan current arbitrage opportunities' or 'Start continuous arbitrage monitoring'",
+      "user_provides": "",
+      "dapps": "Polymarket",
+      "run_mode": "Continuous AI Decision",
+      "github_url": "https://github.com/johny0920/polymarket-arbitrage"
+    },
+    {
+      "name": "polymarket-trading",
+      "author": "jordanprater",
+      "description": "Trade prediction markets on Polymarket with odds analysis, bet tracking, and automated alerts.",
+      "category_tech": "Prediction Market",
+      "category_user": "Data Dashboard",
+      "example": "Say \"I want to bet $100 on Polymarket\"",
+      "user_provides": "Bet amount, market selection",
+      "dapps": "Polymarket",
+      "run_mode": "One-Time",
+      "github_url": "https://github.com/jordanprater/polymarket-trading"
+    },
+    {
+      "name": "polymarket-trading-bot",
+      "author": "jordanprater",
+      "description": "Trade prediction markets on Polymarket with odds analysis, bet tracking, and automated alerts.",
+      "category_tech": "Prediction Market",
+      "category_user": "Data Dashboard",
+      "example": "Say \"I want to bet $100 on Polymarket\"",
+      "user_provides": "Bet amount, market selection",
+      "dapps": "Polymarket",
+      "run_mode": "One-Time",
+      "github_url": "https://github.com/jordanprater/polymarket-trading-bot"
+    },
+    {
+      "name": "reef-paper-trader",
+      "author": "rimelucci",
+      "description": "Polymarket arbitrage sub-strategy module within the paper-trader system identifying same-market mispricing and correlated market discrepancies for market-neutral arbitrage simulation",
+      "category_tech": "Prediction Market",
+      "category_user": "Arbitrage Bot",
+      "example": "Say: 'Scan current Polymarket arbitrage opportunities' or 'Check markets where YES+NO does not equal 100%'",
+      "user_provides": "",
+      "dapps": "Polymarket",
+      "run_mode": "Continuous AI Decision",
+      "github_url": "https://github.com/rimelucci/reef-paper-trader"
+    },
+    {
+      "name": "reef-polymarket-arb",
+      "author": "rimelucci",
+      "description": "Self-improving Polymarket arbitrage system autonomously discovering mispriced markets, correlated discrepancies, and cross-platform arbitrage with continuous paper trading and pattern optimization",
+      "category_tech": "Prediction Market",
+      "category_user": "Arbitrage Bot",
+      "example": "Say: 'Analyze all Polymarket arbitrage opportunities' or 'View arb journal and strategy evolution'",
+      "user_provides": "",
+      "dapps": "Polymarket",
+      "run_mode": "Continuous AI Decision",
+      "github_url": "https://github.com/rimelucci/reef-polymarket-arb"
+    },
+    {
+      "name": "polyedge",
+      "author": "sbaker5",
+      "description": "Polymarket cross-market correlation analyzer detecting mispriced correlations between prediction markets (e.g., Fed rate cuts vs stock rally) to identify arbitrage signals from implied probability discrepancies",
+      "category_tech": "Prediction Market",
+      "category_user": "Arbitrage Bot",
+      "example": "Say: 'Analyze correlation between these two Polymarket markets' or 'Scan geopolitics markets for mispricing'",
+      "user_provides": "",
+      "dapps": "Polymarket",
+      "run_mode": "One-time Execution",
+      "github_url": "https://github.com/sbaker5/polyedge"
+    },
+    {
+      "name": "polymarket-arbitrage-cn",
+      "author": "guohongbin-git",
+      "description": "Polymarket prediction market arbitrage tool that auto-discovers price differences and calculates net profit after 2% fees, with paper trading and continuous monitoring modes",
+      "category_tech": "Prediction Market",
+      "category_user": "Arbitrage Bot",
+      "example": "Say: 'Scan Polymarket arbitrage opportunities' or 'Monitor prediction market spreads'",
+      "user_provides": "",
+      "dapps": "Polymarket",
+      "run_mode": "Continuous AI Decision",
+      "github_url": "https://github.com/guohongbin-git/polymarket-arbitrage-cn"
+    },
+    {
+      "name": "polyvision",
+      "author": "pryorx",
+      "description": "Polymarket wallet analysis providing copy trading scores, P&L analysis, win rates, risk metrics (Sharpe ratio, max drawdown), and bot detection",
+      "category_tech": "Prediction Market",
+      "category_user": "Copy Trading",
+      "example": "Say \"Analyze this Polymarket wallet for copy trading\" or \"Compare risk metrics of multiple traders\"",
+      "user_provides": "Polymarket wallet addresses",
+      "dapps": "Polymarket",
+      "run_mode": "One-time Execution",
+      "github_url": "https://github.com/pryorx/polyvision"
     }
   ]
 }
