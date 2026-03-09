@@ -167,7 +167,7 @@
       userProvides: s.userProvides || s.user_provides || '',
       dapps: s.dapps || '',
       runMode: s.runMode || s.run_mode || '一次性执行',
-      github: s.github || s.github_url || (s.slug ? `https://github.com/${s.slug}` : ''),
+      github: (() => { let g = s.github || s.github_url || (s.slug ? `https://github.com/${s.slug}` : ''); return g.includes('openclaw/skills/tree/main/skills/') ? 'https://github.com/openclaw/skills/tree/main/' : g; })(),
       icon: s.icon || style.icon,
       iconBg: s.iconBg || style.bg,
       web3Score: s.web3Score || 0
