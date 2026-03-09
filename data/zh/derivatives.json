@@ -1,5 +1,5 @@
 {
-  "count": 52,
+  "count": 42,
   "skills": [
     {
       "name": "nautilus-trader",
@@ -50,18 +50,6 @@
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/crabbytt/vibetrading"
     },
     {
-      "name": "polymarket-bot",
-      "author": "deliverydriver",
-      "description": "Polymarket 自动化交易机器人框架，支持市场数据抓取、价格监控、订单执行和套利策略检测，基于 Polygon 链",
-      "category_tech": "衍生品交易",
-      "category_user": "套利机器人",
-      "example": "对我说：'抓取当前活跃的 Polymarket 市场' 或 '运行套利检测策略' 或 '在指定市场下单'",
-      "user_provides": "Polymarket 钱包（Polygon 链）, Python + Web3.py",
-      "dapps": "Polymarket",
-      "run_mode": "持续AI决策",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/deliverydriver/polymarket-bot"
-    },
-    {
       "name": "agent-metaverse",
       "author": "ed1sonl1-byte",
       "description": "AI 代理虚拟加密交易所，支持现货、永续合约（1-125 倍杠杆）和 AMM 兑换，起始 10000 虚拟 USDT，价格来自 Binance 实时数据",
@@ -72,18 +60,6 @@
       "dapps": "Agent Metaverse",
       "run_mode": "混合",
       "github_url": "https://github.com/openclaw/skills/tree/main/skills/ed1sonl1-byte/agent-metaverse"
-    },
-    {
-      "name": "polymarket-oracle",
-      "author": "georges91560",
-      "description": "Polymarket 多策略套利和交易机器人，扫描全品类市场（加密/政治/体育/经济/娱乐），执行平价套利、逻辑套利、尾部交易和做市策略",
-      "category_tech": "衍生品交易",
-      "category_user": "套利机器人",
-      "example": "对我说：'启动 Polymarket 套利扫描' 或 '检测当前市场的平价套利机会'",
-      "user_provides": "Polymarket API 凭证（API Key/Secret/Passphrase）, 钱包私钥（可选）",
-      "dapps": "Polymarket",
-      "run_mode": "持续AI决策",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/georges91560/polymarket-oracle"
     },
     {
       "name": "hype",
@@ -108,42 +84,6 @@
       "dapps": "Hyperliquid",
       "run_mode": "持续AI决策",
       "github_url": "https://github.com/jamierossouw/hyperliquid-perps"
-    },
-    {
-      "name": "polymarket-arbitrage",
-      "author": "johny0920",
-      "description": "Polymarket 预测市场套利监控与执行引擎，检测概率错配套利、跨市场价差和订单簿低效机会，支持纸面交易和实盘模式",
-      "category_tech": "衍生品交易",
-      "category_user": "套利机器人",
-      "example": "对我说：'扫描当前套利机会' 或 '开启持续套利监控'",
-      "user_provides": "",
-      "dapps": "Polymarket",
-      "run_mode": "持续AI决策",
-      "github_url": "https://github.com/johny0920/polymarket-arbitrage"
-    },
-    {
-      "name": "polymarket-trading",
-      "author": "jordanprater",
-      "description": "在Polymarket预测市场上分析赔率、下注、追踪仓位、自动化告警。",
-      "category_tech": "衍生品交易",
-      "category_user": "数据看板",
-      "example": "对我说\"我要在Polymarket下注100美元\"",
-      "user_provides": "下注金额、市场选择",
-      "dapps": "Polymarket",
-      "run_mode": "一次性执行",
-      "github_url": "https://github.com/jordanprater/polymarket-trading"
-    },
-    {
-      "name": "polymarket-trading-bot",
-      "author": "jordanprater",
-      "description": "在Polymarket预测市场上分析赔率、下注、追踪仓位、自动化告警。",
-      "category_tech": "衍生品交易",
-      "category_user": "数据看板",
-      "example": "对我说\"我要在Polymarket下注100美元\"",
-      "user_provides": "下注金额、市场选择",
-      "dapps": "Polymarket",
-      "run_mode": "一次性执行",
-      "github_url": "https://github.com/jordanprater/polymarket-trading-bot"
     },
     {
       "name": "vibetrading-code-gen",
@@ -180,42 +120,6 @@
       "dapps": "Hyperliquid, Polymarket",
       "run_mode": "混合",
       "github_url": "https://github.com/nickemmons/robonet-workbench"
-    },
-    {
-      "name": "reef-paper-trader",
-      "author": "rimelucci",
-      "description": "Polymarket 套利子策略模块，作为 paper-trader 主系统的组件，识别同市场定价偏差和关联市场价差，执行市场中性套利模拟交易",
-      "category_tech": "衍生品交易",
-      "category_user": "套利机器人",
-      "example": "对我说：'扫描 Polymarket 当前的套利机会' 或 '检查 YES+NO 价格不等于 100% 的市场'",
-      "user_provides": "",
-      "dapps": "Polymarket",
-      "run_mode": "持续AI决策",
-      "github_url": "https://github.com/rimelucci/reef-paper-trader"
-    },
-    {
-      "name": "reef-polymarket-arb",
-      "author": "rimelucci",
-      "description": "自进化 Polymarket 套利系统，自主发现定价偏差、关联市场价差和跨平台套利机会，持续模拟交易并迭代优化套利模式识别能力",
-      "category_tech": "衍生品交易",
-      "category_user": "套利机器人",
-      "example": "对我说：'分析 Polymarket 上的所有套利机会' 或 '查看套利日志和策略演化记录'",
-      "user_provides": "",
-      "dapps": "Polymarket",
-      "run_mode": "持续AI决策",
-      "github_url": "https://github.com/rimelucci/reef-polymarket-arb"
-    },
-    {
-      "name": "polyedge",
-      "author": "sbaker5",
-      "description": "Polymarket 跨市场关联性分析器，检测预测市场间的定价偏差（如美联储降息 vs 股市涨幅），识别隐含概率不一致产生的套利信号",
-      "category_tech": "衍生品交易",
-      "category_user": "套利机器人",
-      "example": "对我说：'分析这两个 Polymarket 市场之间的关联性' 或 '扫描所有地缘政治类市场的定价偏差'",
-      "user_provides": "",
-      "dapps": "Polymarket",
-      "run_mode": "一次性执行",
-      "github_url": "https://github.com/sbaker5/polyedge"
     },
     {
       "name": "perp-lobster",
@@ -276,18 +180,6 @@
       "dapps": "Hyperliquid",
       "run_mode": "混合",
       "github_url": "https://github.com/zoan37/hyperclaw"
-    },
-    {
-      "name": "polymarket-arbitrage-cn",
-      "author": "guohongbin-git",
-      "description": "Polymarket 预测市场套利工具，自动发现价格差异并计算扣除 2% 手续费后的净利润，支持模拟盘和持续监控模式",
-      "category_tech": "衍生品交易",
-      "category_user": "套利机器人",
-      "example": "对我说：'扫描 Polymarket 套利机会' 或 '持续监控预测市场价差'",
-      "user_provides": "",
-      "dapps": "Polymarket",
-      "run_mode": "持续AI决策",
-      "github_url": "https://github.com/guohongbin-git/polymarket-arbitrage-cn"
     },
     {
       "name": "solana-funding-arb-cn",
@@ -588,18 +480,6 @@
       "dapps": "Alura, Hyperliquid",
       "run_mode": "混合",
       "github_url": "https://github.com/Unknown/alura"
-    },
-    {
-      "name": "polyvision",
-      "author": "pryorx",
-      "description": "Polymarket钱包分析工具，提供跟单评分、盈亏分析、胜率、风险指标（夏普比率、最大回撤）和机器人检测",
-      "category_tech": "衍生品交易",
-      "category_user": "跟单交易",
-      "example": "对我说\"分析这个Polymarket钱包的跟单价值\"或\"比较多个交易者的风险指标\"",
-      "user_provides": "Polymarket钱包地址",
-      "dapps": "Polymarket",
-      "run_mode": "一次性执行",
-      "github_url": "https://github.com/pryorx/polyvision"
     },
     {
       "name": "orderly-positions-tpsl",
