@@ -343,6 +343,11 @@
       filtered = [...filtered].sort((a, b) => (b.downloads || 0) - (a.downloads || 0));
     } else if (sortBy === 'stars') {
       filtered = [...filtered].sort((a, b) => (b.stars || 0) - (a.stars || 0));
+    } else {
+      // Default: downloads + stars * 10
+      filtered = [...filtered].sort((a, b) =>
+        ((b.downloads || 0) + (b.stars || 0) * 10) - ((a.downloads || 0) + (a.stars || 0) * 10)
+      );
     }
 
     renderGrid();
