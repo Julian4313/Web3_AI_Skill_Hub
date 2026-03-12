@@ -11,7 +11,13 @@
       "user_provides": "1Password CLI 安装, 钱包凭证",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/davidajohnston/everclaw-inference"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/davidajohnston/everclaw-inference",
+      "clawhub_downloads": 608,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "everclaw-inference",
+      "clawhub_url": "https://clawhub.ai/skills/everclaw-inference",
+      "clawhub_display_name": "Everclaw — Inference You Own"
     },
     {
       "name": "trade-validation",
@@ -23,7 +29,13 @@
       "user_provides": "",
       "dapps": "Polymarket, Kalshi",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/staybased/trade-validation"
+      "github_url": "https://github.com/staybased/trade-validation",
+      "clawhub_downloads": 377,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "trade-validation",
+      "clawhub_url": "https://clawhub.ai/skills/trade-validation",
+      "clawhub_display_name": "Trade Validation"
     },
     {
       "name": "assess-risk",
@@ -35,7 +47,13 @@
       "user_provides": "",
       "dapps": "Uniswap",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/wpank/assess-risk"
+      "github_url": "https://github.com/wpank/assess-risk",
+      "clawhub_downloads": 440,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "assess-risk",
+      "clawhub_url": "https://clawhub.ai/skills/assess-risk",
+      "clawhub_display_name": "Uniswap Assess Risk"
     },
     {
       "name": "wachai-x402",
@@ -47,7 +65,13 @@
       "user_provides": "AWAL 钱包（Base USDC）",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/akshat-mishra101/wachai-x402"
+      "github_url": "https://github.com/akshat-mishra101/wachai-x402",
+      "clawhub_downloads": 647,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "wachai-x402",
+      "clawhub_url": "https://clawhub.ai/skills/wachai-x402",
+      "clawhub_display_name": "WachAI-x402"
     },
     {
       "name": "quickintel-scan",
@@ -59,7 +83,13 @@
       "user_provides": "x402 兼容钱包",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/azep-ninja/quickintel-scan"
+      "github_url": "https://github.com/azep-ninja/quickintel-scan",
+      "clawhub_downloads": 326,
+      "clawhub_stars": 1,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "quickintel-scan",
+      "clawhub_url": "https://clawhub.ai/skills/quickintel-scan",
+      "clawhub_display_name": "Quick Intel Token Security Scanner"
     },
     {
       "name": "lance",
@@ -71,7 +101,13 @@
       "user_provides": "合约地址或源码",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/shaniidev/lance"
+      "github_url": "https://github.com/shaniidev/lance",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "lance",
+      "clawhub_url": "https://clawhub.ai/skills/lance",
+      "clawhub_display_name": "lance"
     },
     {
       "name": "vault0",
@@ -83,7 +119,13 @@
       "user_provides": "",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/dlhugly/vault0"
+      "github_url": "https://github.com/dlhugly/vault0",
+      "clawhub_downloads": 639,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "vault0",
+      "clawhub_url": "https://clawhub.ai/skills/vault0",
+      "clawhub_display_name": "Vault-0: Agent Security, Monitor & x402 Wallet for OpenClaw"
     },
     {
       "name": "x402janus",
@@ -95,7 +137,13 @@
       "user_provides": "",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/openclaw-consensus-bot/x402janus"
+      "github_url": "https://github.com/openclaw-consensus-bot/x402janus",
+      "clawhub_downloads": 36,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "x402janus",
+      "clawhub_url": "https://clawhub.ai/skills/x402janus",
+      "clawhub_display_name": "X402janus"
     },
     {
       "name": "token-approval-checker",
@@ -107,7 +155,13 @@
       "user_provides": "钱包地址",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/liusanhong/token-approval-checker"
+      "github_url": "https://github.com/liusanhong/token-approval-checker",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "token-approval-checker",
+      "clawhub_url": "https://clawhub.ai/skills/token-approval-checker",
+      "clawhub_display_name": "token-approval-checker"
     },
     {
       "name": "soulprint",
@@ -119,7 +173,13 @@
       "user_provides": "Node.js",
       "dapps": "Soulprint",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/manuelfelipearias/soulprint"
+      "github_url": "https://github.com/manuelfelipearias/soulprint",
+      "clawhub_downloads": 231,
+      "clawhub_stars": 4,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "soulprint",
+      "clawhub_url": "https://clawhub.ai/skills/soulprint",
+      "clawhub_display_name": "Soulprint"
     },
     {
       "name": "valiron-trust-layer",
@@ -131,7 +191,13 @@
       "user_provides": "VALIRON_API_KEY",
       "dapps": "Valiron",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/vatsashah45/valiron-trust-layer"
+      "github_url": "https://github.com/vatsashah45/valiron-trust-layer",
+      "clawhub_downloads": 117,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "valiron-trust-layer",
+      "clawhub_url": "https://clawhub.ai/skills/valiron-trust-layer",
+      "clawhub_display_name": "Valiron"
     },
     {
       "name": "guava-suite",
@@ -143,7 +209,13 @@
       "user_provides": "$GUAVA 代币（Polygon 主网）, guard-scanner",
       "dapps": "",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/koatora20/guava-suite"
+      "github_url": "https://github.com/koatora20/guava-suite",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "guava-suite",
+      "clawhub_url": "https://clawhub.ai/skills/guava-suite",
+      "clawhub_display_name": "guava-suite"
     },
     {
       "name": "ghostscore",
@@ -155,7 +227,13 @@
       "user_provides": "MONAD_RPC_URL, GHOSTSCORE_API_KEY",
       "dapps": "GhostScore",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/drewm33/ghostscore"
+      "github_url": "https://github.com/drewm33/ghostscore",
+      "clawhub_downloads": 31,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "ghostscore",
+      "clawhub_url": "https://clawhub.ai/skills/ghostscore",
+      "clawhub_display_name": "GhostScore"
     },
     {
       "name": "shieldapi",
@@ -167,7 +245,13 @@
       "user_provides": "curl（x402 钱包可选）",
       "dapps": "ShieldAPI",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/alberthild/shieldapi"
+      "github_url": "https://github.com/alberthild/shieldapi",
+      "clawhub_downloads": 59,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "shieldapi",
+      "clawhub_url": "https://clawhub.ai/skills/shieldapi",
+      "clawhub_display_name": "ShieldAPI Security Intelligence"
     },
     {
       "name": "rugcheck",
@@ -179,7 +263,13 @@
       "user_provides": "Solana 代币 Mint 地址",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/psychotechv4/rugcheck"
+      "github_url": "https://github.com/psychotechv4/rugcheck",
+      "clawhub_downloads": 835,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "rugcheck",
+      "clawhub_url": "https://clawhub.ai/skills/rugcheck",
+      "clawhub_display_name": "RugCheck"
     },
     {
       "name": "mema-vault",
@@ -191,7 +281,13 @@
       "user_provides": "MEMA_VAULT_MASTER_KEY",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/1999azzar/mema-vault"
+      "github_url": "https://github.com/1999azzar/mema-vault",
+      "clawhub_downloads": 366,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "mema-vault",
+      "clawhub_url": "https://clawhub.ai/skills/mema-vault",
+      "clawhub_display_name": "Mema Vault"
     },
     {
       "name": "self-xyz",
@@ -203,7 +299,13 @@
       "user_provides": "应用名称、验证范围（年龄/国籍等）",
       "dapps": "Self",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/0xturboblitz/self-xyz"
+      "github_url": "https://github.com/0xturboblitz/self-xyz",
+      "clawhub_downloads": 341,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "self-xyz",
+      "clawhub_url": "https://clawhub.ai/skills/self-xyz",
+      "clawhub_display_name": "Self zkID verification"
     },
     {
       "name": "scout",
@@ -215,7 +317,13 @@
       "user_provides": "Agent 名称、Moltbook API Key",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/yaooooooooooooooo/scout"
+      "github_url": "https://github.com/yaooooooooooooooo/scout",
+      "clawhub_downloads": 852,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "scout",
+      "clawhub_url": "https://clawhub.ai/skills/scout",
+      "clawhub_display_name": "Scout"
     },
     {
       "name": "x402janus-acp",
@@ -227,7 +335,13 @@
       "user_provides": "ACP API Key、$VIRTUAL 代币",
       "dapps": "Virtuals ACP",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/openclaw-consensus-bot/x402janus-acp"
+      "github_url": "https://github.com/openclaw-consensus-bot/x402janus-acp",
+      "clawhub_downloads": 23,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "x402janus-acp",
+      "clawhub_url": "https://clawhub.ai/skills/x402janus-acp",
+      "clawhub_display_name": "x402janus-acp"
     },
     {
       "name": "aegis-security-hackathon",
@@ -239,7 +353,13 @@
       "user_provides": "钱包（x402 测试网支付）",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/swiftadviser/aegis-security-hackathon"
+      "github_url": "https://github.com/swiftadviser/aegis-security-hackathon",
+      "clawhub_downloads": 879,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "aegis-security-hackathon",
+      "clawhub_url": "https://clawhub.ai/skills/aegis-security-hackathon",
+      "clawhub_display_name": "Hackathon"
     },
     {
       "name": "slither-audit",
@@ -251,7 +371,13 @@
       "user_provides": "Solidity 合约文件路径",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/aviclaw/slither-audit"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/aviclaw/slither-audit",
+      "clawhub_downloads": 225,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "slither-audit",
+      "clawhub_url": "https://clawhub.ai/skills/slither-audit",
+      "clawhub_display_name": "Slither Audit"
     },
     {
       "name": "solidity-guardian",
@@ -263,7 +389,13 @@
       "user_provides": "Solidity 合约源码",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/aviclaw/solidity-guardian"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/aviclaw/solidity-guardian",
+      "clawhub_downloads": 348,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "solidity-guardian",
+      "clawhub_url": "https://clawhub.ai/skills/solidity-guardian",
+      "clawhub_display_name": "Solidity Guardian"
     },
     {
       "name": "security-guardian",
@@ -275,7 +407,13 @@
       "user_provides": "项目路径、Docker 镜像名",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/1999azzar/security-guardian"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/1999azzar/security-guardian",
+      "clawhub_downloads": 280,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "security-guardian",
+      "clawhub_url": "https://clawhub.ai/skills/security-guardian",
+      "clawhub_display_name": "Security Guardian"
     },
     {
       "name": "behavioral-invariant-monitor",
@@ -287,7 +425,13 @@
       "user_provides": "Skill 名称、监控参数",
       "dapps": "",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/behavioral-invariant-monitor"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/behavioral-invariant-monitor",
+      "clawhub_downloads": 172,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "behavioral-invariant-monitor",
+      "clawhub_url": "https://clawhub.ai/skills/behavioral-invariant-monitor",
+      "clawhub_display_name": "Behavioral Invariant Monitor"
     },
     {
       "name": "codex-review",
@@ -299,7 +443,13 @@
       "user_provides": "代码文件或 PR 链接",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/abczsl520/codex-review"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/abczsl520/codex-review",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "codex-review",
+      "clawhub_url": "https://clawhub.ai/skills/codex-review",
+      "clawhub_display_name": "codex-review"
     },
     {
       "name": "credential-hygiene-validator",
@@ -311,7 +461,13 @@
       "user_provides": "配置文件目录路径",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/techris93/credential-hygiene-validator"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/techris93/credential-hygiene-validator",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "credential-hygiene-validator",
+      "clawhub_url": "https://clawhub.ai/skills/credential-hygiene-validator",
+      "clawhub_display_name": "credential-hygiene-validator"
     },
     {
       "name": "cifer-security",
@@ -323,7 +479,13 @@
       "user_provides": "钱包配置、加密密钥",
       "dapps": "CIFER",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/tip-citron/cifer-security"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/tip-citron/cifer-security",
+      "clawhub_downloads": 874,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "cifer-security",
+      "clawhub_url": "https://clawhub.ai/skills/cifer-security",
+      "clawhub_display_name": "cifer"
     },
     {
       "name": "crypto-address-checker",
@@ -335,7 +497,13 @@
       "user_provides": "待检测的加密货币地址",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/princedoss77/crypto-address-checker"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/princedoss77/crypto-address-checker",
+      "clawhub_downloads": 282,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "crypto-address-checker",
+      "clawhub_url": "https://clawhub.ai/skills/crypto-address-checker",
+      "clawhub_display_name": "Crypto Address Checker"
     },
     {
       "name": "crypto-scam-detector",
@@ -347,7 +515,13 @@
       "user_provides": "待检测的加密货币地址",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/princedoss77/crypto-scam-detector"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/princedoss77/crypto-scam-detector",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "crypto-scam-detector",
+      "clawhub_url": "https://clawhub.ai/skills/crypto-scam-detector",
+      "clawhub_display_name": "crypto-scam-detector"
     },
     {
       "name": "crypto-genie",
@@ -359,7 +533,13 @@
       "user_provides": "待检测的加密货币地址",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/princedoss77/crypto-genie"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/princedoss77/crypto-genie",
+      "clawhub_downloads": 238,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "crypto-genie",
+      "clawhub_url": "https://clawhub.ai/skills/crypto-genie",
+      "clawhub_display_name": "Crypto Genie"
     },
     {
       "name": "crypto-2",
@@ -371,7 +551,13 @@
       "user_provides": "待加密数据",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/wangyendt/crypto-2"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/wangyendt/crypto-2",
+      "clawhub_downloads": 266,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "crypto-2",
+      "clawhub_url": "https://clawhub.ai/skills/crypto-2",
+      "clawhub_display_name": "Pywayne Crypto"
     },
     {
       "name": "agentmesh-governance",
@@ -383,7 +569,13 @@
       "user_provides": "AgentMesh治理CLI",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/imran-siddique/agentmesh-governance"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/imran-siddique/agentmesh-governance",
+      "clawhub_downloads": 293,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "agentmesh-governance",
+      "clawhub_url": "https://clawhub.ai/skills/agentmesh-governance",
+      "clawhub_display_name": "AgentMesh Governance"
     },
     {
       "name": "solana-scanner",
@@ -395,7 +587,13 @@
       "user_provides": "Solana代币Mint地址",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/satoshi891102/solana-scanner"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/satoshi891102/solana-scanner",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "solana-scanner",
+      "clawhub_url": "https://clawhub.ai/skills/solana-scanner",
+      "clawhub_display_name": "solana-scanner"
     },
     {
       "name": "solidity-lsp",
@@ -407,7 +605,13 @@
       "user_provides": "Solidity合约文件（.sol）",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/bowen31337/solidity-lsp"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/bowen31337/solidity-lsp",
+      "clawhub_downloads": 690,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "solidity-lsp",
+      "clawhub_url": "https://clawhub.ai/skills/solidity-lsp",
+      "clawhub_display_name": "Solidity LSP"
     },
     {
       "name": "pastewatch-mcp",
@@ -419,7 +623,13 @@
       "user_provides": "pastewatch-cli、mcporter",
       "dapps": "",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/ppiankov/pastewatch-mcp"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/ppiankov/pastewatch-mcp",
+      "clawhub_downloads": 47,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "pastewatch-mcp",
+      "clawhub_url": "https://clawhub.ai/skills/pastewatch-mcp",
+      "clawhub_display_name": "Pastewatch MCP"
     },
     {
       "name": "rug-checker",
@@ -431,7 +641,13 @@
       "user_provides": "代币地址、代币名称",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com//rug-checker"
+      "github_url": "https://github.com//rug-checker",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "rug-checker",
+      "clawhub_url": "https://clawhub.ai/skills/rug-checker",
+      "clawhub_display_name": "rug-checker"
     },
     {
       "name": "tokamak-vault-breach",
@@ -443,7 +659,13 @@
       "user_provides": "TON钱包地址",
       "dapps": "",
       "run_mode": "混合",
-      "github_url": "https://github.com//tokamak-vault-breach"
+      "github_url": "https://github.com//tokamak-vault-breach",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "tokamak-vault-breach",
+      "clawhub_url": "https://clawhub.ai/skills/tokamak-vault-breach",
+      "clawhub_display_name": "tokamak-vault-breach"
     },
     {
       "name": "agent-security-auditor",
@@ -455,7 +677,13 @@
       "user_provides": "代理ID或配置文件",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com//agent-security-auditor"
+      "github_url": "https://github.com//agent-security-auditor",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "agent-security-auditor",
+      "clawhub_url": "https://clawhub.ai/skills/agent-security-auditor",
+      "clawhub_display_name": "agent-security-auditor"
     },
     {
       "name": "guardian-angel-protocol",
@@ -467,7 +695,13 @@
       "user_provides": "无需特殊输入",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/Unknown/guardian-angel-protocol"
+      "github_url": "https://github.com/Unknown/guardian-angel-protocol",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "guardian-angel-protocol",
+      "clawhub_url": "https://clawhub.ai/skills/guardian-angel-protocol",
+      "clawhub_display_name": "guardian-angel-protocol"
     },
     {
       "name": "repo-analyzer",
@@ -479,7 +713,13 @@
       "user_provides": "GitHub仓库URL",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/Unknown/repo-analyzer"
+      "github_url": "https://github.com/Unknown/repo-analyzer",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "repo-analyzer",
+      "clawhub_url": "https://clawhub.ai/skills/repo-analyzer",
+      "clawhub_display_name": "repo-analyzer"
     },
     {
       "name": "verigent",
@@ -491,7 +731,13 @@
       "user_provides": "X_AGENT_ID, 钱包地址",
       "dapps": "Verigent",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/Unknown/verigent"
+      "github_url": "https://github.com/Unknown/verigent",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "verigent",
+      "clawhub_url": "https://clawhub.ai/skills/verigent",
+      "clawhub_display_name": "verigent"
     },
     {
       "name": "suisec",
@@ -503,7 +749,13 @@
       "user_provides": "Sui CLI, 交易参数",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/k66inthesky/suisec"
+      "github_url": "https://github.com/k66inthesky/suisec",
+      "clawhub_downloads": 658,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "suisec",
+      "clawhub_url": "https://clawhub.ai/skills/suisec",
+      "clawhub_display_name": "Sui Sec"
     },
     {
       "name": "1claw",
@@ -515,7 +767,13 @@
       "user_provides": "ONECLAW_AGENT_ID, ONECLAW_AGENT_API_KEY, ONECLAW_VAULT_ID",
       "dapps": "1Claw",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/kmjones1979/1claw"
+      "github_url": "https://github.com/kmjones1979/1claw",
+      "clawhub_downloads": 297,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "1claw",
+      "clawhub_url": "https://clawhub.ai/skills/1claw",
+      "clawhub_display_name": "1claw"
     },
     {
       "name": "humanos-openclaw",
@@ -527,7 +785,13 @@
       "user_provides": "VIA_API_KEY, VIA_SIGNATURE_SECRET",
       "dapps": "",
       "run_mode": "混合",
-      "github_url": "https://github.com/lagosrui/humanos-openclaw"
+      "github_url": "https://github.com/lagosrui/humanos-openclaw",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "humanos-openclaw",
+      "clawhub_url": "https://clawhub.ai/skills/humanos-openclaw",
+      "clawhub_display_name": "humanos-openclaw"
     },
     {
       "name": "merchantguard",
@@ -539,7 +803,13 @@
       "user_provides": "代理代码或技能目录",
       "dapps": "MerchantGuard",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/merchantguardops/merchantguard"
+      "github_url": "https://github.com/merchantguardops/merchantguard",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "merchantguard",
+      "clawhub_url": "https://clawhub.ai/skills/merchantguard",
+      "clawhub_display_name": "merchantguard"
     },
     {
       "name": "prism-scanner",
@@ -551,7 +821,13 @@
       "user_provides": "代币符号或合约地址",
       "dapps": "Strykr PRISM",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/nextfrontierbuilds/prism-scanner"
+      "github_url": "https://github.com/nextfrontierbuilds/prism-scanner",
+      "clawhub_downloads": 1482,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "prism-scanner",
+      "clawhub_url": "https://clawhub.ai/skills/prism-scanner",
+      "clawhub_display_name": "Prism Scanner"
     },
     {
       "name": "agent-trust-validator",
@@ -563,7 +839,13 @@
       "user_provides": "Agent地址或标识符",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/orosha-ai/agent-trust-validator"
+      "github_url": "https://github.com/orosha-ai/agent-trust-validator",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "agent-trust-validator",
+      "clawhub_url": "https://clawhub.ai/skills/agent-trust-validator",
+      "clawhub_display_name": "agent-trust-validator"
     },
     {
       "name": "doc-process",
@@ -575,7 +857,13 @@
       "user_provides": "合约地址、链ID",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/piyush-zinc/doc-process"
+      "github_url": "https://github.com/piyush-zinc/doc-process",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "doc-process",
+      "clawhub_url": "https://clawhub.ai/skills/doc-process",
+      "clawhub_display_name": "doc-process"
     },
     {
       "name": "qelt-contracts",
@@ -587,7 +875,13 @@
       "user_provides": "合约地址、源代码",
       "dapps": "QELT",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/prqelt/qelt-contracts"
+      "github_url": "https://github.com/prqelt/qelt-contracts",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "qelt-contracts",
+      "clawhub_url": "https://clawhub.ai/skills/qelt-contracts",
+      "clawhub_display_name": "qelt-contracts"
     },
     {
       "name": "lightning-security-module",
@@ -599,7 +893,13 @@
       "user_provides": "Docker环境、签名器密码",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/roasbeef/lightning-security-module"
+      "github_url": "https://github.com/roasbeef/lightning-security-module",
+      "clawhub_downloads": 638,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "lightning-security-module",
+      "clawhub_url": "https://clawhub.ai/skills/lightning-security-module",
+      "clawhub_display_name": "Lightning Security Module"
     },
     {
       "name": "arc-security",
@@ -611,7 +911,13 @@
       "user_provides": "ARC RPC URL、钱包私钥",
       "dapps": "Arc",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/shaivpidadi/arc-security"
+      "github_url": "https://github.com/shaivpidadi/arc-security",
+      "clawhub_downloads": 2194,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "arc-security",
+      "clawhub_url": "https://clawhub.ai/skills/arc-security",
+      "clawhub_display_name": "Arc Security - Agent Trust Protocol"
     },
     {
       "name": "chaoschain",
@@ -623,7 +929,13 @@
       "user_provides": "Agent 地址或 ID",
       "dapps": "ChaosChain",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/sumeetchougule/chaoschain"
+      "github_url": "https://github.com/sumeetchougule/chaoschain",
+      "clawhub_downloads": 1357,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "chaoschain",
+      "clawhub_url": "https://clawhub.ai/skills/chaoschain",
+      "clawhub_display_name": "ChaosChain - Agent Trust & Reputation"
     },
     {
       "name": "misttrack-skills",
@@ -635,7 +947,13 @@
       "user_provides": "链上地址、MistTrack API 密钥",
       "dapps": "MistTrack",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/tanlingxiao/misttrack-skills"
+      "github_url": "https://github.com/tanlingxiao/misttrack-skills",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "misttrack-skills",
+      "clawhub_url": "https://clawhub.ai/skills/misttrack-skills",
+      "clawhub_display_name": "misttrack-skills"
     },
     {
       "name": "agent-shield",
@@ -647,7 +965,13 @@
       "user_provides": "Agent 凭证",
       "dapps": "Chitin Protocol",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/ultimatebos/agent-shield"
+      "github_url": "https://github.com/ultimatebos/agent-shield",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "agent-shield",
+      "clawhub_url": "https://clawhub.ai/skills/agent-shield",
+      "clawhub_display_name": "agent-shield"
     },
     {
       "name": "zcloak-ai-agent",
@@ -659,7 +983,13 @@
       "user_provides": "zCloak CLI 环境",
       "dapps": "zCloak",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/whgreate/zcloak-ai-agent"
+      "github_url": "https://github.com/whgreate/zcloak-ai-agent",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "zcloak-ai-agent",
+      "clawhub_url": "https://clawhub.ai/skills/zcloak-ai-agent",
+      "clawhub_display_name": "zcloak-ai-agent"
     },
     {
       "name": "0protocol",
@@ -671,7 +1001,13 @@
       "user_provides": "mcporter 环境",
       "dapps": "0protocol",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/0isone/0protocol"
+      "github_url": "https://github.com/0isone/0protocol",
+      "clawhub_downloads": 367,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "0protocol",
+      "clawhub_url": "https://clawhub.ai/skills/0protocol",
+      "clawhub_display_name": "0.protocol"
     },
     {
       "name": "fairscale-solana",
@@ -683,7 +1019,13 @@
       "user_provides": "Solana 钱包地址",
       "dapps": "FairScale",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/risheea/fairscale-solana"
+      "github_url": "https://github.com/risheea/fairscale-solana",
+      "clawhub_downloads": 1223,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "fairscale-solana",
+      "clawhub_url": "https://clawhub.ai/skills/fairscale-solana",
+      "clawhub_display_name": "FairScale Solana"
     },
     {
       "name": "fairscale-solana-skill",
@@ -695,7 +1037,13 @@
       "user_provides": "Solana 钱包地址",
       "dapps": "FairScale",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/risheea/fairscale-solana-skill"
+      "github_url": "https://github.com/risheea/fairscale-solana-skill",
+      "clawhub_downloads": 45,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "fairscale-solana-skill",
+      "clawhub_url": "https://clawhub.ai/skills/fairscale-solana-skill",
+      "clawhub_display_name": "Fairscale Solana Skill"
     },
     {
       "name": "meme-risk-radar-skill",
@@ -707,7 +1055,13 @@
       "user_provides": "代币地址",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/2663629531/meme-risk-radar-skill"
+      "github_url": "https://github.com/2663629531/meme-risk-radar-skill",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "meme-risk-radar-skill",
+      "clawhub_url": "https://clawhub.ai/skills/meme-risk-radar-skill",
+      "clawhub_display_name": "meme-risk-radar-skill"
     },
     {
       "name": "cortex-protocol",
@@ -719,7 +1073,13 @@
       "user_provides": "Agent 信息",
       "dapps": "Cortex Protocol",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/quriustus/cortex-protocol"
+      "github_url": "https://github.com/quriustus/cortex-protocol",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "cortex-protocol",
+      "clawhub_url": "https://clawhub.ai/skills/cortex-protocol",
+      "clawhub_display_name": "cortex-protocol"
     },
     {
       "name": "erc8128",
@@ -731,7 +1091,13 @@
       "user_provides": "以太坊钱包",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/jacopo-eth/erc8128"
+      "github_url": "https://github.com/jacopo-eth/erc8128",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "erc8128",
+      "clawhub_url": "https://clawhub.ai/skills/erc8128",
+      "clawhub_display_name": "erc8128"
     },
     {
       "name": "8004-skill-monad",
@@ -743,7 +1109,13 @@
       "user_provides": "Monad 钱包",
       "dapps": "CEO Protocol",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/fabriziogianni7/8004-skill-monad"
+      "github_url": "https://github.com/fabriziogianni7/8004-skill-monad",
+      "clawhub_downloads": 301,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "8004-skill-monad",
+      "clawhub_url": "https://clawhub.ai/skills/8004-skill-monad",
+      "clawhub_display_name": "8004 Harness For Monad"
     },
     {
       "name": "agent-identity",
@@ -755,7 +1127,13 @@
       "user_provides": "钱包",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/rosepuppy/agent-identity"
+      "github_url": "https://github.com/rosepuppy/agent-identity",
+      "clawhub_downloads": 1328,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "agent-identity",
+      "clawhub_url": "https://clawhub.ai/skills/agent-identity",
+      "clawhub_display_name": "Agent Identity Protocol"
     },
     {
       "name": "rug-checker",
@@ -767,7 +1145,13 @@
       "user_provides": "代币地址",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/tkuehnl/rug-checker"
+      "github_url": "https://github.com/tkuehnl/rug-checker",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "rug-checker",
+      "clawhub_url": "https://clawhub.ai/skills/rug-checker",
+      "clawhub_display_name": "rug-checker"
     },
     {
       "name": "receipts-guard",
@@ -779,7 +1163,13 @@
       "user_provides": "钱包",
       "dapps": "RECEIPTS Guard",
       "run_mode": "混合",
-      "github_url": "https://github.com/lazaruseth/receipts-guard"
+      "github_url": "https://github.com/lazaruseth/receipts-guard",
+      "clawhub_downloads": 1637,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "receipts-guard",
+      "clawhub_url": "https://clawhub.ai/skills/receipts-guard",
+      "clawhub_display_name": "Receipts Guard"
     },
     {
       "name": "scamshield-verifier",
@@ -791,7 +1181,13 @@
       "user_provides": "ScamShield API 密钥",
       "dapps": "ScamShield",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/marcodzano-lgtm/scamshield-verifier"
+      "github_url": "https://github.com/marcodzano-lgtm/scamshield-verifier",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "scamshield-verifier",
+      "clawhub_url": "https://clawhub.ai/skills/scamshield-verifier",
+      "clawhub_display_name": "scamshield-verifier"
     },
     {
       "name": "rnwy",
@@ -803,7 +1199,13 @@
       "user_provides": "钱包地址",
       "dapps": "RNWY",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/rnwy/rnwy"
+      "github_url": "https://github.com/rnwy/rnwy",
+      "clawhub_downloads": 47,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "a2a-agent-lookup",
+      "clawhub_url": "https://clawhub.ai/skills/a2a-agent-lookup",
+      "clawhub_display_name": "A2A Agent Lookup — Verify Any AI Agent"
     }
   ]
 }

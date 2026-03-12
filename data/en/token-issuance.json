@@ -11,7 +11,13 @@
       "user_provides": "x402-compatible wallet (Easy Mode) or wallet private key + RPC URL + IPFS key (Direct Mode)",
       "dapps": "Clanker, Flaunch, Pump.fun, Tator",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/azep-ninja/tator-launch-pad"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/azep-ninja/tator-launch-pad",
+      "clawhub_downloads": 253,
+      "clawhub_stars": 1,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "tator-launch-pad",
+      "clawhub_url": "https://clawhub.ai/skills/tator-launch-pad",
+      "clawhub_display_name": "Token Launcher - Tator Launch Pad"
     },
     {
       "name": "token-launch-pad",
@@ -23,7 +29,13 @@
       "user_provides": "x402-compatible wallet (Easy Mode) or wallet private key + RPC URL (Direct Mode)",
       "dapps": "Clanker, Flaunch, Pump.fun",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/azep-ninja/token-launch-pad"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/azep-ninja/token-launch-pad",
+      "clawhub_downloads": 110,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "token-launch-pad",
+      "clawhub_url": "https://clawhub.ai/skills/token-launch-pad",
+      "clawhub_display_name": "Token Launcher - Token Launch Pad"
     },
     {
       "name": "blowfish-launch",
@@ -35,7 +47,13 @@
       "user_provides": "Solana wallet private key (ed25519 format)",
       "dapps": "Blowfish, Meteora",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/basedmereum/blowfish-launch"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/basedmereum/blowfish-launch",
+      "clawhub_downloads": 291,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "blowfish-launch",
+      "clawhub_url": "https://clawhub.ai/skills/blowfish-launch",
+      "clawhub_display_name": "Blowfish Launch"
     },
     {
       "name": "mplx-genesis",
@@ -47,7 +65,13 @@
       "user_provides": "Solana wallet, token name/symbol/description/image, supply and allocation ratios, timing schedule",
       "dapps": "Metaplex Genesis, Raydium",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/blockiosaurus/mplx-genesis"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/blockiosaurus/mplx-genesis",
+      "clawhub_downloads": 1200,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "mplx-genesis",
+      "clawhub_url": "https://clawhub.ai/skills/mplx-genesis",
+      "clawhub_display_name": "Launch a Token"
     },
     {
       "name": "token-launcher",
@@ -59,7 +83,13 @@
       "user_provides": "Base chain wallet private key",
       "dapps": "Uniswap V4, PumpClaw",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/clawd800/token-launcher"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/clawd800/token-launcher",
+      "clawhub_downloads": 1524,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "token-launcher",
+      "clawhub_url": "https://clawhub.ai/skills/token-launcher",
+      "clawhub_display_name": "Pumpclaw"
     },
     {
       "name": "streme-launcher",
@@ -71,7 +101,13 @@
       "user_provides": "Base chain wallet private key, token name/symbol/supply, staking config parameters",
       "dapps": "Streme, Uniswap V3, Superfluid",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/clawrencestreme/streme-launcher"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/clawrencestreme/streme-launcher",
+      "clawhub_downloads": 1223,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "streme-launcher",
+      "clawhub_url": "https://clawhub.ai/skills/streme-launcher",
+      "clawhub_display_name": "Streme Token Launcher"
     },
     {
       "name": "letssendit",
@@ -83,7 +119,13 @@
       "user_provides": "Let's Send It API key",
       "dapps": "Pump.fun, Let's Send It",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/ganjathang/letssendit"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/ganjathang/letssendit",
+      "clawhub_downloads": 1154,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "letssendit",
+      "clawhub_url": "https://clawhub.ai/skills/letssendit",
+      "clawhub_display_name": "let's send it"
     },
     {
       "name": "ship-my-token",
@@ -95,7 +137,13 @@
       "user_provides": "Solana keypair, ~0.02 SOL",
       "dapps": "Pumpfun",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/jcoulaud/ship-my-token"
+      "github_url": "https://github.com/jcoulaud/ship-my-token",
+      "clawhub_downloads": 142,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "ship-my-token",
+      "clawhub_url": "https://clawhub.ai/skills/ship-my-token",
+      "clawhub_display_name": "Ship My Token"
     },
     {
       "name": "openburn",
@@ -107,7 +155,13 @@
       "user_provides": "Creator wallet private key, Pump.fun token address, Jupiter API key",
       "dapps": "Pumpfun, Jupiter",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/logesh2496/openburn"
+      "github_url": "https://github.com/logesh2496/openburn",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "openburn",
+      "clawhub_url": "https://clawhub.ai/skills/openburn",
+      "clawhub_display_name": "openburn"
     },
     {
       "name": "solpaw-launcher",
@@ -119,7 +173,13 @@
       "user_provides": "SolPaw API key, creator wallet, Solana private key",
       "dapps": "Pumpfun, SolPaw",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/lvcidpsyche/solpaw-launcher"
+      "github_url": "https://github.com/lvcidpsyche/solpaw-launcher",
+      "clawhub_downloads": 527,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "solpaw-launcher",
+      "clawhub_url": "https://clawhub.ai/skills/solpaw-launcher",
+      "clawhub_display_name": "Solpaw-Launcher"
     },
     {
       "name": "solpaw-skill",
@@ -131,7 +191,13 @@
       "user_provides": "SolPaw API key, creator wallet, Solana private key",
       "dapps": "Pumpfun, SolPaw",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/lvcidpsyche/solpaw-skill"
+      "github_url": "https://github.com/lvcidpsyche/solpaw-skill",
+      "clawhub_downloads": 518,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "solpaw-skill",
+      "clawhub_url": "https://clawhub.ai/skills/solpaw-skill",
+      "clawhub_display_name": "Solpaw"
     },
     {
       "name": "solpaw-skill-final",
@@ -143,7 +209,13 @@
       "user_provides": "SolPaw API key, creator wallet, Solana private key",
       "dapps": "Pumpfun, SolPaw",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/lvcidpsyche/solpaw-skill-final"
+      "github_url": "https://github.com/lvcidpsyche/solpaw-skill-final",
+      "clawhub_downloads": 474,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "solpaw-skill-final",
+      "clawhub_url": "https://clawhub.ai/skills/solpaw-skill-final",
+      "clawhub_display_name": "Solpaw"
     },
     {
       "name": "solpaw-skill-v2",
@@ -155,7 +227,13 @@
       "user_provides": "SolPaw API key, creator wallet, Solana private key",
       "dapps": "Pumpfun, SolPaw",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/lvcidpsyche/solpaw-skill-v2"
+      "github_url": "https://github.com/lvcidpsyche/solpaw-skill-v2",
+      "clawhub_downloads": 502,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "solpaw-skill-v2",
+      "clawhub_url": "https://clawhub.ai/skills/solpaw-skill-v2",
+      "clawhub_display_name": "Solpaw Interaction Skill"
     },
     {
       "name": "4chad",
@@ -167,7 +245,13 @@
       "user_provides": "Solana private key",
       "dapps": "4chad",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/moskon1/4chad"
+      "github_url": "https://github.com/moskon1/4chad",
+      "clawhub_downloads": 782,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "4chad",
+      "clawhub_url": "https://clawhub.ai/skills/4chad",
+      "clawhub_display_name": "4CHAD"
     },
     {
       "name": "shipmytoken",
@@ -179,7 +263,13 @@
       "user_provides": "Node.js environment, ~0.02 SOL",
       "dapps": "Pumpfun",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/new-ground/shipmytoken"
+      "github_url": "https://github.com/new-ground/shipmytoken",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "shipmytoken",
+      "clawhub_url": "https://clawhub.ai/skills/shipmytoken",
+      "clawhub_display_name": "shipmytoken"
     },
     {
       "name": "outsmart-devving-coins",
@@ -191,7 +281,13 @@
       "user_provides": "Private key, RPC endpoint",
       "dapps": "Pump.fun, Jupiter",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/outsmartchad/outsmart-devving-coins"
+      "github_url": "https://github.com/outsmartchad/outsmart-devving-coins",
+      "clawhub_downloads": 124,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "outsmart-devving-coins",
+      "clawhub_url": "https://clawhub.ai/skills/outsmart-devving-coins",
+      "clawhub_display_name": "Outsmart Devving Coins"
     },
     {
       "name": "pump-fun",
@@ -203,7 +299,13 @@
       "user_provides": "Solana private key",
       "dapps": "Pump.fun",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/playdadev/pump-fun"
+      "github_url": "https://github.com/playdadev/pump-fun",
+      "clawhub_downloads": 1567,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "pump-fun",
+      "clawhub_url": "https://clawhub.ai/skills/pump-fun",
+      "clawhub_display_name": "Pump Fun"
     },
     {
       "name": "trendsdotfun",
@@ -215,7 +317,13 @@
       "user_provides": "Solana Keypair",
       "dapps": "Meteora, Trends.fun",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/poploli2/trendsdotfun"
+      "github_url": "https://github.com/poploli2/trendsdotfun",
+      "clawhub_downloads": 350,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "trendsdotfun",
+      "clawhub_url": "https://clawhub.ai/skills/trendsdotfun",
+      "clawhub_display_name": "Create a coin on trends.fun"
     },
     {
       "name": "nadfun",
@@ -227,7 +335,13 @@
       "user_provides": "Wallet address",
       "dapps": "NadFun",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/portdeveloper/nadfun"
+      "github_url": "https://github.com/portdeveloper/nadfun",
+      "clawhub_downloads": 1201,
+      "clawhub_stars": 4,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "nadfun",
+      "clawhub_url": "https://clawhub.ai/skills/nadfun",
+      "clawhub_display_name": "nadfun"
     },
     {
       "name": "clawlaunch",
@@ -239,7 +353,13 @@
       "user_provides": "",
       "dapps": "ClawLaunch, Uniswap",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/smokealot420/clawlaunch"
+      "github_url": "https://github.com/smokealot420/clawlaunch",
+      "clawhub_downloads": 642,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "clawlaunch",
+      "clawhub_url": "https://clawhub.ai/skills/clawlaunch",
+      "clawhub_display_name": "ClawLaunch"
     },
     {
       "name": "clanker",
@@ -251,7 +371,13 @@
       "user_provides": "Private key",
       "dapps": "Clanker, Uniswap",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/spirosrap/clanker"
+      "github_url": "https://github.com/spirosrap/clanker",
+      "clawhub_downloads": 1289,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "clanker",
+      "clawhub_url": "https://clawhub.ai/skills/clanker",
+      "clawhub_display_name": "Clanker"
     },
     {
       "name": "clawpump",
@@ -263,7 +389,13 @@
       "user_provides": "Wallet address",
       "dapps": "ClawPump, Jupiter",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/tomi204/clawpump"
+      "github_url": "https://github.com/tomi204/clawpump",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "clawpump",
+      "clawhub_url": "https://clawhub.ai/skills/clawpump",
+      "clawhub_display_name": "clawpump"
     },
     {
       "name": "deploy-agent-token",
@@ -275,7 +407,13 @@
       "user_provides": "Token parameters, hook configuration",
       "dapps": "Uniswap",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/wpank/deploy-agent-token"
+      "github_url": "https://github.com/wpank/deploy-agent-token",
+      "clawhub_downloads": 450,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "deploy-agent-token",
+      "clawhub_url": "https://clawhub.ai/skills/deploy-agent-token",
+      "clawhub_display_name": "Uniswap Deploy Agent Token"
     },
     {
       "name": "openserv-launch",
@@ -287,7 +425,13 @@
       "user_provides": "",
       "dapps": "Aerodrome",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/issa-me-sush/openserv-launch"
+      "github_url": "https://github.com/issa-me-sush/openserv-launch",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "openserv-launch",
+      "clawhub_url": "https://clawhub.ai/skills/openserv-launch",
+      "clawhub_display_name": "openserv-launch"
     },
     {
       "name": "boiling-point",
@@ -299,7 +443,13 @@
       "user_provides": "TOKENLAYER_API_KEY",
       "dapps": "Boiling Point",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/chrisciszak/boiling-point"
+      "github_url": "https://github.com/chrisciszak/boiling-point",
+      "clawhub_downloads": 2044,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "boiling-point",
+      "clawhub_url": "https://clawhub.ai/skills/boiling-point",
+      "clawhub_display_name": "Boiling Point"
     },
     {
       "name": "four-meme-ai",
@@ -311,7 +461,13 @@
       "user_provides": "PRIVATE_KEY (BSC wallet)",
       "dapps": "Four.Meme",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/four-meme-community/four-meme-ai"
+      "github_url": "https://github.com/four-meme-community/four-meme-ai",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "four-meme-ai",
+      "clawhub_url": "https://clawhub.ai/skills/four-meme-ai",
+      "clawhub_display_name": "four-meme-ai"
     },
     {
       "name": "mintyouragent",
@@ -323,7 +479,13 @@
       "user_provides": "Solana wallet",
       "dapps": "pump.fun",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/operatingdev/mintyouragent"
+      "github_url": "https://github.com/operatingdev/mintyouragent",
+      "clawhub_downloads": 1975,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "mintyouragent",
+      "clawhub_url": "https://clawhub.ai/skills/mintyouragent",
+      "clawhub_display_name": "mintyouragent"
     },
     {
       "name": "pump-sdk-core",
@@ -335,7 +497,13 @@
       "user_provides": "SOLANA_RPC_URL",
       "dapps": "Pump.fun",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/speraxos/pump-sdk-core"
+      "github_url": "https://github.com/speraxos/pump-sdk-core",
+      "clawhub_downloads": 49,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "pump-sdk-core",
+      "clawhub_url": "https://clawhub.ai/skills/pump-sdk-core",
+      "clawhub_display_name": "Pump Sdk Core"
     },
     {
       "name": "ponzu-ethereum",
@@ -347,7 +515,13 @@
       "user_provides": "PONZU_PRIVATE_KEY, PONZU_RPC_URL",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/yuzukyouma/ponzu-ethereum"
+      "github_url": "https://github.com/yuzukyouma/ponzu-ethereum",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "ponzu-ethereum",
+      "clawhub_url": "https://clawhub.ai/skills/ponzu-ethereum",
+      "clawhub_display_name": "ponzu-ethereum"
     },
     {
       "name": "op0-altar",
@@ -359,7 +533,13 @@
       "user_provides": "OP0_API_KEY, Solana wallet address",
       "dapps": "pump.fun",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/op0prot/op0-altar"
+      "github_url": "https://github.com/op0prot/op0-altar",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "op0-altar",
+      "clawhub_url": "https://clawhub.ai/skills/op0-altar",
+      "clawhub_display_name": "op0-altar"
     },
     {
       "name": "the-next-big-thing",
@@ -371,7 +551,13 @@
       "user_provides": "Tap Wallet, BTC address (for gas), ≥500 TAP",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/tracsystems/the-next-big-thing"
+      "github_url": "https://github.com/tracsystems/the-next-big-thing",
+      "clawhub_downloads": 1081,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "the-next-big-thing",
+      "clawhub_url": "https://clawhub.ai/skills/the-next-big-thing",
+      "clawhub_display_name": "Skill for the Next Big Thing"
     },
     {
       "name": "thenextbigthing",
@@ -383,7 +569,13 @@
       "user_provides": "Tap Wallet, BTC address (for gas), ≥500 TAP",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/tracsystems/thenextbigthing"
+      "github_url": "https://github.com/tracsystems/thenextbigthing",
+      "clawhub_downloads": 269,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "thenextbigthing",
+      "clawhub_url": "https://clawhub.ai/skills/thenextbigthing",
+      "clawhub_display_name": "The Next Big Thing"
     },
     {
       "name": "pokecenter",
@@ -395,7 +587,13 @@
       "user_provides": "Moltbook username or Solana wallet, token name and symbol",
       "dapps": "BagsWorld, Bags.fm",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/aiengineerx/pokecenter"
+      "github_url": "https://github.com/aiengineerx/pokecenter",
+      "clawhub_downloads": 310,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "pokecenter",
+      "clawhub_url": "https://clawhub.ai/skills/pokecenter",
+      "clawhub_display_name": "Pokécenter - Free Token Launcher"
     },
     {
       "name": "openclaw-bitagent",
@@ -407,7 +605,13 @@
       "user_provides": "BSC wallet private key, BNB",
       "dapps": "BitAgent",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/parasyte-x/openclaw-bitagent"
+      "github_url": "https://github.com/parasyte-x/openclaw-bitagent",
+      "clawhub_downloads": 1397,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "openclaw-bitagent",
+      "clawhub_url": "https://clawhub.ai/skills/openclaw-bitagent",
+      "clawhub_display_name": "Bitagent Skill"
     },
     {
       "name": "goldenclaw",
@@ -419,7 +623,13 @@
       "user_provides": "Solana wallet private key",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/goldenclaworg/goldenclaw"
+      "github_url": "https://github.com/goldenclaworg/goldenclaw",
+      "clawhub_downloads": 269,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "goldenclaw",
+      "clawhub_url": "https://clawhub.ai/skills/goldenclaw",
+      "clawhub_display_name": "Golden Claw"
     },
     {
       "name": "hot-fun-ai",
@@ -431,7 +641,13 @@
       "user_provides": "Solana wallet, token name and symbol, image",
       "dapps": "hot.fun",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/qinxiuchen/hot-fun-ai"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/qinxiuchen/hot-fun-ai",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "hot-fun-ai",
+      "clawhub_url": "https://clawhub.ai/skills/hot-fun-ai",
+      "clawhub_display_name": "hot-fun-ai"
     },
     {
       "name": "spawn-incubator",
@@ -443,7 +659,13 @@
       "user_provides": "Wallet address, investment amount",
       "dapps": "Spawn",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/blackeuler/spawn-incubator"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/blackeuler/spawn-incubator",
+      "clawhub_downloads": 1019,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "spawn-incubator",
+      "clawhub_url": "https://clawhub.ai/skills/spawn-incubator",
+      "clawhub_display_name": "SPAWN Incubator"
     },
     {
       "name": "tonfun",
@@ -455,7 +677,13 @@
       "user_provides": "TON wallet, token parameters",
       "dapps": "TON.fun",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/alphafanx/tonfun"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/alphafanx/tonfun",
+      "clawhub_downloads": 332,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "tonfun",
+      "clawhub_url": "https://clawhub.ai/skills/tonfun",
+      "clawhub_display_name": "TON.fun Trading"
     },
     {
       "name": "token-layer",
@@ -467,7 +695,13 @@
       "user_provides": "Token parameters (name, supply, decimals), target chain list",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/Unknown/token-layer"
+      "github_url": "https://github.com/Unknown/token-layer",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "token-layer",
+      "clawhub_url": "https://clawhub.ai/skills/token-layer",
+      "clawhub_display_name": "token-layer"
     },
     {
       "name": "trends",
@@ -479,7 +713,13 @@
       "user_provides": "Wallet configuration",
       "dapps": "Trends",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/milesxyz/trends"
+      "github_url": "https://github.com/milesxyz/trends",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "trends",
+      "clawhub_url": "https://clawhub.ai/skills/trends",
+      "clawhub_display_name": "trends"
     },
     {
       "name": "trends-cli",
@@ -491,7 +731,13 @@
       "user_provides": "Wallet configuration",
       "dapps": "Trends",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/milesxyz/trends-cli"
+      "github_url": "https://github.com/milesxyz/trends-cli",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "trends-cli",
+      "clawhub_url": "https://clawhub.ai/skills/trends-cli",
+      "clawhub_display_name": "trends-cli"
     },
     {
       "name": "moonfunsdk",
@@ -503,7 +749,13 @@
       "user_provides": "Wallet private key, token theme description",
       "dapps": "Moonfun",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/moonnfunofficial/moonfunsdk"
+      "github_url": "https://github.com/moonnfunofficial/moonfunsdk",
+      "clawhub_downloads": 177,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "moonfunsdk",
+      "clawhub_url": "https://clawhub.ai/skills/moonfunsdk",
+      "clawhub_display_name": "moonfun_sdk"
     },
     {
       "name": "sur-pub",
@@ -515,7 +767,13 @@
       "user_provides": "SURGE API key",
       "dapps": "SURGE, Aerodrome, Raydium",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/nkhromovweway/sur-pub"
+      "github_url": "https://github.com/nkhromovweway/sur-pub",
+      "clawhub_downloads": 352,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "sur-pub",
+      "clawhub_url": "https://clawhub.ai/skills/sur-pub",
+      "clawhub_display_name": "Sur"
     },
     {
       "name": "mintclub",
@@ -527,7 +785,13 @@
       "user_provides": "Wallet private key",
       "dapps": "Mint Club, Uniswap",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/sebayaki/mintclub"
+      "github_url": "https://github.com/sebayaki/mintclub",
+      "clawhub_downloads": 316,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "mintclub",
+      "clawhub_url": "https://clawhub.ai/skills/mintclub",
+      "clawhub_display_name": "Mint Club V2"
     },
     {
       "name": "tokenbroker",
@@ -539,7 +803,13 @@
       "user_provides": "GitHub repo URL, wallet private key",
       "dapps": "nad.fun",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/starrftw/tokenbroker"
+      "github_url": "https://github.com/starrftw/tokenbroker",
+      "clawhub_downloads": 1091,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "tokenbroker",
+      "clawhub_url": "https://clawhub.ai/skills/tokenbroker",
+      "clawhub_display_name": "Tokenbroker"
     },
     {
       "name": "nadfun-token-creation",
@@ -551,7 +821,13 @@
       "user_provides": "Wallet private key, token parameters",
       "dapps": "nad.fun",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/therealharpaljadeja/nadfun-token-creation"
+      "github_url": "https://github.com/therealharpaljadeja/nadfun-token-creation",
+      "clawhub_downloads": 1241,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "nadfun-token-creation",
+      "clawhub_url": "https://clawhub.ai/skills/nadfun-token-creation",
+      "clawhub_display_name": "NadFun Token Creation"
     },
     {
       "name": "solana-token-distribution",
@@ -563,7 +839,13 @@
       "user_provides": "Token mint authority, recipient address list",
       "dapps": "Light Protocol",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/tilo-14/solana-token-distribution"
+      "github_url": "https://github.com/tilo-14/solana-token-distribution",
+      "clawhub_downloads": 68,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "solana-token-distribution",
+      "clawhub_url": "https://clawhub.ai/skills/solana-token-distribution",
+      "clawhub_display_name": "solana-token-distribution"
     },
     {
       "name": "aifrens-onboard",
@@ -575,7 +857,13 @@
       "user_provides": "Agent information",
       "dapps": "Uniswap, AIFrens",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/wizsmol/aifrens-onboard"
+      "github_url": "https://github.com/wizsmol/aifrens-onboard",
+      "clawhub_downloads": 638,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "aifrens-onboard",
+      "clawhub_url": "https://clawhub.ai/skills/aifrens-onboard",
+      "clawhub_display_name": "AI Frens Onboarding"
     },
     {
       "name": "flap-skills",
@@ -587,7 +875,13 @@
       "user_provides": "BNB Chain MCP config, private key",
       "dapps": "PancakeSwap, FlapSkill",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/flap-builder/flap-skills"
+      "github_url": "https://github.com/flap-builder/flap-skills",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "flap-skills",
+      "clawhub_url": "https://clawhub.ai/skills/flap-skills",
+      "clawhub_display_name": "flap-skills"
     },
     {
       "name": "xrpl-token-mint",
@@ -599,7 +893,13 @@
       "user_provides": "XRPL wallet",
       "dapps": "XRPL",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/harleyscodes/xrpl-token-mint"
+      "github_url": "https://github.com/harleyscodes/xrpl-token-mint",
+      "clawhub_downloads": 260,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "xrpl-token-mint",
+      "clawhub_url": "https://clawhub.ai/skills/xrpl-token-mint",
+      "clawhub_display_name": "XRPL Token Minting"
     },
     {
       "name": "clawchemy",
@@ -611,7 +911,13 @@
       "user_provides": "",
       "dapps": "Clanker",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/mrtdlgc/clawchemy"
+      "github_url": "https://github.com/mrtdlgc/clawchemy",
+      "clawhub_downloads": 1120,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "clawchemy",
+      "clawhub_url": "https://clawhub.ai/skills/clawchemy",
+      "clawhub_display_name": "Clawchemy"
     },
     {
       "name": "moltmoon-agentcrypto-sdk",
@@ -623,7 +929,13 @@
       "user_provides": "Base wallet",
       "dapps": "MoltMoon, Clanker",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/chillbruhhh/moltmoon-agentcrypto-sdk"
+      "github_url": "https://github.com/chillbruhhh/moltmoon-agentcrypto-sdk",
+      "clawhub_downloads": 1340,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "moltmoon-agentcrypto-sdk",
+      "clawhub_url": "https://clawhub.ai/skills/moltmoon-agentcrypto-sdk",
+      "clawhub_display_name": "MoltMoon Crypto Launcher"
     },
     {
       "name": "district9",
@@ -635,7 +947,13 @@
       "user_provides": "BNB wallet private key",
       "dapps": "District9",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/pearl799/district9"
+      "github_url": "https://github.com/pearl799/district9",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "district9",
+      "clawhub_url": "https://clawhub.ai/skills/district9",
+      "clawhub_display_name": "district9"
     },
     {
       "name": "solana-light-token-client",
@@ -647,7 +965,13 @@
       "user_provides": "Solana keypair, RPC key",
       "dapps": "Light Protocol",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/tilo-14/solana-light-token-client"
+      "github_url": "https://github.com/tilo-14/solana-light-token-client",
+      "clawhub_downloads": 83,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "solana-light-token-client",
+      "clawhub_url": "https://clawhub.ai/skills/solana-light-token-client",
+      "clawhub_display_name": "solana-light-token-client"
     },
     {
       "name": "4claw-mint",
@@ -659,7 +983,13 @@
       "user_provides": "BSC wallet",
       "dapps": "4Claw",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/xiaoyu022025/4claw-mint"
+      "github_url": "https://github.com/xiaoyu022025/4claw-mint",
+      "clawhub_downloads": 70,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "4claw-mint",
+      "clawhub_url": "https://clawhub.ai/skills/4claw-mint",
+      "clawhub_display_name": "4Claw Mint"
     },
     {
       "name": "token-vesting",
@@ -671,7 +1001,13 @@
       "user_provides": "Wallet private key, RPC URL",
       "dapps": "Sablier",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/sneg55/token-vesting"
+      "github_url": "https://github.com/sneg55/token-vesting",
+      "clawhub_downloads": 532,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "token-vesting",
+      "clawhub_url": "https://clawhub.ai/skills/token-vesting",
+      "clawhub_display_name": "Token Vesting"
     }
   ]
 }

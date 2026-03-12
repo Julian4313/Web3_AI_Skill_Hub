@@ -11,7 +11,13 @@
       "user_provides": "Agent 钱包私钥、委托人钱包地址、Aave 合约地址",
       "dapps": "Aave",
       "run_mode": "混合",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/aaronjmars/agent-credit"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/aaronjmars/agent-credit",
+      "clawhub_downloads": 1029,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "agent-credit",
+      "clawhub_url": "https://clawhub.ai/skills/agent-credit",
+      "clawhub_display_name": "Agent Credit"
     },
     {
       "name": "aaveclaw",
@@ -23,7 +29,13 @@
       "user_provides": "钱包配置文件（~/.x402-config.json）",
       "dapps": "Aave V3",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/chainyoda/aaveclaw"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/chainyoda/aaveclaw",
+      "clawhub_downloads": 1341,
+      "clawhub_stars": 4,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "aaveclaw",
+      "clawhub_url": "https://clawhub.ai/skills/aaveclaw",
+      "clawhub_display_name": "aaveclaw"
     },
     {
       "name": "aave",
@@ -35,7 +47,13 @@
       "user_provides": "",
       "dapps": "Aave",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/ivangdavila/aave"
+      "github_url": "https://github.com/ivangdavila/aave",
+      "clawhub_downloads": 494,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "aave",
+      "clawhub_url": "https://clawhub.ai/skills/aave",
+      "clawhub_display_name": "Aave"
     },
     {
       "name": "aave-liquidation-monitor",
@@ -47,7 +65,13 @@
       "user_provides": "以太坊钱包地址 (只读)",
       "dapps": "Aave",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/jgramajo4/aave-liquidation-monitor"
+      "github_url": "https://github.com/jgramajo4/aave-liquidation-monitor",
+      "clawhub_downloads": 753,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "aave-liquidation-monitor",
+      "clawhub_url": "https://clawhub.ai/skills/aave-liquidation-monitor",
+      "clawhub_display_name": "Aave Liquidation Monitor"
     },
     {
       "name": "torchliquidationbot",
@@ -59,7 +83,13 @@
       "user_provides": "Solana RPC URL, Vault 创建者地址",
       "dapps": "Torch Market",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/mrsirg97-rgb/torchliquidationbot"
+      "github_url": "https://github.com/mrsirg97-rgb/torchliquidationbot",
+      "clawhub_downloads": 2061,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "torchliquidationbot",
+      "clawhub_url": "https://clawhub.ai/skills/torchliquidationbot",
+      "clawhub_display_name": "Torch Liquidation Bot"
     },
     {
       "name": "credex-protocol",
@@ -71,7 +101,13 @@
       "user_provides": "",
       "dapps": "Credex",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/capgoblin/credex-protocol"
+      "github_url": "https://github.com/capgoblin/credex-protocol",
+      "clawhub_downloads": 737,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "credex-protocol",
+      "clawhub_url": "https://clawhub.ai/skills/credex-protocol",
+      "clawhub_display_name": "Credex Protocol"
     },
     {
       "name": "claw-credit",
@@ -83,7 +119,13 @@
       "user_provides": "",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/sergiochan/claw-credit"
+      "github_url": "https://github.com/sergiochan/claw-credit",
+      "clawhub_downloads": 1198,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "claw-credit",
+      "clawhub_url": "https://clawhub.ai/skills/claw-credit",
+      "clawhub_display_name": "Claw Credit by t54"
     },
     {
       "name": "torchliquidationagent",
@@ -95,7 +137,13 @@
       "user_provides": "Solana RPC 端点",
       "dapps": "Torch Market",
       "run_mode": "混合",
-      "github_url": "https://github.com/mrsirg97-rgb/torchliquidationagent"
+      "github_url": "https://github.com/mrsirg97-rgb/torchliquidationagent",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "torchliquidationagent",
+      "clawhub_url": "https://clawhub.ai/skills/torchliquidationagent",
+      "clawhub_display_name": "torchliquidationagent"
     },
     {
       "name": "kamino-positions-monitor",
@@ -107,7 +155,13 @@
       "user_provides": "Solana 钱包地址",
       "dapps": "Kamino",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/csacanam/kamino-positions-monitor"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/csacanam/kamino-positions-monitor",
+      "clawhub_downloads": 129,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "kamino-positions-monitor",
+      "clawhub_url": "https://clawhub.ai/skills/kamino-positions-monitor",
+      "clawhub_display_name": "Kamino Positions Monitor"
     },
     {
       "name": "venus-agent-skills",
@@ -119,7 +173,13 @@
       "user_provides": "BNB Chain 钱包地址",
       "dapps": "Venus",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/zed-venus/venus-agent-skills"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/zed-venus/venus-agent-skills",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "venus-agent-skills",
+      "clawhub_url": "https://clawhub.ai/skills/venus-agent-skills",
+      "clawhub_display_name": "venus-agent-skills"
     },
     {
       "name": "gotchi-channeling",
@@ -131,7 +191,13 @@
       "user_provides": "钱包地址、交易参数或操作指令",
       "dapps": "Aave",
       "run_mode": "混合",
-      "github_url": "https://github.com//gotchi-channeling"
+      "github_url": "https://github.com//gotchi-channeling",
+      "clawhub_downloads": 208,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "gotchi-channeling",
+      "clawhub_url": "https://clawhub.ai/skills/gotchi-channeling",
+      "clawhub_display_name": "Gotchi Channeling"
     },
     {
       "name": "pet-operator",
@@ -143,7 +209,13 @@
       "user_provides": "钱包地址、交易参数或操作指令",
       "dapps": "Aave",
       "run_mode": "混合",
-      "github_url": "https://github.com//pet-operator"
+      "github_url": "https://github.com//pet-operator",
+      "clawhub_downloads": 29,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "pet-operator",
+      "clawhub_url": "https://clawhub.ai/skills/pet-operator",
+      "clawhub_display_name": "Pet Operator"
     },
     {
       "name": "gotchi-finder",
@@ -155,7 +227,13 @@
       "user_provides": "钱包地址、交易参数或操作指令",
       "dapps": "Aave",
       "run_mode": "混合",
-      "github_url": "https://github.com//gotchi-finder"
+      "github_url": "https://github.com//gotchi-finder",
+      "clawhub_downloads": 287,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "gotchi-finder",
+      "clawhub_url": "https://clawhub.ai/skills/gotchi-finder",
+      "clawhub_display_name": "Gotchi Finder"
     },
     {
       "name": "nexwave-gateway",
@@ -167,7 +245,13 @@
       "user_provides": "任务描述和需求参数",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com//nexwave-gateway"
+      "github_url": "https://github.com//nexwave-gateway",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "nexwave-gateway",
+      "clawhub_url": "https://clawhub.ai/skills/nexwave-gateway",
+      "clawhub_display_name": "nexwave-gateway"
     },
     {
       "name": "breeze-x402-payment-api",
@@ -179,7 +263,13 @@
       "user_provides": "任务描述和需求参数",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com//breeze-x402-payment-api"
+      "github_url": "https://github.com//breeze-x402-payment-api",
+      "clawhub_downloads": 209,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "breeze-x402-payment-api",
+      "clawhub_url": "https://clawhub.ai/skills/breeze-x402-payment-api",
+      "clawhub_display_name": "Breeze x402"
     },
     {
       "name": "usdc-escrow",
@@ -191,7 +281,13 @@
       "user_provides": "任务描述和需求参数",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com//usdc-escrow"
+      "github_url": "https://github.com//usdc-escrow",
+      "clawhub_downloads": 602,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "usdc-escrow",
+      "clawhub_url": "https://clawhub.ai/skills/usdc-escrow",
+      "clawhub_display_name": "USDC Escrow"
     },
     {
       "name": "yieldvault-agent",
@@ -203,7 +299,13 @@
       "user_provides": "任务描述和需求参数",
       "dapps": "Compound",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com//yieldvault-agent"
+      "github_url": "https://github.com//yieldvault-agent",
+      "clawhub_downloads": 252,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "yieldvault-agent",
+      "clawhub_url": "https://clawhub.ai/skills/yieldvault-agent",
+      "clawhub_display_name": "YieldVault Agent"
     },
     {
       "name": "stable-layer-sdk",
@@ -215,7 +317,13 @@
       "user_provides": "Sui钱包地址, USDC余额",
       "dapps": "Stable Layer",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/k66inthesky/stable-layer-sdk"
+      "github_url": "https://github.com/k66inthesky/stable-layer-sdk",
+      "clawhub_downloads": 414,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "stable-layer-sdk",
+      "clawhub_url": "https://clawhub.ai/skills/stable-layer-sdk",
+      "clawhub_display_name": "stable-layer-sdk"
     },
     {
       "name": "xpr-lending",
@@ -227,7 +335,13 @@
       "user_provides": "XPR Network账户",
       "dapps": "LOAN Protocol, Metal X",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/paulgnz/xpr-lending"
+      "github_url": "https://github.com/paulgnz/xpr-lending",
+      "clawhub_downloads": 281,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "xpr-lending",
+      "clawhub_url": "https://clawhub.ai/skills/xpr-lending",
+      "clawhub_display_name": "XPR Lending (LOAN Protocol)"
     },
     {
       "name": "rsoft-agentic-bank",
@@ -239,7 +353,13 @@
       "user_provides": "(无)",
       "dapps": "RSoft",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/rsoft-latam/rsoft-agentic-bank"
+      "github_url": "https://github.com/rsoft-latam/rsoft-agentic-bank",
+      "clawhub_downloads": 518,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "rsoft-agentic-bank",
+      "clawhub_url": "https://clawhub.ai/skills/rsoft-agentic-bank",
+      "clawhub_display_name": "RSoft Agentic Bank"
     },
     {
       "name": "teller-borrow",
@@ -251,7 +371,13 @@
       "user_provides": "MCP 环境",
       "dapps": "Teller",
       "run_mode": "混合",
-      "github_url": "https://github.com/rbcp18/teller-borrow"
+      "github_url": "https://github.com/rbcp18/teller-borrow",
+      "clawhub_downloads": 313,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "teller-borrow",
+      "clawhub_url": "https://clawhub.ai/skills/teller-borrow",
+      "clawhub_display_name": "Teller MCP – Borrow USDC & Altcoins (no margin calls)"
     },
     {
       "name": "teller-borrow-agents",
@@ -263,7 +389,13 @@
       "user_provides": "MCP 环境",
       "dapps": "Teller",
       "run_mode": "混合",
-      "github_url": "https://github.com/rbcp18/teller-borrow-agents"
+      "github_url": "https://github.com/rbcp18/teller-borrow-agents",
+      "clawhub_downloads": 266,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "teller-borrow-agents",
+      "clawhub_url": "https://clawhub.ai/skills/teller-borrow-agents",
+      "clawhub_display_name": "Teller MCP – Borrow USDC & Altcoins (no margin calls)"
     },
     {
       "name": "teller-mcp-borrow",
@@ -275,7 +407,13 @@
       "user_provides": "MCP 环境",
       "dapps": "Teller",
       "run_mode": "混合",
-      "github_url": "https://github.com/rbcp18/teller-mcp-borrow"
+      "github_url": "https://github.com/rbcp18/teller-mcp-borrow",
+      "clawhub_downloads": 304,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "teller-mcp-borrow",
+      "clawhub_url": "https://clawhub.ai/skills/teller-mcp-borrow",
+      "clawhub_display_name": "Teller MCP – Borrow USDC & Altcoins (no margin calls)"
     },
     {
       "name": "tellermcp",
@@ -287,7 +425,13 @@
       "user_provides": "MCP 环境",
       "dapps": "Teller",
       "run_mode": "混合",
-      "github_url": "https://github.com/rbcp18/tellermcp"
+      "github_url": "https://github.com/rbcp18/tellermcp",
+      "clawhub_downloads": 280,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "tellermcp",
+      "clawhub_url": "https://clawhub.ai/skills/tellermcp",
+      "clawhub_display_name": "Teller MCP – Borrow USDC & Altcoins"
     },
     {
       "name": "btcd-skill-beta",
@@ -299,7 +443,13 @@
       "user_provides": "PGP 链钱包",
       "dapps": "BTCD",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/contact-nbwfoundation/btcd-skill-beta"
+      "github_url": "https://github.com/contact-nbwfoundation/btcd-skill-beta",
+      "clawhub_downloads": 150,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "btcd-skill-beta",
+      "clawhub_url": "https://clawhub.ai/skills/btcd-skill-beta",
+      "clawhub_display_name": "BTCD Skill (NBW)"
     }
   ]
 }

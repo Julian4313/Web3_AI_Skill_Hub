@@ -11,7 +11,13 @@
       "user_provides": "0xArchive API Key (OXARCHIVE_API_KEY)",
       "dapps": "0xArchive",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/0xfantommenace/0xarchive"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/0xfantommenace/0xarchive",
+      "clawhub_downloads": 216,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "0xarchive",
+      "clawhub_url": "https://clawhub.ai/skills/0xarchive",
+      "clawhub_display_name": "0xArchive"
     },
     {
       "name": "zerion-api",
@@ -23,7 +29,13 @@
       "user_provides": "Zerion API Key",
       "dapps": "Zerion",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/abishekdharshan/zerion-api"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/abishekdharshan/zerion-api",
+      "clawhub_downloads": 1570,
+      "clawhub_stars": 6,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "zerion-api",
+      "clawhub_url": "https://clawhub.ai/skills/zerion-api",
+      "clawhub_display_name": "Zerion Api"
     },
     {
       "name": "polymarket-wallet-xray",
@@ -35,7 +47,13 @@
       "user_provides": "Polymarket wallet address",
       "dapps": "Polymarket",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/adlai88/polymarket-wallet-xray"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/adlai88/polymarket-wallet-xray",
+      "clawhub_downloads": 137,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-wallet-xray",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-wallet-xray",
+      "clawhub_display_name": "Polymarket Wallet Xray"
     },
     {
       "name": "onchain",
@@ -47,7 +65,13 @@
       "user_provides": "Coinbase/Binance API keys (optional), DeBank API key (EVM), Helius API key (Solana)",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/arein/onchain"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/arein/onchain",
+      "clawhub_downloads": 2915,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "onchain",
+      "clawhub_url": "https://clawhub.ai/skills/onchain",
+      "clawhub_display_name": "Onchain CLI"
     },
     {
       "name": "hyperliquid-analyzer",
@@ -59,7 +83,13 @@
       "user_provides": "Hyperliquid wallet address (optional, for portfolio tracking)",
       "dapps": "Hyperliquid",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/b0on/hyperliquid-analyzer"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/b0on/hyperliquid-analyzer",
+      "clawhub_downloads": 280,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "hyperliquid-analyzer",
+      "clawhub_url": "https://clawhub.ai/skills/hyperliquid-analyzer",
+      "clawhub_display_name": "Hyperliquid Analyzer"
     },
     {
       "name": "ethereum-read-only",
@@ -71,7 +101,13 @@
       "user_provides": "RPC endpoint URL (free public RPCs available), Foundry installation",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/byron-mckeeby/ethereum-read-only"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/byron-mckeeby/ethereum-read-only",
+      "clawhub_downloads": 1149,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "ethereum-read-only",
+      "clawhub_url": "https://clawhub.ai/skills/ethereum-read-only",
+      "clawhub_display_name": "Ethereum Read Only"
     },
     {
       "name": "crypto-alpha-scanner",
@@ -83,7 +119,13 @@
       "user_provides": "None (all free public APIs)",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/cassh100k/crypto-alpha-scanner"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/cassh100k/crypto-alpha-scanner",
+      "clawhub_downloads": 610,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "crypto-alpha-scanner",
+      "clawhub_url": "https://clawhub.ai/skills/crypto-alpha-scanner",
+      "clawhub_display_name": "Crypto Alpha Scanner"
     },
     {
       "name": "polymarket-odds-1-0-0",
@@ -95,7 +137,13 @@
       "user_provides": "None",
       "dapps": "Polymarket",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/ceeyang/polymarket-odds-1-0-0"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/ceeyang/polymarket-odds-1-0-0",
+      "clawhub_downloads": 158,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "polymarket-odds-1-0-0",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-odds-1-0-0",
+      "clawhub_display_name": "Polymarket Odds 1.0.0"
     },
     {
       "name": "hyperliquid-dex",
@@ -107,7 +155,13 @@
       "user_provides": "Hyperliquid wallet address",
       "dapps": "Hyperliquid",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/chipagosfinest/hyperliquid-dex"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/chipagosfinest/hyperliquid-dex",
+      "clawhub_downloads": 745,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "hyperliquid-dex",
+      "clawhub_url": "https://clawhub.ai/skills/hyperliquid-dex",
+      "clawhub_display_name": "Hyperliquid DEX Integration"
     },
     {
       "name": "einstein",
@@ -119,7 +173,13 @@
       "user_provides": "Base chain USDC wallet private key (for x402 payments)",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/chuxo/einstein"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/chuxo/einstein",
+      "clawhub_downloads": 1562,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "einstein",
+      "clawhub_url": "https://clawhub.ai/skills/einstein",
+      "clawhub_display_name": "Einstein x402 Blockchain Analytics"
     },
     {
       "name": "pm-odds",
@@ -131,7 +191,13 @@
       "user_provides": "None",
       "dapps": "Polymarket",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/dannyshmueli/pm-odds"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/dannyshmueli/pm-odds",
+      "clawhub_downloads": 1948,
+      "clawhub_stars": 3,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "pm-odds",
+      "clawhub_url": "https://clawhub.ai/skills/pm-odds",
+      "clawhub_display_name": "Polymarket Odds"
     },
     {
       "name": "polymarket-api",
@@ -143,7 +209,13 @@
       "user_provides": "None",
       "dapps": "Polymarket",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/dannyshmueli/polymarket-api"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/dannyshmueli/polymarket-api",
+      "clawhub_downloads": 4367,
+      "clawhub_stars": 14,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "polymarket-api",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-api",
+      "clawhub_display_name": "Polymarket API"
     },
     {
       "name": "polymarket-odds",
@@ -155,7 +227,13 @@
       "user_provides": "None",
       "dapps": "Polymarket",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/deanpress/polymarket-odds"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/deanpress/polymarket-odds",
+      "clawhub_downloads": 6220,
+      "clawhub_stars": 36,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "polymarket-odds",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-odds",
+      "clawhub_display_name": "Polymarket Odds"
     },
     {
       "name": "deepblue-defi-api",
@@ -167,7 +245,13 @@
       "user_provides": "None (free API, 10 requests/day)",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/error403agent/deepblue-defi-api"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/error403agent/deepblue-defi-api",
+      "clawhub_downloads": 100,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "deepblue-defi-api",
+      "clawhub_url": "https://clawhub.ai/skills/deepblue-defi-api",
+      "clawhub_display_name": "Deepblue Defi Api"
     },
     {
       "name": "crypto-price",
@@ -179,7 +263,13 @@
       "user_provides": "None",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/evgyur/crypto-price"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/evgyur/crypto-price",
+      "clawhub_downloads": 5587,
+      "clawhub_stars": 8,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "crypto-price",
+      "clawhub_url": "https://clawhub.ai/skills/crypto-price",
+      "clawhub_display_name": "Crypto Price"
     },
     {
       "name": "pond3r-skill",
@@ -191,7 +281,13 @@
       "user_provides": "Pond3r API key",
       "dapps": "Pond3r",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/fabriziogianni7/pond3r-skill"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/fabriziogianni7/pond3r-skill",
+      "clawhub_downloads": 317,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "pond3r-skill",
+      "clawhub_url": "https://clawhub.ai/skills/pond3r-skill",
+      "clawhub_display_name": "Pond3r Skill - Query Onchain Data"
     },
     {
       "name": "mobula",
@@ -203,7 +299,13 @@
       "user_provides": "Mobula API key (free registration)",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/flotapponnier/mobula"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/flotapponnier/mobula",
+      "clawhub_downloads": 204,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "mobula",
+      "clawhub_url": "https://clawhub.ai/skills/mobula",
+      "clawhub_display_name": "Mobula - Crypto Market Data & Wallet Intelligence"
     },
     {
       "name": "polymarket-user-analyzer",
@@ -215,7 +317,13 @@
       "user_provides": "Polymarket username or wallet address",
       "dapps": "Polymarket",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/future1001/polymarket-user-analyzer"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/future1001/polymarket-user-analyzer",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-user-analyzer",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-user-analyzer",
+      "clawhub_display_name": "polymarket-user-analyzer"
     },
     {
       "name": "insider-wallets-finder-im29o",
@@ -227,7 +335,13 @@
       "user_provides": "Python3 environment",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/insider-wallets-finder-im29o"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/insider-wallets-finder-im29o",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "insider-wallets-finder-im29o",
+      "clawhub_url": "https://clawhub.ai/skills/insider-wallets-finder-im29o",
+      "clawhub_display_name": "insider-wallets-finder-im29o"
     },
     {
       "name": "insider-wallets-finder-jacit",
@@ -239,7 +353,13 @@
       "user_provides": "Python3 environment",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/insider-wallets-finder-jacit"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/insider-wallets-finder-jacit",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "insider-wallets-finder-jacit",
+      "clawhub_url": "https://clawhub.ai/skills/insider-wallets-finder-jacit",
+      "clawhub_display_name": "insider-wallets-finder-jacit"
     },
     {
       "name": "insider-wallets-finder-kq9nv",
@@ -251,7 +371,13 @@
       "user_provides": "Python3 environment",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/insider-wallets-finder-kq9nv"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/insider-wallets-finder-kq9nv",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "insider-wallets-finder-kq9nv",
+      "clawhub_url": "https://clawhub.ai/skills/insider-wallets-finder-kq9nv",
+      "clawhub_display_name": "insider-wallets-finder-kq9nv"
     },
     {
       "name": "insider-wallets-finder-mk3w3",
@@ -263,7 +389,13 @@
       "user_provides": "Python3 environment",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/insider-wallets-finder-mk3w3"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/insider-wallets-finder-mk3w3",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "insider-wallets-finder-mk3w3",
+      "clawhub_url": "https://clawhub.ai/skills/insider-wallets-finder-mk3w3",
+      "clawhub_display_name": "insider-wallets-finder-mk3w3"
     },
     {
       "name": "insider-wallets-finder-ngv64",
@@ -275,7 +407,13 @@
       "user_provides": "Python3 environment",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/insider-wallets-finder-ngv64"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/insider-wallets-finder-ngv64",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "insider-wallets-finder-ngv64",
+      "clawhub_url": "https://clawhub.ai/skills/insider-wallets-finder-ngv64",
+      "clawhub_display_name": "insider-wallets-finder-ngv64"
     },
     {
       "name": "insider-wallets-finder-nq6a9",
@@ -287,7 +425,13 @@
       "user_provides": "Python3 environment",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/insider-wallets-finder-nq6a9"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/insider-wallets-finder-nq6a9",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "insider-wallets-finder-nq6a9",
+      "clawhub_url": "https://clawhub.ai/skills/insider-wallets-finder-nq6a9",
+      "clawhub_display_name": "insider-wallets-finder-nq6a9"
     },
     {
       "name": "insider-wallets-finder-q9qng",
@@ -299,7 +443,13 @@
       "user_provides": "Python3 environment",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/insider-wallets-finder-q9qng"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/insider-wallets-finder-q9qng",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "insider-wallets-finder-q9qng",
+      "clawhub_url": "https://clawhub.ai/skills/insider-wallets-finder-q9qng",
+      "clawhub_display_name": "insider-wallets-finder-q9qng"
     },
     {
       "name": "insider-wallets-finder-qjkug",
@@ -311,7 +461,13 @@
       "user_provides": "Python3 environment",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/insider-wallets-finder-qjkug"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/insider-wallets-finder-qjkug",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "insider-wallets-finder-qjkug",
+      "clawhub_url": "https://clawhub.ai/skills/insider-wallets-finder-qjkug",
+      "clawhub_display_name": "insider-wallets-finder-qjkug"
     },
     {
       "name": "insider-wallets-finder-r6wya",
@@ -323,7 +479,13 @@
       "user_provides": "Python3 environment",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/insider-wallets-finder-r6wya"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/insider-wallets-finder-r6wya",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "insider-wallets-finder-r6wya",
+      "clawhub_url": "https://clawhub.ai/skills/insider-wallets-finder-r6wya",
+      "clawhub_display_name": "insider-wallets-finder-r6wya"
     },
     {
       "name": "insider-wallets-finder-tivyf",
@@ -335,7 +497,13 @@
       "user_provides": "Python3 environment",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/insider-wallets-finder-tivyf"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/insider-wallets-finder-tivyf",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "insider-wallets-finder-tivyf",
+      "clawhub_url": "https://clawhub.ai/skills/insider-wallets-finder-tivyf",
+      "clawhub_display_name": "insider-wallets-finder-tivyf"
     },
     {
       "name": "insider-wallets-finder-zah8d",
@@ -347,7 +515,13 @@
       "user_provides": "Python3 environment",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/insider-wallets-finder-zah8d"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/insider-wallets-finder-zah8d",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "insider-wallets-finder-zah8d",
+      "clawhub_url": "https://clawhub.ai/skills/insider-wallets-finder-zah8d",
+      "clawhub_display_name": "insider-wallets-finder-zah8d"
     },
     {
       "name": "insider-wallets-finder-zzs2p",
@@ -359,7 +533,13 @@
       "user_provides": "Python3 environment",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/insider-wallets-finder-zzs2p"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/insider-wallets-finder-zzs2p",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "insider-wallets-finder-zzs2p",
+      "clawhub_url": "https://clawhub.ai/skills/insider-wallets-finder-zzs2p",
+      "clawhub_display_name": "insider-wallets-finder-zzs2p"
     },
     {
       "name": "polymarketodds-1-0-0",
@@ -371,7 +551,13 @@
       "user_provides": "Python3 environment",
       "dapps": "Polymarket",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/itsjustfred/polymarketodds-1-0-0"
+      "github_url": "https://github.com/itsjustfred/polymarketodds-1-0-0",
+      "clawhub_downloads": 137,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "polymarketodds-1-0-0",
+      "clawhub_url": "https://clawhub.ai/skills/polymarketodds-1-0-0",
+      "clawhub_display_name": "Polymarketodds 1.0.0"
     },
     {
       "name": "chainlink",
@@ -383,7 +569,13 @@
       "user_provides": "",
       "dapps": "Chainlink",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/ivangdavila/chainlink"
+      "github_url": "https://github.com/ivangdavila/chainlink",
+      "clawhub_downloads": 453,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "chainlink",
+      "clawhub_url": "https://clawhub.ai/skills/chainlink",
+      "clawhub_display_name": "Chainlink"
     },
     {
       "name": "crypto-tools",
@@ -395,7 +587,13 @@
       "user_provides": "",
       "dapps": "CoinGecko, DefiLlama, TokenSniffer, Etherscan",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/ivangdavila/crypto-tools"
+      "github_url": "https://github.com/ivangdavila/crypto-tools",
+      "clawhub_downloads": 1392,
+      "clawhub_stars": 3,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "crypto-tools",
+      "clawhub_url": "https://clawhub.ai/skills/crypto-tools",
+      "clawhub_display_name": "Crypto Tools"
     },
     {
       "name": "prediction-market-aggregator",
@@ -407,7 +605,13 @@
       "user_provides": "Manifold API key, Kalshi API key (optional)",
       "dapps": "Polymarket, Manifold, Metaculus, Kalshi",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/jamierossouw/prediction-market-aggregator"
+      "github_url": "https://github.com/jamierossouw/prediction-market-aggregator",
+      "clawhub_downloads": 255,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "prediction-market-aggregator",
+      "clawhub_url": "https://clawhub.ai/skills/prediction-market-aggregator",
+      "clawhub_display_name": "Prediction Market Aggregator"
     },
     {
       "name": "rho-portfolio-tracker",
@@ -419,7 +623,13 @@
       "user_provides": "",
       "dapps": "Hyperliquid, Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/jamierossouw/rho-portfolio-tracker"
+      "github_url": "https://github.com/jamierossouw/rho-portfolio-tracker",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "rho-portfolio-tracker",
+      "clawhub_url": "https://clawhub.ai/skills/rho-portfolio-tracker",
+      "clawhub_display_name": "rho-portfolio-tracker"
     },
     {
       "name": "rho-signals",
@@ -431,7 +641,13 @@
       "user_provides": "",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/jamierossouw/rho-signals"
+      "github_url": "https://github.com/jamierossouw/rho-signals",
+      "clawhub_downloads": 202,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "rho-signals",
+      "clawhub_url": "https://clawhub.ai/skills/rho-signals",
+      "clawhub_display_name": "RHO Signals — Live Crypto TA Engine"
     },
     {
       "name": "moltalyzer",
@@ -443,7 +659,13 @@
       "user_provides": "EVM private key (x402 micropayments)",
       "dapps": "Polymarket, Moltbook",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/jcislo/moltalyzer"
+      "github_url": "https://github.com/jcislo/moltalyzer",
+      "clawhub_downloads": 449,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "moltalyzer",
+      "clawhub_url": "https://clawhub.ai/skills/moltalyzer",
+      "clawhub_display_name": "Moltalyzer"
     },
     {
       "name": "polymarketodds",
@@ -455,7 +677,13 @@
       "user_provides": "Python3 environment",
       "dapps": "Polymarket",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/joelchance/polymarketodds"
+      "github_url": "https://github.com/joelchance/polymarketodds",
+      "clawhub_downloads": 50735,
+      "clawhub_stars": 128,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "polymarketodds",
+      "clawhub_url": "https://clawhub.ai/skills/polymarketodds",
+      "clawhub_display_name": "Polymarket"
     },
     {
       "name": "openscan-crypto",
@@ -467,7 +695,13 @@
       "user_provides": "",
       "dapps": "OpenScan",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/josealoha666/openscan-crypto"
+      "github_url": "https://github.com/josealoha666/openscan-crypto",
+      "clawhub_downloads": 46,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "openscan-crypto",
+      "clawhub_url": "https://clawhub.ai/skills/openscan-crypto",
+      "clawhub_display_name": "OpenScan Crypto"
     },
     {
       "name": "hyperliquid",
@@ -479,7 +713,13 @@
       "user_provides": "",
       "dapps": "Hyperliquid",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/k0nkupa/hyperliquid"
+      "github_url": "https://github.com/k0nkupa/hyperliquid",
+      "clawhub_downloads": 2013,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "hyperliquid",
+      "clawhub_url": "https://clawhub.ai/skills/hyperliquid",
+      "clawhub_display_name": "Hyperliquid"
     },
     {
       "name": "get-kalshi-live-games",
@@ -491,7 +731,13 @@
       "user_provides": "Browser environment",
       "dapps": "Kalshi",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/kanakamedalasumanth/get-kalshi-live-games"
+      "github_url": "https://github.com/kanakamedalasumanth/get-kalshi-live-games",
+      "clawhub_downloads": 268,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "get-kalshi-live-games",
+      "clawhub_url": "https://clawhub.ai/skills/get-kalshi-live-games",
+      "clawhub_display_name": "Get Kalshi Live Games"
     },
     {
       "name": "prediction-bridge",
@@ -503,7 +749,13 @@
       "user_provides": "Python3 environment",
       "dapps": "Polymarket, Kalshi, PredictFun, SxBet",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/kimcheese888/prediction-bridge"
+      "github_url": "https://github.com/kimcheese888/prediction-bridge",
+      "clawhub_downloads": 390,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "prediction-bridge",
+      "clawhub_url": "https://clawhub.ai/skills/prediction-bridge",
+      "clawhub_display_name": "Prediction Bridge Skill"
     },
     {
       "name": "polymarket-1-0-0",
@@ -515,7 +767,13 @@
       "user_provides": "",
       "dapps": "Polymarket",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/leochan14/polymarket-1-0-0"
+      "github_url": "https://github.com/leochan14/polymarket-1-0-0",
+      "clawhub_downloads": 598,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-1-0-0",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-1-0-0",
+      "clawhub_display_name": "Polymarket 1.0.0"
     },
     {
       "name": "apechain-reader",
@@ -527,7 +785,13 @@
       "user_provides": "Alchemy API key (optional)",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/luigi08001/apechain-reader"
+      "github_url": "https://github.com/luigi08001/apechain-reader",
+      "clawhub_downloads": 225,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "apechain-reader",
+      "clawhub_url": "https://clawhub.ai/skills/apechain-reader",
+      "clawhub_display_name": "Apechain Reader"
     },
     {
       "name": "dune-analytics-api",
@@ -539,7 +803,13 @@
       "user_provides": "Dune API key, Python3 environment",
       "dapps": "Dune Analytics",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/lz-web3/dune-analytics-api"
+      "github_url": "https://github.com/lz-web3/dune-analytics-api",
+      "clawhub_downloads": 208,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "dune-analytics-api",
+      "clawhub_url": "https://clawhub.ai/skills/dune-analytics-api",
+      "clawhub_display_name": "Dune Analytics Api"
     },
     {
       "name": "web3-grant-tracker",
@@ -551,7 +821,13 @@
       "user_provides": "",
       "dapps": "Gitcoin, Giveth",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/mariusfit/web3-grant-tracker"
+      "github_url": "https://github.com/mariusfit/web3-grant-tracker",
+      "clawhub_downloads": 77,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "web3-grant-tracker",
+      "clawhub_url": "https://clawhub.ai/skills/web3-grant-tracker",
+      "clawhub_display_name": "web3-grant-tracker"
     },
     {
       "name": "polymarket-news-monitor",
@@ -563,7 +839,13 @@
       "user_provides": "",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/mig6671/polymarket-news-monitor"
+      "github_url": "https://github.com/mig6671/polymarket-news-monitor",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-news-monitor",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-news-monitor",
+      "clawhub_display_name": "polymarket-news-monitor"
     },
     {
       "name": "agentcanary",
@@ -575,7 +857,13 @@
       "user_provides": "AgentCanary API key",
       "dapps": "Polymarket",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/mrcerq/agentcanary"
+      "github_url": "https://github.com/mrcerq/agentcanary",
+      "clawhub_downloads": 212,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "agentcanary",
+      "clawhub_url": "https://clawhub.ai/skills/agentcanary",
+      "clawhub_display_name": "AgentCanary"
     },
     {
       "name": "polyvision",
@@ -587,7 +875,13 @@
       "user_provides": "Polymarket wallet address",
       "dapps": "Polymarket",
       "run_mode": "One-Time",
-      "github_url": "https://github.com/mysticriverx/polyvision"
+      "github_url": "https://github.com/mysticriverx/polyvision",
+      "clawhub_downloads": 1168,
+      "clawhub_stars": 8,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "polyvision",
+      "clawhub_url": "https://clawhub.ai/skills/polyvision",
+      "clawhub_display_name": "Polyvision"
     },
     {
       "name": "coinversaa-pulse",
@@ -599,7 +893,13 @@
       "user_provides": "Coinversaa API key",
       "dapps": "Hyperliquid, Coinversaa",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/nazchedz/coinversaa-pulse"
+      "github_url": "https://github.com/nazchedz/coinversaa-pulse",
+      "clawhub_downloads": 17,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "coinversaa-pulse",
+      "clawhub_url": "https://clawhub.ai/skills/coinversaa-pulse",
+      "clawhub_display_name": "Coinversaa Pulse"
     },
     {
       "name": "prism-alerts",
@@ -611,7 +911,13 @@
       "user_provides": "",
       "dapps": "Pumpfun",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/nextfrontierbuilds/prism-alerts"
+      "github_url": "https://github.com/nextfrontierbuilds/prism-alerts",
+      "clawhub_downloads": 1568,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "prism-alerts",
+      "clawhub_url": "https://clawhub.ai/skills/prism-alerts",
+      "clawhub_display_name": "Prism Alerts"
     },
     {
       "name": "claw-trader-lite",
@@ -623,7 +929,13 @@
       "user_provides": "Hyperliquid wallet address (optional)",
       "dapps": "Hyperliquid, LN Markets",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/nickymick8/claw-trader-lite"
+      "github_url": "https://github.com/nickymick8/claw-trader-lite",
+      "clawhub_downloads": 455,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "claw-trader-lite",
+      "clawhub_url": "https://clawhub.ai/skills/claw-trader-lite",
+      "clawhub_display_name": "Claw Trader Lite"
     },
     {
       "name": "crypto-cog",
@@ -635,7 +947,13 @@
       "user_provides": "CellCog SDK",
       "dapps": "CellCog",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/nitishgargiitd/crypto-cog"
+      "github_url": "https://github.com/nitishgargiitd/crypto-cog",
+      "clawhub_downloads": 1253,
+      "clawhub_stars": 6,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "crypto-cog",
+      "clawhub_url": "https://clawhub.ai/skills/crypto-cog",
+      "clawhub_display_name": "crypto-cog"
     },
     {
       "name": "better-polymarket",
@@ -647,7 +965,13 @@
       "user_provides": "Python3 environment",
       "dapps": "Polymarket",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/noreplyboter/better-polymarket"
+      "github_url": "https://github.com/noreplyboter/better-polymarket",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "better-polymarket",
+      "clawhub_url": "https://clawhub.ai/skills/better-polymarket",
+      "clawhub_display_name": "better-polymarket"
     },
     {
       "name": "polymarket-all-in-one",
@@ -659,7 +983,13 @@
       "user_provides": "Python3 environment",
       "dapps": "Polymarket",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/noreplyboter/polymarket-all-in-one"
+      "github_url": "https://github.com/noreplyboter/polymarket-all-in-one",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-all-in-one",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-all-in-one",
+      "clawhub_display_name": "polymarket-all-in-one"
     },
     {
       "name": "moralis-data-api",
@@ -671,7 +1001,13 @@
       "user_provides": "Moralis API key",
       "dapps": "Moralis",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/novnski/moralis-data-api"
+      "github_url": "https://github.com/novnski/moralis-data-api",
+      "clawhub_downloads": 84,
+      "clawhub_stars": 1,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "moralis-data-api",
+      "clawhub_url": "https://clawhub.ai/skills/moralis-data-api",
+      "clawhub_display_name": "Moralis Data Api"
     },
     {
       "name": "switchboard-data-operator",
@@ -683,7 +1019,13 @@
       "user_provides": "",
       "dapps": "Switchboard",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/oakencore/switchboard-data-operator"
+      "github_url": "https://github.com/oakencore/switchboard-data-operator",
+      "clawhub_downloads": 484,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "switchboard-data-operator",
+      "clawhub_url": "https://clawhub.ai/skills/switchboard-data-operator",
+      "clawhub_display_name": "Switchboard Skills"
     },
     {
       "name": "aicoin",
@@ -695,7 +1037,13 @@
       "user_provides": "AiCoin API Key",
       "dapps": "AiCoin",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/procaross/aicoin"
+      "github_url": "https://github.com/procaross/aicoin",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "aicoin",
+      "clawhub_url": "https://clawhub.ai/skills/aicoin",
+      "clawhub_display_name": "aicoin"
     },
     {
       "name": "on-chain-analyitcs",
@@ -707,7 +1055,13 @@
       "user_provides": "Contract address, Dune API Key",
       "dapps": "Dune",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/ramitphi/on-chain-analyitcs"
+      "github_url": "https://github.com/ramitphi/on-chain-analyitcs",
+      "clawhub_downloads": 85,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "on-chain-analyitcs",
+      "clawhub_url": "https://clawhub.ai/skills/on-chain-analyitcs",
+      "clawhub_display_name": "on-chain analytics for evm contract"
     },
     {
       "name": "reef-memecoin-scanner",
@@ -719,7 +1073,13 @@
       "user_provides": "",
       "dapps": "",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/rimelucci/reef-memecoin-scanner"
+      "github_url": "https://github.com/rimelucci/reef-memecoin-scanner",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "reef-memecoin-scanner",
+      "clawhub_url": "https://clawhub.ai/skills/reef-memecoin-scanner",
+      "clawhub_display_name": "reef-memecoin-scanner"
     },
     {
       "name": "insider-wallets-finder",
@@ -731,7 +1091,13 @@
       "user_provides": "Etherscan API Key",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/sakaen736jih/insider-wallets-finder"
+      "github_url": "https://github.com/sakaen736jih/insider-wallets-finder",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "insider-wallets-finder",
+      "clawhub_url": "https://clawhub.ai/skills/insider-wallets-finder",
+      "clawhub_display_name": "insider-wallets-finder"
     },
     {
       "name": "zapper",
@@ -743,7 +1109,13 @@
       "user_provides": "Zapper API Key",
       "dapps": "Zapper",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/spirosrap/zapper"
+      "github_url": "https://github.com/spirosrap/zapper",
+      "clawhub_downloads": 1492,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "zapper",
+      "clawhub_url": "https://clawhub.ai/skills/zapper",
+      "clawhub_display_name": "Zapper"
     },
     {
       "name": "trading-brain",
@@ -755,7 +1127,13 @@
       "user_provides": "",
       "dapps": "Polymarket",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/travislius/trading-brain"
+      "github_url": "https://github.com/travislius/trading-brain",
+      "clawhub_downloads": 94,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "trading-brain",
+      "clawhub_url": "https://clawhub.ai/skills/trading-brain",
+      "clawhub_display_name": "Trading Brain"
     },
     {
       "name": "zerion-api-skill-2",
@@ -767,7 +1145,13 @@
       "user_provides": "Zerion API Key",
       "dapps": "Zerion",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/vshamanov/zerion-api-skill-2"
+      "github_url": "https://github.com/vshamanov/zerion-api-skill-2",
+      "clawhub_downloads": 1012,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "zerion-api-skill-2",
+      "clawhub_url": "https://clawhub.ai/skills/zerion-api-skill-2",
+      "clawhub_display_name": "Zerion Api"
     },
     {
       "name": "meme-signal",
@@ -779,7 +1163,13 @@
       "user_provides": "",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/weidadong2359/meme-signal"
+      "github_url": "https://github.com/weidadong2359/meme-signal",
+      "clawhub_downloads": 265,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "meme-signal",
+      "clawhub_url": "https://clawhub.ai/skills/meme-signal",
+      "clawhub_display_name": "Meme Signal Scanner"
     },
     {
       "name": "analyze-burn-economics",
@@ -791,7 +1181,13 @@
       "user_provides": "",
       "dapps": "Uniswap",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/wpank/analyze-burn-economics"
+      "github_url": "https://github.com/wpank/analyze-burn-economics",
+      "clawhub_downloads": 444,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "analyze-burn-economics",
+      "clawhub_url": "https://clawhub.ai/skills/analyze-burn-economics",
+      "clawhub_display_name": "Uniswap Analyze Burn Economics"
     },
     {
       "name": "analyze-pool",
@@ -803,7 +1199,13 @@
       "user_provides": "",
       "dapps": "Uniswap",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/wpank/analyze-pool"
+      "github_url": "https://github.com/wpank/analyze-pool",
+      "clawhub_downloads": 457,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "analyze-pool",
+      "clawhub_url": "https://clawhub.ai/skills/analyze-pool",
+      "clawhub_display_name": "Uniswap Analyze Pool"
     },
     {
       "name": "monitor-tokenjar",
@@ -815,7 +1217,13 @@
       "user_provides": "",
       "dapps": "Uniswap",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/wpank/monitor-tokenjar"
+      "github_url": "https://github.com/wpank/monitor-tokenjar",
+      "clawhub_downloads": 438,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "monitor-tokenjar",
+      "clawhub_url": "https://clawhub.ai/skills/monitor-tokenjar",
+      "clawhub_display_name": "Uniswap Monitor Tokenjar"
     },
     {
       "name": "portfolio-report",
@@ -827,7 +1235,13 @@
       "user_provides": "Wallet address (optional)",
       "dapps": "Uniswap",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/wpank/portfolio-report"
+      "github_url": "https://github.com/wpank/portfolio-report",
+      "clawhub_downloads": 437,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "portfolio-report",
+      "clawhub_url": "https://clawhub.ai/skills/portfolio-report",
+      "clawhub_display_name": "Uniswap Portfolio Report"
     },
     {
       "name": "research-token",
@@ -839,7 +1253,13 @@
       "user_provides": "Token name or contract address",
       "dapps": "Uniswap",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/wpank/research-token"
+      "github_url": "https://github.com/wpank/research-token",
+      "clawhub_downloads": 438,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "research-token",
+      "clawhub_url": "https://clawhub.ai/skills/research-token",
+      "clawhub_display_name": "Uniswap Research Token"
     },
     {
       "name": "track-performance",
@@ -851,7 +1271,13 @@
       "user_provides": "Wallet address (optional)",
       "dapps": "Uniswap",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/wpank/track-performance"
+      "github_url": "https://github.com/wpank/track-performance",
+      "clawhub_downloads": 427,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "track-performance",
+      "clawhub_url": "https://clawhub.ai/skills/track-performance",
+      "clawhub_display_name": "Uniswap Track Performance"
     },
     {
       "name": "uniswap-pool-analysis",
@@ -863,7 +1289,13 @@
       "user_provides": "Pool address or token pair",
       "dapps": "Uniswap",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/wpank/uniswap-pool-analysis"
+      "github_url": "https://github.com/wpank/uniswap-pool-analysis",
+      "clawhub_downloads": 468,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "uniswap-pool-analysis",
+      "clawhub_url": "https://clawhub.ai/skills/uniswap-pool-analysis",
+      "clawhub_display_name": "Uniswap Pool Analysis"
     },
     {
       "name": "polymarket-monitor",
@@ -875,7 +1307,13 @@
       "user_provides": "Market topic, threshold",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/xmeir-dev/polymarket-monitor"
+      "github_url": "https://github.com/xmeir-dev/polymarket-monitor",
+      "clawhub_downloads": 227,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-monitor",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-monitor",
+      "clawhub_display_name": "Polymarket Monitor"
     },
     {
       "name": "polymarket-latest-events",
@@ -887,7 +1325,13 @@
       "user_provides": "",
       "dapps": "Polymarket",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/yaplora/polymarket-latest-events"
+      "github_url": "https://github.com/yaplora/polymarket-latest-events",
+      "clawhub_downloads": 989,
+      "clawhub_stars": 4,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "polymarket-latest-events",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-latest-events",
+      "clawhub_display_name": "Polymarket Latest Events"
     },
     {
       "name": "unifai-trading-suite",
@@ -899,7 +1343,13 @@
       "user_provides": "UnifAI API Key, Google API Key",
       "dapps": "Polymarket, Kalshi",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/zbruceli/unifai-trading-suite"
+      "github_url": "https://github.com/zbruceli/unifai-trading-suite",
+      "clawhub_downloads": 1655,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "unifai-trading-suite",
+      "clawhub_url": "https://clawhub.ai/skills/unifai-trading-suite",
+      "clawhub_display_name": "UnifAI Trading Suite"
     },
     {
       "name": "openclaw-zapper-api",
@@ -911,7 +1361,13 @@
       "user_provides": "Zapper API Key, wallet address",
       "dapps": "Zapper",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/zivhm/openclaw-zapper-api"
+      "github_url": "https://github.com/zivhm/openclaw-zapper-api",
+      "clawhub_downloads": 897,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "openclaw-zapper-api",
+      "clawhub_url": "https://clawhub.ai/skills/openclaw-zapper-api",
+      "clawhub_display_name": "Zapper Api"
     },
     {
       "name": "zapper-api",
@@ -923,7 +1379,13 @@
       "user_provides": "Zapper API Key, wallet address",
       "dapps": "Zapper",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/zivhm/zapper-api"
+      "github_url": "https://github.com/zivhm/zapper-api",
+      "clawhub_downloads": 909,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "zapper-api",
+      "clawhub_url": "https://clawhub.ai/skills/zapper-api",
+      "clawhub_display_name": "zapper-api"
     },
     {
       "name": "buzz",
@@ -935,7 +1397,13 @@
       "user_provides": "Discord/Telegram webhook (optional)",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/zxcnny930/buzz"
+      "github_url": "https://github.com/zxcnny930/buzz",
+      "clawhub_downloads": 22,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "buzz",
+      "clawhub_url": "https://clawhub.ai/skills/buzz",
+      "clawhub_display_name": "Buzz"
     },
     {
       "name": "news-monitor",
@@ -947,7 +1415,13 @@
       "user_provides": "Discord/Telegram webhook (optional)",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/zxcnny930/news-monitor"
+      "github_url": "https://github.com/zxcnny930/news-monitor",
+      "clawhub_downloads": 31,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "news-monitor",
+      "clawhub_url": "https://clawhub.ai/skills/news-monitor",
+      "clawhub_display_name": "News Monitor"
     },
     {
       "name": "polymarket-analysis",
@@ -959,7 +1433,13 @@
       "user_provides": "Market URL or wallet address",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/hiehoo/polymarket-analysis"
+      "github_url": "https://github.com/hiehoo/polymarket-analysis",
+      "clawhub_downloads": 4056,
+      "clawhub_stars": 10,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-analysis",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-analysis",
+      "clawhub_display_name": "Polymarket Analysis"
     },
     {
       "name": "insider-wallets-finder-1a7pi",
@@ -971,7 +1451,13 @@
       "user_provides": "",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/hightower6eu/insider-wallets-finder-1a7pi"
+      "github_url": "https://github.com/hightower6eu/insider-wallets-finder-1a7pi",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "insider-wallets-finder-1a7pi",
+      "clawhub_url": "https://clawhub.ai/skills/insider-wallets-finder-1a7pi",
+      "clawhub_display_name": "insider-wallets-finder-1a7pi"
     },
     {
       "name": "insider-wallets-finder-2fz1g",
@@ -983,7 +1469,13 @@
       "user_provides": "",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/hightower6eu/insider-wallets-finder-2fz1g"
+      "github_url": "https://github.com/hightower6eu/insider-wallets-finder-2fz1g",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "insider-wallets-finder-2fz1g",
+      "clawhub_url": "https://clawhub.ai/skills/insider-wallets-finder-2fz1g",
+      "clawhub_display_name": "insider-wallets-finder-2fz1g"
     },
     {
       "name": "insider-wallets-finder-57h4t",
@@ -995,7 +1487,13 @@
       "user_provides": "",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/hightower6eu/insider-wallets-finder-57h4t"
+      "github_url": "https://github.com/hightower6eu/insider-wallets-finder-57h4t",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "insider-wallets-finder-57h4t",
+      "clawhub_url": "https://clawhub.ai/skills/insider-wallets-finder-57h4t",
+      "clawhub_display_name": "insider-wallets-finder-57h4t"
     },
     {
       "name": "insider-wallets-finder-9dlka",
@@ -1007,7 +1505,13 @@
       "user_provides": "",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/hightower6eu/insider-wallets-finder-9dlka"
+      "github_url": "https://github.com/hightower6eu/insider-wallets-finder-9dlka",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "insider-wallets-finder-9dlka",
+      "clawhub_url": "https://clawhub.ai/skills/insider-wallets-finder-9dlka",
+      "clawhub_display_name": "insider-wallets-finder-9dlka"
     },
     {
       "name": "insider-wallets-finder-bjs4y",
@@ -1019,7 +1523,13 @@
       "user_provides": "",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/hightower6eu/insider-wallets-finder-bjs4y"
+      "github_url": "https://github.com/hightower6eu/insider-wallets-finder-bjs4y",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "insider-wallets-finder-bjs4y",
+      "clawhub_url": "https://clawhub.ai/skills/insider-wallets-finder-bjs4y",
+      "clawhub_display_name": "insider-wallets-finder-bjs4y"
     },
     {
       "name": "insider-wallets-finder-btj6c",
@@ -1031,7 +1541,13 @@
       "user_provides": "",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/hightower6eu/insider-wallets-finder-btj6c"
+      "github_url": "https://github.com/hightower6eu/insider-wallets-finder-btj6c",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "insider-wallets-finder-btj6c",
+      "clawhub_url": "https://clawhub.ai/skills/insider-wallets-finder-btj6c",
+      "clawhub_display_name": "insider-wallets-finder-btj6c"
     },
     {
       "name": "insider-wallets-finder-c86ge",
@@ -1043,7 +1559,13 @@
       "user_provides": "",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/hightower6eu/insider-wallets-finder-c86ge"
+      "github_url": "https://github.com/hightower6eu/insider-wallets-finder-c86ge",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "insider-wallets-finder-c86ge",
+      "clawhub_url": "https://clawhub.ai/skills/insider-wallets-finder-c86ge",
+      "clawhub_display_name": "insider-wallets-finder-c86ge"
     },
     {
       "name": "insider-wallets-finder-cv1d9",
@@ -1055,7 +1577,13 @@
       "user_provides": "",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/hightower6eu/insider-wallets-finder-cv1d9"
+      "github_url": "https://github.com/hightower6eu/insider-wallets-finder-cv1d9",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "insider-wallets-finder-cv1d9",
+      "clawhub_url": "https://clawhub.ai/skills/insider-wallets-finder-cv1d9",
+      "clawhub_display_name": "insider-wallets-finder-cv1d9"
     },
     {
       "name": "insider-wallets-finder-djiq0",
@@ -1067,7 +1595,13 @@
       "user_provides": "",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/hightower6eu/insider-wallets-finder-djiq0"
+      "github_url": "https://github.com/hightower6eu/insider-wallets-finder-djiq0",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "insider-wallets-finder-djiq0",
+      "clawhub_url": "https://clawhub.ai/skills/insider-wallets-finder-djiq0",
+      "clawhub_display_name": "insider-wallets-finder-djiq0"
     },
     {
       "name": "insider-wallets-finder-firui",
@@ -1079,7 +1613,13 @@
       "user_provides": "",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/hightower6eu/insider-wallets-finder-firui"
+      "github_url": "https://github.com/hightower6eu/insider-wallets-finder-firui",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "insider-wallets-finder-firui",
+      "clawhub_url": "https://clawhub.ai/skills/insider-wallets-finder-firui",
+      "clawhub_display_name": "insider-wallets-finder-firui"
     },
     {
       "name": "insider-wallets-finder-gxgfy",
@@ -1091,7 +1631,13 @@
       "user_provides": "",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/hightower6eu/insider-wallets-finder-gxgfy"
+      "github_url": "https://github.com/hightower6eu/insider-wallets-finder-gxgfy",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "insider-wallets-finder-gxgfy",
+      "clawhub_url": "https://clawhub.ai/skills/insider-wallets-finder-gxgfy",
+      "clawhub_display_name": "insider-wallets-finder-gxgfy"
     },
     {
       "name": "insider-wallets-finder-h5syo",
@@ -1103,7 +1649,13 @@
       "user_provides": "",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/hightower6eu/insider-wallets-finder-h5syo"
+      "github_url": "https://github.com/hightower6eu/insider-wallets-finder-h5syo",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "insider-wallets-finder-h5syo",
+      "clawhub_url": "https://clawhub.ai/skills/insider-wallets-finder-h5syo",
+      "clawhub_display_name": "insider-wallets-finder-h5syo"
     },
     {
       "name": "insider-wallets-finder-hbmjm",
@@ -1115,7 +1667,13 @@
       "user_provides": "",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/hightower6eu/insider-wallets-finder-hbmjm"
+      "github_url": "https://github.com/hightower6eu/insider-wallets-finder-hbmjm",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "insider-wallets-finder-hbmjm",
+      "clawhub_url": "https://clawhub.ai/skills/insider-wallets-finder-hbmjm",
+      "clawhub_display_name": "insider-wallets-finder-hbmjm"
     },
     {
       "name": "meganode-skill",
@@ -1127,7 +1685,13 @@
       "user_provides": "NodeReal API Key",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/aiden-cao/meganode-skill"
+      "github_url": "https://github.com/aiden-cao/meganode-skill",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "meganode-skill",
+      "clawhub_url": "https://clawhub.ai/skills/meganode-skill",
+      "clawhub_display_name": "meganode-skill"
     },
     {
       "name": "web3-data",
@@ -1139,7 +1703,13 @@
       "user_provides": "Chainbase API Key",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/lxcong/web3-data"
+      "github_url": "https://github.com/lxcong/web3-data",
+      "clawhub_downloads": 109,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "web3-data",
+      "clawhub_url": "https://clawhub.ai/skills/web3-data",
+      "clawhub_display_name": "web3-data-skill"
     },
     {
       "name": "fia-signals-skill",
@@ -1151,7 +1721,13 @@
       "user_provides": "",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/odds7/fia-signals-skill"
+      "github_url": "https://github.com/odds7/fia-signals-skill",
+      "clawhub_downloads": 82,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "fia-signals-skill",
+      "clawhub_url": "https://clawhub.ai/skills/fia-signals-skill",
+      "clawhub_display_name": "Fía Signals"
     },
     {
       "name": "radix-explorer",
@@ -1163,7 +1739,13 @@
       "user_provides": "",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/mavremu/radix-explorer"
+      "github_url": "https://github.com/mavremu/radix-explorer",
+      "clawhub_downloads": 936,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "radix-explorer",
+      "clawhub_url": "https://clawhub.ai/skills/radix-explorer",
+      "clawhub_display_name": "Radix Explorer"
     },
     {
       "name": "emily-radix-assistant",
@@ -1175,7 +1757,13 @@
       "user_provides": "",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/mavremu/emily-radix-assistant"
+      "github_url": "https://github.com/mavremu/emily-radix-assistant",
+      "clawhub_downloads": 1055,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "emily-radix-assistant",
+      "clawhub_url": "https://clawhub.ai/skills/emily-radix-assistant",
+      "clawhub_display_name": "Emily - Your Radix Assistant"
     },
     {
       "name": "emily",
@@ -1187,7 +1775,13 @@
       "user_provides": "",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/mavremu/emily"
+      "github_url": "https://github.com/mavremu/emily",
+      "clawhub_downloads": 874,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "emily",
+      "clawhub_url": "https://clawhub.ai/skills/emily",
+      "clawhub_display_name": "emily"
     },
     {
       "name": "okx-wallet-portfolio",
@@ -1199,7 +1793,13 @@
       "user_provides": "OKX API credentials, wallet address",
       "dapps": "OKX DEX",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/ok-james-01/okx-wallet-portfolio"
+      "github_url": "https://github.com/ok-james-01/okx-wallet-portfolio",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "okx-wallet-portfolio",
+      "clawhub_url": "https://clawhub.ai/skills/okx-wallet-portfolio",
+      "clawhub_display_name": "okx-wallet-portfolio"
     },
     {
       "name": "okx-dex-token",
@@ -1211,7 +1811,13 @@
       "user_provides": "OKX API credentials",
       "dapps": "OKX DEX",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/ok-james-01/okx-dex-token"
+      "github_url": "https://github.com/ok-james-01/okx-dex-token",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "okx-dex-token",
+      "clawhub_url": "https://clawhub.ai/skills/okx-dex-token",
+      "clawhub_display_name": "okx-dex-token"
     },
     {
       "name": "okx-dex-market",
@@ -1223,7 +1829,13 @@
       "user_provides": "OKX API credentials",
       "dapps": "OKX DEX",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/ok-james-01/okx-dex-market"
+      "github_url": "https://github.com/ok-james-01/okx-dex-market",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "okx-dex-market",
+      "clawhub_url": "https://clawhub.ai/skills/okx-dex-market",
+      "clawhub_display_name": "okx-dex-market"
     },
     {
       "name": "k3-blockchain-agent",
@@ -1235,7 +1847,13 @@
       "user_provides": "K3 account",
       "dapps": "Uniswap",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/alexgrankinukr-hash/k3-blockchain-agent"
+      "github_url": "https://github.com/alexgrankinukr-hash/k3-blockchain-agent",
+      "clawhub_downloads": 220,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "k3-blockchain-agent",
+      "clawhub_url": "https://clawhub.ai/skills/k3-blockchain-agent",
+      "clawhub_display_name": "K3 Blockhain Agent Skill"
     },
     {
       "name": "ave-cloud",
@@ -1247,7 +1865,13 @@
       "user_provides": "AVE Cloud API Key (optional)",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/hope-ave/ave-cloud"
+      "github_url": "https://github.com/hope-ave/ave-cloud",
+      "clawhub_downloads": 74,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "ave-cloud",
+      "clawhub_url": "https://clawhub.ai/skills/ave-cloud",
+      "clawhub_display_name": "AVE Cloud Skill"
     },
     {
       "name": "cmc-api-onchain-data",
@@ -1259,7 +1883,13 @@
       "user_provides": "CoinMarketCap API Key",
       "dapps": "Uniswap, PancakeSwap, Raydium",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/bryan-cmc/cmc-api-onchain-data"
+      "github_url": "https://github.com/bryan-cmc/cmc-api-onchain-data",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "cmc-api-onchain-data",
+      "clawhub_url": "https://clawhub.ai/skills/cmc-api-onchain-data",
+      "clawhub_display_name": "cmc-api-onchain-data"
     },
     {
       "name": "cmc-api-dex",
@@ -1271,7 +1901,13 @@
       "user_provides": "CoinMarketCap API Key",
       "dapps": "Uniswap, PancakeSwap, Raydium",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/bryan-cmc/cmc-api-dex"
+      "github_url": "https://github.com/bryan-cmc/cmc-api-dex",
+      "clawhub_downloads": 23,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "cmc-api-dex",
+      "clawhub_url": "https://clawhub.ai/skills/cmc-api-dex",
+      "clawhub_display_name": "[Outdated] CoinMarketCap Onchain Data"
     },
     {
       "name": "warden-messari-agent",
@@ -1283,7 +1919,13 @@
       "user_provides": "Wallet (Base/Solana USDC)",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/deiu/warden-messari-agent"
+      "github_url": "https://github.com/deiu/warden-messari-agent",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "warden-messari-agent",
+      "clawhub_url": "https://clawhub.ai/skills/warden-messari-agent",
+      "clawhub_display_name": "warden-messari-agent"
     },
     {
       "name": "realtime-crypto-price-api",
@@ -1295,7 +1937,13 @@
       "user_provides": "",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/strykragent/realtime-crypto-price-api"
+      "github_url": "https://github.com/strykragent/realtime-crypto-price-api",
+      "clawhub_downloads": 884,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "realtime-crypto-price-api",
+      "clawhub_url": "https://clawhub.ai/skills/realtime-crypto-price-api",
+      "clawhub_display_name": "Real-time Crypto Price API"
     },
     {
       "name": "silverback-defi",
@@ -1307,7 +1955,13 @@
       "user_provides": "Wallet (Base USDC)",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/ridingliquid/silverback-defi"
+      "github_url": "https://github.com/ridingliquid/silverback-defi",
+      "clawhub_downloads": 1773,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "silverback-defi",
+      "clawhub_url": "https://clawhub.ai/skills/silverback-defi",
+      "clawhub_display_name": "Silverback Defi"
     },
     {
       "name": "baselight-mcp",
@@ -1319,7 +1973,13 @@
       "user_provides": "",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/pjsousa79/baselight-mcp"
+      "github_url": "https://github.com/pjsousa79/baselight-mcp",
+      "clawhub_downloads": 417,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "baselight-mcp",
+      "clawhub_url": "https://clawhub.ai/skills/baselight-mcp",
+      "clawhub_display_name": "Baselight data via MCP"
     },
     {
       "name": "okdex-market",
@@ -1331,7 +1991,13 @@
       "user_provides": "OKX API credentials",
       "dapps": "OKX DEX",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/leoricfanfan/okdex-market"
+      "github_url": "https://github.com/leoricfanfan/okdex-market",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "okdex-market",
+      "clawhub_url": "https://clawhub.ai/skills/okdex-market",
+      "clawhub_display_name": "okdex-market"
     },
     {
       "name": "crypto-market-analyzer",
@@ -1343,7 +2009,13 @@
       "user_provides": "",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/hmzo/crypto-market-analyzer"
+      "github_url": "https://github.com/hmzo/crypto-market-analyzer",
+      "clawhub_downloads": 815,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "crypto-market-analyzer",
+      "clawhub_url": "https://clawhub.ai/skills/crypto-market-analyzer",
+      "clawhub_display_name": "Crypto Market Analyzer"
     },
     {
       "name": "defillama-api",
@@ -1355,7 +2027,13 @@
       "user_provides": "DefiLlama API Key (optional)",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/poploli2/defillama-api"
+      "github_url": "https://github.com/poploli2/defillama-api",
+      "clawhub_downloads": 89,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "defillama-api",
+      "clawhub_url": "https://clawhub.ai/skills/defillama-api",
+      "clawhub_display_name": "DefiLlama API"
     },
     {
       "name": "cmc-mcp",
@@ -1367,7 +2045,13 @@
       "user_provides": "CoinMarketCap MCP API Key",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/bryan-cmc/cmc-mcp"
+      "github_url": "https://github.com/bryan-cmc/cmc-mcp",
+      "clawhub_downloads": 39,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "cmc-mcp",
+      "clawhub_url": "https://clawhub.ai/skills/cmc-mcp",
+      "clawhub_display_name": "CoinMarketCap MCP"
     },
     {
       "name": "cmc-x402",
@@ -1379,7 +2063,13 @@
       "user_provides": "Wallet (Base USDC)",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/bryan-cmc/cmc-x402"
+      "github_url": "https://github.com/bryan-cmc/cmc-x402",
+      "clawhub_downloads": 20,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "cmc-x402",
+      "clawhub_url": "https://clawhub.ai/skills/cmc-x402",
+      "clawhub_display_name": "CoinMarketCap x402 APIs"
     },
     {
       "name": "crypto-whale-monitor",
@@ -1391,7 +2081,13 @@
       "user_provides": "Target wallet address list",
       "dapps": "",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/waleolapo/crypto-whale-monitor"
+      "github_url": "https://github.com/waleolapo/crypto-whale-monitor",
+      "clawhub_downloads": 1961,
+      "clawhub_stars": 5,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "crypto-whale-monitor",
+      "clawhub_url": "https://clawhub.ai/skills/crypto-whale-monitor",
+      "clawhub_display_name": "Crypto Whale Monitor"
     },
     {
       "name": "bitget-wallet-skill",
@@ -1403,7 +2099,13 @@
       "user_provides": "Bitget Wallet API credentials (optional)",
       "dapps": "Bitget",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/karryzhang/bitget-wallet-skill"
+      "github_url": "https://github.com/karryzhang/bitget-wallet-skill",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "bitget-wallet-skill",
+      "clawhub_url": "https://clawhub.ai/skills/bitget-wallet-skill",
+      "clawhub_display_name": "bitget-wallet-skill"
     },
     {
       "name": "bgw-wallet-api",
@@ -1415,7 +2117,13 @@
       "user_provides": "Bitget Wallet API credentials (optional)",
       "dapps": "Bitget",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/karryzhang/bgw-wallet-api"
+      "github_url": "https://github.com/karryzhang/bgw-wallet-api",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "bgw-wallet-api",
+      "clawhub_url": "https://clawhub.ai/skills/bgw-wallet-api",
+      "clawhub_display_name": "bgw-wallet-api"
     },
     {
       "name": "openclaw-twitter-monitor",
@@ -1427,7 +2135,13 @@
       "user_provides": "CT_MONITOR_API_KEY",
       "dapps": "",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/tizerluo/openclaw-twitter-monitor"
+      "github_url": "https://github.com/tizerluo/openclaw-twitter-monitor",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "openclaw-twitter-monitor",
+      "clawhub_url": "https://clawhub.ai/skills/openclaw-twitter-monitor",
+      "clawhub_display_name": "openclaw-twitter-monitor"
     },
     {
       "name": "agenthc-market-intelligence",
@@ -1439,7 +2153,13 @@
       "user_provides": "AGENTHC_API_KEY",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/traderhc123/agenthc-market-intelligence"
+      "github_url": "https://github.com/traderhc123/agenthc-market-intelligence",
+      "clawhub_downloads": 717,
+      "clawhub_stars": 6,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "agenthc-market-intelligence",
+      "clawhub_url": "https://clawhub.ai/skills/agenthc-market-intelligence",
+      "clawhub_display_name": "Openclaw Skill"
     },
     {
       "name": "test",
@@ -1451,7 +2171,13 @@
       "user_provides": "Wallet address, CEX API keys (optional)",
       "dapps": "Polymarket",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/arein/test"
+      "github_url": "https://github.com/arein/test",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "test",
+      "clawhub_url": "https://clawhub.ai/skills/test",
+      "clawhub_display_name": "test"
     },
     {
       "name": "onchain-test",
@@ -1463,7 +2189,13 @@
       "user_provides": "Wallet address, CEX API keys (optional)",
       "dapps": "Polymarket",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/arein/onchain-test"
+      "github_url": "https://github.com/arein/onchain-test",
+      "clawhub_downloads": 1235,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "onchain-test",
+      "clawhub_url": "https://clawhub.ai/skills/onchain-test",
+      "clawhub_display_name": "Onchain Test"
     },
     {
       "name": "alchemy-web3",
@@ -1475,7 +2207,13 @@
       "user_provides": "ALCHEMY_API_KEY",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/gizmo-dev/alchemy-web3"
+      "github_url": "https://github.com/gizmo-dev/alchemy-web3",
+      "clawhub_downloads": 494,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "alchemy-web3",
+      "clawhub_url": "https://clawhub.ai/skills/alchemy-web3",
+      "clawhub_display_name": "Alchemy Web3"
     },
     {
       "name": "trading-research",
@@ -1487,7 +2225,13 @@
       "user_provides": "Binance API keys (optional)",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/fpsjago/trading-research"
+      "github_url": "https://github.com/fpsjago/trading-research",
+      "clawhub_downloads": 2305,
+      "clawhub_stars": 1,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "trading-research",
+      "clawhub_url": "https://clawhub.ai/skills/trading-research",
+      "clawhub_display_name": "Trading Research"
     },
     {
       "name": "asrai-x402",
@@ -1499,7 +2243,13 @@
       "user_provides": "ASRAI_PRIVATE_KEY (Base wallet)",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/abuzerasr/asrai-x402"
+      "github_url": "https://github.com/abuzerasr/asrai-x402",
+      "clawhub_downloads": 136,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "asrai-x402",
+      "clawhub_url": "https://clawhub.ai/skills/asrai-x402",
+      "clawhub_display_name": "Asrai Crypto Analysis (x402)"
     },
     {
       "name": "wallet-tracker",
@@ -1511,7 +2261,13 @@
       "user_provides": "API keys (Etherscan etc.)",
       "dapps": "",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/sakaen736jih/wallet-tracker"
+      "github_url": "https://github.com/sakaen736jih/wallet-tracker",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "wallet-tracker",
+      "clawhub_url": "https://clawhub.ai/skills/wallet-tracker",
+      "clawhub_display_name": "wallet-tracker"
     },
     {
       "name": "helius-api",
@@ -1523,7 +2279,13 @@
       "user_provides": "HELIUS_API_KEY",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/itsahedge/helius-api"
+      "github_url": "https://github.com/itsahedge/helius-api",
+      "clawhub_downloads": 633,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "helius-api",
+      "clawhub_url": "https://clawhub.ai/skills/helius-api",
+      "clawhub_display_name": "Helius API"
     },
     {
       "name": "base-alpha-scanner",
@@ -1535,7 +2297,13 @@
       "user_provides": "",
       "dapps": "",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/a4205586/base-alpha-scanner"
+      "github_url": "https://github.com/a4205586/base-alpha-scanner",
+      "clawhub_downloads": 34,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "base-alpha-scanner",
+      "clawhub_url": "https://clawhub.ai/skills/base-alpha-scanner",
+      "clawhub_display_name": "Base Alpha Scanner"
     },
     {
       "name": "crypto-portfolio-tracker-api",
@@ -1547,7 +2315,13 @@
       "user_provides": "",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/strykragent/crypto-portfolio-tracker-api"
+      "github_url": "https://github.com/strykragent/crypto-portfolio-tracker-api",
+      "clawhub_downloads": 319,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "crypto-portfolio-tracker-api",
+      "clawhub_url": "https://clawhub.ai/skills/crypto-portfolio-tracker-api",
+      "clawhub_display_name": "Crypto Portfolio Tracker API"
     },
     {
       "name": "solana-whale-alert",
@@ -1559,7 +2333,13 @@
       "user_provides": "Wallet address or trading parameters",
       "dapps": "",
       "run_mode": "Continuous AI",
-      "github_url": "https://github.com/satoshi891102/solana-whale-alert"
+      "github_url": "https://github.com/satoshi891102/solana-whale-alert",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "solana-whale-alert",
+      "clawhub_url": "https://clawhub.ai/skills/solana-whale-alert",
+      "clawhub_display_name": "solana-whale-alert"
     },
     {
       "name": "moralis",
@@ -1571,7 +2351,13 @@
       "user_provides": "MORALIS_API_KEY",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/aiwithabidi/moralis"
+      "github_url": "https://github.com/aiwithabidi/moralis",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "moralis",
+      "clawhub_url": "https://clawhub.ai/skills/moralis",
+      "clawhub_display_name": "moralis"
     },
     {
       "name": "inclawnch-analytics",
@@ -1583,7 +2369,13 @@
       "user_provides": "",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/stuart5915/inclawnch-analytics"
+      "github_url": "https://github.com/stuart5915/inclawnch-analytics",
+      "clawhub_downloads": 186,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "inclawnch-analytics",
+      "clawhub_url": "https://clawhub.ai/skills/inclawnch-analytics",
+      "clawhub_display_name": "INCLAWNCH Analytics"
     },
     {
       "name": "whale-watch",
@@ -1595,7 +2387,13 @@
       "user_provides": "Etherscan API Key (optional)",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/imaflytok/whale-watch"
+      "github_url": "https://github.com/imaflytok/whale-watch",
+      "clawhub_downloads": 37,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "whale-watch",
+      "clawhub_url": "https://clawhub.ai/skills/whale-watch",
+      "clawhub_display_name": "Whale Watch"
     },
     {
       "name": "etherscan",
@@ -1607,7 +2405,13 @@
       "user_provides": "ETHERSCAN_API_KEY",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/0xv4l3nt1n3/etherscan"
+      "github_url": "https://github.com/0xv4l3nt1n3/etherscan",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "etherscan",
+      "clawhub_url": "https://clawhub.ai/skills/etherscan",
+      "clawhub_display_name": "etherscan"
     },
     {
       "name": "hype-scanner",
@@ -1619,7 +2423,13 @@
       "user_provides": "Ollama running locally",
       "dapps": "",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/peti0402/hype-scanner"
+      "github_url": "https://github.com/peti0402/hype-scanner",
+      "clawhub_downloads": 121,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "hype-scanner",
+      "clawhub_url": "https://clawhub.ai/skills/hype-scanner",
+      "clawhub_display_name": "Hype Scanner"
     },
     {
       "name": "whale-watcher",
@@ -1631,7 +2441,13 @@
       "user_provides": "ETHERSCAN_API_KEY, TELEGRAM_BOT_TOKEN",
       "dapps": "",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/alexbrc20/whale-watcher"
+      "github_url": "https://github.com/alexbrc20/whale-watcher",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "whale-watcher",
+      "clawhub_url": "https://clawhub.ai/skills/whale-watcher",
+      "clawhub_display_name": "whale-watcher"
     },
     {
       "name": "okx-mcp-skill",
@@ -1643,7 +2459,13 @@
       "user_provides": "OKX Onchain API Key",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/jolestar/okx-mcp-skill"
+      "github_url": "https://github.com/jolestar/okx-mcp-skill",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "okx-mcp-skill",
+      "clawhub_url": "https://clawhub.ai/skills/okx-mcp-skill",
+      "clawhub_display_name": "okx-mcp-skill"
     },
     {
       "name": "eth-readonly",
@@ -1655,7 +2477,13 @@
       "user_provides": "RPC URL (optional)",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/apexfork/eth-readonly"
+      "github_url": "https://github.com/apexfork/eth-readonly",
+      "clawhub_downloads": 294,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "eth-readonly",
+      "clawhub_url": "https://clawhub.ai/skills/eth-readonly",
+      "clawhub_display_name": "Ethereum Readonly"
     },
     {
       "name": "gated-alpha",
@@ -1667,7 +2495,13 @@
       "user_provides": "EVM/Solana wallet",
       "dapps": "Gated Alpha",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/zich-agent/gated-alpha"
+      "github_url": "https://github.com/zich-agent/gated-alpha",
+      "clawhub_downloads": 76,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "gated-alpha",
+      "clawhub_url": "https://clawhub.ai/skills/gated-alpha",
+      "clawhub_display_name": "Gated Alpha"
     },
     {
       "name": "heurist-mesh",
@@ -1679,7 +2513,13 @@
       "user_provides": "",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/wjw12/heurist-mesh"
+      "github_url": "https://github.com/wjw12/heurist-mesh",
+      "clawhub_downloads": 2033,
+      "clawhub_stars": 10,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "heurist-mesh",
+      "clawhub_url": "https://clawhub.ai/skills/heurist-mesh",
+      "clawhub_display_name": "Heurist Mesh Crypto Analysis Skill"
     },
     {
       "name": "crypto-daily-dashboard",
@@ -1691,7 +2531,13 @@
       "user_provides": "BINANCE_API_KEY (optional)",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/dagangtj/crypto-daily-dashboard"
+      "github_url": "https://github.com/dagangtj/crypto-daily-dashboard",
+      "clawhub_downloads": 77,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "crypto-daily-dashboard",
+      "clawhub_url": "https://clawhub.ai/skills/crypto-daily-dashboard",
+      "clawhub_display_name": "Crypto Daily Dashboard"
     },
     {
       "name": "bios-deep-research",
@@ -1703,7 +2549,13 @@
       "user_provides": "BIOS_API_KEY (optional, x402 needs no API key)",
       "dapps": "BIOS",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/jmartink/bios-deep-research"
+      "github_url": "https://github.com/jmartink/bios-deep-research",
+      "clawhub_downloads": 77,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "bios-deep-research",
+      "clawhub_url": "https://clawhub.ai/skills/bios-deep-research",
+      "clawhub_display_name": "BIOS Deep Research"
     },
     {
       "name": "coingecko",
@@ -1715,7 +2567,13 @@
       "user_provides": "No API key needed",
       "dapps": "CoinGecko",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/olisim02/coingecko"
+      "github_url": "https://github.com/olisim02/coingecko",
+      "clawhub_downloads": 494,
+      "clawhub_stars": 1,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "coingecko",
+      "clawhub_url": "https://clawhub.ai/skills/coingecko",
+      "clawhub_display_name": "CoinGecko"
     },
     {
       "name": "market-test-price",
@@ -1727,7 +2585,13 @@
       "user_provides": "OKX API Key, Secret Key, Passphrase",
       "dapps": "OKX DEX",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/li-zoe-x/market-test-price"
+      "github_url": "https://github.com/li-zoe-x/market-test-price",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "market-test-price",
+      "clawhub_url": "https://clawhub.ai/skills/market-test-price",
+      "clawhub_display_name": "market-test-price"
     },
     {
       "name": "solana",
@@ -1739,7 +2603,13 @@
       "user_provides": "Solana address or wallet name",
       "dapps": "",
       "run_mode": "One-Time",
-      "github_url": "https://github.com/sakaen736jih/solana"
+      "github_url": "https://github.com/sakaen736jih/solana",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "solana",
+      "clawhub_url": "https://clawhub.ai/skills/solana",
+      "clawhub_display_name": "solana"
     },
     {
       "name": "token-profiler",
@@ -1751,7 +2621,13 @@
       "user_provides": "No API key needed (free tier)",
       "dapps": "CoinGecko, DexScreener, GoPlus",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/vswarm-ai/token-profiler"
+      "github_url": "https://github.com/vswarm-ai/token-profiler",
+      "clawhub_downloads": 26,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "token-profiler",
+      "clawhub_url": "https://clawhub.ai/skills/token-profiler",
+      "clawhub_display_name": "Token Profiler"
     },
     {
       "name": "qelt-blockchain",
@@ -1763,7 +2639,13 @@
       "user_provides": "curl",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/prqelt/qelt-blockchain"
+      "github_url": "https://github.com/prqelt/qelt-blockchain",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "qelt-blockchain",
+      "clawhub_url": "https://clawhub.ai/skills/qelt-blockchain",
+      "clawhub_display_name": "qelt-blockchain"
     },
     {
       "name": "gas-tracker",
@@ -1775,7 +2657,13 @@
       "user_provides": "SkillPay API (auto-billing)",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/deeplearning1993/gas-tracker"
+      "github_url": "https://github.com/deeplearning1993/gas-tracker",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "gas-tracker",
+      "clawhub_url": "https://clawhub.ai/skills/gas-tracker",
+      "clawhub_display_name": "gas-tracker"
     },
     {
       "name": "aicoin-market",
@@ -1787,7 +2675,13 @@
       "user_provides": "AICOIN_ACCESS_KEY_ID",
       "dapps": "AiCoin",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/procaross/aicoin-market"
+      "github_url": "https://github.com/procaross/aicoin-market",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "aicoin-market",
+      "clawhub_url": "https://clawhub.ai/skills/aicoin-market",
+      "clawhub_display_name": "aicoin-market"
     },
     {
       "name": "dexscreener",
@@ -1799,7 +2693,13 @@
       "user_provides": "Node.js",
       "dapps": "DexScreener",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/brs999/dexscreener"
+      "github_url": "https://github.com/brs999/dexscreener",
+      "clawhub_downloads": 180,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "dexscreener",
+      "clawhub_url": "https://clawhub.ai/skills/dexscreener",
+      "clawhub_display_name": "Dexscreener API"
     },
     {
       "name": "whalecli",
@@ -1811,7 +2711,13 @@
       "user_provides": "Etherscan API key",
       "dapps": "",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/bowen31337/whalecli"
+      "github_url": "https://github.com/bowen31337/whalecli",
+      "clawhub_downloads": 160,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "whalecli",
+      "clawhub_url": "https://clawhub.ai/skills/whalecli",
+      "clawhub_display_name": "WhaleWatch CLI"
     },
     {
       "name": "crypto-levels",
@@ -1823,7 +2729,13 @@
       "user_provides": "None",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/362224222/crypto-levels"
+      "github_url": "https://github.com/362224222/crypto-levels",
+      "clawhub_downloads": 1768,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "crypto-levels",
+      "clawhub_url": "https://clawhub.ai/skills/crypto-levels",
+      "clawhub_display_name": "Crypto Levels Analyzer"
     },
     {
       "name": "blockscout-analysis",
@@ -1835,7 +2747,13 @@
       "user_provides": "Blockscout MCP server config",
       "dapps": "Blockscout",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/akolotov/blockscout-analysis"
+      "github_url": "https://github.com/akolotov/blockscout-analysis",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "blockscout-analysis",
+      "clawhub_url": "https://clawhub.ai/skills/blockscout-analysis",
+      "clawhub_display_name": "blockscout-analysis"
     },
     {
       "name": "crypto-research-using-cmc-mcp",
@@ -1847,7 +2765,13 @@
       "user_provides": "CMC MCP API key",
       "dapps": "CoinMarketCap",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/bryan-cmc/crypto-research-using-cmc-mcp"
+      "github_url": "https://github.com/bryan-cmc/crypto-research-using-cmc-mcp",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "crypto-research-using-cmc-mcp",
+      "clawhub_url": "https://clawhub.ai/skills/crypto-research-using-cmc-mcp",
+      "clawhub_display_name": "crypto-research-using-cmc-mcp"
     },
     {
       "name": "cmc-api-crypto",
@@ -1859,7 +2783,13 @@
       "user_provides": "CMC API key",
       "dapps": "CoinMarketCap",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/bryan-cmc/cmc-api-crypto"
+      "github_url": "https://github.com/bryan-cmc/cmc-api-crypto",
+      "clawhub_downloads": 33,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "cmc-api-crypto",
+      "clawhub_url": "https://clawhub.ai/skills/cmc-api-crypto",
+      "clawhub_display_name": "CoinMarketCap Crypto APIs"
     },
     {
       "name": "alchemy",
@@ -1871,7 +2801,13 @@
       "user_provides": "ALCHEMY_API_KEY",
       "dapps": "Alchemy",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/aiwithabidi/alchemy"
+      "github_url": "https://github.com/aiwithabidi/alchemy",
+      "clawhub_downloads": 241,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "alchemy",
+      "clawhub_url": "https://clawhub.ai/skills/alchemy",
+      "clawhub_display_name": "Alchemy"
     },
     {
       "name": "binance-crypto-price",
@@ -1883,7 +2819,13 @@
       "user_provides": "None",
       "dapps": "Binance",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/yangzhe1991/binance-crypto-price"
+      "github_url": "https://github.com/yangzhe1991/binance-crypto-price",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "binance-crypto-price",
+      "clawhub_url": "https://clawhub.ai/skills/binance-crypto-price",
+      "clawhub_display_name": "binance-crypto-price"
     },
     {
       "name": "twit-mcp",
@@ -1895,7 +2837,13 @@
       "user_provides": "WALLET_PRIVATE_KEY (Base chain)",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/etherlect/twit-mcp"
+      "github_url": "https://github.com/etherlect/twit-mcp",
+      "clawhub_downloads": 131,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "twit-mcp",
+      "clawhub_url": "https://clawhub.ai/skills/twit-mcp",
+      "clawhub_display_name": "twit-mcp"
     },
     {
       "name": "alpha-copilot-skill",
@@ -1907,7 +2855,13 @@
       "user_provides": "SkillPay (auto-billing)",
       "dapps": "Binance",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/2663629531/alpha-copilot-skill"
+      "github_url": "https://github.com/2663629531/alpha-copilot-skill",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "alpha-copilot-skill",
+      "clawhub_url": "https://clawhub.ai/skills/alpha-copilot-skill",
+      "clawhub_display_name": "alpha-copilot-skill"
     },
     {
       "name": "crypto-price-tracker",
@@ -1919,7 +2873,13 @@
       "user_provides": "curl, jq",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/hykhor0601/crypto-price-tracker"
+      "github_url": "https://github.com/hykhor0601/crypto-price-tracker",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "crypto-price-tracker",
+      "clawhub_url": "https://clawhub.ai/skills/crypto-price-tracker",
+      "clawhub_display_name": "crypto-price-tracker"
     },
     {
       "name": "clawdio",
@@ -1931,7 +2891,13 @@
       "user_provides": "x402 wallet (USDC on Base Mainnet)",
       "dapps": "Clawdio",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/benschiller/clawdio"
+      "github_url": "https://github.com/benschiller/clawdio",
+      "clawhub_downloads": 778,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "clawdio",
+      "clawhub_url": "https://clawhub.ai/skills/clawdio",
+      "clawhub_display_name": "clawdio"
     },
     {
       "name": "ercdata",
@@ -1943,7 +2909,13 @@
       "user_provides": "ERCDATA_KEY, ERCDATA_CONTRACT",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/0xreisearch/ercdata"
+      "github_url": "https://github.com/0xreisearch/ercdata",
+      "clawhub_downloads": 1266,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "ercdata",
+      "clawhub_url": "https://clawhub.ai/skills/ercdata",
+      "clawhub_display_name": "ERCData"
     },
     {
       "name": "crypto-levels-1-0-3",
@@ -1955,7 +2927,13 @@
       "user_provides": "None",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/tariqsumatri82/crypto-levels-1-0-3"
+      "github_url": "https://github.com/tariqsumatri82/crypto-levels-1-0-3",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "crypto-levels-1-0-3",
+      "clawhub_url": "https://clawhub.ai/skills/crypto-levels-1-0-3",
+      "clawhub_display_name": "crypto-levels-1-0-3"
     },
     {
       "name": "newsriver-intelligence",
@@ -1967,7 +2945,13 @@
       "user_provides": "NEWSRIVER_API_KEY (or use x402 micropayments)",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/bidurs/newsriver-intelligence"
+      "github_url": "https://github.com/bidurs/newsriver-intelligence",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "newsriver-intelligence",
+      "clawhub_url": "https://clawhub.ai/skills/newsriver-intelligence",
+      "clawhub_display_name": "newsriver-intelligence"
     },
     {
       "name": "criptoya",
@@ -1979,7 +2963,13 @@
       "user_provides": "(no API key needed)",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/ferminrp/criptoya"
+      "github_url": "https://github.com/ferminrp/criptoya",
+      "clawhub_downloads": 241,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "criptoya",
+      "clawhub_url": "https://clawhub.ai/skills/criptoya",
+      "clawhub_display_name": "Crypto Prices in Latam by Criptoya"
     },
     {
       "name": "cryptocurrency-trader-skill",
@@ -1991,7 +2981,13 @@
       "user_provides": "",
       "dapps": "",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/veeramanikandanr48/cryptocurrency-trader-skill"
+      "github_url": "https://github.com/veeramanikandanr48/cryptocurrency-trader-skill",
+      "clawhub_downloads": 2495,
+      "clawhub_stars": 6,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "cryptocurrency-trader-skill",
+      "clawhub_url": "https://clawhub.ai/skills/cryptocurrency-trader-skill",
+      "clawhub_display_name": "Cryptocurrency Trader"
     },
     {
       "name": "clawracle-resolver",
@@ -2003,7 +2999,13 @@
       "user_provides": "CLAWRACLE_AGENT_KEY, MONAD_RPC_URL, MONAD_WS_RPC_URL",
       "dapps": "",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/deeakpan/clawracle-resolver"
+      "github_url": "https://github.com/deeakpan/clawracle-resolver",
+      "clawhub_downloads": 378,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "clawracle-resolver",
+      "clawhub_url": "https://clawhub.ai/skills/clawracle-resolver",
+      "clawhub_display_name": "Clawracle Oracle Resolver"
     },
     {
       "name": "sui-decompile",
@@ -2015,7 +3017,13 @@
       "user_provides": "Sui Package ID",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/easonc13/sui-decompile"
+      "github_url": "https://github.com/easonc13/sui-decompile",
+      "clawhub_downloads": 790,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "sui-decompile",
+      "clawhub_url": "https://clawhub.ai/skills/sui-decompile",
+      "clawhub_display_name": "Sui Decompile"
     },
     {
       "name": "btc-analyzer",
@@ -2027,7 +3035,13 @@
       "user_provides": "",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/newbienodes/btc-analyzer"
+      "github_url": "https://github.com/newbienodes/btc-analyzer",
+      "clawhub_downloads": 185,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "btc-analyzer",
+      "clawhub_url": "https://clawhub.ai/skills/btc-analyzer",
+      "clawhub_display_name": "BTC Analyzer"
     },
     {
       "name": "agentbox-twitter",
@@ -2039,7 +3053,13 @@
       "user_provides": "x402 wallet (Solana USDC)",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/tenequm/agentbox-twitter"
+      "github_url": "https://github.com/tenequm/agentbox-twitter",
+      "clawhub_downloads": 52,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "agentbox-twitter",
+      "clawhub_url": "https://clawhub.ai/skills/agentbox-twitter",
+      "clawhub_display_name": "AgentBox Twitter"
     },
     {
       "name": "beaconchain",
@@ -2051,7 +3071,13 @@
       "user_provides": "BEACONCHAIN_API_KEY, BEACONCHAIN_DASHBOARD_ID",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/thisisjeron/beaconchain"
+      "github_url": "https://github.com/thisisjeron/beaconchain",
+      "clawhub_downloads": 678,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "beaconchain",
+      "clawhub_url": "https://clawhub.ai/skills/beaconchain",
+      "clawhub_display_name": "Beaconchain"
     },
     {
       "name": "edge",
@@ -2063,7 +3089,13 @@
       "user_provides": "Edge MCP configuration",
       "dapps": "",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/lexomis/edge"
+      "github_url": "https://github.com/lexomis/edge",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "edge",
+      "clawhub_url": "https://clawhub.ai/skills/edge",
+      "clawhub_display_name": "edge"
     },
     {
       "name": "crypto-briefing",
@@ -2075,7 +3107,13 @@
       "user_provides": "",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/csyr/crypto-briefing"
+      "github_url": "https://github.com/csyr/crypto-briefing",
+      "clawhub_downloads": 52,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "crypto-briefing",
+      "clawhub_url": "https://clawhub.ai/skills/crypto-briefing",
+      "clawhub_display_name": "crypto briefing"
     },
     {
       "name": "bitquery-crypto-price-stream",
@@ -2087,7 +3125,13 @@
       "user_provides": "BITQUERY_API_KEY",
       "dapps": "",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/divyn/bitquery-crypto-price-stream"
+      "github_url": "https://github.com/divyn/bitquery-crypto-price-stream",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "bitquery-crypto-price-stream",
+      "clawhub_url": "https://clawhub.ai/skills/bitquery-crypto-price-stream",
+      "clawhub_display_name": "bitquery-crypto-price-stream"
     },
     {
       "name": "coingecko-price",
@@ -2099,7 +3143,13 @@
       "user_provides": "",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/ouyangabel/coingecko-price"
+      "github_url": "https://github.com/ouyangabel/coingecko-price",
+      "clawhub_downloads": 159,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "coingecko-price",
+      "clawhub_url": "https://clawhub.ai/skills/coingecko-price",
+      "clawhub_display_name": "CoinGecko Price"
     },
     {
       "name": "messari-crypto",
@@ -2111,7 +3161,13 @@
       "user_provides": "MESSARI_API_KEY",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/jds950/messari-crypto"
+      "github_url": "https://github.com/jds950/messari-crypto",
+      "clawhub_downloads": 1011,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "messari-crypto",
+      "clawhub_url": "https://clawhub.ai/skills/messari-crypto",
+      "clawhub_display_name": "Messari"
     },
     {
       "name": "fear-and-greed-index",
@@ -2123,7 +3179,13 @@
       "user_provides": "",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/arielcaba-dev/fear-and-greed-index"
+      "github_url": "https://github.com/arielcaba-dev/fear-and-greed-index",
+      "clawhub_downloads": 97,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "fear-and-greed-index",
+      "clawhub_url": "https://clawhub.ai/skills/fear-and-greed-index",
+      "clawhub_display_name": "Fear and Greed Index"
     },
     {
       "name": "crypto-market-rank",
@@ -2135,7 +3197,13 @@
       "user_provides": "",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/awessh/crypto-market-rank"
+      "github_url": "https://github.com/awessh/crypto-market-rank",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "crypto-market-rank",
+      "clawhub_url": "https://clawhub.ai/skills/crypto-market-rank",
+      "clawhub_display_name": "crypto-market-rank"
     },
     {
       "name": "meme-rush",
@@ -2147,7 +3215,13 @@
       "user_provides": "",
       "dapps": "pump.fun",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/awessh/meme-rush"
+      "github_url": "https://github.com/awessh/meme-rush",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "meme-rush",
+      "clawhub_url": "https://clawhub.ai/skills/meme-rush",
+      "clawhub_display_name": "meme-rush"
     },
     {
       "name": "binance-query-token",
@@ -2159,7 +3233,13 @@
       "user_provides": "Token name, contract address, or chain ID",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/viktor-huang/binance-query-token"
+      "github_url": "https://github.com/viktor-huang/binance-query-token",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "binance-query-token",
+      "clawhub_url": "https://clawhub.ai/skills/binance-query-token",
+      "clawhub_display_name": "binance-query-token"
     },
     {
       "name": "binance-trading-signal",
@@ -2171,7 +3251,13 @@
       "user_provides": "Chain ID (BSC/Solana)",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/viktor-huang/binance-trading-signal"
+      "github_url": "https://github.com/viktor-huang/binance-trading-signal",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "binance-trading-signal",
+      "clawhub_url": "https://clawhub.ai/skills/binance-trading-signal",
+      "clawhub_display_name": "binance-trading-signal"
     },
     {
       "name": "moralis-streams-api",
@@ -2183,7 +3269,13 @@
       "user_provides": "Moralis API Key, wallet address, contract address, webhook URL",
       "dapps": "Moralis",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/novnski/moralis-streams-api"
+      "github_url": "https://github.com/novnski/moralis-streams-api",
+      "clawhub_downloads": 72,
+      "clawhub_stars": 1,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "moralis-streams-api",
+      "clawhub_url": "https://clawhub.ai/skills/moralis-streams-api",
+      "clawhub_display_name": "Moralis Streams Api"
     },
     {
       "name": "sovereign-liquidity-sniffer",
@@ -2195,7 +3287,13 @@
       "user_provides": "Target trading pair",
       "dapps": "",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/tmstudio667-commits/sovereign-liquidity-sniffer"
+      "github_url": "https://github.com/tmstudio667-commits/sovereign-liquidity-sniffer",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "sovereign-liquidity-sniffer",
+      "clawhub_url": "https://clawhub.ai/skills/sovereign-liquidity-sniffer",
+      "clawhub_display_name": "sovereign-liquidity-sniffer"
     },
     {
       "name": "aikek",
@@ -2207,7 +3305,13 @@
       "user_provides": "AIKEK API Token, Solana private key",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/vvsotnikov/aikek"
+      "github_url": "https://github.com/vvsotnikov/aikek",
+      "clawhub_downloads": 1184,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "aikek",
+      "clawhub_url": "https://clawhub.ai/skills/aikek",
+      "clawhub_display_name": "AIKEK API"
     },
     {
       "name": "base",
@@ -2219,7 +3323,13 @@
       "user_provides": "Base wallet address",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/spirosrap/base"
+      "github_url": "https://github.com/spirosrap/base",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "base",
+      "clawhub_url": "https://clawhub.ai/skills/base",
+      "clawhub_display_name": "base"
     },
     {
       "name": "marsbit-crypto-news-skill",
@@ -2231,7 +3341,13 @@
       "user_provides": "No additional input required",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/domilin/marsbit-crypto-news-skill"
+      "github_url": "https://github.com/domilin/marsbit-crypto-news-skill",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "marsbit-crypto-news-skill",
+      "clawhub_url": "https://clawhub.ai/skills/marsbit-crypto-news-skill",
+      "clawhub_display_name": "marsbit-crypto-news-skill"
     },
     {
       "name": "agentfinobs",
@@ -2243,7 +3359,13 @@
       "user_provides": "Agent ID, budget rules",
       "dapps": "",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/oc127/agentfinobs"
+      "github_url": "https://github.com/oc127/agentfinobs",
+      "clawhub_downloads": 38,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "agentfinobs",
+      "clawhub_url": "https://clawhub.ai/skills/agentfinobs",
+      "clawhub_display_name": "Agentfinobs"
     },
     {
       "name": "aicoin-hyperliquid",
@@ -2255,7 +3377,13 @@
       "user_provides": "AiCoin Access Key",
       "dapps": "Hyperliquid",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/procaross/aicoin-hyperliquid"
+      "github_url": "https://github.com/procaross/aicoin-hyperliquid",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "aicoin-hyperliquid",
+      "clawhub_url": "https://clawhub.ai/skills/aicoin-hyperliquid",
+      "clawhub_display_name": "aicoin-hyperliquid"
     },
     {
       "name": "gecko-terminal",
@@ -2267,7 +3395,13 @@
       "user_provides": "Network name, token or pool address",
       "dapps": "GeckoTerminal",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/brs999/gecko-terminal"
+      "github_url": "https://github.com/brs999/gecko-terminal",
+      "clawhub_downloads": 154,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "gecko-terminal",
+      "clawhub_url": "https://clawhub.ai/skills/gecko-terminal",
+      "clawhub_display_name": "Gecko Terminal API"
     },
     {
       "name": "polymarket-tracker",
@@ -2279,7 +3413,13 @@
       "user_provides": "SkillPay account",
       "dapps": "Polymarket",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/ariesdevil/polymarket-tracker"
+      "github_url": "https://github.com/ariesdevil/polymarket-tracker",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-tracker",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-tracker",
+      "clawhub_display_name": "polymarket-tracker"
     },
     {
       "name": "market-pulse",
@@ -2291,7 +3431,13 @@
       "user_provides": "",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/lopushok9/market-pulse"
+      "github_url": "https://github.com/lopushok9/market-pulse",
+      "clawhub_downloads": 2144,
+      "clawhub_stars": 4,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "market-pulse",
+      "clawhub_url": "https://clawhub.ai/skills/market-pulse",
+      "clawhub_display_name": "market pulse"
     },
     {
       "name": "ordiscan",
@@ -2303,7 +3449,13 @@
       "user_provides": "Wallet (x402 payment)",
       "dapps": "Ordiscan",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/t4t5/ordiscan"
+      "github_url": "https://github.com/t4t5/ordiscan",
+      "clawhub_downloads": 194,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "ordiscan",
+      "clawhub_url": "https://clawhub.ai/skills/ordiscan",
+      "clawhub_display_name": "Ordiscan"
     },
     {
       "name": "finance-radar",
@@ -2315,7 +3467,13 @@
       "user_provides": "SkillPay account",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/elevo11/finance-radar"
+      "github_url": "https://github.com/elevo11/finance-radar",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "finance-radar",
+      "clawhub_url": "https://clawhub.ai/skills/finance-radar",
+      "clawhub_display_name": "finance-radar"
     },
     {
       "name": "trading-knowledge",
@@ -2327,7 +3485,13 @@
       "user_provides": "",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/raphael2025/trading-knowledge"
+      "github_url": "https://github.com/raphael2025/trading-knowledge",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "trading-knowledge",
+      "clawhub_url": "https://clawhub.ai/skills/trading-knowledge",
+      "clawhub_display_name": "trading-knowledge"
     },
     {
       "name": "game-theory",
@@ -2339,7 +3503,13 @@
       "user_provides": "",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/sp0oby/game-theory"
+      "github_url": "https://github.com/sp0oby/game-theory",
+      "clawhub_downloads": 1441,
+      "clawhub_stars": 4,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "game-theory",
+      "clawhub_url": "https://clawhub.ai/skills/game-theory",
+      "clawhub_display_name": "Game Theory"
     },
     {
       "name": "market-report-using-cmc-mcp",
@@ -2351,7 +3521,13 @@
       "user_provides": "CoinMarketCap API Key",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/bryan-cmc/market-report-using-cmc-mcp"
+      "github_url": "https://github.com/bryan-cmc/market-report-using-cmc-mcp",
+      "clawhub_downloads": 16,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "market-report-using-cmc-mcp",
+      "clawhub_url": "https://clawhub.ai/skills/market-report-using-cmc-mcp",
+      "clawhub_display_name": "Crypto Market Report using CoinMarketCap MCP"
     },
     {
       "name": "crypto-macro-regime",
@@ -2363,7 +3539,13 @@
       "user_provides": "",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/jamierossouw/crypto-macro-regime"
+      "github_url": "https://github.com/jamierossouw/crypto-macro-regime",
+      "clawhub_downloads": 522,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "crypto-macro-regime",
+      "clawhub_url": "https://clawhub.ai/skills/crypto-macro-regime",
+      "clawhub_display_name": "Crypto Macro Regime Classifier"
     },
     {
       "name": "macro-regime-detector",
@@ -2375,7 +3557,13 @@
       "user_provides": "",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/jamierossouw/macro-regime-detector"
+      "github_url": "https://github.com/jamierossouw/macro-regime-detector",
+      "clawhub_downloads": 247,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "macro-regime-detector",
+      "clawhub_url": "https://clawhub.ai/skills/macro-regime-detector",
+      "clawhub_display_name": "Macro Regime Detector"
     },
     {
       "name": "grok-research",
@@ -2387,7 +3575,13 @@
       "user_provides": "Grok API Key",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/arespollo/grok-research"
+      "github_url": "https://github.com/arespollo/grok-research",
+      "clawhub_downloads": 250,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "grok-research",
+      "clawhub_url": "https://clawhub.ai/skills/grok-research",
+      "clawhub_display_name": "Grok Research"
     },
     {
       "name": "etherscan-api",
@@ -2399,7 +3593,13 @@
       "user_provides": "Etherscan API Key",
       "dapps": "Etherscan",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/davidtaikocha/etherscan-api"
+      "github_url": "https://github.com/davidtaikocha/etherscan-api",
+      "clawhub_downloads": 139,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "etherscan-api",
+      "clawhub_url": "https://clawhub.ai/skills/etherscan-api",
+      "clawhub_display_name": "Etherscan"
     },
     {
       "name": "maestro-skill",
@@ -2411,7 +3611,13 @@
       "user_provides": "Wallet (x402 payment)",
       "dapps": "Maestro",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/vardominator/maestro-skill"
+      "github_url": "https://github.com/vardominator/maestro-skill",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "maestro-skill",
+      "clawhub_url": "https://clawhub.ai/skills/maestro-skill",
+      "clawhub_display_name": "maestro-skill"
     },
     {
       "name": "claude-ai-trading-skill",
@@ -2423,7 +3629,13 @@
       "user_provides": "Elfa API Key",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/nero-sensei/claude-ai-trading-skill"
+      "github_url": "https://github.com/nero-sensei/claude-ai-trading-skill",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "claude-ai-trading-skill",
+      "clawhub_url": "https://clawhub.ai/skills/claude-ai-trading-skill",
+      "clawhub_display_name": "claude-ai-trading-skill"
     },
     {
       "name": "hedera-mirror",
@@ -2435,7 +3647,13 @@
       "user_provides": "",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/imaflytok/hedera-mirror"
+      "github_url": "https://github.com/imaflytok/hedera-mirror",
+      "clawhub_downloads": 20,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "hedera-mirror",
+      "clawhub_url": "https://clawhub.ai/skills/hedera-mirror",
+      "clawhub_display_name": "Hedera Mirror"
     },
     {
       "name": "solana-stream-light",
@@ -2447,7 +3665,13 @@
       "user_provides": "Laserstream API credentials",
       "dapps": "",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/tilo-14/solana-stream-light"
+      "github_url": "https://github.com/tilo-14/solana-stream-light",
+      "clawhub_downloads": 63,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "solana-stream-light",
+      "clawhub_url": "https://clawhub.ai/skills/solana-stream-light",
+      "clawhub_display_name": "solana-stream-light"
     },
     {
       "name": "totoxu-crypto-analyzer",
@@ -2459,7 +3683,13 @@
       "user_provides": "",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/totoxu/totoxu-crypto-analyzer"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/totoxu/totoxu-crypto-analyzer",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "totoxu-crypto-analyzer",
+      "clawhub_url": "https://clawhub.ai/skills/totoxu-crypto-analyzer",
+      "clawhub_display_name": "totoxu-crypto-analyzer"
     },
     {
       "name": "tracking",
@@ -2471,7 +3701,13 @@
       "user_provides": "",
       "dapps": "GMGN",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/rzyen-hash/tracking"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/rzyen-hash/tracking",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "tracking",
+      "clawhub_url": "https://clawhub.ai/skills/tracking",
+      "clawhub_display_name": "tracking"
     },
     {
       "name": "tonscan-address-balance",
@@ -2483,7 +3719,13 @@
       "user_provides": "TON address",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/mariusfeldmann/tonscan-address-balance"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/mariusfeldmann/tonscan-address-balance",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "tonscan-address-balance",
+      "clawhub_url": "https://clawhub.ai/skills/tonscan-address-balance",
+      "clawhub_display_name": "tonscan-address-balance"
     },
     {
       "name": "leviathan-news",
@@ -2495,7 +3737,13 @@
       "user_provides": "EVM wallet private key",
       "dapps": "Leviathan News",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/zcor/leviathan-news"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/zcor/leviathan-news",
+      "clawhub_downloads": 1443,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "leviathan-news",
+      "clawhub_url": "https://clawhub.ai/skills/leviathan-news",
+      "clawhub_display_name": "Leviathan News"
     },
     {
       "name": "crypto-lens",
@@ -2507,7 +3755,13 @@
       "user_provides": "SkillPay account",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/godofbush/crypto-lens"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/godofbush/crypto-lens",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "crypto-lens",
+      "clawhub_url": "https://clawhub.ai/skills/crypto-lens",
+      "clawhub_display_name": "crypto-lens"
     },
     {
       "name": "kol-tracker",
@@ -2519,7 +3773,13 @@
       "user_provides": "TELEGRAM_BOT_TOKEN, ETHERSCAN_API_KEY",
       "dapps": "Etherscan",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/alexbrc20/kol-tracker"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/alexbrc20/kol-tracker",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "kol-tracker",
+      "clawhub_url": "https://clawhub.ai/skills/kol-tracker",
+      "clawhub_display_name": "kol-tracker"
     },
     {
       "name": "cryptocurrency-trader-skill-0-1-0",
@@ -2531,7 +3791,13 @@
       "user_provides": "",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/tariqsumatri82/cryptocurrency-trader-skill-0-1-0"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/tariqsumatri82/cryptocurrency-trader-skill-0-1-0",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "cryptocurrency-trader-skill-0-1-0",
+      "clawhub_url": "https://clawhub.ai/skills/cryptocurrency-trader-skill-0-1-0",
+      "clawhub_display_name": "cryptocurrency-trader-skill-0-1-0"
     },
     {
       "name": "eodhd",
@@ -2543,7 +3809,13 @@
       "user_provides": "EODHD API Token",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/oscraters/eodhd"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/oscraters/eodhd",
+      "clawhub_downloads": 27,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "eodhd",
+      "clawhub_url": "https://clawhub.ai/skills/eodhd",
+      "clawhub_display_name": "EODHD CLI"
     },
     {
       "name": "basecred",
@@ -2555,7 +3827,13 @@
       "user_provides": "Wallet address or Farcaster username",
       "dapps": "Ethos, Talent Protocol, Farcaster",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/callmedas69/basecred"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/callmedas69/basecred",
+      "clawhub_downloads": 1192,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "basecred",
+      "clawhub_url": "https://clawhub.ai/skills/basecred",
+      "clawhub_display_name": "BaseCred"
     },
     {
       "name": "moltstreet",
@@ -2567,7 +3845,13 @@
       "user_provides": "Trading pair, analysis timeframe",
       "dapps": "",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/fredxyt/moltstreet"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/fredxyt/moltstreet",
+      "clawhub_downloads": 1524,
+      "clawhub_stars": 6,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "moltstreet",
+      "clawhub_url": "https://clawhub.ai/skills/moltstreet",
+      "clawhub_display_name": "Moltstreet"
     },
     {
       "name": "connectors-available",
@@ -2579,7 +3863,13 @@
       "user_provides": "None",
       "dapps": "Hummingbot",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/fengtality/connectors-available"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/fengtality/connectors-available",
+      "clawhub_downloads": 41,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "connectors-available",
+      "clawhub_url": "https://clawhub.ai/skills/connectors-available",
+      "clawhub_display_name": "Connectors Available"
     },
     {
       "name": "argus",
@@ -2591,7 +3881,13 @@
       "user_provides": "Token contract address, wallet address",
       "dapps": "Argus",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/sooyoon-eth/argus"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/sooyoon-eth/argus",
+      "clawhub_downloads": 291,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "argus",
+      "clawhub_url": "https://clawhub.ai/skills/argus",
+      "clawhub_display_name": "Argus Intelligence"
     },
     {
       "name": "sol-bsc-dev-monitor",
@@ -2603,7 +3899,13 @@
       "user_provides": "Wallet address list",
       "dapps": "",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/mybusd/sol-bsc-dev-monitor"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/mybusd/sol-bsc-dev-monitor",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "sol-bsc-dev-monitor",
+      "clawhub_url": "https://clawhub.ai/skills/sol-bsc-dev-monitor",
+      "clawhub_display_name": "sol-bsc-dev-monitor"
     },
     {
       "name": "clawwatch",
@@ -2615,7 +3917,13 @@
       "user_provides": "Token/stock tickers to watch",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/goarstne/clawwatch"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/goarstne/clawwatch",
+      "clawhub_downloads": 339,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "clawwatch",
+      "clawhub_url": "https://clawhub.ai/skills/clawwatch",
+      "clawhub_display_name": "ClawWatch"
     },
     {
       "name": "priceforagent",
@@ -2627,7 +3935,13 @@
       "user_provides": "None",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/edibez/priceforagent"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/edibez/priceforagent",
+      "clawhub_downloads": 1233,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "priceforagent",
+      "clawhub_url": "https://clawhub.ai/skills/priceforagent",
+      "clawhub_display_name": "Price for Agent"
     },
     {
       "name": "market-snapshot",
@@ -2639,7 +3953,13 @@
       "user_provides": "None",
       "dapps": "Jupiter",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/nicholasoxford/market-snapshot"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/nicholasoxford/market-snapshot",
+      "clawhub_downloads": 308,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "market-snapshot",
+      "clawhub_url": "https://clawhub.ai/skills/market-snapshot",
+      "clawhub_display_name": "Market Snapshot"
     },
     {
       "name": "openclaw-cost-guard",
@@ -2651,7 +3971,13 @@
       "user_provides": "JSONL log path",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/dasweltall/openclaw-cost-guard"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/dasweltall/openclaw-cost-guard",
+      "clawhub_downloads": 2087,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "openclaw-cost-guard",
+      "clawhub_url": "https://clawhub.ai/skills/openclaw-cost-guard",
+      "clawhub_display_name": "OpenClaw Cost Guard (Budgets + Token-Saving Playbook)"
     },
     {
       "name": "nansen-token",
@@ -2663,7 +3989,13 @@
       "user_provides": "Token contract address or ticker",
       "dapps": "Nansen",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hurcannansen/nansen-token"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hurcannansen/nansen-token",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "nansen-token",
+      "clawhub_url": "https://clawhub.ai/skills/nansen-token",
+      "clawhub_display_name": "nansen-token"
     },
     {
       "name": "nansen-search",
@@ -2675,7 +4007,13 @@
       "user_provides": "Search keyword or address",
       "dapps": "Nansen",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hurcannansen/nansen-search"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hurcannansen/nansen-search",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "nansen-search",
+      "clawhub_url": "https://clawhub.ai/skills/nansen-search",
+      "clawhub_display_name": "nansen-search"
     },
     {
       "name": "crypto-regime-report",
@@ -2687,7 +4025,13 @@
       "user_provides": "Trading pair, timeframe",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/heyztb/crypto-regime-report"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/heyztb/crypto-regime-report",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "crypto-regime-report",
+      "clawhub_url": "https://clawhub.ai/skills/crypto-regime-report",
+      "clawhub_display_name": "crypto-regime-report"
     },
     {
       "name": "token-analyzer",
@@ -2699,7 +4043,13 @@
       "user_provides": "Token contract address",
       "dapps": "GMGN",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hanguang254/token-analyzer"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hanguang254/token-analyzer",
+      "clawhub_downloads": 32,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "token-analyzer",
+      "clawhub_url": "https://clawhub.ai/skills/token-analyzer",
+      "clawhub_display_name": "Token Analyzer"
     },
     {
       "name": "near-agent-skills",
@@ -2711,7 +4061,13 @@
       "user_provides": "NEAR account ID",
       "dapps": "NEAR",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/mastrophot/near-agent-skills"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/mastrophot/near-agent-skills",
+      "clawhub_downloads": 239,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "near-agent-skills",
+      "clawhub_url": "https://clawhub.ai/skills/near-agent-skills",
+      "clawhub_display_name": "NEAR Agent Skills"
     },
     {
       "name": "openclaw-airesearchos",
@@ -2723,7 +4079,13 @@
       "user_provides": "AIresearchOS API Key or x402 wallet config",
       "dapps": "AIresearchOS",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/bowtiedbluefin/openclaw-airesearchos"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/bowtiedbluefin/openclaw-airesearchos",
+      "clawhub_downloads": 707,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "openclaw-airesearchos",
+      "clawhub_url": "https://clawhub.ai/skills/openclaw-airesearchos",
+      "clawhub_display_name": "AIresearchOS"
     },
     {
       "name": "trading-signal",
@@ -2735,7 +4097,13 @@
       "user_provides": "None",
       "dapps": "Binance",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/awessh/trading-signal"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/awessh/trading-signal",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "trading-signal",
+      "clawhub_url": "https://clawhub.ai/skills/trading-signal",
+      "clawhub_display_name": "trading-signal"
     },
     {
       "name": "whale-pulse-monitor",
@@ -2747,7 +4115,13 @@
       "user_provides": "USDC (x402 fee $0.25/call)",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/tmstudio667-commits/whale-pulse-monitor"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/tmstudio667-commits/whale-pulse-monitor",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "whale-pulse-monitor",
+      "clawhub_url": "https://clawhub.ai/skills/whale-pulse-monitor",
+      "clawhub_display_name": "whale-pulse-monitor"
     },
     {
       "name": "verdictswarm",
@@ -2759,7 +4133,13 @@
       "user_provides": "Token contract address or name",
       "dapps": "VerdictSwarm",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/vswarm-ai/verdictswarm"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/vswarm-ai/verdictswarm",
+      "clawhub_downloads": 35,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "verdictswarm",
+      "clawhub_url": "https://clawhub.ai/skills/verdictswarm",
+      "clawhub_display_name": "Verdictswarm"
     },
     {
       "name": "token-counter",
@@ -2771,7 +4151,13 @@
       "user_provides": "None",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/mkhaytman87/token-counter"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/mkhaytman87/token-counter",
+      "clawhub_downloads": 376,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "token-counter",
+      "clawhub_url": "https://clawhub.ai/skills/token-counter",
+      "clawhub_display_name": "Token Counter"
     },
     {
       "name": "qelt-rwa-oracle",
@@ -2783,7 +4169,13 @@
       "user_provides": "None required",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/prqelt/qelt-rwa-oracle"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/prqelt/qelt-rwa-oracle",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "qelt-rwa-oracle",
+      "clawhub_url": "https://clawhub.ai/skills/qelt-rwa-oracle",
+      "clawhub_display_name": "qelt-rwa-oracle"
     },
     {
       "name": "wallet-api",
@@ -2795,7 +4187,13 @@
       "user_provides": "WALLET_API_TOKEN (from BudgetBakers)",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/andresubri/wallet-api"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/andresubri/wallet-api",
+      "clawhub_downloads": 242,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "wallet-api",
+      "clawhub_url": "https://clawhub.ai/skills/wallet-api",
+      "clawhub_display_name": "Wallet (By Budgetbakers)"
     },
     {
       "name": "finance-watcher",
@@ -2807,7 +4205,13 @@
       "user_provides": "No API key needed",
       "dapps": "",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/su707181393-del/finance-watcher"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/su707181393-del/finance-watcher",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "finance-watcher",
+      "clawhub_url": "https://clawhub.ai/skills/finance-watcher",
+      "clawhub_display_name": "finance-watcher"
     },
     {
       "name": "bnbchain-mcp",
@@ -2819,7 +4223,13 @@
       "user_provides": "No additional configuration needed",
       "dapps": "Venus",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/0xlucasliao/bnbchain-mcp"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/0xlucasliao/bnbchain-mcp",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "bnbchain-mcp",
+      "clawhub_url": "https://clawhub.ai/skills/bnbchain-mcp",
+      "clawhub_display_name": "bnbchain-mcp"
     },
     {
       "name": "massive-skill",
@@ -2831,7 +4241,13 @@
       "user_provides": "MASSIVE_API_KEY",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/bruce-shi/massive-skill"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/bruce-shi/massive-skill",
+      "clawhub_downloads": 349,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "massive-skill",
+      "clawhub_url": "https://clawhub.ai/skills/massive-skill",
+      "clawhub_display_name": "Massive(Polygon)"
     },
     {
       "name": "fia-signals",
@@ -2843,7 +4259,13 @@
       "user_provides": "No API key needed (free preview)",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/odds7/fia-signals"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/odds7/fia-signals",
+      "clawhub_downloads": 50,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "fia-signals",
+      "clawhub_url": "https://clawhub.ai/skills/fia-signals",
+      "clawhub_display_name": "Fia Signals"
     },
     {
       "name": "whale-alert",
@@ -2855,7 +4277,13 @@
       "user_provides": "None",
       "dapps": "",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/deeplearning1993/whale-alert"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/deeplearning1993/whale-alert",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "whale-alert",
+      "clawhub_url": "https://clawhub.ai/skills/whale-alert",
+      "clawhub_display_name": "whale-alert"
     },
     {
       "name": "crypto-price-checker",
@@ -2867,7 +4295,13 @@
       "user_provides": "User ID (for SkillPay billing)",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/deeplearning1993/crypto-price-checker"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/deeplearning1993/crypto-price-checker",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "crypto-price-checker",
+      "clawhub_url": "https://clawhub.ai/skills/crypto-price-checker",
+      "clawhub_display_name": "crypto-price-checker"
     },
     {
       "name": "erpclaw-reports",
@@ -2879,7 +4313,13 @@
       "user_provides": "ERPClaw database (SQLite)",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/mailnike/erpclaw-reports"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/mailnike/erpclaw-reports",
+      "clawhub_downloads": 70,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "erpclaw-reports",
+      "clawhub_url": "https://clawhub.ai/skills/erpclaw-reports",
+      "clawhub_display_name": "ERPClaw-Reports"
     },
     {
       "name": "prismapi-sdk",
@@ -2891,7 +4331,13 @@
       "user_provides": "PrismAPI API Key",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/strykragent/prismapi-sdk"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/strykragent/prismapi-sdk",
+      "clawhub_downloads": 61,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "prismapi-sdk",
+      "clawhub_url": "https://clawhub.ai/skills/prismapi-sdk",
+      "clawhub_display_name": "PRISM API SDK"
     },
     {
       "name": "trading212-v2",
@@ -2903,7 +4349,13 @@
       "user_provides": "TRADING212_API_KEY, TRADING212_API_SECRET",
       "dapps": "",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/nandichi/trading212-v2"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/nandichi/trading212-v2",
+      "clawhub_downloads": 323,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "trading212-v2",
+      "clawhub_url": "https://clawhub.ai/skills/trading212-v2",
+      "clawhub_display_name": "trading212 Skill"
     },
     {
       "name": "truenorth",
@@ -2915,7 +4367,13 @@
       "user_provides": "TrueNorth CLI (npm install)",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/ljlkdskdjflsa/truenorth"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/ljlkdskdjflsa/truenorth",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "truenorth",
+      "clawhub_url": "https://clawhub.ai/skills/truenorth",
+      "clawhub_display_name": "truenorth"
     },
     {
       "name": "agent-books",
@@ -2927,7 +4385,13 @@
       "user_provides": "Node.js environment",
       "dapps": "",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/neiljo-gy/agent-books"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/neiljo-gy/agent-books",
+      "clawhub_downloads": 81,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "agent-books",
+      "clawhub_url": "https://clawhub.ai/skills/agent-books",
+      "clawhub_display_name": "AgentBooks"
     },
     {
       "name": "trading-signals-ws",
@@ -2939,7 +4403,13 @@
       "user_provides": "Telegram Bot Token and Chat ID",
       "dapps": "",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/sunnyztj/trading-signals-ws"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/sunnyztj/trading-signals-ws",
+      "clawhub_downloads": 323,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "trading-signals-ws",
+      "clawhub_url": "https://clawhub.ai/skills/trading-signals-ws",
+      "clawhub_display_name": "Trading Signals Ws"
     },
     {
       "name": "crypto-simulator",
@@ -2951,7 +4421,13 @@
       "user_provides": "No API key needed",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/sa9saq/crypto-simulator"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/sa9saq/crypto-simulator",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "crypto-simulator",
+      "clawhub_url": "https://clawhub.ai/skills/crypto-simulator",
+      "clawhub_display_name": "crypto-simulator"
     },
     {
       "name": "alpaca-py-cli",
@@ -2963,7 +4439,13 @@
       "user_provides": "ALPACA_API_KEY, ALPACA_SECRET_KEY",
       "dapps": "",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/zijunl/alpaca-py-cli"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/zijunl/alpaca-py-cli",
+      "clawhub_downloads": 326,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "alpaca-py-cli",
+      "clawhub_url": "https://clawhub.ai/skills/alpaca-py-cli",
+      "clawhub_display_name": "Alpaca Py Cli"
     },
     {
       "name": "investing",
@@ -2975,7 +4457,13 @@
       "user_provides": "None",
       "dapps": "",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/satnamra/investing"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/satnamra/investing",
+      "clawhub_downloads": 455,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "investing",
+      "clawhub_url": "https://clawhub.ai/skills/investing",
+      "clawhub_display_name": "Investing"
     },
     {
       "name": "pullthatupjamie",
@@ -2987,7 +4475,13 @@
       "user_provides": "Search keywords, topics, guest names",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/unclejim21/pullthatupjamie"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/unclejim21/pullthatupjamie",
+      "clawhub_downloads": 335,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "pullthatupjamie",
+      "clawhub_url": "https://clawhub.ai/skills/pullthatupjamie",
+      "clawhub_display_name": "Pullthatupjamie"
     },
     {
       "name": "cmc-api-market",
@@ -2999,7 +4493,13 @@
       "user_provides": "CoinMarketCap API Key",
       "dapps": "CoinMarketCap",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/bryan-cmc/cmc-api-market"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/bryan-cmc/cmc-api-market",
+      "clawhub_downloads": 26,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "cmc-api-market",
+      "clawhub_url": "https://clawhub.ai/skills/cmc-api-market",
+      "clawhub_display_name": "CoinMarketCap Market Overview APIs"
     },
     {
       "name": "dwlf",
@@ -3011,7 +4511,13 @@
       "user_provides": "Asset code, technical indicators, timeframe",
       "dapps": "DWLF",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com//dwlf"
+      "github_url": "https://github.com//dwlf",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "dwlf",
+      "clawhub_url": "https://clawhub.ai/skills/dwlf",
+      "clawhub_display_name": "dwlf"
     },
     {
       "name": "crowd-prompting",
@@ -3023,7 +4529,13 @@
       "user_provides": "Task description and requirements",
       "dapps": "",
       "run_mode": "Continuous AI",
-      "github_url": "https://github.com//crowd-prompting"
+      "github_url": "https://github.com//crowd-prompting",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "crowd-prompting",
+      "clawhub_url": "https://clawhub.ai/skills/crowd-prompting",
+      "clawhub_display_name": "crowd-prompting"
     },
     {
       "name": "zynd-network",
@@ -3035,7 +4547,13 @@
       "user_provides": "Task description and requirements",
       "dapps": "",
       "run_mode": "One-Time",
-      "github_url": "https://github.com//zynd-network"
+      "github_url": "https://github.com//zynd-network",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "zynd-network",
+      "clawhub_url": "https://clawhub.ai/skills/zynd-network",
+      "clawhub_display_name": "zynd-network"
     },
     {
       "name": "backtesting-trading-strategies",
@@ -3047,7 +4565,13 @@
       "user_provides": "Strategy parameters, historical data, backtest period",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com//backtesting-trading-strategies"
+      "github_url": "https://github.com//backtesting-trading-strategies",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "backtesting-trading-strategies",
+      "clawhub_url": "https://clawhub.ai/skills/backtesting-trading-strategies",
+      "clawhub_display_name": "backtesting-trading-strategies"
     },
     {
       "name": "receipts-guard",
@@ -3059,7 +4583,13 @@
       "user_provides": "Task description and requirements",
       "dapps": "",
       "run_mode": "One-Time",
-      "github_url": "https://github.com//receipts-guard"
+      "github_url": "https://github.com//receipts-guard",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "receipts-guard",
+      "clawhub_url": "https://clawhub.ai/skills/receipts-guard",
+      "clawhub_display_name": "receipts-guard"
     },
     {
       "name": "iseclaw-intel",
@@ -3071,7 +4601,13 @@
       "user_provides": "Projects or areas of interest",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com//iseclaw-intel"
+      "github_url": "https://github.com//iseclaw-intel",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "iseclaw-intel",
+      "clawhub_url": "https://clawhub.ai/skills/iseclaw-intel",
+      "clawhub_display_name": "iseclaw-intel"
     },
     {
       "name": "openclaw-aisa-finance-stock-equity-crypto-market-price-data-yahoo-finance-coinhacko",
@@ -3083,7 +4619,13 @@
       "user_provides": "Token symbols or stock tickers",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com//openclaw-aisa-finance-stock-equity-crypto-market-price-data-yahoo-finance-coinhacko"
+      "github_url": "https://github.com//openclaw-aisa-finance-stock-equity-crypto-market-price-data-yahoo-finance-coinhacko",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "openclaw-aisa-finance-stock-equity-crypto-market-price-data-yahoo-finance-coinhacko",
+      "clawhub_url": "https://clawhub.ai/skills/openclaw-aisa-finance-stock-equity-crypto-market-price-data-yahoo-finance-coinhacko",
+      "clawhub_display_name": "openclaw-aisa-finance-stock-equity-crypto-market-price-data-yahoo-finance-coinhacko"
     },
     {
       "name": "openclaw-aisa-financial-stock-crypto-market-price-data",
@@ -3095,7 +4637,13 @@
       "user_provides": "Token symbols or stock tickers",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com//openclaw-aisa-financial-stock-crypto-market-price-data"
+      "github_url": "https://github.com//openclaw-aisa-financial-stock-crypto-market-price-data",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "openclaw-aisa-financial-stock-crypto-market-price-data",
+      "clawhub_url": "https://clawhub.ai/skills/openclaw-aisa-financial-stock-crypto-market-price-data",
+      "clawhub_display_name": "openclaw-aisa-financial-stock-crypto-market-price-data"
     },
     {
       "name": "yahooquery",
@@ -3107,7 +4655,13 @@
       "user_provides": "Stock ticker, query type",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com//yahooquery"
+      "github_url": "https://github.com//yahooquery",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "yahooquery",
+      "clawhub_url": "https://clawhub.ai/skills/yahooquery",
+      "clawhub_display_name": "yahooquery"
     },
     {
       "name": "openmm-portfolio",
@@ -3119,7 +4673,13 @@
       "user_provides": "Exchange API keys",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com//openmm-portfolio"
+      "github_url": "https://github.com//openmm-portfolio",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "openmm-portfolio",
+      "clawhub_url": "https://clawhub.ai/skills/openmm-portfolio",
+      "clawhub_display_name": "openmm-portfolio"
     },
     {
       "name": "aisa-financial-data-api",
@@ -3131,7 +4691,13 @@
       "user_provides": "Token symbols or stock tickers",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com//aisa-financial-data-api"
+      "github_url": "https://github.com//aisa-financial-data-api",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "aisa-financial-data-api",
+      "clawhub_url": "https://clawhub.ai/skills/aisa-financial-data-api",
+      "clawhub_display_name": "aisa-financial-data-api"
     },
     {
       "name": "openclaw-aisa-finance-equity-crypto-price-market-data-news",
@@ -3143,7 +4709,13 @@
       "user_provides": "Token symbols or stock tickers",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com//openclaw-aisa-finance-equity-crypto-price-market-data-news"
+      "github_url": "https://github.com//openclaw-aisa-finance-equity-crypto-price-market-data-news",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "openclaw-aisa-finance-equity-crypto-price-market-data-news",
+      "clawhub_url": "https://clawhub.ai/skills/openclaw-aisa-finance-equity-crypto-price-market-data-news",
+      "clawhub_display_name": "openclaw-aisa-finance-equity-crypto-price-market-data-news"
     },
     {
       "name": "aisa-financial-data",
@@ -3155,7 +4727,13 @@
       "user_provides": "Token symbols or stock tickers",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com//aisa-financial-data"
+      "github_url": "https://github.com//aisa-financial-data",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "aisa-financial-data",
+      "clawhub_url": "https://clawhub.ai/skills/aisa-financial-data",
+      "clawhub_display_name": "aisa-financial-data"
     },
     {
       "name": "financial-data",
@@ -3167,7 +4745,13 @@
       "user_provides": "Token symbols or stock tickers",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com//financial-data"
+      "github_url": "https://github.com//financial-data",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "financial-data",
+      "clawhub_url": "https://clawhub.ai/skills/financial-data",
+      "clawhub_display_name": "financial-data"
     },
     {
       "name": "tonfun-feed",
@@ -3179,7 +4763,13 @@
       "user_provides": "No special input needed",
       "dapps": "TON.fun",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com//tonfun-feed"
+      "github_url": "https://github.com//tonfun-feed",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "tonfun-feed",
+      "clawhub_url": "https://clawhub.ai/skills/tonfun-feed",
+      "clawhub_display_name": "tonfun-feed"
     },
     {
       "name": "kaspa-news",
@@ -3191,7 +4781,13 @@
       "user_provides": "No special input needed",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com//kaspa-news"
+      "github_url": "https://github.com//kaspa-news",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "kaspa-news",
+      "clawhub_url": "https://clawhub.ai/skills/kaspa-news",
+      "clawhub_display_name": "kaspa-news"
     },
     {
       "name": "crypto-daily-report",
@@ -3203,7 +4799,13 @@
       "user_provides": "Telegram Bot Token, channel ID",
       "dapps": "",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com//crypto-daily-report"
+      "github_url": "https://github.com//crypto-daily-report",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "crypto-daily-report",
+      "clawhub_url": "https://clawhub.ai/skills/crypto-daily-report",
+      "clawhub_display_name": "crypto-daily-report"
     },
     {
       "name": "aisa-market-skill",
@@ -3215,7 +4817,13 @@
       "user_provides": "Token symbols or stock tickers",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com//aisa-market-skill"
+      "github_url": "https://github.com//aisa-market-skill",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "aisa-market-skill",
+      "clawhub_url": "https://clawhub.ai/skills/aisa-market-skill",
+      "clawhub_display_name": "aisa-market-skill"
     },
     {
       "name": "openclaw-aisa-market-pulse",
@@ -3227,7 +4835,13 @@
       "user_provides": "Token symbols or stock tickers",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/Unknown/openclaw-aisa-market-pulse"
+      "github_url": "https://github.com/Unknown/openclaw-aisa-market-pulse",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "openclaw-aisa-market-pulse",
+      "clawhub_url": "https://clawhub.ai/skills/openclaw-aisa-market-pulse",
+      "clawhub_display_name": "openclaw-aisa-market-pulse"
     },
     {
       "name": "clipx-skills",
@@ -3239,7 +4853,13 @@
       "user_provides": "No special input needed",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/Unknown/clipx-skills"
+      "github_url": "https://github.com/Unknown/clipx-skills",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "clipx-skills",
+      "clawhub_url": "https://clawhub.ai/skills/clipx-skills",
+      "clawhub_display_name": "clipx-skills"
     },
     {
       "name": "liquidskills",
@@ -3251,7 +4871,13 @@
       "user_provides": "No special input needed",
       "dapps": "Hyperliquid",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/Unknown/liquidskills"
+      "github_url": "https://github.com/Unknown/liquidskills",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "liquidskills",
+      "clawhub_url": "https://clawhub.ai/skills/liquidskills",
+      "clawhub_display_name": "liquidskills"
     },
     {
       "name": "pane",
@@ -3263,7 +4889,13 @@
       "user_provides": "PANE_API_KEY",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/Unknown/pane"
+      "github_url": "https://github.com/Unknown/pane",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "pane",
+      "clawhub_url": "https://clawhub.ai/skills/pane",
+      "clawhub_display_name": "pane"
     },
     {
       "name": "hyperbot-mcp",
@@ -3275,7 +4907,13 @@
       "user_provides": "No special input needed",
       "dapps": "Hyperbot",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/Unknown/hyperbot-mcp"
+      "github_url": "https://github.com/Unknown/hyperbot-mcp",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "hyperbot-mcp",
+      "clawhub_url": "https://clawhub.ai/skills/hyperbot-mcp",
+      "clawhub_display_name": "hyperbot-mcp"
     },
     {
       "name": "hyperbot-quote-mcp",
@@ -3287,7 +4925,13 @@
       "user_provides": "No special input needed",
       "dapps": "Hyperbot",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/Unknown/hyperbot-quote-mcp"
+      "github_url": "https://github.com/Unknown/hyperbot-quote-mcp",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "hyperbot-quote-mcp",
+      "clawhub_url": "https://clawhub.ai/skills/hyperbot-quote-mcp",
+      "clawhub_display_name": "hyperbot-quote-mcp"
     },
     {
       "name": "tech-news-digest",
@@ -3299,7 +4943,13 @@
       "user_provides": "API keys (Twitter/Brave/Tavily, optional)",
       "dapps": "",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/Unknown/tech-news-digest"
+      "github_url": "https://github.com/Unknown/tech-news-digest",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "tech-news-digest",
+      "clawhub_url": "https://clawhub.ai/skills/tech-news-digest",
+      "clawhub_display_name": "tech-news-digest"
     },
     {
       "name": "aoineco-ledger",
@@ -3311,7 +4961,13 @@
       "user_provides": "Agent configuration, budget cap",
       "dapps": "",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/Unknown/aoineco-ledger"
+      "github_url": "https://github.com/Unknown/aoineco-ledger",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "aoineco-ledger",
+      "clawhub_url": "https://clawhub.ai/skills/aoineco-ledger",
+      "clawhub_display_name": "aoineco-ledger"
     },
     {
       "name": "cryptowatch",
@@ -3323,7 +4979,13 @@
       "user_provides": "List of coins to watch",
       "dapps": "",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/Unknown/cryptowatch"
+      "github_url": "https://github.com/Unknown/cryptowatch",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "cryptowatch",
+      "clawhub_url": "https://clawhub.ai/skills/cryptowatch",
+      "clawhub_display_name": "cryptowatch"
     },
     {
       "name": "newspulse",
@@ -3335,7 +4997,13 @@
       "user_provides": "Coins or topics of interest",
       "dapps": "",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/Unknown/newspulse"
+      "github_url": "https://github.com/Unknown/newspulse",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "newspulse",
+      "clawhub_url": "https://clawhub.ai/skills/newspulse",
+      "clawhub_display_name": "newspulse"
     },
     {
       "name": "x-alpha-scout",
@@ -3347,7 +5015,13 @@
       "user_provides": "X_AUTH_TOKEN, X_CT0",
       "dapps": "",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/Unknown/x-alpha-scout"
+      "github_url": "https://github.com/Unknown/x-alpha-scout",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "x-alpha-scout",
+      "clawhub_url": "https://clawhub.ai/skills/x-alpha-scout",
+      "clawhub_display_name": "x-alpha-scout"
     },
     {
       "name": "nansen-smart-money",
@@ -3359,7 +5033,13 @@
       "user_provides": "NANSEN_API_KEY",
       "dapps": "Nansen",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/Unknown/nansen-smart-money"
+      "github_url": "https://github.com/Unknown/nansen-smart-money",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "nansen-smart-money",
+      "clawhub_url": "https://clawhub.ai/skills/nansen-smart-money",
+      "clawhub_display_name": "nansen-smart-money"
     },
     {
       "name": "arbitrum",
@@ -3371,7 +5051,13 @@
       "user_provides": "Wallet address",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/Unknown/arbitrum"
+      "github_url": "https://github.com/Unknown/arbitrum",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "arbitrum",
+      "clawhub_url": "https://clawhub.ai/skills/arbitrum",
+      "clawhub_display_name": "arbitrum"
     },
     {
       "name": "crypto-portfolio-tracker",
@@ -3383,7 +5069,13 @@
       "user_provides": "List of wallet addresses",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/katrina-jpg/crypto-portfolio-tracker"
+      "github_url": "https://github.com/katrina-jpg/crypto-portfolio-tracker",
+      "clawhub_downloads": 619,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "crypto-portfolio-tracker",
+      "clawhub_url": "https://clawhub.ai/skills/crypto-portfolio-tracker",
+      "clawhub_display_name": "Crypto Portfolio Tracker"
     },
     {
       "name": "portfolio-risk-analyzer",
@@ -3395,7 +5087,13 @@
       "user_provides": "Wallet address",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/kellyclaudeai/portfolio-risk-analyzer"
+      "github_url": "https://github.com/kellyclaudeai/portfolio-risk-analyzer",
+      "clawhub_downloads": 1493,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "portfolio-risk-analyzer",
+      "clawhub_url": "https://clawhub.ai/skills/portfolio-risk-analyzer",
+      "clawhub_display_name": "Portfolio Risk Analyzer"
     },
     {
       "name": "moltbook-search",
@@ -3407,7 +5105,13 @@
       "user_provides": "Search keywords",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/leegitw/moltbook-search"
+      "github_url": "https://github.com/leegitw/moltbook-search",
+      "clawhub_downloads": 1534,
+      "clawhub_stars": 12,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "moltbook-search",
+      "clawhub_url": "https://clawhub.ai/skills/moltbook-search",
+      "clawhub_display_name": "Moltbook Search"
     },
     {
       "name": "passive-income-monitor",
@@ -3419,7 +5123,13 @@
       "user_provides": "Platform accounts (optional API keys)",
       "dapps": "Grass.io, Storj, Mysterium",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/mariusfit/passive-income-monitor"
+      "github_url": "https://github.com/mariusfit/passive-income-monitor",
+      "clawhub_downloads": 86,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "passive-income-monitor",
+      "clawhub_url": "https://clawhub.ai/skills/passive-income-monitor",
+      "clawhub_display_name": "Passive Income Monitor"
     },
     {
       "name": "successful-trader",
@@ -3431,7 +5141,13 @@
       "user_provides": "Trading goals, capital size",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/mofesto/successful-trader"
+      "github_url": "https://github.com/mofesto/successful-trader",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "successful-trader",
+      "clawhub_url": "https://clawhub.ai/skills/successful-trader",
+      "clawhub_display_name": "successful-trader"
     },
     {
       "name": "githunt",
@@ -3443,7 +5159,13 @@
       "user_provides": "Wallet address, chains",
       "dapps": "",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/mordka/githunt"
+      "github_url": "https://github.com/mordka/githunt",
+      "clawhub_downloads": 1693,
+      "clawhub_stars": 4,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "githunt",
+      "clawhub_url": "https://clawhub.ai/skills/githunt",
+      "clawhub_display_name": "GitHunt"
     },
     {
       "name": "smart-money-v2",
@@ -3455,7 +5177,13 @@
       "user_provides": "SkillPay API key",
       "dapps": "",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/mrchillhigh/smart-money-v2"
+      "github_url": "https://github.com/mrchillhigh/smart-money-v2",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "smart-money-v2",
+      "clawhub_url": "https://clawhub.ai/skills/smart-money-v2",
+      "clawhub_display_name": "smart-money-v2"
     },
     {
       "name": "bsc-dev-monitor-v2",
@@ -3467,7 +5195,13 @@
       "user_provides": "SkillPay API key, monitored addresses",
       "dapps": "",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/mybusd/bsc-dev-monitor-v2"
+      "github_url": "https://github.com/mybusd/bsc-dev-monitor-v2",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "bsc-dev-monitor-v2",
+      "clawhub_url": "https://clawhub.ai/skills/bsc-dev-monitor-v2",
+      "clawhub_display_name": "bsc-dev-monitor-v2"
     },
     {
       "name": "strykr-prism",
@@ -3479,7 +5213,13 @@
       "user_provides": "PRISM API key",
       "dapps": "Strykr PRISM",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/nextfrontierbuilds/strykr-prism"
+      "github_url": "https://github.com/nextfrontierbuilds/strykr-prism",
+      "clawhub_downloads": 1650,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "strykr-prism",
+      "clawhub_url": "https://clawhub.ai/skills/strykr-prism",
+      "clawhub_display_name": "Strykr Prism"
     },
     {
       "name": "check-hot-altcoins",
@@ -3491,7 +5231,13 @@
       "user_provides": "CoinGecko API access, Lark webhook",
       "dapps": "CoinGecko",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/nihaovand/check-hot-altcoins"
+      "github_url": "https://github.com/nihaovand/check-hot-altcoins",
+      "clawhub_downloads": 85,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "check-hot-altcoins",
+      "clawhub_url": "https://clawhub.ai/skills/check-hot-altcoins",
+      "clawhub_display_name": "查看每日热门山寨代币"
     },
     {
       "name": "molt-sift",
@@ -3503,7 +5249,13 @@
       "user_provides": "Data to validate",
       "dapps": "Molt Sift",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/noizceera/molt-sift"
+      "github_url": "https://github.com/noizceera/molt-sift",
+      "clawhub_downloads": 52,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "molt-sift",
+      "clawhub_url": "https://clawhub.ai/skills/molt-sift",
+      "clawhub_display_name": "Molt Sift"
     },
     {
       "name": "learn-moralis",
@@ -3515,7 +5267,13 @@
       "user_provides": "(none)",
       "dapps": "Moralis",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/novnski/learn-moralis"
+      "github_url": "https://github.com/novnski/learn-moralis",
+      "clawhub_downloads": 49,
+      "clawhub_stars": 1,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "learn-moralis",
+      "clawhub_url": "https://clawhub.ai/skills/learn-moralis",
+      "clawhub_display_name": "Learn Moralis"
     },
     {
       "name": "data-normalization",
@@ -3527,7 +5285,13 @@
       "user_provides": "Data to normalize",
       "dapps": "Artledger",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/paperbuddha/data-normalization"
+      "github_url": "https://github.com/paperbuddha/data-normalization",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "data-normalization",
+      "clawhub_url": "https://clawhub.ai/skills/data-normalization",
+      "clawhub_display_name": "data-normalization"
     },
     {
       "name": "xpr-tax",
@@ -3539,7 +5303,13 @@
       "user_provides": "XPR Network account name",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/paulgnz/xpr-tax"
+      "github_url": "https://github.com/paulgnz/xpr-tax",
+      "clawhub_downloads": 316,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "xpr-tax",
+      "clawhub_url": "https://clawhub.ai/skills/xpr-tax",
+      "clawhub_display_name": "XPR Crypto Tax"
     },
     {
       "name": "qelt-indexer",
@@ -3551,7 +5321,13 @@
       "user_provides": "(no API key needed)",
       "dapps": "QELT",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/prqelt/qelt-indexer"
+      "github_url": "https://github.com/prqelt/qelt-indexer",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "qelt-indexer",
+      "clawhub_url": "https://clawhub.ai/skills/qelt-indexer",
+      "clawhub_display_name": "qelt-indexer"
     },
     {
       "name": "crypto-prices",
@@ -3563,7 +5339,13 @@
       "user_provides": "(none)",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/ryandeangraves/crypto-prices"
+      "github_url": "https://github.com/ryandeangraves/crypto-prices",
+      "clawhub_downloads": 297,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "crypto-prices",
+      "clawhub_url": "https://clawhub.ai/skills/crypto-prices",
+      "clawhub_display_name": "Crypto Prices"
     },
     {
       "name": "sovereign-codebase-onboarding",
@@ -3575,7 +5357,13 @@
       "user_provides": "Wallet address, chains",
       "dapps": "",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/ryudi84/sovereign-codebase-onboarding"
+      "github_url": "https://github.com/ryudi84/sovereign-codebase-onboarding",
+      "clawhub_downloads": 116,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "sovereign-codebase-onboarding",
+      "clawhub_url": "https://clawhub.ai/skills/sovereign-codebase-onboarding",
+      "clawhub_display_name": "Sovereign Codebase Onboarding"
     },
     {
       "name": "xanadu-crypto-monitor",
@@ -3587,7 +5375,13 @@
       "user_provides": "(none)",
       "dapps": "",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/saintlittlefish/xanadu-crypto-monitor"
+      "github_url": "https://github.com/saintlittlefish/xanadu-crypto-monitor",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "xanadu-crypto-monitor",
+      "clawhub_url": "https://clawhub.ai/skills/xanadu-crypto-monitor",
+      "clawhub_display_name": "xanadu-crypto-monitor"
     },
     {
       "name": "web3-target-team-research",
@@ -3599,7 +5393,13 @@
       "user_provides": "Search sources",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/shwchlorine/web3-target-team-research"
+      "github_url": "https://github.com/shwchlorine/web3-target-team-research",
+      "clawhub_downloads": 1347,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "web3-target-team-research",
+      "clawhub_url": "https://clawhub.ai/skills/web3-target-team-research",
+      "clawhub_display_name": "Web3 Target Team Research"
     },
     {
       "name": "opendex",
@@ -3611,7 +5411,13 @@
       "user_provides": "Token address or name",
       "dapps": "OpenDex",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/solpenguin/opendex"
+      "github_url": "https://github.com/solpenguin/opendex",
+      "clawhub_downloads": 42,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "opendex",
+      "clawhub_url": "https://clawhub.ai/skills/opendex",
+      "clawhub_display_name": "OpenDEX Solana Token API"
     },
     {
       "name": "prism-finance-os",
@@ -3623,7 +5429,13 @@
       "user_provides": "Asset symbol or name",
       "dapps": "Prism Finance",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/strykragent/prism-finance-os"
+      "github_url": "https://github.com/strykragent/prism-finance-os",
+      "clawhub_downloads": 273,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "prism-finance-os",
+      "clawhub_url": "https://clawhub.ai/skills/prism-finance-os",
+      "clawhub_display_name": "PRISM OS SDK"
     },
     {
       "name": "abixus-core-v1",
@@ -3635,7 +5447,13 @@
       "user_provides": "Query parameters",
       "dapps": "Abixus",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/taofisio/abixus-core-v1"
+      "github_url": "https://github.com/taofisio/abixus-core-v1",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "abixus-core-v1",
+      "clawhub_url": "https://clawhub.ai/skills/abixus-core-v1",
+      "clawhub_display_name": "abixus-core-v1"
     },
     {
       "name": "ask-deep-wiki",
@@ -3647,7 +5465,13 @@
       "user_provides": "Technical questions",
       "dapps": "DeepWiki, Light Protocol",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/tilo-14/ask-deep-wiki"
+      "github_url": "https://github.com/tilo-14/ask-deep-wiki",
+      "clawhub_downloads": 64,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "ask-deep-wiki",
+      "clawhub_url": "https://clawhub.ai/skills/ask-deep-wiki",
+      "clawhub_display_name": "ask-deep-wiki"
     },
     {
       "name": "truthsea",
@@ -3659,7 +5483,13 @@
       "user_provides": "Claim content, wallet address",
       "dapps": "TruthSea",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/turfptax/truthsea"
+      "github_url": "https://github.com/turfptax/truthsea",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "truthsea",
+      "clawhub_url": "https://clawhub.ai/skills/truthsea",
+      "clawhub_display_name": "truthsea"
     },
     {
       "name": "bittensor-taostats",
@@ -3671,7 +5501,13 @@
       "user_provides": "TaoStats API key",
       "dapps": "TaoStats, Bittensor",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/vanlabs-dev/bittensor-taostats"
+      "github_url": "https://github.com/vanlabs-dev/bittensor-taostats",
+      "clawhub_downloads": 687,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "bittensor-taostats",
+      "clawhub_url": "https://clawhub.ai/skills/bittensor-taostats",
+      "clawhub_display_name": "Bittensor - taostats"
     },
     {
       "name": "fin-intel-hub",
@@ -3683,7 +5519,13 @@
       "user_provides": "API keys (optional)",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/xuan622/fin-intel-hub"
+      "github_url": "https://github.com/xuan622/fin-intel-hub",
+      "clawhub_downloads": 69,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "fin-intel-hub",
+      "clawhub_url": "https://clawhub.ai/skills/fin-intel-hub",
+      "clawhub_display_name": "Fin Intel Hub"
     },
     {
       "name": "numinous-forecast",
@@ -3695,7 +5537,13 @@
       "user_provides": "x402 EVM private key",
       "dapps": "Numinous, Bittensor",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/juandbalbi/numinous-forecast"
+      "github_url": "https://github.com/juandbalbi/numinous-forecast",
+      "clawhub_downloads": 301,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "numinous-forecast",
+      "clawhub_url": "https://clawhub.ai/skills/numinous-forecast",
+      "clawhub_display_name": "Numinous Forecast"
     },
     {
       "name": "moltscope",
@@ -3707,7 +5555,13 @@
       "user_provides": "",
       "dapps": "Moltscope",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/moltscopedev/moltscope"
+      "github_url": "https://github.com/moltscopedev/moltscope",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "moltscope",
+      "clawhub_url": "https://clawhub.ai/skills/moltscope",
+      "clawhub_display_name": "moltscope"
     },
     {
       "name": "ai-research-analyst",
@@ -3719,7 +5573,13 @@
       "user_provides": "SkillPay API key",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/mosonchan2023/ai-research-analyst"
+      "github_url": "https://github.com/mosonchan2023/ai-research-analyst",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "ai-research-analyst",
+      "clawhub_url": "https://clawhub.ai/skills/ai-research-analyst",
+      "clawhub_display_name": "ai-research-analyst"
     },
     {
       "name": "polymarket-liquidity-check",
@@ -3731,7 +5591,13 @@
       "user_provides": "SkillPay API key",
       "dapps": "Polymarket",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/mosonchan2023/polymarket-liquidity-check"
+      "github_url": "https://github.com/mosonchan2023/polymarket-liquidity-check",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-liquidity-check",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-liquidity-check",
+      "clawhub_display_name": "polymarket-liquidity-check"
     },
     {
       "name": "memeanalyzer",
@@ -3743,7 +5609,13 @@
       "user_provides": "Token information",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/ultranumblol/memeanalyzer"
+      "github_url": "https://github.com/ultranumblol/memeanalyzer",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "memeanalyzer",
+      "clawhub_url": "https://clawhub.ai/skills/memeanalyzer",
+      "clawhub_display_name": "memeanalyzer"
     },
     {
       "name": "wallet-pnl",
@@ -3755,7 +5627,13 @@
       "user_provides": "Wallet address",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/ultranumblol/wallet-pnl"
+      "github_url": "https://github.com/ultranumblol/wallet-pnl",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "wallet-pnl",
+      "clawhub_url": "https://clawhub.ai/skills/wallet-pnl",
+      "clawhub_display_name": "wallet-pnl"
     },
     {
       "name": "fomo-research",
@@ -3767,7 +5645,13 @@
       "user_provides": "Fomo account",
       "dapps": "Fomo",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/pooowell/fomo-research"
+      "github_url": "https://github.com/pooowell/fomo-research",
+      "clawhub_downloads": 381,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "fomo-research",
+      "clawhub_url": "https://clawhub.ai/skills/fomo-research",
+      "clawhub_display_name": "Fomo Research"
     },
     {
       "name": "rootdata-crypto",
@@ -3779,7 +5663,13 @@
       "user_provides": "RootData Skill key",
       "dapps": "RootData",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/rdquanyu/rootdata-crypto"
+      "github_url": "https://github.com/rdquanyu/rootdata-crypto",
+      "clawhub_downloads": 25,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "rootdata-crypto",
+      "clawhub_url": "https://clawhub.ai/skills/rootdata-crypto",
+      "clawhub_display_name": "RootData Crypto"
     },
     {
       "name": "dwlf",
@@ -3791,7 +5681,13 @@
       "user_provides": "DWLF account",
       "dapps": "DWLF",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/andywilliams/dwlf"
+      "github_url": "https://github.com/andywilliams/dwlf",
+      "clawhub_downloads": 2340,
+      "clawhub_stars": 4,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "dwlf",
+      "clawhub_url": "https://clawhub.ai/skills/dwlf",
+      "clawhub_display_name": "A Clawdbot skill that gives your agent native access to DWLF — a market analysis platform for crypto and stocks."
     },
     {
       "name": "bybit-order-book",
@@ -3803,7 +5699,13 @@
       "user_provides": "ByBit data access",
       "dapps": "ByBit",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/davidm413/bybit-order-book"
+      "github_url": "https://github.com/davidm413/bybit-order-book",
+      "clawhub_downloads": 871,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "bybit-order-book",
+      "clawhub_url": "https://clawhub.ai/skills/bybit-order-book",
+      "clawhub_display_name": "bybit-order-book"
     },
     {
       "name": "backtesting-trading-strategies",
@@ -3815,7 +5717,13 @@
       "user_provides": "Strategy config, historical data",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/zhengxinjipai/backtesting-trading-strategies"
+      "github_url": "https://github.com/zhengxinjipai/backtesting-trading-strategies",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "backtesting-trading-strategies",
+      "clawhub_url": "https://clawhub.ai/skills/backtesting-trading-strategies",
+      "clawhub_display_name": "backtesting-trading-strategies"
     },
     {
       "name": "myosin-hivemind",
@@ -3827,7 +5735,13 @@
       "user_provides": "Hivemind API credentials",
       "dapps": "Hivemind",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/divine-comedian/myosin-hivemind"
+      "github_url": "https://github.com/divine-comedian/myosin-hivemind",
+      "clawhub_downloads": 265,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "myosin-hivemind",
+      "clawhub_url": "https://clawhub.ai/skills/myosin-hivemind",
+      "clawhub_display_name": "Myosin Hivemind Knowledge Retrieval"
     },
     {
       "name": "x-search",
@@ -3839,7 +5753,13 @@
       "user_provides": "x402 wallet private key",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/tzannetosgiannis/x-search"
+      "github_url": "https://github.com/tzannetosgiannis/x-search",
+      "clawhub_downloads": 1936,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "x-search",
+      "clawhub_url": "https://clawhub.ai/skills/x-search",
+      "clawhub_display_name": "X Search (x402)"
     },
     {
       "name": "find-people",
@@ -3851,7 +5771,13 @@
       "user_provides": "x402 wallet private key",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/tzannetosgiannis/find-people"
+      "github_url": "https://github.com/tzannetosgiannis/find-people",
+      "clawhub_downloads": 1820,
+      "clawhub_stars": 4,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "find-people",
+      "clawhub_url": "https://clawhub.ai/skills/find-people",
+      "clawhub_display_name": "Find People (x402)"
     }
   ]
 }

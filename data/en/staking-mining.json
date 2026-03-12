@@ -11,7 +11,13 @@
       "user_provides": "Wallet",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/stuart5915/inclawnch-staking"
+      "github_url": "https://github.com/stuart5915/inclawnch-staking",
+      "clawhub_downloads": 201,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "inclawnch-staking",
+      "clawhub_url": "https://clawhub.ai/skills/inclawnch-staking",
+      "clawhub_display_name": "INCLAWNCH UBI Staking"
     },
     {
       "name": "clawmegle-staking",
@@ -23,7 +29,13 @@
       "user_provides": "Bankr account, $CLAWMEGLE tokens",
       "dapps": "Clanker",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/tedkaczynski-the-bot/clawmegle-staking"
+      "github_url": "https://github.com/tedkaczynski-the-bot/clawmegle-staking",
+      "clawhub_downloads": 869,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "clawmegle-staking",
+      "clawhub_url": "https://clawhub.ai/skills/clawmegle-staking",
+      "clawhub_display_name": "clawmegle staking"
     },
     {
       "name": "aicash-miner",
@@ -35,7 +47,13 @@
       "user_provides": "AICash API key, wallet address, endpoint URL",
       "dapps": "AICash",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/doctor-1017/aicash-miner"
+      "github_url": "https://github.com/doctor-1017/aicash-miner",
+      "clawhub_downloads": 83,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "aicash-miner",
+      "clawhub_url": "https://clawhub.ai/skills/aicash-miner",
+      "clawhub_display_name": "AICash Miner"
     },
     {
       "name": "stakingverse-ethereum",
@@ -47,7 +65,13 @@
       "user_provides": "PRIVATE_KEY, MY_ADDRESS, RPC_URL",
       "dapps": "StakeWise",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/luksoagent/stakingverse-ethereum"
+      "github_url": "https://github.com/luksoagent/stakingverse-ethereum",
+      "clawhub_downloads": 200,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "stakingverse-ethereum",
+      "clawhub_url": "https://clawhub.ai/skills/stakingverse-ethereum",
+      "clawhub_display_name": "Stakingverse Ethereum"
     },
     {
       "name": "stakingverse-lukso",
@@ -59,7 +83,13 @@
       "user_provides": "PRIVATE_KEY, MY_UP (Universal Profile address), CONTROLLER",
       "dapps": "Stakingverse",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/luksoagent/stakingverse-lukso"
+      "github_url": "https://github.com/luksoagent/stakingverse-lukso",
+      "clawhub_downloads": 205,
+      "clawhub_stars": 4,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "stakingverse-lukso",
+      "clawhub_url": "https://clawhub.ai/skills/stakingverse-lukso",
+      "clawhub_display_name": "Stakingverse Lukso"
     },
     {
       "name": "polkadot",
@@ -71,7 +101,13 @@
       "user_provides": "Polkadot wallet address",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/ivangdavila/polkadot"
+      "github_url": "https://github.com/ivangdavila/polkadot",
+      "clawhub_downloads": 457,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "polkadot",
+      "clawhub_url": "https://clawhub.ai/skills/polkadot",
+      "clawhub_display_name": "Polkadot"
     },
     {
       "name": "ore-miner",
@@ -83,7 +119,13 @@
       "user_provides": "Solana wallet private key",
       "dapps": "refinORE",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/jusscubs/ore-miner"
+      "github_url": "https://github.com/jusscubs/ore-miner",
+      "clawhub_downloads": 1135,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "ore-miner",
+      "clawhub_url": "https://clawhub.ai/skills/ore-miner",
+      "clawhub_display_name": "ORE Miner"
     },
     {
       "name": "bonero-miner",
@@ -95,7 +137,13 @@
       "user_provides": "CPU resources (requires user consent)",
       "dapps": "",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/happybigmtn/bonero-miner"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/happybigmtn/bonero-miner",
+      "clawhub_downloads": 1421,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "bonero-miner",
+      "clawhub_url": "https://clawhub.ai/skills/bonero-miner",
+      "clawhub_display_name": "Bonero-Miner"
     },
     {
       "name": "bittensor-sdk",
@@ -107,7 +155,13 @@
       "user_provides": "Bittensor wallet, coldkey/hotkey",
       "dapps": "Bittensor",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/taoleeh/bittensor-sdk"
+      "github_url": "https://github.com/taoleeh/bittensor-sdk",
+      "clawhub_downloads": 700,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "bittensor-sdk",
+      "clawhub_url": "https://clawhub.ai/skills/bittensor-sdk",
+      "clawhub_display_name": "Bittensor SDK"
     }
   ]
 }

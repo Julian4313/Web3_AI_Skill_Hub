@@ -11,7 +11,13 @@
       "user_provides": "以太坊钱包地址, Sepolia 测试网 ETH",
       "dapps": "Uniswap v4",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/aqiljaafree/ghostbot-aclm"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/aqiljaafree/ghostbot-aclm",
+      "clawhub_downloads": 639,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "ghostbot-aclm",
+      "clawhub_url": "https://clawhub.ai/skills/ghostbot-aclm",
+      "clawhub_display_name": "ghostbot-uniswap-v4"
     },
     {
       "name": "ghostbot-uniswap-v4hooks-testnet",
@@ -23,7 +29,13 @@
       "user_provides": "以太坊钱包地址, Sepolia 测试网 ETH",
       "dapps": "Uniswap v4",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/aqiljaafree/ghostbot-uniswap-v4hooks-testnet"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/aqiljaafree/ghostbot-uniswap-v4hooks-testnet",
+      "clawhub_downloads": 1238,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "ghostbot-uniswap-v4hooks-testnet",
+      "clawhub_url": "https://clawhub.ai/skills/ghostbot-uniswap-v4hooks-testnet",
+      "clawhub_display_name": "AI-powered Automated Concentrated Liquidity Manager for Uniswap v4. Manage liquidity positions, auto-rebalance out-of-range positions, optimize LP fees dynamically, execute limit orders (stop-loss, take-profit), and monitor oracle signals — all from chat. Deployed on Ethereum Sepolia with verified contracts. Use this skill when users ask about DeFi liquidity provision, Uniswap v4 hooks, pool management, LP positions, impermanent loss, or automated market making."
     },
     {
       "name": "web3-investor",
@@ -35,7 +47,13 @@
       "user_provides": "投资偏好（链、代币、风险承受能力）, 签名器 API 配置",
       "dapps": "",
       "run_mode": "混合",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/bevanding/web3-investor"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/bevanding/web3-investor",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "web3-investor",
+      "clawhub_url": "https://clawhub.ai/skills/web3-investor",
+      "clawhub_display_name": "web3-investor"
     },
     {
       "name": "lp-agent",
@@ -47,7 +65,13 @@
       "user_provides": "Solana 钱包, Hummingbot API 部署",
       "dapps": "Meteora, Hummingbot",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/fengtality/lp-agent"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/fengtality/lp-agent",
+      "clawhub_downloads": 49,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "lp-agent",
+      "clawhub_url": "https://clawhub.ai/skills/lp-agent",
+      "clawhub_display_name": "LP Agent"
     },
     {
       "name": "gekko",
@@ -59,7 +83,13 @@
       "user_provides": "无（API 访问）",
       "dapps": "Morpho, Yearn",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/gekkoai001/gekko"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/gekkoai001/gekko",
+      "clawhub_downloads": 645,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "gekko",
+      "clawhub_url": "https://clawhub.ai/skills/gekko",
+      "clawhub_display_name": "Gekko"
     },
     {
       "name": "gekkoai-yield",
@@ -71,7 +101,13 @@
       "user_provides": "Base 链钱包, USDC 余额",
       "dapps": "Moonwell",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/gekkoai001/gekkoai-yield"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/gekkoai001/gekkoai-yield",
+      "clawhub_downloads": 1184,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "gekkoai-yield",
+      "clawhub_url": "https://clawhub.ai/skills/gekkoai-yield",
+      "clawhub_display_name": "Gekko Yield"
     },
     {
       "name": "defi-yield-scanner",
@@ -83,7 +119,13 @@
       "user_provides": "",
       "dapps": "Aave, Compound, Curve, Uniswap, Yearn",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/jamierossouw/defi-yield-scanner"
+      "github_url": "https://github.com/jamierossouw/defi-yield-scanner",
+      "clawhub_downloads": 317,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "defi-yield-scanner",
+      "clawhub_url": "https://clawhub.ai/skills/defi-yield-scanner",
+      "clawhub_display_name": "Defi Yield Scanner"
     },
     {
       "name": "defi-yield-scout",
@@ -95,7 +137,13 @@
       "user_provides": "Python3 环境",
       "dapps": "Morpho, Euler, Aave, Compound, Moonwell",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/joaoolucas/defi-yield-scout"
+      "github_url": "https://github.com/joaoolucas/defi-yield-scout",
+      "clawhub_downloads": 290,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "defi-yield-scout",
+      "clawhub_url": "https://clawhub.ai/skills/defi-yield-scout",
+      "clawhub_display_name": "DeFi Yield Scout"
     },
     {
       "name": "n0ir-defi-yield-scout",
@@ -107,7 +155,13 @@
       "user_provides": "Python3 环境",
       "dapps": "Morpho, Euler, Aave, Compound, Moonwell",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/joaoolucas/n0ir-defi-yield-scout"
+      "github_url": "https://github.com/joaoolucas/n0ir-defi-yield-scout",
+      "clawhub_downloads": 256,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "n0ir-defi-yield-scout",
+      "clawhub_url": "https://clawhub.ai/skills/n0ir-defi-yield-scout",
+      "clawhub_display_name": "n0ir DeFi Yield Scout"
     },
     {
       "name": "morpho-earn",
@@ -119,7 +173,13 @@
       "user_provides": "Base 链钱包私钥",
       "dapps": "Morpho, Moonwell",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/lyoungblood/morpho-earn"
+      "github_url": "https://github.com/lyoungblood/morpho-earn",
+      "clawhub_downloads": 1341,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "morpho-earn",
+      "clawhub_url": "https://clawhub.ai/skills/morpho-earn",
+      "clawhub_display_name": "Morpho Earn - earn safe yield on your USDC on Base"
     },
     {
       "name": "outsmart-lp-farming",
@@ -131,7 +191,13 @@
       "user_provides": "私钥, RPC 端点",
       "dapps": "Meteora",
       "run_mode": "混合",
-      "github_url": "https://github.com/outsmartchad/outsmart-lp-farming"
+      "github_url": "https://github.com/outsmartchad/outsmart-lp-farming",
+      "clawhub_downloads": 125,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "outsmart-lp-farming",
+      "clawhub_url": "https://clawhub.ai/skills/outsmart-lp-farming",
+      "clawhub_display_name": "Outsmart LP Farming"
     },
     {
       "name": "31third-safe-rebalancer",
@@ -143,7 +209,13 @@
       "user_provides": "Safe 地址, 31Third API Key, 私钥",
       "dapps": "Safe, 31Third",
       "run_mode": "混合",
-      "github_url": "https://github.com/phips0812/31third-safe-rebalancer"
+      "github_url": "https://github.com/phips0812/31third-safe-rebalancer",
+      "clawhub_downloads": 277,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "31third-safe-rebalancer-simple",
+      "clawhub_url": "https://clawhub.ai/skills/31third-safe-rebalancer-simple",
+      "clawhub_display_name": "31Third Safe Rebalancer (Simple)"
     },
     {
       "name": "renzo",
@@ -155,7 +227,13 @@
       "user_provides": "",
       "dapps": "Renzo",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/pooleja/renzo"
+      "github_url": "https://github.com/pooleja/renzo",
+      "clawhub_downloads": 326,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "renzo",
+      "clawhub_url": "https://clawhub.ai/skills/renzo",
+      "clawhub_display_name": "Renzo Protocol"
     },
     {
       "name": "defi-optimizer",
@@ -167,7 +245,13 @@
       "user_provides": "钱包地址",
       "dapps": "Aave, Compound, Curve, Yearn",
       "run_mode": "混合",
-      "github_url": "https://github.com/sa9saq/defi-optimizer"
+      "github_url": "https://github.com/sa9saq/defi-optimizer",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "defi-optimizer",
+      "clawhub_url": "https://clawhub.ai/skills/defi-optimizer",
+      "clawhub_display_name": "defi-optimizer"
     },
     {
       "name": "gekko-yield",
@@ -179,7 +263,13 @@
       "user_provides": "私钥",
       "dapps": "Moonwell, Morpho",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/sergey1997/gekko-yield"
+      "github_url": "https://github.com/sergey1997/gekko-yield",
+      "clawhub_downloads": 1185,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "gekko-yield",
+      "clawhub_url": "https://clawhub.ai/skills/gekko-yield",
+      "clawhub_display_name": "Gekko Yield"
     },
     {
       "name": "moltrock",
@@ -191,7 +281,13 @@
       "user_provides": "",
       "dapps": "MoltRock",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/sloof13/moltrock"
+      "github_url": "https://github.com/sloof13/moltrock",
+      "clawhub_downloads": 865,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "moltrock",
+      "clawhub_url": "https://clawhub.ai/skills/moltrock",
+      "clawhub_display_name": "MoltRock"
     },
     {
       "name": "find-yield",
@@ -203,7 +299,13 @@
       "user_provides": "风险偏好（可选）",
       "dapps": "Uniswap",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/wpank/find-yield"
+      "github_url": "https://github.com/wpank/find-yield",
+      "clawhub_downloads": 453,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "find-yield",
+      "clawhub_url": "https://clawhub.ai/skills/find-yield",
+      "clawhub_display_name": "Uniswap Find Yield"
     },
     {
       "name": "full-lp-workflow",
@@ -215,7 +317,13 @@
       "user_provides": "投入资金金额",
       "dapps": "Uniswap",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/wpank/full-lp-workflow"
+      "github_url": "https://github.com/wpank/full-lp-workflow",
+      "clawhub_downloads": 460,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "full-lp-workflow",
+      "clawhub_url": "https://clawhub.ai/skills/full-lp-workflow",
+      "clawhub_display_name": "Uniswap Full Lp Workflow"
     },
     {
       "name": "rebalance-position",
@@ -227,7 +335,13 @@
       "user_provides": "头寸 ID 或钱包地址",
       "dapps": "Uniswap",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/wpank/rebalance-position"
+      "github_url": "https://github.com/wpank/rebalance-position",
+      "clawhub_downloads": 427,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "rebalance-position",
+      "clawhub_url": "https://clawhub.ai/skills/rebalance-position",
+      "clawhub_display_name": "Uniswap Rebalance Position"
     },
     {
       "name": "scan-opportunities",
@@ -239,7 +353,13 @@
       "user_provides": "",
       "dapps": "Uniswap",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/wpank/scan-opportunities"
+      "github_url": "https://github.com/wpank/scan-opportunities",
+      "clawhub_downloads": 447,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "scan-opportunities",
+      "clawhub_url": "https://clawhub.ai/skills/scan-opportunities",
+      "clawhub_display_name": "Uniswap Scan Opportunities"
     },
     {
       "name": "seek-protocol-fees",
@@ -251,7 +371,13 @@
       "user_provides": "",
       "dapps": "Uniswap",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/wpank/seek-protocol-fees"
+      "github_url": "https://github.com/wpank/seek-protocol-fees",
+      "clawhub_downloads": 419,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "seek-protocol-fees",
+      "clawhub_url": "https://clawhub.ai/skills/seek-protocol-fees",
+      "clawhub_display_name": "Uniswap Seek Protocol Fees"
     },
     {
       "name": "philidor",
@@ -263,7 +389,13 @@
       "user_provides": "",
       "dapps": "Morpho, Yearn, Aave, Beefy, Spark",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/zkoranges/philidor"
+      "github_url": "https://github.com/zkoranges/philidor",
+      "clawhub_downloads": 48,
+      "clawhub_stars": 1,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "philidor",
+      "clawhub_url": "https://clawhub.ai/skills/philidor",
+      "clawhub_display_name": "Philidor — DeFi Vault Intelligence"
     },
     {
       "name": "project-0",
@@ -275,7 +407,13 @@
       "user_provides": "Solana 钱包密钥对",
       "dapps": "Project 0",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/borcherd/project-0"
+      "github_url": "https://github.com/borcherd/project-0",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "project-0",
+      "clawhub_url": "https://clawhub.ai/skills/project-0",
+      "clawhub_display_name": "project-0"
     },
     {
       "name": "breeze",
@@ -287,7 +425,13 @@
       "user_provides": "Solana 钱包（USDC）",
       "dapps": "Breeze",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/keeganthomp/breeze"
+      "github_url": "https://github.com/keeganthomp/breeze",
+      "clawhub_downloads": 209,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "breeze-x402-payment-api",
+      "clawhub_url": "https://clawhub.ai/skills/breeze-x402-payment-api",
+      "clawhub_display_name": "Breeze x402"
     },
     {
       "name": "mamo",
@@ -299,7 +443,13 @@
       "user_provides": "MAMO_WALLET_KEY",
       "dapps": "Moonwell, Morpho",
       "run_mode": "混合",
-      "github_url": "https://github.com/anajuliabit/mamo"
+      "github_url": "https://github.com/anajuliabit/mamo",
+      "clawhub_downloads": 997,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "mamo",
+      "clawhub_url": "https://clawhub.ai/skills/mamo",
+      "clawhub_display_name": "Mamo"
     },
     {
       "name": "defi-yield-finder",
@@ -311,7 +461,13 @@
       "user_provides": "",
       "dapps": "Uniswap, Lido",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/deeplearning1993/defi-yield-finder"
+      "github_url": "https://github.com/deeplearning1993/defi-yield-finder",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "defi-yield-finder",
+      "clawhub_url": "https://clawhub.ai/skills/defi-yield-finder",
+      "clawhub_display_name": "defi-yield-finder"
     },
     {
       "name": "zyfai-sdk",
@@ -323,7 +479,13 @@
       "user_provides": "EOA 钱包地址",
       "dapps": "Zyfai",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/pauldefi/zyfai-sdk"
+      "github_url": "https://github.com/pauldefi/zyfai-sdk",
+      "clawhub_downloads": 1905,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "zyfai-sdk",
+      "clawhub_url": "https://clawhub.ai/skills/zyfai-sdk",
+      "clawhub_display_name": "Zyfai Yield Automation"
     },
     {
       "name": "yield-agent",
@@ -335,7 +497,13 @@
       "user_provides": "钱包地址",
       "dapps": "Aave, Compound, Lido",
       "run_mode": "混合",
-      "github_url": "https://github.com/apurvmishra/yield-agent"
+      "github_url": "https://github.com/apurvmishra/yield-agent",
+      "clawhub_downloads": 886,
+      "clawhub_stars": 6,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "yield-agent",
+      "clawhub_url": "https://clawhub.ai/skills/yield-agent",
+      "clawhub_display_name": "Yield Agent"
     },
     {
       "name": "yield-shark",
@@ -347,7 +515,13 @@
       "user_provides": "稳定币类型（USDT/USDC/DAI）、目标链",
       "dapps": "Aave, Compound, Curve, Uniswap, Yearn, Beefy",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/gztanht/yield-shark"
+      "github_url": "https://github.com/gztanht/yield-shark",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "yield-shark",
+      "clawhub_url": "https://clawhub.ai/skills/yield-shark",
+      "clawhub_display_name": "yield-shark"
     },
     {
       "name": "sui-opportunities-huntera",
@@ -359,7 +533,13 @@
       "user_provides": "Sui 钱包地址",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/sergey1997/sui-opportunities-huntera"
+      "github_url": "https://github.com/sergey1997/sui-opportunities-huntera",
+      "clawhub_downloads": 513,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "sui-opportunities-huntera",
+      "clawhub_url": "https://clawhub.ai/skills/sui-opportunities-huntera",
+      "clawhub_display_name": "Sui Opportunities Hunter"
     },
     {
       "name": "agenticstreet",
@@ -371,7 +551,13 @@
       "user_provides": "钱包私钥, USDC",
       "dapps": "AgenticStreet",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/frycookvc/agenticstreet"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/frycookvc/agenticstreet",
+      "clawhub_downloads": 181,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "agenticstreet",
+      "clawhub_url": "https://clawhub.ai/skills/agenticstreet",
+      "clawhub_display_name": "Agentic Street"
     },
     {
       "name": "bitget-poolx-monitor",
@@ -383,7 +569,13 @@
       "user_provides": "无",
       "dapps": "Bitget",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/itonlyforfun-ai/bitget-poolx-monitor"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/itonlyforfun-ai/bitget-poolx-monitor",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "bitget-poolx-monitor",
+      "clawhub_url": "https://clawhub.ai/skills/bitget-poolx-monitor",
+      "clawhub_display_name": "bitget-poolx-monitor"
     },
     {
       "name": "lp-strategy",
@@ -395,7 +587,13 @@
       "user_provides": "交易对、投资金额、持有期限",
       "dapps": "Uniswap",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/wpank/lp-strategy"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/wpank/lp-strategy",
+      "clawhub_downloads": 435,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "lp-strategy",
+      "clawhub_url": "https://clawhub.ai/skills/lp-strategy",
+      "clawhub_display_name": "Uniswap Lp Strategy"
     },
     {
       "name": "binance-dca",
@@ -407,7 +605,13 @@
       "user_provides": "Binance API Key/Secret",
       "dapps": "Binance",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/fpsjago/binance-dca"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/fpsjago/binance-dca",
+      "clawhub_downloads": 1397,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "binance-dca",
+      "clawhub_url": "https://clawhub.ai/skills/binance-dca",
+      "clawhub_display_name": "Binance Dca"
     },
     {
       "name": "near-dca",
@@ -419,7 +623,13 @@
       "user_provides": "NEAR 账户 ID",
       "dapps": "Ref Finance",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/shaiss/near-dca"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/shaiss/near-dca",
+      "clawhub_downloads": 653,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "near-dca",
+      "clawhub_url": "https://clawhub.ai/skills/near-dca",
+      "clawhub_display_name": "Near Dca"
     },
     {
       "name": "uquidshop",
@@ -431,7 +641,13 @@
       "user_provides": "钱包地址、交易参数或操作指令",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com//uquidshop"
+      "github_url": "https://github.com//uquidshop",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "uquidshop",
+      "clawhub_url": "https://clawhub.ai/skills/uquidshop",
+      "clawhub_display_name": "uquidshop"
     },
     {
       "name": "poidh",
@@ -443,7 +659,13 @@
       "user_provides": "任务描述和需求参数",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com//poidh"
+      "github_url": "https://github.com//poidh",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "poidh",
+      "clawhub_url": "https://clawhub.ai/skills/poidh",
+      "clawhub_display_name": "poidh"
     },
     {
       "name": "openclawdy",
@@ -455,7 +677,13 @@
       "user_provides": "任务描述和需求参数",
       "dapps": "",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com//openclawdy"
+      "github_url": "https://github.com//openclawdy",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "openclawdy",
+      "clawhub_url": "https://clawhub.ai/skills/openclawdy",
+      "clawhub_display_name": "openclawdy"
     },
     {
       "name": "structs-economy",
@@ -467,7 +695,13 @@
       "user_provides": "任务描述和需求参数",
       "dapps": "Yearn, Convex, Aura",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com//structs-economy"
+      "github_url": "https://github.com//structs-economy",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "structs-economy",
+      "clawhub_url": "https://clawhub.ai/skills/structs-economy",
+      "clawhub_display_name": "structs-economy"
     },
     {
       "name": "gekko-strategist",
@@ -479,7 +713,13 @@
       "user_provides": "任务描述和需求参数",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com//gekko-strategist"
+      "github_url": "https://github.com//gekko-strategist",
+      "clawhub_downloads": 778,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "gekko-strategist",
+      "clawhub_url": "https://clawhub.ai/skills/gekko-strategist",
+      "clawhub_display_name": "Gekko Strategist"
     },
     {
       "name": "yield-farming-bot",
@@ -491,7 +731,13 @@
       "user_provides": "SkillPay API密钥、钱包信息",
       "dapps": "",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/mosonchan2023/yield-farming-bot"
+      "github_url": "https://github.com/mosonchan2023/yield-farming-bot",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "yield-farming-bot",
+      "clawhub_url": "https://clawhub.ai/skills/yield-farming-bot",
+      "clawhub_display_name": "yield-farming-bot"
     },
     {
       "name": "31third-safe-rebalancer-simple",
@@ -503,7 +749,13 @@
       "user_provides": "Safe所有者钱包、执行器钱包",
       "dapps": "31Third, Safe",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/phips0812/31third-safe-rebalancer-simple"
+      "github_url": "https://github.com/phips0812/31third-safe-rebalancer-simple",
+      "clawhub_downloads": 277,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "31third-safe-rebalancer-simple",
+      "clawhub_url": "https://clawhub.ai/skills/31third-safe-rebalancer-simple",
+      "clawhub_display_name": "31Third Safe Rebalancer (Simple)"
     },
     {
       "name": "openclaw-skill-jubilee",
@@ -515,7 +767,13 @@
       "user_provides": "钱包私钥",
       "dapps": "Jubilee Protocol",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/prayingperceptions/openclaw-skill-jubilee"
+      "github_url": "https://github.com/prayingperceptions/openclaw-skill-jubilee",
+      "clawhub_downloads": 199,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "openclaw-skill-jubilee",
+      "clawhub_url": "https://clawhub.ai/skills/openclaw-skill-jubilee",
+      "clawhub_display_name": "Jubilee Skill, By Jubilee Labs"
     },
     {
       "name": "competitive-intelligence-market-research",
@@ -527,7 +785,13 @@
       "user_provides": "操作参数、金额、目标",
       "dapps": "",
       "run_mode": "混合",
-      "github_url": "https://github.com/shashwatgtm/competitive-intelligence-market-research"
+      "github_url": "https://github.com/shashwatgtm/competitive-intelligence-market-research",
+      "clawhub_downloads": 3672,
+      "clawhub_stars": 6,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "competitive-intelligence-market-research",
+      "clawhub_url": "https://clawhub.ai/skills/competitive-intelligence-market-research",
+      "clawhub_display_name": "Competitive Intelligence & Market Research"
     },
     {
       "name": "optimize-lp",
@@ -539,7 +803,13 @@
       "user_provides": "代币对、风险偏好",
       "dapps": "Uniswap",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/wpank/optimize-lp"
+      "github_url": "https://github.com/wpank/optimize-lp",
+      "clawhub_downloads": 451,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "optimize-lp",
+      "clawhub_url": "https://clawhub.ai/skills/optimize-lp",
+      "clawhub_display_name": "Uniswap Optimize Lp"
     },
     {
       "name": "gotchi-channeling",
@@ -551,7 +821,13 @@
       "user_provides": "Bankr API 密钥",
       "dapps": "Aavegotchi",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/aaigotchi/gotchi-channeling"
+      "github_url": "https://github.com/aaigotchi/gotchi-channeling",
+      "clawhub_downloads": 208,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "gotchi-channeling",
+      "clawhub_url": "https://clawhub.ai/skills/gotchi-channeling",
+      "clawhub_display_name": "Gotchi Channeling"
     },
     {
       "name": "yieldvault-agent",
@@ -563,7 +839,13 @@
       "user_provides": "BNB 钱包",
       "dapps": "YieldVault",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/alannetwork/yieldvault-agent"
+      "github_url": "https://github.com/alannetwork/yieldvault-agent",
+      "clawhub_downloads": 252,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "yieldvault-agent",
+      "clawhub_url": "https://clawhub.ai/skills/yieldvault-agent",
+      "clawhub_display_name": "YieldVault Agent"
     },
     {
       "name": "gekko-strategist",
@@ -575,7 +857,13 @@
       "user_provides": "策略参数",
       "dapps": "Gekko",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/gekkoai001/gekko-strategist"
+      "github_url": "https://github.com/gekkoai001/gekko-strategist",
+      "clawhub_downloads": 778,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "gekko-strategist",
+      "clawhub_url": "https://clawhub.ai/skills/gekko-strategist",
+      "clawhub_display_name": "Gekko Strategist"
     }
   ]
 }

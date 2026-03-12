@@ -11,7 +11,13 @@
       "user_provides": "Monad wallet, $CEO tokens (for staking), ERC-8004 identity registration",
       "dapps": "CEO Protocol",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/fabriziogianni7/ceo-protocol-skill"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/fabriziogianni7/ceo-protocol-skill",
+      "clawhub_downloads": 288,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "ceo-protocol-skill",
+      "clawhub_url": "https://clawhub.ai/skills/ceo-protocol-skill",
+      "clawhub_display_name": "Ceo Protocol Skill"
     },
     {
       "name": "gotchi-dao-voting",
@@ -23,7 +29,13 @@
       "user_provides": "Wallet private key, GHST",
       "dapps": "Aavegotchi, Snapshot",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/aaigotchi/gotchi-dao-voting"
+      "github_url": "https://github.com/aaigotchi/gotchi-dao-voting",
+      "clawhub_downloads": 176,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "gotchi-dao-voting",
+      "clawhub_url": "https://clawhub.ai/skills/gotchi-dao-voting",
+      "clawhub_display_name": "Gotchi DAO Voting"
     },
     {
       "name": "the-hive-swarm-governance",
@@ -35,7 +47,13 @@
       "user_provides": "Ed25519 keypair, governance parameters, proposal content",
       "dapps": "",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/nantes/the-hive-swarm-governance"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/nantes/the-hive-swarm-governance",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "the-hive-swarm-governance",
+      "clawhub_url": "https://clawhub.ai/skills/the-hive-swarm-governance",
+      "clawhub_display_name": "the-hive-swarm-governance"
     },
     {
       "name": "moltgov",
@@ -47,7 +65,13 @@
       "user_provides": "Agent identity information",
       "dapps": "Moltbook",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/cloakai-softwares/moltgov"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/cloakai-softwares/moltgov",
+      "clawhub_downloads": 1194,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "moltgov",
+      "clawhub_url": "https://clawhub.ai/skills/moltgov",
+      "clawhub_display_name": "MoltGov"
     },
     {
       "name": "myosin-hivemind",
@@ -59,7 +83,13 @@
       "user_provides": "Wallet address, prediction content",
       "dapps": "",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com//myosin-hivemind"
+      "github_url": "https://github.com//myosin-hivemind",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "myosin-hivemind",
+      "clawhub_url": "https://clawhub.ai/skills/myosin-hivemind",
+      "clawhub_display_name": "myosin-hivemind"
     },
     {
       "name": "clawstarter",
@@ -71,7 +101,13 @@
       "user_provides": "Project description",
       "dapps": "Clawstarter",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/Unknown/clawstarter"
+      "github_url": "https://github.com/Unknown/clawstarter",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "clawstarter",
+      "clawhub_url": "https://clawhub.ai/skills/clawstarter",
+      "clawhub_display_name": "clawstarter"
     },
     {
       "name": "multisig-executor",
@@ -83,7 +119,13 @@
       "user_provides": "SkillPay API key, wallet info",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/mosonchan2023/multisig-executor"
+      "github_url": "https://github.com/mosonchan2023/multisig-executor",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "multisig-executor",
+      "clawhub_url": "https://clawhub.ai/skills/multisig-executor",
+      "clawhub_display_name": "multisig-executor"
     },
     {
       "name": "claw-and-order",
@@ -95,7 +137,13 @@
       "user_provides": "Wallet address, stake tokens",
       "dapps": "Claw & Order",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/nikhilp1234567/claw-and-order"
+      "github_url": "https://github.com/nikhilp1234567/claw-and-order",
+      "clawhub_downloads": 745,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "claw-and-order",
+      "clawhub_url": "https://clawhub.ai/skills/claw-and-order",
+      "clawhub_display_name": "claw and order"
     },
     {
       "name": "among-traitors-game",
@@ -107,7 +155,13 @@
       "user_provides": "Proposal ID, vote choice",
       "dapps": "",
       "run_mode": "Continuous AI",
-      "github_url": "https://github.com/saltorioussig/among-traitors-game"
+      "github_url": "https://github.com/saltorioussig/among-traitors-game",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "among-traitors-game",
+      "clawhub_url": "https://clawhub.ai/skills/among-traitors-game",
+      "clawhub_display_name": "among-traitors-game"
     },
     {
       "name": "acorp",
@@ -119,7 +173,13 @@
       "user_provides": "Agent configuration",
       "dapps": "A-Corp Foundry",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/thoerner/acorp"
+      "github_url": "https://github.com/thoerner/acorp",
+      "clawhub_downloads": 92,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "acorp",
+      "clawhub_url": "https://clawhub.ai/skills/acorp",
+      "clawhub_display_name": "A-Corp Foundry"
     }
   ]
 }

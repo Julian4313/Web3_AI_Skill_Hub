@@ -1,6 +1,6 @@
 {
-  "total": 1615,
-  "generated": "2026-03-08",
+  "total": 1623,
+  "generated": "2026-03-10",
   "files": [
     {
       "file": "en/copy-trading.json",
@@ -20,7 +20,7 @@
     {
       "file": "en/derivatives.json",
       "category": "Derivatives Trading",
-      "count": 42
+      "count": 52
     },
     {
       "file": "en/dex-trading.json",
@@ -30,7 +30,7 @@
     {
       "file": "en/general-tools.json",
       "category": "Multi-purpose Tool",
-      "count": 379
+      "count": 378
     },
     {
       "file": "en/governance.json",
@@ -75,7 +75,7 @@
     {
       "file": "en/wallet-management.json",
       "category": "Wallet Management",
-      "count": 151
+      "count": 150
     },
     {
       "file": "en/yield-strategy.json",

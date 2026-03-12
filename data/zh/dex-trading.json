@@ -11,7 +11,13 @@
       "user_provides": "Gnosis Safe 地址（已配置 Zodiac Roles）",
       "dapps": "KyberSwap, CoW Protocol, Trenches",
       "run_mode": "混合",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/0xardi/clawlett"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/0xardi/clawlett",
+      "clawhub_downloads": 144,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "clawlett",
+      "clawhub_url": "https://clawhub.ai/skills/clawlett",
+      "clawhub_display_name": "Clawlett"
     },
     {
       "name": "sushiswap-api",
@@ -23,7 +29,13 @@
       "user_provides": "referrer 参数（集成方标识）",
       "dapps": "SushiSwap",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/0xmasayoshi/sushiswap-api"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/0xmasayoshi/sushiswap-api",
+      "clawhub_downloads": 925,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "sushiswap-api",
+      "clawhub_url": "https://clawhub.ai/skills/sushiswap-api",
+      "clawhub_display_name": "SushiSwap API"
     },
     {
       "name": "sushiswap-sdk",
@@ -35,7 +47,13 @@
       "user_provides": "referrer 参数",
       "dapps": "SushiSwap",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/0xmasayoshi/sushiswap-sdk"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/0xmasayoshi/sushiswap-sdk",
+      "clawhub_downloads": 927,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "sushiswap-sdk",
+      "clawhub_url": "https://clawhub.ai/skills/sushiswap-sdk",
+      "clawhub_display_name": "SushiSwap SDK"
     },
     {
       "name": "easy-swap",
@@ -47,7 +65,13 @@
       "user_provides": "OKX API Key/Secret/Passphrase、钱包私钥",
       "dapps": "OKX DEX",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/aaronllee/easy-swap"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/aaronllee/easy-swap",
+      "clawhub_downloads": 220,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "easy-swap",
+      "clawhub_url": "https://clawhub.ai/skills/easy-swap",
+      "clawhub_display_name": "DEX Swap & Broadcast"
     },
     {
       "name": "buy-crust",
@@ -59,7 +83,13 @@
       "user_provides": "Solana 钱包（Phantom/Solflare）, SOL 余额",
       "dapps": "Jupiter",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/alphafanx/buy-crust"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/alphafanx/buy-crust",
+      "clawhub_downloads": 219,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "buy-crust",
+      "clawhub_url": "https://clawhub.ai/skills/buy-crust",
+      "clawhub_display_name": "Buy CRUST"
     },
     {
       "name": "solana-memecoin-trade",
@@ -71,7 +101,13 @@
       "user_provides": "Solana 钱包私钥, RPC 节点, 风险参数（止损/止盈/仓位大小）",
       "dapps": "Jupiter, Pump.fun, DexScreener",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/binance237a-hash/solana-memecoin-trade"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/binance237a-hash/solana-memecoin-trade",
+      "clawhub_downloads": 20,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "solana-memecoin-trade",
+      "clawhub_url": "https://clawhub.ai/skills/solana-memecoin-trade",
+      "clawhub_display_name": "Solana Memecoin Guardian v2"
     },
     {
       "name": "headless-crypto",
@@ -83,7 +119,13 @@
       "user_provides": "Solana 钱包私钥 或 BNB Chain 钱包私钥",
       "dapps": "Raydium, PancakeSwap",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/bnbcompanions/headless-crypto"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/bnbcompanions/headless-crypto",
+      "clawhub_downloads": 216,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "headless-crypto",
+      "clawhub_url": "https://clawhub.ai/skills/headless-crypto",
+      "clawhub_display_name": "Headless  Crypto trading for agents"
     },
     {
       "name": "mi-trading",
@@ -95,7 +137,13 @@
       "user_provides": "Jupiter API 密钥, Solana RPC URL, 钱包文件",
       "dapps": "Jupiter",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/davidpolotm/mi-trading"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/davidpolotm/mi-trading",
+      "clawhub_downloads": 327,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "mi-trading",
+      "clawhub_url": "https://clawhub.ai/skills/mi-trading",
+      "clawhub_display_name": "Mi Trading"
     },
     {
       "name": "cross-chain-arbitrage-cn",
@@ -107,7 +155,13 @@
       "user_provides": "钱包和代理余额",
       "dapps": "Uniswap",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/guohongbin-git/cross-chain-arbitrage-cn"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/guohongbin-git/cross-chain-arbitrage-cn",
+      "clawhub_downloads": 256,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "cross-chain-arbitrage-cn",
+      "clawhub_url": "https://clawhub.ai/skills/cross-chain-arbitrage-cn",
+      "clawhub_display_name": "Cross-Chain Arbitrage CN | 跨链套利"
     },
     {
       "name": "solana-swaps",
@@ -119,7 +173,13 @@
       "user_provides": "Solana 密钥对路径, Jupiter API Key (可选)",
       "dapps": "Jupiter",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/imthatcarlos/solana-swaps"
+      "github_url": "https://github.com/imthatcarlos/solana-swaps",
+      "clawhub_downloads": 1558,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "solana-swaps",
+      "clawhub_url": "https://clawhub.ai/skills/solana-swaps",
+      "clawhub_display_name": "Solana Swaps"
     },
     {
       "name": "solana-easy-swap",
@@ -131,7 +191,13 @@
       "user_provides": "Solana 密钥对路径",
       "dapps": "Jupiter",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/in-liberty420/solana-easy-swap"
+      "github_url": "https://github.com/in-liberty420/solana-easy-swap",
+      "clawhub_downloads": 359,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "solana-easy-swap",
+      "clawhub_url": "https://clawhub.ai/skills/solana-easy-swap",
+      "clawhub_display_name": "Solana Easy Swap"
     },
     {
       "name": "uniswap",
@@ -143,7 +209,13 @@
       "user_provides": "",
       "dapps": "Uniswap",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/ivangdavila/uniswap"
+      "github_url": "https://github.com/ivangdavila/uniswap",
+      "clawhub_downloads": 548,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "uniswap",
+      "clawhub_url": "https://clawhub.ai/skills/uniswap",
+      "clawhub_display_name": "Uniswap"
     },
     {
       "name": "clawdex-trading",
@@ -155,7 +227,13 @@
       "user_provides": "ClawDex CLI, Jupiter API Key, Solana 钱包",
       "dapps": "Jupiter",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/joelccodes/clawdex-trading"
+      "github_url": "https://github.com/joelccodes/clawdex-trading",
+      "clawhub_downloads": 312,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "clawdex-trading",
+      "clawhub_url": "https://clawhub.ai/skills/clawdex-trading",
+      "clawhub_display_name": "ClawDex Trading"
     },
     {
       "name": "jup-skill",
@@ -167,7 +245,13 @@
       "user_provides": "Jupiter API Key, Solana 钱包",
       "dapps": "Jupiter",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/lifeofpavs/jup-skill"
+      "github_url": "https://github.com/lifeofpavs/jup-skill",
+      "clawhub_downloads": 357,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "jup-skill",
+      "clawhub_url": "https://clawhub.ai/skills/jup-skill",
+      "clawhub_display_name": "Jupiter Skill for OpenClaw"
     },
     {
       "name": "minara",
@@ -179,7 +263,13 @@
       "user_provides": "Minara API Key",
       "dapps": "Minara",
       "run_mode": "混合",
-      "github_url": "https://github.com/lowesyang/minara"
+      "github_url": "https://github.com/lowesyang/minara",
+      "clawhub_downloads": 2295,
+      "clawhub_stars": 9,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "minara",
+      "clawhub_url": "https://clawhub.ai/skills/minara",
+      "clawhub_display_name": "Minara"
     },
     {
       "name": "slopesniper",
@@ -191,7 +281,13 @@
       "user_provides": "Solana 私钥",
       "dapps": "Jupiter",
       "run_mode": "混合",
-      "github_url": "https://github.com/maddefientist/slopesniper"
+      "github_url": "https://github.com/maddefientist/slopesniper",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "slopesniper",
+      "clawhub_url": "https://clawhub.ai/skills/slopesniper",
+      "clawhub_display_name": "slopesniper"
     },
     {
       "name": "slopesniper-skill",
@@ -203,7 +299,13 @@
       "user_provides": "Solana 私钥",
       "dapps": "Jupiter",
       "run_mode": "混合",
-      "github_url": "https://github.com/maddefientist/slopesniper-skill"
+      "github_url": "https://github.com/maddefientist/slopesniper-skill",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "slopesniper-skill",
+      "clawhub_url": "https://clawhub.ai/skills/slopesniper-skill",
+      "clawhub_display_name": "slopesniper-skill"
     },
     {
       "name": "noya-agent-skill",
@@ -215,7 +317,13 @@
       "user_provides": "Noya API Key",
       "dapps": "Noya, Polymarket",
       "run_mode": "混合",
-      "github_url": "https://github.com/noyadev00-gmailcom/noya-agent-skill"
+      "github_url": "https://github.com/noyadev00-gmailcom/noya-agent-skill",
+      "clawhub_downloads": 260,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "noya-agent-skill",
+      "clawhub_url": "https://clawhub.ai/skills/noya-agent-skill",
+      "clawhub_display_name": "Noya Agent Skill"
     },
     {
       "name": "bankr-2",
@@ -227,7 +335,13 @@
       "user_provides": "Bankr API Key",
       "dapps": "Polymarket, Uniswap",
       "run_mode": "混合",
-      "github_url": "https://github.com/oguhfailed/bankr-2"
+      "github_url": "https://github.com/oguhfailed/bankr-2",
+      "clawhub_downloads": 48,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "bankr-2",
+      "clawhub_url": "https://clawhub.ai/skills/bankr-2",
+      "clawhub_display_name": "Bankr"
     },
     {
       "name": "uniswap-v4",
@@ -239,7 +353,13 @@
       "user_provides": "私钥",
       "dapps": "Uniswap",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/openclaw-consensus-bot/uniswap-v4"
+      "github_url": "https://github.com/openclaw-consensus-bot/uniswap-v4",
+      "clawhub_downloads": 1094,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "uniswap-v4",
+      "clawhub_url": "https://clawhub.ai/skills/uniswap-v4",
+      "clawhub_display_name": "Uniswap V4"
     },
     {
       "name": "outsmart-dex-trading",
@@ -251,7 +371,13 @@
       "user_provides": "私钥, RPC 端点",
       "dapps": "Jupiter",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/outsmartchad/outsmart-dex-trading"
+      "github_url": "https://github.com/outsmartchad/outsmart-dex-trading",
+      "clawhub_downloads": 119,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "outsmart-dex-trading",
+      "clawhub_url": "https://clawhub.ai/skills/outsmart-dex-trading",
+      "clawhub_display_name": "Outsmart DEX Trading"
     },
     {
       "name": "outsmart-lp-sniping",
@@ -263,7 +389,13 @@
       "user_provides": "私钥, RPC 端点",
       "dapps": "Meteora, Jupiter",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/outsmartchad/outsmart-lp-sniping"
+      "github_url": "https://github.com/outsmartchad/outsmart-lp-sniping",
+      "clawhub_downloads": 124,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "outsmart-lp-sniping",
+      "clawhub_url": "https://clawhub.ai/skills/outsmart-lp-sniping",
+      "clawhub_display_name": "Outsmart LP Sniping"
     },
     {
       "name": "trade-router",
@@ -275,7 +407,13 @@
       "user_provides": "钱包地址",
       "dapps": "TradeRouter",
       "run_mode": "混合",
-      "github_url": "https://github.com/re-bruce-wayne/trade-router"
+      "github_url": "https://github.com/re-bruce-wayne/trade-router",
+      "clawhub_downloads": 368,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "trade-router",
+      "clawhub_url": "https://clawhub.ai/skills/trade-router",
+      "clawhub_display_name": "Solana Trading Api"
     },
     {
       "name": "solana-sniper-bot",
@@ -287,7 +425,13 @@
       "user_provides": "Solana 私钥, LLM API Key",
       "dapps": "Jupiter",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/srikanthbellary/solana-sniper-bot"
+      "github_url": "https://github.com/srikanthbellary/solana-sniper-bot",
+      "clawhub_downloads": 730,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "solana-sniper-bot",
+      "clawhub_url": "https://clawhub.ai/skills/solana-sniper-bot",
+      "clawhub_display_name": "Solana Sniper Bot"
     },
     {
       "name": "agent-otc-trade",
@@ -299,7 +443,13 @@
       "user_provides": "",
       "dapps": "Uniswap",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/wpank/agent-otc-trade"
+      "github_url": "https://github.com/wpank/agent-otc-trade",
+      "clawhub_downloads": 501,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "agent-otc-trade",
+      "clawhub_url": "https://clawhub.ai/skills/agent-otc-trade",
+      "clawhub_display_name": "Uniswap Agent Otc Trade"
     },
     {
       "name": "batch-swap",
@@ -311,7 +461,13 @@
       "user_provides": "",
       "dapps": "Uniswap",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/wpank/batch-swap"
+      "github_url": "https://github.com/wpank/batch-swap",
+      "clawhub_downloads": 458,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "batch-swap",
+      "clawhub_url": "https://clawhub.ai/skills/batch-swap",
+      "clawhub_display_name": "Uniswap Batch Swap"
     },
     {
       "name": "compare-pools",
@@ -323,7 +479,13 @@
       "user_provides": "代币对名称",
       "dapps": "Uniswap",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/wpank/compare-pools"
+      "github_url": "https://github.com/wpank/compare-pools",
+      "clawhub_downloads": 445,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "compare-pools",
+      "clawhub_url": "https://clawhub.ai/skills/compare-pools",
+      "clawhub_display_name": "Uniswap Compare Pools"
     },
     {
       "name": "create-test-pool",
@@ -335,7 +497,13 @@
       "user_provides": "代币对、费率层、价格范围等参数",
       "dapps": "Uniswap",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/wpank/create-test-pool"
+      "github_url": "https://github.com/wpank/create-test-pool",
+      "clawhub_downloads": 448,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "create-test-pool",
+      "clawhub_url": "https://clawhub.ai/skills/create-test-pool",
+      "clawhub_display_name": "Uniswap Create Test Pool"
     },
     {
       "name": "cross-chain-arbitrage",
@@ -347,7 +515,13 @@
       "user_provides": "",
       "dapps": "Uniswap",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/wpank/cross-chain-arbitrage"
+      "github_url": "https://github.com/wpank/cross-chain-arbitrage",
+      "clawhub_downloads": 567,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "cross-chain-arbitrage",
+      "clawhub_url": "https://clawhub.ai/skills/cross-chain-arbitrage",
+      "clawhub_display_name": "Uniswap Cross Chain Arbitrage"
     },
     {
       "name": "manage-liquidity",
@@ -359,7 +533,13 @@
       "user_provides": "代币对、操作类型",
       "dapps": "Uniswap",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/wpank/manage-liquidity"
+      "github_url": "https://github.com/wpank/manage-liquidity",
+      "clawhub_downloads": 474,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "manage-liquidity",
+      "clawhub_url": "https://clawhub.ai/skills/manage-liquidity",
+      "clawhub_display_name": "Uniswap Manage Liquidity"
     },
     {
       "name": "research-and-trade",
@@ -371,7 +551,13 @@
       "user_provides": "代币名称或地址",
       "dapps": "Uniswap",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/wpank/research-and-trade"
+      "github_url": "https://github.com/wpank/research-and-trade",
+      "clawhub_downloads": 483,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "research-and-trade",
+      "clawhub_url": "https://clawhub.ai/skills/research-and-trade",
+      "clawhub_display_name": "Uniswap Research And Trade"
     },
     {
       "name": "setup-dca",
@@ -383,7 +569,13 @@
       "user_provides": "定投金额、频率、代币对",
       "dapps": "Uniswap",
       "run_mode": "混合",
-      "github_url": "https://github.com/wpank/setup-dca"
+      "github_url": "https://github.com/wpank/setup-dca",
+      "clawhub_downloads": 418,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "setup-dca",
+      "clawhub_url": "https://clawhub.ai/skills/setup-dca",
+      "clawhub_display_name": "Uniswap Setup DCA"
     },
     {
       "name": "submit-limit-order",
@@ -395,7 +587,13 @@
       "user_provides": "代币对、数量、限价（可选）",
       "dapps": "Uniswap, UniswapX",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/wpank/submit-limit-order"
+      "github_url": "https://github.com/wpank/submit-limit-order",
+      "clawhub_downloads": 480,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "submit-limit-order",
+      "clawhub_url": "https://clawhub.ai/skills/submit-limit-order",
+      "clawhub_display_name": "Uniswap Submit Limit Order"
     },
     {
       "name": "uniswap-swap-simulation",
@@ -407,7 +605,13 @@
       "user_provides": "代币对、金额",
       "dapps": "Uniswap",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/wpank/uniswap-swap-simulation"
+      "github_url": "https://github.com/wpank/uniswap-swap-simulation",
+      "clawhub_downloads": 489,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "uniswap-swap-simulation",
+      "clawhub_url": "https://clawhub.ai/skills/uniswap-swap-simulation",
+      "clawhub_display_name": "Uniswap Swap Simulation"
     },
     {
       "name": "solana-sniper-architect",
@@ -419,7 +623,13 @@
       "user_provides": "交易策略需求",
       "dapps": "Jupiter",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/wterry57/solana-sniper-architect"
+      "github_url": "https://github.com/wterry57/solana-sniper-architect",
+      "clawhub_downloads": 533,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "solana-sniper-architect",
+      "clawhub_url": "https://clawhub.ai/skills/solana-sniper-architect",
+      "clawhub_display_name": "Solana Sniper Architect"
     },
     {
       "name": "design-hook",
@@ -431,7 +641,13 @@
       "user_provides": "Hook 功能需求",
       "dapps": "Uniswap",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/wpank/design-hook"
+      "github_url": "https://github.com/wpank/design-hook",
+      "clawhub_downloads": 443,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "design-hook",
+      "clawhub_url": "https://clawhub.ai/skills/design-hook",
+      "clawhub_display_name": "Design Uniswap Hook"
     },
     {
       "name": "design-integration",
@@ -443,7 +659,13 @@
       "user_provides": "项目需求描述",
       "dapps": "Uniswap",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/wpank/design-integration"
+      "github_url": "https://github.com/wpank/design-integration",
+      "clawhub_downloads": 467,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "design-integration",
+      "clawhub_url": "https://clawhub.ai/skills/design-integration",
+      "clawhub_display_name": "Uniswap Design Integration"
     },
     {
       "name": "execute-swap",
@@ -455,7 +677,13 @@
       "user_provides": "代币对、金额",
       "dapps": "Uniswap, UniswapX",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/wpank/execute-swap"
+      "github_url": "https://github.com/wpank/execute-swap",
+      "clawhub_downloads": 469,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "execute-swap",
+      "clawhub_url": "https://clawhub.ai/skills/execute-swap",
+      "clawhub_display_name": "Uniswap Execute Swap"
     },
     {
       "name": "okx-dex-swap",
@@ -467,7 +695,13 @@
       "user_provides": "OKX DEX API 凭证",
       "dapps": "OKX DEX",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/ok-james-01/okx-dex-swap"
+      "github_url": "https://github.com/ok-james-01/okx-dex-swap",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "okx-dex-swap",
+      "clawhub_url": "https://clawhub.ai/skills/okx-dex-swap",
+      "clawhub_display_name": "okx-dex-swap"
     },
     {
       "name": "byreal-cli",
@@ -479,7 +713,13 @@
       "user_provides": "",
       "dapps": "Byreal",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/ggg223399/byreal-cli"
+      "github_url": "https://github.com/ggg223399/byreal-cli",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "byreal-cli",
+      "clawhub_url": "https://clawhub.ai/skills/byreal-cli",
+      "clawhub_display_name": "byreal-cli"
     },
     {
       "name": "minara-skill-v2",
@@ -491,7 +731,13 @@
       "user_provides": "Minara API Key",
       "dapps": "Minara",
       "run_mode": "混合",
-      "github_url": "https://github.com/larisgtu/minara-skill-v2"
+      "github_url": "https://github.com/larisgtu/minara-skill-v2",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "minara-skill-v2",
+      "clawhub_url": "https://clawhub.ai/skills/minara-skill-v2",
+      "clawhub_display_name": "minara-skill-v2"
     },
     {
       "name": "axelrod",
@@ -503,7 +749,13 @@
       "user_provides": "AIxVC 凭证",
       "dapps": "",
       "run_mode": "混合",
-      "github_url": "https://github.com/aixvcteam/axelrod"
+      "github_url": "https://github.com/aixvcteam/axelrod",
+      "clawhub_downloads": 453,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "axelrod",
+      "clawhub_url": "https://clawhub.ai/skills/axelrod",
+      "clawhub_display_name": "Axelrod"
     },
     {
       "name": "trench",
@@ -515,7 +767,13 @@
       "user_provides": "",
       "dapps": "Jupiter, Raydium, Pump.fun",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/inkoak23-code/trench"
+      "github_url": "https://github.com/inkoak23-code/trench",
+      "clawhub_downloads": 182,
+      "clawhub_stars": 4,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "trench",
+      "clawhub_url": "https://clawhub.ai/skills/trench",
+      "clawhub_display_name": "Trench"
     },
     {
       "name": "xpr-defi",
@@ -527,7 +785,13 @@
       "user_provides": "XPR Network 账号",
       "dapps": "Metal X",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/paulgnz/xpr-defi"
+      "github_url": "https://github.com/paulgnz/xpr-defi",
+      "clawhub_downloads": 329,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "xpr-defi",
+      "clawhub_url": "https://clawhub.ai/skills/xpr-defi",
+      "clawhub_display_name": "XPR DeFi"
     },
     {
       "name": "qelt-dex",
@@ -539,7 +803,13 @@
       "user_provides": "",
       "dapps": "Uniswap",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/prqelt/qelt-dex"
+      "github_url": "https://github.com/prqelt/qelt-dex",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "qelt-dex",
+      "clawhub_url": "https://clawhub.ai/skills/qelt-dex",
+      "clawhub_display_name": "qelt-dex"
     },
     {
       "name": "poseidon-otc",
@@ -551,7 +821,13 @@
       "user_provides": "Solana 密钥",
       "dapps": "Poseidon",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/romovow/poseidon-otc"
+      "github_url": "https://github.com/romovow/poseidon-otc",
+      "clawhub_downloads": 1230,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "poseidon-otc",
+      "clawhub_url": "https://clawhub.ai/skills/poseidon-otc",
+      "clawhub_display_name": "Poseidon OTC"
     },
     {
       "name": "crypto-trader",
@@ -563,7 +839,13 @@
       "user_provides": "BINANCE_API_KEY、BINANCE_API_SECRET",
       "dapps": "",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/nandichi/crypto-trader"
+      "github_url": "https://github.com/nandichi/crypto-trader",
+      "clawhub_downloads": 734,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "crypto-trader",
+      "clawhub_url": "https://clawhub.ai/skills/crypto-trader",
+      "clawhub_display_name": "crypto-trader"
     },
     {
       "name": "elsa-x402-api",
@@ -575,7 +857,13 @@
       "user_provides": "PAYMENT_PRIVATE_KEY",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/justjkk/elsa-x402-api"
+      "github_url": "https://github.com/justjkk/elsa-x402-api",
+      "clawhub_downloads": 38,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "elsa-x402-api",
+      "clawhub_url": "https://clawhub.ai/skills/elsa-x402-api",
+      "clawhub_display_name": "Elsa x402 API"
     },
     {
       "name": "dex-quote",
@@ -587,7 +875,13 @@
       "user_provides": "OKX API Key/Secret/Passphrase",
       "dapps": "Uniswap, SushiSwap, Curve",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/aaronllee/dex-quote"
+      "github_url": "https://github.com/aaronllee/dex-quote",
+      "clawhub_downloads": 246,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "dex-quote",
+      "clawhub_url": "https://clawhub.ai/skills/dex-quote",
+      "clawhub_display_name": "DEX Aggregator Quote"
     },
     {
       "name": "defi-sniper",
@@ -599,7 +893,13 @@
       "user_provides": "MINARA_API_KEY、SOLANA_RPC_URL",
       "dapps": "",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/h4gen/defi-sniper"
+      "github_url": "https://github.com/h4gen/defi-sniper",
+      "clawhub_downloads": 394,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "defi-sniper",
+      "clawhub_url": "https://clawhub.ai/skills/defi-sniper",
+      "clawhub_display_name": "Defi Sniper"
     },
     {
       "name": "outsmart-trenching",
@@ -611,7 +911,13 @@
       "user_provides": "PRIVATE_KEY、MAINNET_ENDPOINT",
       "dapps": "",
       "run_mode": "混合",
-      "github_url": "https://github.com/outsmartchad/outsmart-trenching"
+      "github_url": "https://github.com/outsmartchad/outsmart-trenching",
+      "clawhub_downloads": 118,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "outsmart-trenching",
+      "clawhub_url": "https://clawhub.ai/skills/outsmart-trenching",
+      "clawhub_display_name": "Outsmart Trenching"
     },
     {
       "name": "bitstamp-trader",
@@ -623,7 +929,13 @@
       "user_provides": "Bitstamp API 密钥",
       "dapps": "",
       "run_mode": "混合",
-      "github_url": "https://github.com/zhen08/bitstamp-trader"
+      "github_url": "https://github.com/zhen08/bitstamp-trader",
+      "clawhub_downloads": 45,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "bitstamp-trader",
+      "clawhub_url": "https://clawhub.ai/skills/bitstamp-trader",
+      "clawhub_display_name": "Bitstamp Trader"
     },
     {
       "name": "trade",
@@ -635,7 +947,13 @@
       "user_provides": "已认证的 awal 钱包",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/0xrag/trade"
+      "github_url": "https://github.com/0xrag/trade",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "trade",
+      "clawhub_url": "https://clawhub.ai/skills/trade",
+      "clawhub_display_name": "trade"
     },
     {
       "name": "nansen-trade",
@@ -647,7 +965,13 @@
       "user_provides": "NANSEN_API_KEY, NANSEN_WALLET_PASSWORD",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/hurcannansen/nansen-trade"
+      "github_url": "https://github.com/hurcannansen/nansen-trade",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "nansen-trade",
+      "clawhub_url": "https://clawhub.ai/skills/nansen-trade",
+      "clawhub_display_name": "nansen-trade"
     },
     {
       "name": "binance-dca-tool",
@@ -659,7 +983,13 @@
       "user_provides": "BINANCE_API_KEY, BINANCE_SECRET_KEY",
       "dapps": "Binance",
       "run_mode": "混合",
-      "github_url": "https://github.com/fpsjago/binance-dca-tool"
+      "github_url": "https://github.com/fpsjago/binance-dca-tool",
+      "clawhub_downloads": 971,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "binance-dca-tool",
+      "clawhub_url": "https://clawhub.ai/skills/binance-dca-tool",
+      "clawhub_display_name": "Binance Dca Tool"
     },
     {
       "name": "binance-dca-test",
@@ -671,7 +1001,13 @@
       "user_provides": "BINANCE_API_KEY, BINANCE_SECRET_KEY",
       "dapps": "Binance",
       "run_mode": "混合",
-      "github_url": "https://github.com/fpsjago/binance-dca-test"
+      "github_url": "https://github.com/fpsjago/binance-dca-test",
+      "clawhub_downloads": 897,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "binance-dca-test",
+      "clawhub_url": "https://clawhub.ai/skills/binance-dca-test",
+      "clawhub_display_name": "Binance DCA Test"
     },
     {
       "name": "base-trader",
@@ -683,7 +1019,13 @@
       "user_provides": "Bankr API 配置, ETH（Base 链上）",
       "dapps": "Bankr",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/sp0oby/base-trader"
+      "github_url": "https://github.com/sp0oby/base-trader",
+      "clawhub_downloads": 5427,
+      "clawhub_stars": 21,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "base-trader",
+      "clawhub_url": "https://clawhub.ai/skills/base-trader",
+      "clawhub_display_name": "Base Trader"
     },
     {
       "name": "totoxu-auto-trader",
@@ -695,7 +1037,13 @@
       "user_provides": "BINANCE_API_KEY, BINANCE_SECRET, SKILL_BILLING_API_KEY",
       "dapps": "Binance",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/totoxu/totoxu-auto-trader"
+      "github_url": "https://github.com/totoxu/totoxu-auto-trader",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "totoxu-auto-trader",
+      "clawhub_url": "https://clawhub.ai/skills/totoxu-auto-trader",
+      "clawhub_display_name": "totoxu-auto-trader"
     },
     {
       "name": "changenow",
@@ -707,7 +1055,13 @@
       "user_provides": "CHANGENOW_API_KEY, 目标钱包地址",
       "dapps": "ChangeNOW",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/yakelb0815/changenow"
+      "github_url": "https://github.com/yakelb0815/changenow",
+      "clawhub_downloads": 1302,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "changenow",
+      "clawhub_url": "https://clawhub.ai/skills/changenow",
+      "clawhub_display_name": "Changenow"
     },
     {
       "name": "find-arbitrage-opps",
@@ -719,7 +1073,13 @@
       "user_provides": "Hummingbot API (需运行中的 Hummingbot 实例)",
       "dapps": "Hummingbot",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/fengtality/find-arbitrage-opps"
+      "github_url": "https://github.com/fengtality/find-arbitrage-opps",
+      "clawhub_downloads": 64,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "find-arbitrage-opps",
+      "clawhub_url": "https://clawhub.ai/skills/find-arbitrage-opps",
+      "clawhub_display_name": "Find Arbitrage Opps"
     },
     {
       "name": "crypto-trading-bot",
@@ -731,7 +1091,13 @@
       "user_provides": "交易所 API Key, 策略需求描述",
       "dapps": "",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/katrina-jpg/crypto-trading-bot"
+      "github_url": "https://github.com/katrina-jpg/crypto-trading-bot",
+      "clawhub_downloads": 1720,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "crypto-trading-bot",
+      "clawhub_url": "https://clawhub.ai/skills/crypto-trading-bot",
+      "clawhub_display_name": "Crypto Trading Bot"
     },
     {
       "name": "kryptogo-meme-trader",
@@ -743,7 +1109,13 @@
       "user_provides": "KRYPTOGO_API_KEY, SOLANA_PRIVATE_KEY, SOLANA_WALLET_ADDRESS",
       "dapps": "",
       "run_mode": "混合",
-      "github_url": "https://github.com/a00012025/kryptogo-meme-trader"
+      "github_url": "https://github.com/a00012025/kryptogo-meme-trader",
+      "clawhub_downloads": 154,
+      "clawhub_stars": 1,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "kryptogo-meme-trader",
+      "clawhub_url": "https://clawhub.ai/skills/kryptogo-meme-trader",
+      "clawhub_display_name": "Kryptogo Meme Trader"
     },
     {
       "name": "zeroexcore-trader",
@@ -755,7 +1127,13 @@
       "user_provides": "WALLET_PASSWORD, HELIUS_API_KEY",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/devatzeroxcore/zeroexcore-trader"
+      "github_url": "https://github.com/devatzeroxcore/zeroexcore-trader",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "zeroexcore-trader",
+      "clawhub_url": "https://clawhub.ai/skills/zeroexcore-trader",
+      "clawhub_display_name": "zeroexcore-trader"
     },
     {
       "name": "okx-dex",
@@ -767,7 +1145,13 @@
       "user_provides": "OKX_API_KEY, OKX_SECRET_KEY, OKX_PASSPHRASE",
       "dapps": "OKX DEX",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/ricky321u/okx-dex"
+      "github_url": "https://github.com/ricky321u/okx-dex",
+      "clawhub_downloads": 1130,
+      "clawhub_stars": 1,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "okx-dex",
+      "clawhub_url": "https://clawhub.ai/skills/okx-dex",
+      "clawhub_display_name": "okx-dex"
     },
     {
       "name": "tentactl",
@@ -779,7 +1163,13 @@
       "user_provides": "KRAKEN_API_KEY, KRAKEN_API_SECRET",
       "dapps": "Kraken",
       "run_mode": "混合",
-      "github_url": "https://github.com/askbeka/tentactl"
+      "github_url": "https://github.com/askbeka/tentactl",
+      "clawhub_downloads": 138,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "tentactl",
+      "clawhub_url": "https://clawhub.ai/skills/tentactl",
+      "clawhub_display_name": "Kraken Exchange"
     },
     {
       "name": "grand-bazaar-swap",
@@ -791,7 +1181,13 @@
       "user_provides": "钱包地址、代币合约地址、交易数量",
       "dapps": "AirSwap",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/agriimony/grand-bazaar-swap"
+      "github_url": "https://github.com/agriimony/grand-bazaar-swap",
+      "clawhub_downloads": 44,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "grand-bazaar-swap",
+      "clawhub_url": "https://clawhub.ai/skills/grand-bazaar-swap",
+      "clawhub_display_name": "Grand Bazaar Swap"
     },
     {
       "name": "utxo-wallet",
@@ -803,7 +1199,13 @@
       "user_provides": "UTXO API Base URL、Spark Agent Network",
       "dapps": "UTXO Exchange",
       "run_mode": "混合",
-      "github_url": "https://github.com/davidyashar/utxo-wallet"
+      "github_url": "https://github.com/davidyashar/utxo-wallet",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "utxo-wallet",
+      "clawhub_url": "https://clawhub.ai/skills/utxo-wallet",
+      "clawhub_display_name": "utxo-wallet"
     },
     {
       "name": "intercom-lightning",
@@ -815,7 +1217,13 @@
       "user_provides": "Lightning 后端凭证、Solana 签名密钥、INTERCOMSWAP_PROMPTD_CONFIG",
       "dapps": "",
       "run_mode": "混合",
-      "github_url": "https://github.com/tracsystems/intercom-lightning"
+      "github_url": "https://github.com/tracsystems/intercom-lightning",
+      "clawhub_downloads": 235,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "intercom-lightning",
+      "clawhub_url": "https://clawhub.ai/skills/intercom-lightning",
+      "clawhub_display_name": "IntercomLightning"
     },
     {
       "name": "intercom-swap",
@@ -827,7 +1235,13 @@
       "user_provides": "Lightning 后端凭证、Solana 签名密钥、INTERCOMSWAP_PROMPTD_CONFIG",
       "dapps": "",
       "run_mode": "混合",
-      "github_url": "https://github.com/tracsystems/intercom-swap"
+      "github_url": "https://github.com/tracsystems/intercom-swap",
+      "clawhub_downloads": 334,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "intercom-swap",
+      "clawhub_url": "https://clawhub.ai/skills/intercom-swap",
+      "clawhub_display_name": "IntercomSwap"
     },
     {
       "name": "taco-dev",
@@ -839,7 +1253,13 @@
       "user_provides": "各交易所 API 密钥",
       "dapps": "Binance, HyperLiquid, Aster, Grvt, StandX, Lighter",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/furoxr/taco-dev"
+      "github_url": "https://github.com/furoxr/taco-dev",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "taco-dev",
+      "clawhub_url": "https://clawhub.ai/skills/taco-dev",
+      "clawhub_display_name": "taco-dev"
     },
     {
       "name": "taco",
@@ -851,7 +1271,13 @@
       "user_provides": "各交易所 API 密钥",
       "dapps": "Binance, HyperLiquid, Aster, Grvt, StandX, Lighter",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/furoxr/taco"
+      "github_url": "https://github.com/furoxr/taco",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "taco",
+      "clawhub_url": "https://clawhub.ai/skills/taco",
+      "clawhub_display_name": "taco"
     },
     {
       "name": "aurehub-xaut-trade",
@@ -863,7 +1289,13 @@
       "user_provides": "钱包私钥, ETH",
       "dapps": "Uniswap",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/aure-duncan/aurehub-xaut-trade"
+      "github_url": "https://github.com/aure-duncan/aurehub-xaut-trade",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "aurehub-xaut-trade",
+      "clawhub_url": "https://clawhub.ai/skills/aurehub-xaut-trade",
+      "clawhub_display_name": "aurehub-xaut-trade"
     },
     {
       "name": "binance-pro-cn",
@@ -875,7 +1307,13 @@
       "user_provides": "Binance API Key, Secret",
       "dapps": "Binance",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/guohongbin-git/binance-pro-cn"
+      "github_url": "https://github.com/guohongbin-git/binance-pro-cn",
+      "clawhub_downloads": 328,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "binance-pro-cn",
+      "clawhub_url": "https://clawhub.ai/skills/binance-pro-cn",
+      "clawhub_display_name": "Binance Pro Cn"
     },
     {
       "name": "binance-rsi-bot",
@@ -887,7 +1325,13 @@
       "user_provides": "Binance API Key, SkillPay 账户",
       "dapps": "Binance",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/mosonchan2023/binance-rsi-bot"
+      "github_url": "https://github.com/mosonchan2023/binance-rsi-bot",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "binance-rsi-bot",
+      "clawhub_url": "https://clawhub.ai/skills/binance-rsi-bot",
+      "clawhub_display_name": "binance-rsi-bot"
     },
     {
       "name": "clawsnipe",
@@ -899,7 +1343,13 @@
       "user_provides": "Axiom 账户凭据",
       "dapps": "Axiom",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/kaelxsol/clawsnipe"
+      "github_url": "https://github.com/kaelxsol/clawsnipe",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "clawsnipe",
+      "clawhub_url": "https://clawhub.ai/skills/clawsnipe",
+      "clawhub_display_name": "clawsnipe"
     },
     {
       "name": "soroban-trader-skill",
@@ -911,7 +1361,13 @@
       "user_provides": "Stellar 密钥对、交易对、风险参数",
       "dapps": "Stellar DEX",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/kaankacar/soroban-trader-skill"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/kaankacar/soroban-trader-skill",
+      "clawhub_downloads": 1149,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "soroban-trader-skill",
+      "clawhub_url": "https://clawhub.ai/skills/soroban-trader-skill",
+      "clawhub_display_name": "stellar-trader"
     },
     {
       "name": "burhanclaw-soroban-trader",
@@ -923,7 +1379,13 @@
       "user_provides": "Stellar 密钥对、交易对、风险参数",
       "dapps": "Stellar DEX",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/kaankacar/burhanclaw-soroban-trader"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/kaankacar/burhanclaw-soroban-trader",
+      "clawhub_downloads": 1131,
+      "clawhub_stars": 4,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "burhanclaw-soroban-trader",
+      "clawhub_url": "https://clawhub.ai/skills/burhanclaw-soroban-trader",
+      "clawhub_display_name": "Soroban Trader"
     },
     {
       "name": "soroban",
@@ -935,7 +1397,13 @@
       "user_provides": "Stellar 密钥对、交易对、风险参数",
       "dapps": "Stellar DEX",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/kaankacar/soroban"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/kaankacar/soroban",
+      "clawhub_downloads": 2640,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "soroban",
+      "clawhub_url": "https://clawhub.ai/skills/soroban",
+      "clawhub_display_name": "Soroban"
     },
     {
       "name": "hummingbot",
@@ -947,7 +1415,13 @@
       "user_provides": "交易所 API 密钥、策略参数",
       "dapps": "Hummingbot",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/fengtality/hummingbot"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/fengtality/hummingbot",
+      "clawhub_downloads": 42,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "hummingbot",
+      "clawhub_url": "https://clawhub.ai/skills/hummingbot",
+      "clawhub_display_name": "Hummingbot"
     },
     {
       "name": "binance-spot-trader",
@@ -959,7 +1433,13 @@
       "user_provides": "Binance API Key/Secret、初始资金、风控参数",
       "dapps": "Binance",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/srikanthbellary/binance-spot-trader"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/srikanthbellary/binance-spot-trader",
+      "clawhub_downloads": 1764,
+      "clawhub_stars": 6,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "binance-spot-trader",
+      "clawhub_url": "https://clawhub.ai/skills/binance-spot-trader",
+      "clawhub_display_name": "Binance Spot Trader"
     },
     {
       "name": "farmdash-signal-architect",
@@ -971,7 +1451,13 @@
       "user_provides": "钱包地址、交易对、金额",
       "dapps": "LiFi, 0x",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/parmasanandgarlic/farmdash-signal-architect"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/parmasanandgarlic/farmdash-signal-architect",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "farmdash-signal-architect",
+      "clawhub_url": "https://clawhub.ai/skills/farmdash-signal-architect",
+      "clawhub_display_name": "farmdash-signal-architect"
     },
     {
       "name": "deepbook-cli",
@@ -983,7 +1469,13 @@
       "user_provides": "Sui 钱包地址",
       "dapps": "DeepBook",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/astinz/deepbook-cli"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/astinz/deepbook-cli",
+      "clawhub_downloads": 1134,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "deepbook-cli",
+      "clawhub_url": "https://clawhub.ai/skills/deepbook-cli",
+      "clawhub_display_name": "DeepBook CLI. Watch, Make & Take the Sui Market"
     },
     {
       "name": "aicoin-trading",
@@ -995,7 +1487,13 @@
       "user_provides": "各交易所API Key",
       "dapps": "",
       "run_mode": "混合",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/procaross/aicoin-trading"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/procaross/aicoin-trading",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "aicoin-trading",
+      "clawhub_url": "https://clawhub.ai/skills/aicoin-trading",
+      "clawhub_display_name": "aicoin-trading"
     },
     {
       "name": "crypto-executor-optimizer",
@@ -1007,7 +1505,13 @@
       "user_provides": "BINANCE_API_KEY、BINANCE_API_SECRET",
       "dapps": "",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/georges91560/crypto-executor-optimizer"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/georges91560/crypto-executor-optimizer",
+      "clawhub_downloads": 33,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "crypto-executor-optimizer",
+      "clawhub_url": "https://clawhub.ai/skills/crypto-executor-optimizer",
+      "clawhub_display_name": "Crypto Executor Optimizer"
     },
     {
       "name": "quant-trader",
@@ -1019,7 +1523,13 @@
       "user_provides": "可选BINANCE_API_KEY（回测无需）",
       "dapps": "",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/zhenstaff/quant-trader"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/zhenstaff/quant-trader",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "quant-trader",
+      "clawhub_url": "https://clawhub.ai/skills/quant-trader",
+      "clawhub_display_name": "quant-trader"
     },
     {
       "name": "quant-analyst",
@@ -1031,7 +1541,13 @@
       "user_provides": "可选BINANCE_API_KEY（回测无需）",
       "dapps": "",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/zhenstaff/quant-analyst"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/zhenstaff/quant-analyst",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "quant-analyst",
+      "clawhub_url": "https://clawhub.ai/skills/quant-analyst",
+      "clawhub_display_name": "quant-analyst"
     },
     {
       "name": "tradr",
@@ -1043,7 +1559,13 @@
       "user_provides": "代币合约地址、评分、交易金额",
       "dapps": "Bankr",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/riskanon/tradr"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/riskanon/tradr",
+      "clawhub_downloads": 287,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "tradr",
+      "clawhub_url": "https://clawhub.ai/skills/tradr",
+      "clawhub_display_name": "tradr"
     },
     {
       "name": "hft-paper-trader",
@@ -1055,7 +1577,13 @@
       "user_provides": "钱包地址、交易参数或操作指令",
       "dapps": "",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com//hft-paper-trader"
+      "github_url": "https://github.com//hft-paper-trader",
+      "clawhub_downloads": 191,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "hft-paper-trader",
+      "clawhub_url": "https://clawhub.ai/skills/hft-paper-trader",
+      "clawhub_display_name": "HFT Paper Trader — Autonomous Crypto Framework"
     },
     {
       "name": "clawchemy",
@@ -1067,7 +1595,13 @@
       "user_provides": "钱包地址、交易参数或操作指令",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com//clawchemy"
+      "github_url": "https://github.com//clawchemy",
+      "clawhub_downloads": 1120,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "clawchemy",
+      "clawhub_url": "https://clawhub.ai/skills/clawchemy",
+      "clawhub_display_name": "Clawchemy"
     },
     {
       "name": "gotchi-equip",
@@ -1079,7 +1613,13 @@
       "user_provides": "钱包地址、交易参数或操作指令",
       "dapps": "Aave",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com//gotchi-equip"
+      "github_url": "https://github.com//gotchi-equip",
+      "clawhub_downloads": 306,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "gotchi-equip",
+      "clawhub_url": "https://clawhub.ai/skills/gotchi-equip",
+      "clawhub_display_name": "Gotchi Equip"
     },
     {
       "name": "flowfi",
@@ -1091,7 +1631,13 @@
       "user_provides": "钱包地址、交易参数或操作指令",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com//flowfi"
+      "github_url": "https://github.com//flowfi",
+      "clawhub_downloads": 499,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "flowfi",
+      "clawhub_url": "https://clawhub.ai/skills/flowfi",
+      "clawhub_display_name": "FlowFi"
     },
     {
       "name": "standx-cli",
@@ -1103,7 +1649,13 @@
       "user_provides": "钱包地址、交易参数或操作指令",
       "dapps": "",
       "run_mode": "混合",
-      "github_url": "https://github.com//standx-cli"
+      "github_url": "https://github.com//standx-cli",
+      "clawhub_downloads": 159,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "standx-cli",
+      "clawhub_url": "https://clawhub.ai/skills/standx-cli",
+      "clawhub_display_name": "Standx Cli"
     },
     {
       "name": "crypto-arb-cn",
@@ -1115,7 +1667,13 @@
       "user_provides": "交易所API密钥、交易对、最小利润阈值",
       "dapps": "",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com//crypto-arb-cn"
+      "github_url": "https://github.com//crypto-arb-cn",
+      "clawhub_downloads": 451,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "crypto-arb-cn",
+      "clawhub_url": "https://clawhub.ai/skills/crypto-arb-cn",
+      "clawhub_display_name": "Crypto Arbitrage CN | 加密货币套利监控"
     },
     {
       "name": "quote-trade-operator",
@@ -1127,7 +1685,13 @@
       "user_provides": "交易对和头寸大小",
       "dapps": "Quote.Trade",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com//quote-trade-operator"
+      "github_url": "https://github.com//quote-trade-operator",
+      "clawhub_downloads": 103,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "quote-trade-operator",
+      "clawhub_url": "https://clawhub.ai/skills/quote-trade-operator",
+      "clawhub_display_name": "Quote.Trade Operator — AI-Native Dark Pool DEX for Trading Bots and Autonomous Agents"
     },
     {
       "name": "district9",
@@ -1139,7 +1703,13 @@
       "user_provides": "任务描述和需求参数",
       "dapps": "Curve",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com//district9"
+      "github_url": "https://github.com//district9",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "district9",
+      "clawhub_url": "https://clawhub.ai/skills/district9",
+      "clawhub_display_name": "district9"
     },
     {
       "name": "kasia",
@@ -1151,7 +1721,13 @@
       "user_provides": "任务描述和需求参数",
       "dapps": "Uniswap, Curve, Balancer",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com//kasia"
+      "github_url": "https://github.com//kasia",
+      "clawhub_downloads": 321,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "kasia",
+      "clawhub_url": "https://clawhub.ai/skills/kasia",
+      "clawhub_display_name": "Kasia"
     },
     {
       "name": "agent-wallet-x402",
@@ -1163,7 +1739,13 @@
       "user_provides": "任务描述和需求参数",
       "dapps": "",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com//agent-wallet-x402"
+      "github_url": "https://github.com//agent-wallet-x402",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "agent-wallet-x402",
+      "clawhub_url": "https://clawhub.ai/skills/agent-wallet-x402",
+      "clawhub_display_name": "agent-wallet-x402"
     },
     {
       "name": "btcd-skill-beta",
@@ -1175,7 +1757,13 @@
       "user_provides": "任务描述和需求参数",
       "dapps": "",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com//btcd-skill-beta"
+      "github_url": "https://github.com//btcd-skill-beta",
+      "clawhub_downloads": 150,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "btcd-skill-beta",
+      "clawhub_url": "https://clawhub.ai/skills/btcd-skill-beta",
+      "clawhub_display_name": "BTCD Skill (NBW)"
     },
     {
       "name": "aiusd-skill-agent",
@@ -1187,7 +1775,13 @@
       "user_provides": "任务描述和需求参数",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com//aiusd-skill-agent"
+      "github_url": "https://github.com//aiusd-skill-agent",
+      "clawhub_downloads": 1249,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "aiusd-skill-agent",
+      "clawhub_url": "https://clawhub.ai/skills/aiusd-skill-agent",
+      "clawhub_display_name": "trade-with-aiusd"
     },
     {
       "name": "shll-skills",
@@ -1199,7 +1793,13 @@
       "user_provides": "任务描述和需求参数",
       "dapps": "",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com//shll-skills"
+      "github_url": "https://github.com//shll-skills",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "shll-skills",
+      "clawhub_url": "https://clawhub.ai/skills/shll-skills",
+      "clawhub_display_name": "shll-skills"
     },
     {
       "name": "shll-run",
@@ -1211,7 +1811,13 @@
       "user_provides": "任务描述和需求参数",
       "dapps": "",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com//shll-run"
+      "github_url": "https://github.com//shll-run",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "shll-run",
+      "clawhub_url": "https://clawhub.ai/skills/shll-run",
+      "clawhub_display_name": "shll-run"
     },
     {
       "name": "upload-clawhub",
@@ -1223,7 +1829,13 @@
       "user_provides": "任务描述和需求参数",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com//upload-clawhub"
+      "github_url": "https://github.com//upload-clawhub",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "upload-clawhub",
+      "clawhub_url": "https://clawhub.ai/skills/upload-clawhub",
+      "clawhub_display_name": "upload-clawhub"
     },
     {
       "name": "openmm",
@@ -1235,7 +1847,13 @@
       "user_provides": "交易所API密钥, 交易对, 做市参数",
       "dapps": "",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com//openmm"
+      "github_url": "https://github.com//openmm",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "openmm",
+      "clawhub_url": "https://clawhub.ai/skills/openmm",
+      "clawhub_display_name": "openmm"
     },
     {
       "name": "clawtrade-bnb",
@@ -1247,7 +1865,13 @@
       "user_provides": "钱包私钥, 策略选择, 交易参数",
       "dapps": "PancakeSwap",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com//clawtrade-bnb"
+      "github_url": "https://github.com//clawtrade-bnb",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "clawtrade-bnb",
+      "clawhub_url": "https://clawhub.ai/skills/clawtrade-bnb",
+      "clawhub_display_name": "clawtrade-bnb"
     },
     {
       "name": "zeroex-swap",
@@ -1259,7 +1883,13 @@
       "user_provides": "钱包地址, 代币对, 交易金额",
       "dapps": "0x Protocol",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com//zeroex-swap"
+      "github_url": "https://github.com//zeroex-swap",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "zeroex-swap",
+      "clawhub_url": "https://clawhub.ai/skills/zeroex-swap",
+      "clawhub_display_name": "zeroex-swap"
     },
     {
       "name": "aiusd",
@@ -1271,7 +1901,13 @@
       "user_provides": "钱包地址, 交易金额",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/Unknown/aiusd"
+      "github_url": "https://github.com/Unknown/aiusd",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "aiusd",
+      "clawhub_url": "https://clawhub.ai/skills/aiusd",
+      "clawhub_display_name": "aiusd"
     },
     {
       "name": "aiusd-skills",
@@ -1283,7 +1919,13 @@
       "user_provides": "钱包地址, 交易金额",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/Unknown/aiusd-skills"
+      "github_url": "https://github.com/Unknown/aiusd-skills",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "aiusd-skills",
+      "clawhub_url": "https://clawhub.ai/skills/aiusd-skills",
+      "clawhub_display_name": "aiusd-skills"
     },
     {
       "name": "aiusd-trade-agent",
@@ -1295,7 +1937,13 @@
       "user_provides": "钱包地址, 交易金额",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/Unknown/aiusd-trade-agent"
+      "github_url": "https://github.com/Unknown/aiusd-trade-agent",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "aiusd-trade-agent",
+      "clawhub_url": "https://clawhub.ai/skills/aiusd-trade-agent",
+      "clawhub_display_name": "aiusd-trade-agent"
     },
     {
       "name": "trade-agent",
@@ -1307,7 +1955,13 @@
       "user_provides": "钱包地址, 交易金额",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/Unknown/trade-agent"
+      "github_url": "https://github.com/Unknown/trade-agent",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "trade-agent",
+      "clawhub_url": "https://clawhub.ai/skills/trade-agent",
+      "clawhub_display_name": "trade-agent"
     },
     {
       "name": "trade-with-aiusd",
@@ -1319,7 +1973,13 @@
       "user_provides": "钱包地址, 交易金额",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/Unknown/trade-with-aiusd"
+      "github_url": "https://github.com/Unknown/trade-with-aiusd",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "trade-with-aiusd",
+      "clawhub_url": "https://clawhub.ai/skills/trade-with-aiusd",
+      "clawhub_display_name": "trade-with-aiusd"
     },
     {
       "name": "arbitrage-scanner",
@@ -1331,7 +1991,13 @@
       "user_provides": "代币对, 链选择（ETH/BSC/Arbitrum）",
       "dapps": "Uniswap, SushiSwap",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/Unknown/arbitrage-scanner"
+      "github_url": "https://github.com/Unknown/arbitrage-scanner",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "arbitrage-scanner",
+      "clawhub_url": "https://clawhub.ai/skills/arbitrage-scanner",
+      "clawhub_display_name": "arbitrage-scanner"
     },
     {
       "name": "nadfunagent",
@@ -1343,7 +2009,13 @@
       "user_provides": "MONAD_PRIVATE_KEY, MONAD_RPC_URL, MMIND_TOKEN_ADDRESS, Telegram ID",
       "dapps": "Nad.fun",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/Unknown/nadfunagent"
+      "github_url": "https://github.com/Unknown/nadfunagent",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "nadfunagent",
+      "clawhub_url": "https://clawhub.ai/skills/nadfunagent",
+      "clawhub_display_name": "nadfunagent"
     },
     {
       "name": "easyclaw",
@@ -1355,7 +2027,13 @@
       "user_provides": "SOLANA_RPC_URL, KEYPAIR_PATH, EASYCLAW_API_TOKEN",
       "dapps": "EasyClaw",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/Unknown/easyclaw"
+      "github_url": "https://github.com/Unknown/easyclaw",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "easyclaw",
+      "clawhub_url": "https://clawhub.ai/skills/easyclaw",
+      "clawhub_display_name": "easyclaw"
     },
     {
       "name": "cross-exchange-trading-platform",
@@ -1367,7 +2045,13 @@
       "user_provides": "GATE_API_KEY, GATE_API_SECRET",
       "dapps": "",
       "run_mode": "混合",
-      "github_url": "https://github.com/Unknown/cross-exchange-trading-platform"
+      "github_url": "https://github.com/Unknown/cross-exchange-trading-platform",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "cross-exchange-trading-platform",
+      "clawhub_url": "https://clawhub.ai/skills/cross-exchange-trading-platform",
+      "clawhub_display_name": "cross-exchange-trading-platform"
     },
     {
       "name": "cetus",
@@ -1379,7 +2063,13 @@
       "user_provides": "Sui钱包地址",
       "dapps": "Cetus Protocol",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/Unknown/cetus"
+      "github_url": "https://github.com/Unknown/cetus",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "cetus",
+      "clawhub_url": "https://clawhub.ai/skills/cetus",
+      "clawhub_display_name": "cetus"
     },
     {
       "name": "arbitrage-bot",
@@ -1391,7 +2081,13 @@
       "user_provides": "交易所API密钥",
       "dapps": "Uniswap, SushiSwap",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/sa9saq/arbitrage-bot"
+      "github_url": "https://github.com/sa9saq/arbitrage-bot",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "arbitrage-bot",
+      "clawhub_url": "https://clawhub.ai/skills/arbitrage-bot",
+      "clawhub_display_name": "arbitrage-bot"
     },
     {
       "name": "ui-ux-design-pro",
@@ -1403,7 +2099,13 @@
       "user_provides": "目标币种、数量、滑点容差",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/saifyxpro/ui-ux-design-pro"
+      "github_url": "https://github.com/saifyxpro/ui-ux-design-pro",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "ui-ux-design-pro",
+      "clawhub_url": "https://clawhub.ai/skills/ui-ux-design-pro",
+      "clawhub_display_name": "ui-ux-design-pro"
     },
     {
       "name": "orderly-one-dex",
@@ -1415,7 +2117,13 @@
       "user_provides": "Orderly 账户密钥、交易参数",
       "dapps": "Orderly Network",
       "run_mode": "混合",
-      "github_url": "https://github.com/tarnadas/orderly-one-dex"
+      "github_url": "https://github.com/tarnadas/orderly-one-dex",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "orderly-one-dex",
+      "clawhub_url": "https://clawhub.ai/skills/orderly-one-dex",
+      "clawhub_display_name": "orderly-one-dex"
     },
     {
       "name": "binance-hunter",
@@ -1427,7 +2135,13 @@
       "user_provides": "Binance API 密钥",
       "dapps": "Binance",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/tetravad/binance-hunter"
+      "github_url": "https://github.com/tetravad/binance-hunter",
+      "clawhub_downloads": 1711,
+      "clawhub_stars": 6,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "binance-hunter",
+      "clawhub_url": "https://clawhub.ai/skills/binance-hunter",
+      "clawhub_display_name": "Binance-Hunter"
     },
     {
       "name": "aster-spot",
@@ -1439,7 +2153,13 @@
       "user_provides": "Aster API 密钥和密钥",
       "dapps": "Aster",
       "run_mode": "混合",
-      "github_url": "https://github.com/yuandiaodiaodiao/aster-spot"
+      "github_url": "https://github.com/yuandiaodiaodiao/aster-spot",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "aster-spot",
+      "clawhub_url": "https://clawhub.ai/skills/aster-spot",
+      "clawhub_display_name": "aster-spot"
     },
     {
       "name": "kyberswap-arbitrage",
@@ -1451,7 +2171,13 @@
       "user_provides": "钱包私钥",
       "dapps": "KyberSwap",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/harleyscodes/kyberswap-arbitrage"
+      "github_url": "https://github.com/harleyscodes/kyberswap-arbitrage",
+      "clawhub_downloads": 341,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "kyberswap-arbitrage",
+      "clawhub_url": "https://clawhub.ai/skills/kyberswap-arbitrage",
+      "clawhub_display_name": "KyberSwap Arbitrage"
     },
     {
       "name": "xrpl-token-snipe",
@@ -1463,7 +2189,13 @@
       "user_provides": "XRPL 钱包",
       "dapps": "FirstLedger, XRPL",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/harleyscodes/xrpl-token-snipe"
+      "github_url": "https://github.com/harleyscodes/xrpl-token-snipe",
+      "clawhub_downloads": 256,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "xrpl-token-snipe",
+      "clawhub_url": "https://clawhub.ai/skills/xrpl-token-snipe",
+      "clawhub_display_name": "XRPL Token Sniping"
     },
     {
       "name": "pumpfun-sniper",
@@ -1475,7 +2207,13 @@
       "user_provides": "Solana 钱包私钥",
       "dapps": "Pump.fun",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/ultranumblol/pumpfun-sniper"
+      "github_url": "https://github.com/ultranumblol/pumpfun-sniper",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "pumpfun-sniper",
+      "clawhub_url": "https://clawhub.ai/skills/pumpfun-sniper",
+      "clawhub_display_name": "pumpfun-sniper"
     },
     {
       "name": "hft-paper-trader",
@@ -1487,7 +2225,13 @@
       "user_provides": "交易对配置",
       "dapps": "",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/jamierossouw/hft-paper-trader"
+      "github_url": "https://github.com/jamierossouw/hft-paper-trader",
+      "clawhub_downloads": 191,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "hft-paper-trader",
+      "clawhub_url": "https://clawhub.ai/skills/hft-paper-trader",
+      "clawhub_display_name": "HFT Paper Trader — Autonomous Crypto Framework"
     },
     {
       "name": "standx-cli",
@@ -1499,7 +2243,13 @@
       "user_provides": "StandX JWT 令牌",
       "dapps": "StandX",
       "run_mode": "混合",
-      "github_url": "https://github.com/wjllance/standx-cli"
+      "github_url": "https://github.com/wjllance/standx-cli",
+      "clawhub_downloads": 159,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "standx-cli",
+      "clawhub_url": "https://clawhub.ai/skills/standx-cli",
+      "clawhub_display_name": "Standx Cli"
     },
     {
       "name": "crypto-arb-cn",
@@ -1511,7 +2261,13 @@
       "user_provides": "交易所 API 密钥",
       "dapps": "Binance, OKX, Gate.io",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/guohongbin-git/crypto-arb-cn"
+      "github_url": "https://github.com/guohongbin-git/crypto-arb-cn",
+      "clawhub_downloads": 451,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "crypto-arb-cn",
+      "clawhub_url": "https://clawhub.ai/skills/crypto-arb-cn",
+      "clawhub_display_name": "Crypto Arbitrage CN | 加密货币套利监控"
     },
     {
       "name": "quote-trade-operator",
@@ -1523,7 +2279,13 @@
       "user_provides": "Quote.Trade 账户",
       "dapps": "Quote.Trade",
       "run_mode": "混合",
-      "github_url": "https://github.com/quotetrade/quote-trade-operator"
+      "github_url": "https://github.com/quotetrade/quote-trade-operator",
+      "clawhub_downloads": 103,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "quote-trade-operator",
+      "clawhub_url": "https://clawhub.ai/skills/quote-trade-operator",
+      "clawhub_display_name": "Quote.Trade Operator — AI-Native Dark Pool DEX for Trading Bots and Autonomous Agents"
     },
     {
       "name": "aiusd-skill-agent",
@@ -1535,7 +2297,13 @@
       "user_provides": "MCP Hub 令牌",
       "dapps": "AIUSD",
       "run_mode": "混合",
-      "github_url": "https://github.com/chaunceyliu/aiusd-skill-agent"
+      "github_url": "https://github.com/chaunceyliu/aiusd-skill-agent",
+      "clawhub_downloads": 1249,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "aiusd-skill-agent",
+      "clawhub_url": "https://clawhub.ai/skills/aiusd-skill-agent",
+      "clawhub_display_name": "trade-with-aiusd"
     },
     {
       "name": "shll-skills",
@@ -1547,7 +2315,13 @@
       "user_provides": "运营钱包私钥",
       "dapps": "SHLL, PancakeSwap",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/kledx/shll-skills"
+      "github_url": "https://github.com/kledx/shll-skills",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "shll-skills",
+      "clawhub_url": "https://clawhub.ai/skills/shll-skills",
+      "clawhub_display_name": "shll-skills"
     },
     {
       "name": "shll-run",
@@ -1559,7 +2333,13 @@
       "user_provides": "运营钱包私钥",
       "dapps": "SHLL, PancakeSwap",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/kledx/shll-run"
+      "github_url": "https://github.com/kledx/shll-run",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "shll-run",
+      "clawhub_url": "https://clawhub.ai/skills/shll-run",
+      "clawhub_display_name": "shll-run"
     },
     {
       "name": "upload-clawhub",
@@ -1571,7 +2351,13 @@
       "user_provides": "运营钱包私钥",
       "dapps": "SHLL, PancakeSwap",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/kledx/upload-clawhub"
+      "github_url": "https://github.com/kledx/upload-clawhub",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "upload-clawhub",
+      "clawhub_url": "https://clawhub.ai/skills/upload-clawhub",
+      "clawhub_display_name": "upload-clawhub"
     }
   ]
 }

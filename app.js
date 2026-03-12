@@ -4,7 +4,8 @@
 
   let ALL = [];
   let filtered = [];
-  let filters = { tech: 'all', user: 'all', dapp: 'all' };
+  let filters = { tech: 'all', user: 'all', dapp: 'all', certified: false };
+  let sortBy = 'relevance'; // 'relevance' | 'downloads' | 'stars'
   let LANG = localStorage.getItem('lang') || 'zh';
 
   // ─── i18n strings ───────────────────────────────────────────────
@@ -31,7 +32,15 @@
       langBtn: 'EN',
       indexFile: 'data/zh/index.json',
       other: '其他',
-      footerText: '数据来源 <a href="https://clawhub.ai" target="_blank">ClawHub</a> · 源码分析自 <a href="https://github.com/openclaw/skills" target="_blank">OpenClaw</a> · 每6小时自动同步 · Claude AI 智能分析',
+      certifiedOnly: '✓ 仅看认证',
+      sortLabel: '排序',
+      sortRelevance: '默认',
+      sortDownloads: '下载量',
+      sortStars: '收藏数',
+      certifiedBadge: '✓ Certified',
+      downloadsLabel: '下载',
+      starsLabel: '收藏',
+      footerText: '数据来源 <a href="https://clawhub.ai" target="_blank">ClawHub</a> · 源码分析自 <a href="https://github.com/openclaw/skills" target="_blank">OpenClaw</a> · Claude AI 智能分析',
     },
     en: {
       subtitle: 'Web3 AI Agent Skill Aggregator — AI-Curated, All in One Place',
@@ -54,7 +63,15 @@
       langBtn: '中文',
       indexFile: 'data/en/index.json',
       other: 'Other',
-      footerText: 'Data from <a href="https://clawhub.ai" target="_blank">ClawHub</a> · Analyzed from <a href="https://github.com/openclaw/skills" target="_blank">OpenClaw</a> · Auto-synced every 6 hours · Claude AI Analysis',
+      certifiedOnly: '✓ Certified Only',
+      sortLabel: 'Sort',
+      sortRelevance: 'Default',
+      sortDownloads: 'Downloads',
+      sortStars: 'Stars',
+      certifiedBadge: '✓ Certified',
+      downloadsLabel: 'Downloads',
+      starsLabel: 'Stars',
+      footerText: 'Data from <a href="https://clawhub.ai" target="_blank">ClawHub</a> · Analyzed from <a href="https://github.com/openclaw/skills" target="_blank">OpenClaw</a> · Claude AI Analysis',
     }
   };
 
@@ -108,7 +125,8 @@
   window.__toggleLang = function() {
     LANG = LANG === 'zh' ? 'en' : 'zh';
     localStorage.setItem('lang', LANG);
-    filters = { tech: 'all', user: 'all', dapp: 'all' };
+    filters = { tech: 'all', user: 'all', dapp: 'all', certified: false };
+    sortBy = 'relevance';
     init();
   };
 
@@ -170,7 +188,11 @@
       github: `https://github.com/openclaw/skills/tree/main/skills/${s.author || 'unknown'}/${s.name || ''}`,
       icon: s.icon || style.icon,
       iconBg: s.iconBg || style.bg,
-      web3Score: s.web3Score || 0
+      web3Score: s.web3Score || 0,
+      downloads: s.clawhub_downloads || 0,
+      stars: s.clawhub_stars || 0,
+      isCertified: s.clawhub_is_certified || false,
+      clawhubUrl: s.clawhub_url || `https://clawhub.ai/skills/${encodeURIComponent(s.name || '')}`,
     };
   }
 
@@ -194,6 +216,7 @@
     renderPills('filter-tech', countSorted(ALL, 'category'), 'tech', t('filterTech'), false);
     renderPills('filter-user', countSorted(ALL, 'userCat'), 'user', t('filterUser'), true);
     renderDappPills();
+    renderSpecialRow();
   }
 
   function renderDappPills() {
@@ -219,6 +242,43 @@
     });
     html += `<span class="pill" data-fk="dapp" data-fv="other">${t('other')}<span class="cnt">${noDappCount}</span></span>`;
     el.innerHTML = html;
+  }
+
+  function renderSpecialRow() {
+    const el = document.getElementById('filter-special');
+    if (!el) return;
+    const certifiedCount = ALL.filter(s => s.isCertified).length;
+    const isActiveCert = filters.certified;
+
+    let html = `<span class="filter-label">${t('sortLabel')}</span>`;
+    html += `<span class="pill sort-pill${sortBy === 'relevance' ? ' active' : ''}" data-sort="relevance">${t('sortRelevance')}</span>`;
+    html += `<span class="pill sort-pill${sortBy === 'downloads' ? ' active' : ''}" data-sort="downloads">↓ ${t('sortDownloads')}</span>`;
+    html += `<span class="pill sort-pill${sortBy === 'stars' ? ' active' : ''}" data-sort="stars">★ ${t('sortStars')}</span>`;
+    html += `<span class="filter-spacer"></span>`;
+    html += `<span class="pill cert-pill${isActiveCert ? ' active cert-active' : ''}" data-cert="toggle">${t('certifiedOnly')}<span class="cnt">${certifiedCount}</span></span>`;
+
+    el.innerHTML = html;
+
+    // Sort click handlers
+    el.querySelectorAll('.sort-pill').forEach(p => {
+      p.addEventListener('click', () => {
+        sortBy = p.dataset.sort;
+        el.querySelectorAll('.sort-pill').forEach(x => x.classList.remove('active'));
+        p.classList.add('active');
+        doFilter();
+      });
+    });
+
+    // Certified toggle
+    const certPill = el.querySelector('.cert-pill');
+    if (certPill) {
+      certPill.addEventListener('click', () => {
+        filters.certified = !filters.certified;
+        certPill.classList.toggle('active', filters.certified);
+        certPill.classList.toggle('cert-active', filters.certified);
+        doFilter();
+      });
+    }
   }
 
   function renderPills(containerId, items, filterKey, label, collapsed) {
@@ -264,19 +324,27 @@
       }
       if (filters.dapp !== 'all') {
         if (filters.dapp === 'other') {
-          // "Other" = skills with no DApp
           if (s.dapps && s.dapps.trim()) return false;
         } else {
           const dappList = s.dapps ? s.dapps.split(/[,，]/).map(d => d.trim()) : [];
           if (!dappList.includes(filters.dapp)) return false;
         }
       }
+      if (filters.certified && !s.isCertified) return false;
       if (q) {
         const hay = [s.name, s.author, s.desc, s.dapps, s.category, s.userCat, s.example].join(' ').toLowerCase();
         return hay.includes(q);
       }
       return true;
     });
+
+    // Sort
+    if (sortBy === 'downloads') {
+      filtered = [...filtered].sort((a, b) => (b.downloads || 0) - (a.downloads || 0));
+    } else if (sortBy === 'stars') {
+      filtered = [...filtered].sort((a, b) => (b.stars || 0) - (a.stars || 0));
+    }
+
     renderGrid();
     const countEl = document.getElementById('count');
     if (countEl) countEl.textContent = filtered.length + t('countSuffix');
@@ -295,6 +363,9 @@
       const dapps = s.dapps ? s.dapps.split(/[,，、/]/).map(d => d.trim()).filter(Boolean)
         .map(d => `<span class="ext-tag">${esc(d)}</span>`).join('') : '';
 
+      const certBadge = s.isCertified ? `<span class="certified-badge">${t('certifiedBadge')}</span>` : '';
+      const statsHtml = (s.downloads > 0 || s.stars > 0) ? `<div class="card-stats"><span class="stat-dl">↓ ${fmtNum(s.downloads)}</span><span class="stat-star">★ ${s.stars}</span></div>` : '';
+
       return `<div class="card" onclick="window.__openDetail(${s.id})">
         <div class="card-top">
           <div class="card-icon" style="background:${s.iconBg}">${s.icon}</div>
@@ -302,6 +373,7 @@
             <div class="cap-tags">
               <span class="cap-tag defi">${esc(s.category)}</span>
               <span class="cap-tag ${s.userCls}">${esc(s.userCat)}</span>
+              ${certBadge}
             </div>
           </div>
         </div>
@@ -309,8 +381,8 @@
         ${dapps ? `<div class="card-section"><div class="card-section-title">${t('dappSection')}</div><div class="ext-tags">${dapps}</div></div>` : ''}
         <div class="card-source"><span class="sname">${esc(s.name)}</span> · by ${esc(s.author)}</div>
         <div class="card-footer">
-          ${s.github ? `<a href="${esc(s.github)}" target="_blank" rel="noopener" onclick="event.stopPropagation()">${t('github')}</a>` : '<span></span>'}
-          <button class="install-btn" onclick="event.stopPropagation();window.open('https://clawhub.ai/skills/${encodeURIComponent(s.name)}','_blank')">${t('getSkill')}</button>
+          ${statsHtml}
+          <button class="install-btn" onclick="event.stopPropagation();window.open(${JSON.stringify(s.clawhubUrl)},'_blank')">${t('getSkill')}</button>
         </div>
       </div>`;
     }).join('');
@@ -327,6 +399,9 @@
     const isContinuous = s.runMode === '持续AI决策' || s.runMode === 'Continuous AI';
     const isHybrid = s.runMode === '混合' || s.runMode === 'Hybrid';
 
+    const dmCertBadge = s.isCertified ? `<span class="certified-badge">${t('certifiedBadge')}</span>` : '';
+    const dmStats = (s.downloads > 0 || s.stars > 0) ? `<div class="dm-stats-row"><span class="dm-stat">↓ <strong>${fmtNum(s.downloads)}</strong> ${t('downloadsLabel')}</span><span class="dm-stat">★ <strong>${s.stars}</strong> ${t('starsLabel')}</span></div>` : '';
+
     document.getElementById('detail-content').innerHTML = `
       <div class="dm-header">
         <button class="dm-close" onclick="window.__closeDetail()">✕</button>
@@ -336,8 +411,10 @@
             <div class="dm-badges" style="margin-bottom:8px">
               <span class="cap-tag defi">${esc(s.category)}</span>
               <span class="cap-tag ${s.userCls}">${esc(s.userCat)}</span>
+              ${dmCertBadge}
             </div>
             <div class="dm-author-line">${esc(s.name)} · by ${esc(s.author)}</div>
+            ${dmStats}
           </div>
         </div>
       </div>
@@ -368,7 +445,7 @@
 
       <div class="dm-footer">
         ${s.github ? `<a href="${esc(s.github)}" target="_blank" rel="noopener">${t('viewSource')}</a>` : ''}
-        <a href="https://clawhub.ai/skills/${encodeURIComponent(s.name)}" target="_blank" rel="noopener" style="background:linear-gradient(135deg,#00b894,#00cec9)">${t('getSkillArrow')}</a>
+        <a href="${esc(s.clawhubUrl)}" target="_blank" rel="noopener" style="background:linear-gradient(135deg,#00b894,#00cec9)">${t('getSkillArrow')}</a>
       </div>
     `;
     document.getElementById('detail-modal').classList.remove('hidden');
@@ -422,6 +499,12 @@
       });
     });
     return Object.entries(m).sort((a, b) => b[1] - a[1]);
+  }
+
+  function fmtNum(n) {
+    if (!n) return '0';
+    if (n >= 1000) return (n / 1000).toFixed(1).replace(/\.0$/, '') + 'k';
+    return String(n);
   }
 
   function esc(s) {

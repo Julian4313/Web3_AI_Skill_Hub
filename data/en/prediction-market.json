@@ -11,7 +11,13 @@
       "user_provides": "Telegram ID, trading budget",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/al1enjesus/polyclawster-agent"
+      "github_url": "https://github.com/al1enjesus/polyclawster-agent",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polyclawster-agent",
+      "clawhub_url": "https://clawhub.ai/skills/polyclawster-agent",
+      "clawhub_display_name": "polyclawster-agent"
     },
     {
       "name": "market-configurable-skills",
@@ -23,7 +29,13 @@
       "user_provides": "EVM wallet, liquidity token, oracle pool parameters",
       "dapps": "Uniswap",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/franckstone/market-configurable-skills"
+      "github_url": "https://github.com/franckstone/market-configurable-skills",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "market-configurable-skills",
+      "clawhub_url": "https://clawhub.ai/skills/market-configurable-skills",
+      "clawhub_display_name": "market-configurable-skills"
     },
     {
       "name": "create-prediction-markets",
@@ -35,7 +47,13 @@
       "user_provides": "Wallet private key, Base RPC, collateral token",
       "dapps": "PNP Markets",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/proxima424/create-prediction-markets"
+      "github_url": "https://github.com/proxima424/create-prediction-markets",
+      "clawhub_downloads": 2081,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "create-prediction-markets",
+      "clawhub_url": "https://clawhub.ai/skills/create-prediction-markets",
+      "clawhub_display_name": "permissionless prediction markets"
     },
     {
       "name": "clawarena",
@@ -47,7 +65,13 @@
       "user_provides": "ClawArena API Key (CLAWARENA_API_KEY)",
       "dapps": "ClawArena",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/0xrikt/clawarena"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/0xrikt/clawarena",
+      "clawhub_downloads": 3080,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "clawarena",
+      "clawhub_url": "https://clawhub.ai/skills/clawarena",
+      "clawhub_display_name": "ClawArena"
     },
     {
       "name": "polymarket-ai-divergence",
@@ -59,7 +83,13 @@
       "user_provides": "Simmer API Key, wallet private key (WALLET_PRIVATE_KEY)",
       "dapps": "Polymarket, Simmer",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/adlai88/polymarket-ai-divergence"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/adlai88/polymarket-ai-divergence",
+      "clawhub_downloads": 844,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "polymarket-ai-divergence",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-ai-divergence",
+      "clawhub_display_name": "Polymarket Ai Divergence"
     },
     {
       "name": "polymarket-elon-tweets",
@@ -71,7 +101,13 @@
       "user_provides": "Simmer API Key, wallet private key (WALLET_PRIVATE_KEY)",
       "dapps": "Polymarket, Simmer, XTracker",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/adlai88/polymarket-elon-tweets"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/adlai88/polymarket-elon-tweets",
+      "clawhub_downloads": 575,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "polymarket-elon-tweets",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-elon-tweets",
+      "clawhub_display_name": "Polymarket Elon Tweets"
     },
     {
       "name": "polymarket-fast-loop",
@@ -83,7 +119,13 @@
       "user_provides": "Simmer API key, wallet private key, trading settings (asset type, max amount, confidence threshold)",
       "dapps": "Polymarket, Simmer",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/adlai88/polymarket-fast-loop"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/adlai88/polymarket-fast-loop",
+      "clawhub_downloads": 3942,
+      "clawhub_stars": 32,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "polymarket-fast-loop",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-fast-loop",
+      "clawhub_display_name": "Polymarket Fast Loop"
     },
     {
       "name": "polymarket-mert-sniper",
@@ -95,7 +137,13 @@
       "user_provides": "Simmer API key, wallet private key, market filter keywords, max bet amount, expiry window, min odds skew",
       "dapps": "Polymarket, Simmer",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/adlai88/polymarket-mert-sniper"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/adlai88/polymarket-mert-sniper",
+      "clawhub_downloads": 992,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "polymarket-mert-sniper",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-mert-sniper",
+      "clawhub_display_name": "Polymarket Mert Sniper"
     },
     {
       "name": "polymarket-signal-sniper",
@@ -107,7 +155,13 @@
       "user_provides": "Simmer API key, wallet private key, RSS feed URLs, keyword list, confidence threshold, max trade amount",
       "dapps": "Polymarket, Simmer",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/adlai88/polymarket-signal-sniper"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/adlai88/polymarket-signal-sniper",
+      "clawhub_downloads": 674,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-signal-sniper",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-signal-sniper",
+      "clawhub_display_name": "Polymarket Signal Sniper"
     },
     {
       "name": "polymarket-weather-trader",
@@ -119,7 +173,13 @@
       "user_provides": "Simmer API key, wallet private key, city/location preferences, entry threshold, max bet amount",
       "dapps": "Polymarket, Simmer",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/adlai88/polymarket-weather-trader"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/adlai88/polymarket-weather-trader",
+      "clawhub_downloads": 2240,
+      "clawhub_stars": 4,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "polymarket-weather-trader",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-weather-trader",
+      "clawhub_display_name": "Polymarket Weather Trader"
     },
     {
       "name": "simmer",
@@ -131,7 +191,13 @@
       "user_provides": "Simmer API key (auto-generated on registration), wallet private key (for live trading)",
       "dapps": "Polymarket, Kalshi, Simmer",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/adlai88/simmer"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/adlai88/simmer",
+      "clawhub_downloads": 6180,
+      "clawhub_stars": 17,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "simmer",
+      "clawhub_url": "https://clawhub.ai/skills/simmer",
+      "clawhub_display_name": "Simmer"
     },
     {
       "name": "polymarket-agent",
@@ -143,7 +209,13 @@
       "user_provides": "Polymarket wallet key, poly CLI installation",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/andretuta/polymarket-agent"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/andretuta/polymarket-agent",
+      "clawhub_downloads": 4529,
+      "clawhub_stars": 13,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-agent",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-agent",
+      "clawhub_display_name": "Polymarket Agent"
     },
     {
       "name": "mia-polymarket-trader",
@@ -155,7 +227,13 @@
       "user_provides": "Polymarket API key, wallet private key",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/arubiku/mia-polymarket-trader"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/arubiku/mia-polymarket-trader",
+      "clawhub_downloads": 1249,
+      "clawhub_stars": 1,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "mia-polymarket-trader",
+      "clawhub_url": "https://clawhub.ai/skills/mia-polymarket-trader",
+      "clawhub_display_name": "Mia Polymarket Trader"
     },
     {
       "name": "polymarket-autotrader",
@@ -167,7 +245,13 @@
       "user_provides": "Polymarket wallet private key, wallet address",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/brettinhere/polymarket-autotrader"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/brettinhere/polymarket-autotrader",
+      "clawhub_downloads": 85,
+      "clawhub_stars": 1,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "polymarket-autotrader",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-autotrader",
+      "clawhub_display_name": "Polymarket Autotrader"
     },
     {
       "name": "fuku-predictions",
@@ -179,7 +263,13 @@
       "user_provides": "Kalshi API key",
       "dapps": "Kalshi",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/cryptopunk2070/fuku-predictions"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/cryptopunk2070/fuku-predictions",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "fuku-predictions",
+      "clawhub_url": "https://clawhub.ai/skills/fuku-predictions",
+      "clawhub_display_name": "fuku-predictions"
     },
     {
       "name": "polymarket-manual-trade",
@@ -191,7 +281,13 @@
       "user_provides": "Simmer API key, wallet private key",
       "dapps": "Polymarket, Simmer",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/djdyll/polymarket-manual-trade"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/djdyll/polymarket-manual-trade",
+      "clawhub_downloads": 53,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "polymarket-manual-trade",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-manual-trade",
+      "clawhub_display_name": "Polymarket Manual Trade"
     },
     {
       "name": "simmer-resolution-tracker",
@@ -203,7 +299,13 @@
       "user_provides": "Simmer API key, wallet private key, Discord webhook URL (optional)",
       "dapps": "Polymarket, Simmer",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/djdyll/simmer-resolution-tracker"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/djdyll/simmer-resolution-tracker",
+      "clawhub_downloads": 36,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "simmer-resolution-tracker",
+      "clawhub_url": "https://clawhub.ai/skills/simmer-resolution-tracker",
+      "clawhub_display_name": "Simmer Resolution Tracker"
     },
     {
       "name": "polymarket-trader",
@@ -215,7 +317,13 @@
       "user_provides": "Polymarket credentials, Binance API access",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/drakec48/polymarket-trader"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/drakec48/polymarket-trader",
+      "clawhub_downloads": 2304,
+      "clawhub_stars": 1,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-trader",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-trader",
+      "clawhub_display_name": "Polymarket Trader"
     },
     {
       "name": "polymarket-edge-liquidity",
@@ -227,7 +335,13 @@
       "user_provides": "Simmer API key",
       "dapps": "Polymarket, Simmer",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/drserkandedeoglu/polymarket-edge-liquidity"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/drserkandedeoglu/polymarket-edge-liquidity",
+      "clawhub_downloads": 39,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "polymarket-edge-liquidity",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-edge-liquidity",
+      "clawhub_display_name": "Polymarket Edge Liquidity"
     },
     {
       "name": "polymarket-setup",
@@ -239,7 +353,13 @@
       "user_provides": "Polymarket private key, proxy address, Polygon USDC",
       "dapps": "Polymarket",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/emsin44/polymarket-setup"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/emsin44/polymarket-setup",
+      "clawhub_downloads": 351,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-setup",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-setup",
+      "clawhub_display_name": "Polymarket Trading Setup"
     },
     {
       "name": "kalshi-trading",
@@ -251,7 +371,13 @@
       "user_provides": "Kalshi API Key ID, private key file path",
       "dapps": "Kalshi",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/ghsmc/kalshi-trading"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/ghsmc/kalshi-trading",
+      "clawhub_downloads": 902,
+      "clawhub_stars": 6,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "kalshi-trading",
+      "clawhub_url": "https://clawhub.ai/skills/kalshi-trading",
+      "clawhub_display_name": "Kalshi Trading"
     },
     {
       "name": "vincent-trade-manager",
@@ -263,7 +389,13 @@
       "user_provides": "Vincent wallet credentials, Polymarket positions",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/glitch003/vincent-trade-manager"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/glitch003/vincent-trade-manager",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "vincent-trade-manager",
+      "clawhub_url": "https://clawhub.ai/skills/vincent-trade-manager",
+      "clawhub_display_name": "vincent-trade-manager"
     },
     {
       "name": "vincent-trading-engine",
@@ -275,7 +407,13 @@
       "user_provides": "Vincent wallet credentials",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/glitch003/vincent-trading-engine"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/glitch003/vincent-trading-engine",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "vincent-trading-engine",
+      "clawhub_url": "https://clawhub.ai/skills/vincent-trading-engine",
+      "clawhub_display_name": "vincent-trading-engine"
     },
     {
       "name": "vincentpolymarket",
@@ -287,7 +425,13 @@
       "user_provides": "Vincent wallet credentials",
       "dapps": "Polymarket",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/glitch003/vincentpolymarket"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/glitch003/vincentpolymarket",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "vincentpolymarket",
+      "clawhub_url": "https://clawhub.ai/skills/vincentpolymarket",
+      "clawhub_display_name": "vincentpolymarket"
     },
     {
       "name": "polym",
@@ -299,7 +443,13 @@
       "user_provides": "Polymarket wallet address",
       "dapps": "Polymarket",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/polym"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/polym",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polym",
+      "clawhub_url": "https://clawhub.ai/skills/polym",
+      "clawhub_display_name": "polym"
     },
     {
       "name": "polymarket-25nwy",
@@ -311,7 +461,13 @@
       "user_provides": "Polymarket wallet address",
       "dapps": "Polymarket",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/polymarket-25nwy"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/polymarket-25nwy",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-25nwy",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-25nwy",
+      "clawhub_display_name": "polymarket-25nwy"
     },
     {
       "name": "polymarket-33efn",
@@ -323,7 +479,13 @@
       "user_provides": "Polymarket wallet address",
       "dapps": "Polymarket",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/polymarket-33efn"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/polymarket-33efn",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-33efn",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-33efn",
+      "clawhub_display_name": "polymarket-33efn"
     },
     {
       "name": "polymarket-4rrsh",
@@ -335,7 +497,13 @@
       "user_provides": "Polymarket wallet address",
       "dapps": "Polymarket",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/polymarket-4rrsh"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/polymarket-4rrsh",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-4rrsh",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-4rrsh",
+      "clawhub_display_name": "polymarket-4rrsh"
     },
     {
       "name": "polymarket-5dylt",
@@ -347,7 +515,13 @@
       "user_provides": "Polymarket wallet address",
       "dapps": "Polymarket",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/polymarket-5dylt"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/polymarket-5dylt",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-5dylt",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-5dylt",
+      "clawhub_display_name": "polymarket-5dylt"
     },
     {
       "name": "polymarket-6ehca",
@@ -359,7 +533,13 @@
       "user_provides": "Polymarket wallet address",
       "dapps": "Polymarket",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/polymarket-6ehca"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/polymarket-6ehca",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-6ehca",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-6ehca",
+      "clawhub_display_name": "polymarket-6ehca"
     },
     {
       "name": "polymarket-7ceau",
@@ -371,7 +551,13 @@
       "user_provides": "Polymarket wallet address",
       "dapps": "Polymarket",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/polymarket-7ceau"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/polymarket-7ceau",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-7ceau",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-7ceau",
+      "clawhub_display_name": "polymarket-7ceau"
     },
     {
       "name": "polymarket-bpnyq",
@@ -383,7 +569,13 @@
       "user_provides": "Polymarket wallet address",
       "dapps": "Polymarket",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/polymarket-bpnyq"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/polymarket-bpnyq",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-bpnyq",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-bpnyq",
+      "clawhub_display_name": "polymarket-bpnyq"
     },
     {
       "name": "polymarket-cexex",
@@ -395,7 +587,13 @@
       "user_provides": "Polymarket wallet address",
       "dapps": "Polymarket",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/polymarket-cexex"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/polymarket-cexex",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-cexex",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-cexex",
+      "clawhub_display_name": "polymarket-cexex"
     },
     {
       "name": "polymarket-dfknh",
@@ -407,7 +605,13 @@
       "user_provides": "Polymarket wallet address",
       "dapps": "Polymarket",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/polymarket-dfknh"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/polymarket-dfknh",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-dfknh",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-dfknh",
+      "clawhub_display_name": "polymarket-dfknh"
     },
     {
       "name": "polymarket-esfbk",
@@ -419,7 +623,13 @@
       "user_provides": "Polymarket wallet address",
       "dapps": "Polymarket",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/polymarket-esfbk"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/polymarket-esfbk",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-esfbk",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-esfbk",
+      "clawhub_display_name": "polymarket-esfbk"
     },
     {
       "name": "polymarket-fpwui",
@@ -431,7 +641,13 @@
       "user_provides": "Polymarket wallet address",
       "dapps": "Polymarket",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/polymarket-fpwui"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/polymarket-fpwui",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-fpwui",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-fpwui",
+      "clawhub_display_name": "polymarket-fpwui"
     },
     {
       "name": "polymarket-gxyrz",
@@ -443,7 +659,13 @@
       "user_provides": "Polymarket wallet address",
       "dapps": "Polymarket",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/polymarket-gxyrz"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/polymarket-gxyrz",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-gxyrz",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-gxyrz",
+      "clawhub_display_name": "polymarket-gxyrz"
     },
     {
       "name": "polymarket-hoedg",
@@ -455,7 +677,13 @@
       "user_provides": "Polymarket wallet address",
       "dapps": "Polymarket",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/polymarket-hoedg"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/polymarket-hoedg",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-hoedg",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-hoedg",
+      "clawhub_display_name": "polymarket-hoedg"
     },
     {
       "name": "polymarket-ik168",
@@ -467,7 +695,13 @@
       "user_provides": "Polymarket wallet address",
       "dapps": "Polymarket",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/hightower6eu/polymarket-ik168"
+      "github_url": "https://github.com/hightower6eu/polymarket-ik168",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-ik168",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-ik168",
+      "clawhub_display_name": "polymarket-ik168"
     },
     {
       "name": "polymarket-jezc4",
@@ -479,7 +713,13 @@
       "user_provides": "Polymarket wallet address",
       "dapps": "Polymarket",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/hightower6eu/polymarket-jezc4"
+      "github_url": "https://github.com/hightower6eu/polymarket-jezc4",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-jezc4",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-jezc4",
+      "clawhub_display_name": "polymarket-jezc4"
     },
     {
       "name": "polymarket-juui0",
@@ -491,7 +731,13 @@
       "user_provides": "Polymarket wallet address",
       "dapps": "Polymarket",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/hightower6eu/polymarket-juui0"
+      "github_url": "https://github.com/hightower6eu/polymarket-juui0",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-juui0",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-juui0",
+      "clawhub_display_name": "polymarket-juui0"
     },
     {
       "name": "polymarket-lzgm8",
@@ -503,7 +749,13 @@
       "user_provides": "Polymarket wallet address",
       "dapps": "Polymarket",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/hightower6eu/polymarket-lzgm8"
+      "github_url": "https://github.com/hightower6eu/polymarket-lzgm8",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-lzgm8",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-lzgm8",
+      "clawhub_display_name": "polymarket-lzgm8"
     },
     {
       "name": "polymarket-mjjsc",
@@ -515,7 +767,13 @@
       "user_provides": "Polymarket wallet address",
       "dapps": "Polymarket",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/hightower6eu/polymarket-mjjsc"
+      "github_url": "https://github.com/hightower6eu/polymarket-mjjsc",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-mjjsc",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-mjjsc",
+      "clawhub_display_name": "polymarket-mjjsc"
     },
     {
       "name": "polymarket-n7dic",
@@ -527,7 +785,13 @@
       "user_provides": "Polymarket wallet address",
       "dapps": "Polymarket",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/hightower6eu/polymarket-n7dic"
+      "github_url": "https://github.com/hightower6eu/polymarket-n7dic",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-n7dic",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-n7dic",
+      "clawhub_display_name": "polymarket-n7dic"
     },
     {
       "name": "polymarket-phqtc",
@@ -539,7 +803,13 @@
       "user_provides": "Polymarket wallet address",
       "dapps": "Polymarket",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/hightower6eu/polymarket-phqtc"
+      "github_url": "https://github.com/hightower6eu/polymarket-phqtc",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-phqtc",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-phqtc",
+      "clawhub_display_name": "polymarket-phqtc"
     },
     {
       "name": "polymarket-qjypn",
@@ -551,7 +821,13 @@
       "user_provides": "Polymarket wallet address",
       "dapps": "Polymarket",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/hightower6eu/polymarket-qjypn"
+      "github_url": "https://github.com/hightower6eu/polymarket-qjypn",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-qjypn",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-qjypn",
+      "clawhub_display_name": "polymarket-qjypn"
     },
     {
       "name": "polymarket-qpi7w",
@@ -563,7 +839,13 @@
       "user_provides": "Polymarket wallet address",
       "dapps": "Polymarket",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/hightower6eu/polymarket-qpi7w"
+      "github_url": "https://github.com/hightower6eu/polymarket-qpi7w",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-qpi7w",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-qpi7w",
+      "clawhub_display_name": "polymarket-qpi7w"
     },
     {
       "name": "polymarket-qxjyy",
@@ -575,7 +857,13 @@
       "user_provides": "Polymarket wallet address",
       "dapps": "Polymarket",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/hightower6eu/polymarket-qxjyy"
+      "github_url": "https://github.com/hightower6eu/polymarket-qxjyy",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-qxjyy",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-qxjyy",
+      "clawhub_display_name": "polymarket-qxjyy"
     },
     {
       "name": "polymarket-s7x4d",
@@ -587,7 +875,13 @@
       "user_provides": "Polymarket wallet address",
       "dapps": "Polymarket",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/hightower6eu/polymarket-s7x4d"
+      "github_url": "https://github.com/hightower6eu/polymarket-s7x4d",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-s7x4d",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-s7x4d",
+      "clawhub_display_name": "polymarket-s7x4d"
     },
     {
       "name": "polymarket-vah82",
@@ -599,7 +893,13 @@
       "user_provides": "Polymarket wallet address",
       "dapps": "Polymarket",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/hightower6eu/polymarket-vah82"
+      "github_url": "https://github.com/hightower6eu/polymarket-vah82",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-vah82",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-vah82",
+      "clawhub_display_name": "polymarket-vah82"
     },
     {
       "name": "polymarket-vj5zb",
@@ -611,7 +911,13 @@
       "user_provides": "Polymarket wallet address",
       "dapps": "Polymarket",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/hightower6eu/polymarket-vj5zb"
+      "github_url": "https://github.com/hightower6eu/polymarket-vj5zb",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-vj5zb",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-vj5zb",
+      "clawhub_display_name": "polymarket-vj5zb"
     },
     {
       "name": "polymarket-vx875",
@@ -623,7 +929,13 @@
       "user_provides": "Polymarket wallet address",
       "dapps": "Polymarket",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/hightower6eu/polymarket-vx875"
+      "github_url": "https://github.com/hightower6eu/polymarket-vx875",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-vx875",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-vx875",
+      "clawhub_display_name": "polymarket-vx875"
     },
     {
       "name": "polymarket-wapbk",
@@ -635,7 +947,13 @@
       "user_provides": "Polymarket wallet address",
       "dapps": "Polymarket",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/hightower6eu/polymarket-wapbk"
+      "github_url": "https://github.com/hightower6eu/polymarket-wapbk",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-wapbk",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-wapbk",
+      "clawhub_display_name": "polymarket-wapbk"
     },
     {
       "name": "polymarket-y0c8k",
@@ -647,7 +965,13 @@
       "user_provides": "Polymarket wallet address",
       "dapps": "Polymarket",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/hightower6eu/polymarket-y0c8k"
+      "github_url": "https://github.com/hightower6eu/polymarket-y0c8k",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-y0c8k",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-y0c8k",
+      "clawhub_display_name": "polymarket-y0c8k"
     },
     {
       "name": "polymarket-z7lwp",
@@ -659,7 +983,13 @@
       "user_provides": "Polymarket wallet address",
       "dapps": "Polymarket",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/hightower6eu/polymarket-z7lwp"
+      "github_url": "https://github.com/hightower6eu/polymarket-z7lwp",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-z7lwp",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-z7lwp",
+      "clawhub_display_name": "polymarket-z7lwp"
     },
     {
       "name": "polymarkets",
@@ -671,7 +1001,13 @@
       "user_provides": "Polymarket wallet address",
       "dapps": "Polymarket",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/hightower6eu/polymarkets"
+      "github_url": "https://github.com/hightower6eu/polymarkets",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarkets",
+      "clawhub_url": "https://clawhub.ai/skills/polymarkets",
+      "clawhub_display_name": "polymarkets"
     },
     {
       "name": "polytrading",
@@ -683,7 +1019,13 @@
       "user_provides": "Polymarket wallet address",
       "dapps": "Polymarket",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/hightower6eu/polytrading"
+      "github_url": "https://github.com/hightower6eu/polytrading",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polytrading",
+      "clawhub_url": "https://clawhub.ai/skills/polytrading",
+      "clawhub_display_name": "polytrading"
     },
     {
       "name": "foreseekai",
@@ -695,7 +1037,13 @@
       "user_provides": "Foreseek API key",
       "dapps": "Kalshi, Foreseek",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/hypegamer007/foreseekai"
+      "github_url": "https://github.com/hypegamer007/foreseekai",
+      "clawhub_downloads": 1351,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "foreseekai",
+      "clawhub_url": "https://clawhub.ai/skills/foreseekai",
+      "clawhub_display_name": "Foreseek AI"
     },
     {
       "name": "polymarket-cli",
@@ -707,7 +1055,13 @@
       "user_provides": "Polymarket CLI, wallet private key (for trading)",
       "dapps": "Polymarket",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/ivangdavila/polymarket-cli"
+      "github_url": "https://github.com/ivangdavila/polymarket-cli",
+      "clawhub_downloads": 62,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "polymarket-cli",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-cli",
+      "clawhub_display_name": "Polymarket CLI"
     },
     {
       "name": "argus-edge",
@@ -719,7 +1073,13 @@
       "user_provides": "",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/jamierossouw/argus-edge"
+      "github_url": "https://github.com/jamierossouw/argus-edge",
+      "clawhub_downloads": 203,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "argus-edge",
+      "clawhub_url": "https://clawhub.ai/skills/argus-edge",
+      "clawhub_display_name": "Argus Edge — Prediction Market Betting Engine"
     },
     {
       "name": "hourly-momentum-trader",
@@ -731,7 +1091,13 @@
       "user_provides": "",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/jamierossouw/hourly-momentum-trader"
+      "github_url": "https://github.com/jamierossouw/hourly-momentum-trader",
+      "clawhub_downloads": 195,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "hourly-momentum-trader",
+      "clawhub_url": "https://clawhub.ai/skills/hourly-momentum-trader",
+      "clawhub_display_name": "Hourly Momentum Trader"
     },
     {
       "name": "polymarket-live-bet",
@@ -743,7 +1109,13 @@
       "user_provides": "Wallet private key",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/jamierossouw/polymarket-live-bet"
+      "github_url": "https://github.com/jamierossouw/polymarket-live-bet",
+      "clawhub_downloads": 157,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "polymarket-live-bet",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-live-bet",
+      "clawhub_display_name": "Polymarket Live Bet"
     },
     {
       "name": "polymarket-scout",
@@ -755,7 +1127,13 @@
       "user_provides": "",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/jamierossouw/polymarket-scout"
+      "github_url": "https://github.com/jamierossouw/polymarket-scout",
+      "clawhub_downloads": 167,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "polymarket-scout",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-scout",
+      "clawhub_display_name": "Polymarket Scout — Hourly Edge Detector"
     },
     {
       "name": "horizon-trader",
@@ -767,7 +1145,13 @@
       "user_provides": "Horizon API key",
       "dapps": "Polymarket, Kalshi",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/jesusmanuelrg/horizon-trader"
+      "github_url": "https://github.com/jesusmanuelrg/horizon-trader",
+      "clawhub_downloads": 393,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "horizon-trader",
+      "clawhub_url": "https://clawhub.ai/skills/horizon-trader",
+      "clawhub_display_name": "Horizon SDK"
     },
     {
       "name": "polymarket-fast-loop-1-0-6",
@@ -779,7 +1163,13 @@
       "user_provides": "Simmer API key",
       "dapps": "Polymarket, Simmer",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/johnjerry8749/polymarket-fast-loop-1-0-6"
+      "github_url": "https://github.com/johnjerry8749/polymarket-fast-loop-1-0-6",
+      "clawhub_downloads": 329,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-fast-loop-1-0-6",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-fast-loop-1-0-6",
+      "clawhub_display_name": "Polymarket Fast Loop"
     },
     {
       "name": "polymarketcli",
@@ -791,7 +1181,13 @@
       "user_provides": "Polymarket wallet address",
       "dapps": "Polymarket",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/jordanprater/polymarketcli"
+      "github_url": "https://github.com/jordanprater/polymarketcli",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarketcli",
+      "clawhub_url": "https://clawhub.ai/skills/polymarketcli",
+      "clawhub_display_name": "polymarketcli"
     },
     {
       "name": "kalshi-agent",
@@ -803,7 +1199,13 @@
       "user_provides": "Kalshi access key, RSA private key",
       "dapps": "Kalshi",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/jthomasdevs/kalshi-agent"
+      "github_url": "https://github.com/jthomasdevs/kalshi-agent",
+      "clawhub_downloads": 953,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "kalshi-agent",
+      "clawhub_url": "https://clawhub.ai/skills/kalshi-agent",
+      "clawhub_display_name": "Kalshi Agent"
     },
     {
       "name": "clawlogic",
@@ -815,7 +1217,13 @@
       "user_provides": "Node.js environment",
       "dapps": "CLAWLOGIC",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/kaushal-205/clawlogic"
+      "github_url": "https://github.com/kaushal-205/clawlogic",
+      "clawhub_downloads": 342,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "clawlogic",
+      "clawhub_url": "https://clawhub.ai/skills/clawlogic",
+      "clawhub_display_name": "CLAWLOGIC Trader"
     },
     {
       "name": "polymarketbtc",
@@ -827,7 +1235,13 @@
       "user_provides": "Wallet private key, Polymarket Funder",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/krajekisbtc/polymarketbtc"
+      "github_url": "https://github.com/krajekisbtc/polymarketbtc",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarketbtc",
+      "clawhub_url": "https://clawhub.ai/skills/polymarketbtc",
+      "clawhub_display_name": "polymarketbtc"
     },
     {
       "name": "polymarketbtc15massistant",
@@ -839,7 +1253,13 @@
       "user_provides": "Wallet private key, Polymarket Funder",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/krajekisbtc/polymarketbtc15massistant"
+      "github_url": "https://github.com/krajekisbtc/polymarketbtc15massistant",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarketbtc15massistant",
+      "clawhub_url": "https://clawhub.ai/skills/polymarketbtc15massistant",
+      "clawhub_display_name": "polymarketbtc15massistant"
     },
     {
       "name": "polymarketbtcassistant",
@@ -851,7 +1271,13 @@
       "user_provides": "Wallet private key, Polymarket Funder",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/krajekisbtc/polymarketbtcassistant"
+      "github_url": "https://github.com/krajekisbtc/polymarketbtcassistant",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarketbtcassistant",
+      "clawhub_url": "https://clawhub.ai/skills/polymarketbtcassistant",
+      "clawhub_display_name": "polymarketbtcassistant"
     },
     {
       "name": "polymarketbtcskill",
@@ -863,7 +1289,13 @@
       "user_provides": "Wallet private key, Polymarket Funder",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/krajekisbtc/polymarketbtcskill"
+      "github_url": "https://github.com/krajekisbtc/polymarketbtcskill",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarketbtcskill",
+      "clawhub_url": "https://clawhub.ai/skills/polymarketbtcskill",
+      "clawhub_display_name": "polymarketbtcskill"
     },
     {
       "name": "tests",
@@ -875,7 +1307,13 @@
       "user_provides": "Wallet private key, Polymarket Funder",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/krajekisbtc/tests"
+      "github_url": "https://github.com/krajekisbtc/tests",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "tests",
+      "clawhub_url": "https://clawhub.ai/skills/tests",
+      "clawhub_display_name": "tests"
     },
     {
       "name": "poly",
@@ -887,7 +1325,13 @@
       "user_provides": "Simmer API key",
       "dapps": "Polymarket, Simmer",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/leogordon2004/poly"
+      "github_url": "https://github.com/leogordon2004/poly",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "poly",
+      "clawhub_url": "https://clawhub.ai/skills/poly",
+      "clawhub_display_name": "poly"
     },
     {
       "name": "polymarket-pro",
@@ -899,7 +1343,13 @@
       "user_provides": "Polymarket CLI, wallet private key",
       "dapps": "Polymarket",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/liwagu/polymarket-pro"
+      "github_url": "https://github.com/liwagu/polymarket-pro",
+      "clawhub_downloads": 61,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-pro",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-pro",
+      "clawhub_display_name": "polymarket-pro"
     },
     {
       "name": "polyclaw-pro",
@@ -911,7 +1361,13 @@
       "user_provides": "Chainstack node, PolyClaw private key",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/lmanchu/polyclaw-pro"
+      "github_url": "https://github.com/lmanchu/polyclaw-pro",
+      "clawhub_downloads": 73,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polyclaw-pro",
+      "clawhub_url": "https://clawhub.ai/skills/polyclaw-pro",
+      "clawhub_display_name": "PolyClaw Pro"
     },
     {
       "name": "polymarketagent",
@@ -923,7 +1379,13 @@
       "user_provides": "Wallet private key",
       "dapps": "Polymarket, Hyperliquid",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/lvy19811120-gif/polymarketagent"
+      "github_url": "https://github.com/lvy19811120-gif/polymarketagent",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarketagent",
+      "clawhub_url": "https://clawhub.ai/skills/polymarketagent",
+      "clawhub_display_name": "polymarketagent"
     },
     {
       "name": "polymarket-autopilot-experimental",
@@ -935,7 +1397,13 @@
       "user_provides": "",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/mauonga/polymarket-autopilot-experimental"
+      "github_url": "https://github.com/mauonga/polymarket-autopilot-experimental",
+      "clawhub_downloads": 58,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "polymarket-autopilot-experimental",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-autopilot-experimental",
+      "clawhub_display_name": "Polymarket Autopilot Experimental"
     },
     {
       "name": "weather-trader",
@@ -947,7 +1415,13 @@
       "user_provides": "Simmer API key",
       "dapps": "Polymarket, Simmer",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/mohamedj2020/weather-trader"
+      "github_url": "https://github.com/mohamedj2020/weather-trader",
+      "clawhub_downloads": 298,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "weather-trader",
+      "clawhub_url": "https://clawhub.ai/skills/weather-trader",
+      "clawhub_display_name": "weather-agent"
     },
     {
       "name": "polymarket",
@@ -959,7 +1433,13 @@
       "user_provides": "Polymarket CLI, wallet private key (for trading)",
       "dapps": "Polymarket",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/mvanhorn/polymarket"
+      "github_url": "https://github.com/mvanhorn/polymarket",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket",
+      "clawhub_display_name": "polymarket"
     },
     {
       "name": "fastloop",
@@ -971,7 +1451,13 @@
       "user_provides": "Simmer API Key",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/oryselias/fastloop"
+      "github_url": "https://github.com/oryselias/fastloop",
+      "clawhub_downloads": 129,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "fastloop",
+      "clawhub_url": "https://clawhub.ai/skills/fastloop",
+      "clawhub_display_name": "Polymarket Fast Loop Improved"
     },
     {
       "name": "polyclaw",
@@ -983,7 +1469,13 @@
       "user_provides": "Polyclaw API Key",
       "dapps": "Polymarket, Clanker",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/pipethedev/polyclaw"
+      "github_url": "https://github.com/pipethedev/polyclaw",
+      "clawhub_downloads": 3864,
+      "clawhub_stars": 8,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polyclaw",
+      "clawhub_url": "https://clawhub.ai/skills/polyclaw",
+      "clawhub_display_name": "Polyclaw"
     },
     {
       "name": "molt-pmxt",
@@ -995,7 +1487,13 @@
       "user_provides": "Platform API keys / Private keys",
       "dapps": "Polymarket, Kalshi, Limitless",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/realfishsam/molt-pmxt"
+      "github_url": "https://github.com/realfishsam/molt-pmxt",
+      "clawhub_downloads": 896,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "molt-pmxt",
+      "clawhub_url": "https://clawhub.ai/skills/molt-pmxt",
+      "clawhub_display_name": "Molt Pmxt"
     },
     {
       "name": "polymarketbot",
@@ -1007,7 +1505,13 @@
       "user_provides": "Simmer API Key",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/redrepz/polymarketbot"
+      "github_url": "https://github.com/redrepz/polymarketbot",
+      "clawhub_downloads": 82,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarketbot",
+      "clawhub_url": "https://clawhub.ai/skills/polymarketbot",
+      "clawhub_display_name": "Polymarket Fast Loop"
     },
     {
       "name": "reef-polymarket-research",
@@ -1019,7 +1523,13 @@
       "user_provides": "",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/rimelucci/reef-polymarket-research"
+      "github_url": "https://github.com/rimelucci/reef-polymarket-research",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "reef-polymarket-research",
+      "clawhub_url": "https://clawhub.ai/skills/reef-polymarket-research",
+      "clawhub_display_name": "reef-polymarket-research"
     },
     {
       "name": "polymarket-paper-trader",
@@ -1031,7 +1541,13 @@
       "user_provides": "",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/robotlearning123/polymarket-paper-trader"
+      "github_url": "https://github.com/robotlearning123/polymarket-paper-trader",
+      "clawhub_downloads": 101,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "polymarket-paper-trader",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-paper-trader",
+      "clawhub_display_name": "Polymarket Paper Trader"
     },
     {
       "name": "rey-polymarket-trader",
@@ -1043,7 +1559,13 @@
       "user_provides": "Polygon RPC URL, Private key, OpenRouter API Key",
       "dapps": "Polymarket",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/sa9saq/rey-polymarket-trader"
+      "github_url": "https://github.com/sa9saq/rey-polymarket-trader",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "rey-polymarket-trader",
+      "clawhub_url": "https://clawhub.ai/skills/rey-polymarket-trader",
+      "clawhub_display_name": "rey-polymarket-trader"
     },
     {
       "name": "presage",
@@ -1055,7 +1577,13 @@
       "user_provides": "",
       "dapps": "Presage",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/seenfinity/presage"
+      "github_url": "https://github.com/seenfinity/presage",
+      "clawhub_downloads": 676,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "presage",
+      "clawhub_url": "https://clawhub.ai/skills/presage",
+      "clawhub_display_name": "Presage"
     },
     {
       "name": "askgina-polymarket",
@@ -1067,7 +1595,13 @@
       "user_provides": "Gina MCP Token",
       "dapps": "Polymarket",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/sidshekhar/askgina-polymarket"
+      "github_url": "https://github.com/sidshekhar/askgina-polymarket",
+      "clawhub_downloads": 384,
+      "clawhub_stars": 8,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "askgina-polymarket",
+      "clawhub_url": "https://clawhub.ai/skills/askgina-polymarket",
+      "clawhub_display_name": "Polymarket via Gina"
     },
     {
       "name": "prediction-markets-gina",
@@ -1079,7 +1613,13 @@
       "user_provides": "Gina MCP Token",
       "dapps": "Polymarket",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/sidshekhar/prediction-markets-gina"
+      "github_url": "https://github.com/sidshekhar/prediction-markets-gina",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "prediction-markets-gina",
+      "clawhub_url": "https://clawhub.ai/skills/prediction-markets-gina",
+      "clawhub_display_name": "prediction-markets-gina"
     },
     {
       "name": "prediction-bridge-dev",
@@ -1091,7 +1631,13 @@
       "user_provides": "",
       "dapps": "Prediction Bridge, Polymarket, Kalshi",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/smallyunet/prediction-bridge-dev"
+      "github_url": "https://github.com/smallyunet/prediction-bridge-dev",
+      "clawhub_downloads": 433,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "prediction-bridge-dev",
+      "clawhub_url": "https://clawhub.ai/skills/prediction-bridge-dev",
+      "clawhub_display_name": "Prediction Bridge Dev"
     },
     {
       "name": "polymarket-auto-trader",
@@ -1103,7 +1649,13 @@
       "user_provides": "Private key, LLM API Key",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/srikanthbellary/polymarket-auto-trader"
+      "github_url": "https://github.com/srikanthbellary/polymarket-auto-trader",
+      "clawhub_downloads": 1699,
+      "clawhub_stars": 6,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-auto-trader",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-auto-trader",
+      "clawhub_display_name": "Polymarket Auto-Trader"
     },
     {
       "name": "clawearn",
@@ -1115,7 +1667,13 @@
       "user_provides": "Private key",
       "dapps": "Polymarket",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/stonega/clawearn"
+      "github_url": "https://github.com/stonega/clawearn",
+      "clawhub_downloads": 566,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "clawearn",
+      "clawhub_url": "https://clawhub.ai/skills/clawearn",
+      "clawhub_display_name": "Claw Earn"
     },
     {
       "name": "wzrd",
@@ -1127,7 +1685,13 @@
       "user_provides": "Solana wallet",
       "dapps": "WZRD",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/twzrd-sol/wzrd"
+      "github_url": "https://github.com/twzrd-sol/wzrd",
+      "clawhub_downloads": 83,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "wzrd",
+      "clawhub_url": "https://clawhub.ai/skills/wzrd",
+      "clawhub_display_name": "Agent Template"
     },
     {
       "name": "polymarket-sdk",
@@ -1139,7 +1703,13 @@
       "user_provides": "Polymarket API Key",
       "dapps": "Polymarket",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/tyhouch/polymarket-sdk"
+      "github_url": "https://github.com/tyhouch/polymarket-sdk",
+      "clawhub_downloads": 274,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "polymarket-sdk",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-sdk",
+      "clawhub_display_name": "polymarket-sdk"
     },
     {
       "name": "alpha-finder",
@@ -1151,7 +1721,13 @@
       "user_provides": "x402 private key",
       "dapps": "Polymarket, Kalshi",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/tzannetosgiannis/alpha-finder"
+      "github_url": "https://github.com/tzannetosgiannis/alpha-finder",
+      "clawhub_downloads": 1839,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "alpha-finder",
+      "clawhub_url": "https://clawhub.ai/skills/alpha-finder",
+      "clawhub_display_name": "Alpha Finder (x402)"
     },
     {
       "name": "signalradar",
@@ -1163,7 +1739,13 @@
       "user_provides": "",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/vahnxu/signalradar"
+      "github_url": "https://github.com/vahnxu/signalradar",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "signalradar",
+      "clawhub_url": "https://clawhub.ai/skills/signalradar",
+      "clawhub_display_name": "signalradar"
     },
     {
       "name": "openclaw-bot-prob-trade",
@@ -1175,7 +1757,13 @@
       "user_provides": "prob.trade API Key",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/vlprosvirkin/openclaw-bot-prob-trade"
+      "github_url": "https://github.com/vlprosvirkin/openclaw-bot-prob-trade",
+      "clawhub_downloads": 309,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "openclaw-bot-prob-trade",
+      "clawhub_url": "https://clawhub.ai/skills/openclaw-bot-prob-trade",
+      "clawhub_display_name": "Openclaw Bot Prob Trade"
     },
     {
       "name": "openclaw-skill-publish",
@@ -1187,7 +1775,13 @@
       "user_provides": "prob.trade API Key",
       "dapps": "Polymarket",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/vlprosvirkin/openclaw-skill-publish"
+      "github_url": "https://github.com/vlprosvirkin/openclaw-skill-publish",
+      "clawhub_downloads": 49,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "openclaw-skill-publish",
+      "clawhub_url": "https://clawhub.ai/skills/openclaw-skill-publish",
+      "clawhub_display_name": "Openclaw Skill Publish"
     },
     {
       "name": "prob-trade-polymarket-analytics",
@@ -1199,7 +1793,13 @@
       "user_provides": "prob.trade API Key",
       "dapps": "Polymarket",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/vlprosvirkin/prob-trade-polymarket-analytics"
+      "github_url": "https://github.com/vlprosvirkin/prob-trade-polymarket-analytics",
+      "clawhub_downloads": 108,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "prob-trade-polymarket-analytics",
+      "clawhub_url": "https://clawhub.ai/skills/prob-trade-polymarket-analytics",
+      "clawhub_display_name": "Openclaw Skill Publish"
     },
     {
       "name": "wof-predict",
@@ -1211,7 +1811,13 @@
       "user_provides": "Private key",
       "dapps": "WatchOrFight",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/wof-developers/wof-predict"
+      "github_url": "https://github.com/wof-developers/wof-predict",
+      "clawhub_downloads": 287,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "wof-predict",
+      "clawhub_url": "https://clawhub.ai/skills/wof-predict",
+      "clawhub_display_name": "WatchOrFight - Predict"
     },
     {
       "name": "polymarket-scanner",
@@ -1223,7 +1829,13 @@
       "user_provides": "Simmer API Key",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/wyzmf/polymarket-scanner"
+      "github_url": "https://github.com/wyzmf/polymarket-scanner",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-scanner",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-scanner",
+      "clawhub_display_name": "polymarket-scanner"
     },
     {
       "name": "lpxpoly",
@@ -1235,7 +1847,13 @@
       "user_provides": "LightningProx Spend Token",
       "dapps": "Polymarket",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/yebdmo2/lpxpoly"
+      "github_url": "https://github.com/yebdmo2/lpxpoly",
+      "clawhub_downloads": 102,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "lpxpoly",
+      "clawhub_url": "https://clawhub.ai/skills/lpxpoly",
+      "clawhub_display_name": "Lpxpoly"
     },
     {
       "name": "zakkycrypt01-polymarket-trader",
@@ -1247,7 +1865,13 @@
       "user_provides": "Polymarket API credentials",
       "dapps": "Polymarket",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/zakkycrypt01/zakkycrypt01-polymarket-trader"
+      "github_url": "https://github.com/zakkycrypt01/zakkycrypt01-polymarket-trader",
+      "clawhub_downloads": 148,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "zakkycrypt01-polymarket-trader",
+      "clawhub_url": "https://clawhub.ai/skills/zakkycrypt01-polymarket-trader",
+      "clawhub_display_name": "Polymarket Trader"
     },
     {
       "name": "polymarket-assistant",
@@ -1259,7 +1883,13 @@
       "user_provides": "",
       "dapps": "Polymarket, Hyperliquid",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/zaycv/polymarket-assistant"
+      "github_url": "https://github.com/zaycv/polymarket-assistant",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-assistant",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-assistant",
+      "clawhub_display_name": "polymarket-assistant"
     },
     {
       "name": "polymarket-hyperliquid-trading",
@@ -1271,7 +1901,13 @@
       "user_provides": "",
       "dapps": "Polymarket, Hyperliquid",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/zaycv/polymarket-hyperliquid-trading"
+      "github_url": "https://github.com/zaycv/polymarket-hyperliquid-trading",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-hyperliquid-trading",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-hyperliquid-trading",
+      "clawhub_display_name": "polymarket-hyperliquid-trading"
     },
     {
       "name": "prediction-market-arbitrage",
@@ -1283,7 +1919,13 @@
       "user_provides": "Simmer API Key",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/h4gen/prediction-market-arbitrage"
+      "github_url": "https://github.com/h4gen/prediction-market-arbitrage",
+      "clawhub_downloads": 410,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "prediction-market-arbitrage",
+      "clawhub_url": "https://clawhub.ai/skills/prediction-market-arbitrage",
+      "clawhub_display_name": "Prediction Market Arbitrage"
     },
     {
       "name": "polymarket-trade-agent",
@@ -1295,7 +1937,13 @@
       "user_provides": "Polygon wallet private key",
       "dapps": "Polymarket",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/hanswuhan/polymarket-trade-agent"
+      "github_url": "https://github.com/hanswuhan/polymarket-trade-agent",
+      "clawhub_downloads": 45,
+      "clawhub_stars": 1,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "polymarket-trade-agent",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-trade-agent",
+      "clawhub_display_name": "Polymarket Trade Agent"
     },
     {
       "name": "kalshi",
@@ -1307,7 +1955,13 @@
       "user_provides": "Kalshi API Key (optional)",
       "dapps": "Kalshi",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/henrik-openclaw/kalshi"
+      "github_url": "https://github.com/henrik-openclaw/kalshi",
+      "clawhub_downloads": 1815,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "kalshi",
+      "clawhub_url": "https://clawhub.ai/skills/kalshi",
+      "clawhub_display_name": "Kalshi"
     },
     {
       "name": "torchpredictionmarketkit",
@@ -1319,7 +1973,13 @@
       "user_provides": "Solana RPC URL, Vault Creator address",
       "dapps": "Torch Market",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/mrsirg97-rgb/torchpredictionmarketkit"
+      "github_url": "https://github.com/mrsirg97-rgb/torchpredictionmarketkit",
+      "clawhub_downloads": 375,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "torchpredictionmarketkit",
+      "clawhub_url": "https://clawhub.ai/skills/torchpredictionmarketkit",
+      "clawhub_display_name": "Torch Prediction Market Kit"
     },
     {
       "name": "polymarket-cli-trading",
@@ -1331,7 +1991,13 @@
       "user_provides": "Polymarket CLI installed",
       "dapps": "Polymarket",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/lacymorrow/polymarket-cli-trading"
+      "github_url": "https://github.com/lacymorrow/polymarket-cli-trading",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-cli-trading",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-cli-trading",
+      "clawhub_display_name": "polymarket-cli-trading"
     },
     {
       "name": "chronobets",
@@ -1343,7 +2009,13 @@
       "user_provides": "Solana wallet (with USDC)",
       "dapps": "ChronoBets",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/lordx64/chronobets"
+      "github_url": "https://github.com/lordx64/chronobets",
+      "clawhub_downloads": 660,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "chronobets",
+      "clawhub_url": "https://clawhub.ai/skills/chronobets",
+      "clawhub_display_name": "A2A Decentralized Prediction Market on Solana"
     },
     {
       "name": "simmer-signal-service",
@@ -1355,7 +2027,13 @@
       "user_provides": "SKILLPAY_API_KEY, SIMMER_API_KEY",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/nickqi688/simmer-signal-service"
+      "github_url": "https://github.com/nickqi688/simmer-signal-service",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "simmer-signal-service",
+      "clawhub_url": "https://clawhub.ai/skills/simmer-signal-service",
+      "clawhub_display_name": "simmer-signal-service"
     },
     {
       "name": "probable-skill",
@@ -1367,7 +2045,13 @@
       "user_provides": "PRIVATE_KEY (BSC wallet private key)",
       "dapps": "0xProbable",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/ternencescott/probable-skill"
+      "github_url": "https://github.com/ternencescott/probable-skill",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "probable-skill",
+      "clawhub_url": "https://clawhub.ai/skills/probable-skill",
+      "clawhub_display_name": "probable-skill"
     },
     {
       "name": "probable-skills-2",
@@ -1379,7 +2063,13 @@
       "user_provides": "PRIVATE_KEY (BSC wallet private key)",
       "dapps": "0xProbable",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/ternencescott/probable-skills-2"
+      "github_url": "https://github.com/ternencescott/probable-skills-2",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "probable-skills-2",
+      "clawhub_url": "https://clawhub.ai/skills/probable-skills-2",
+      "clawhub_display_name": "probable-skills-2"
     },
     {
       "name": "polymarket-edge",
@@ -1391,7 +2081,13 @@
       "user_provides": "SKILL_BILLING_API_KEY, optional POLYMARKET_PRIVATE_KEY",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/icloud-git/polymarket-edge"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/icloud-git/polymarket-edge",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-edge",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-edge",
+      "clawhub_display_name": "polymarket-edge"
     },
     {
       "name": "polymarket-executor-skill",
@@ -1403,7 +2099,13 @@
       "user_provides": "Optional POLYMARKET_API_KEY (not needed for paper mode)",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/georges91560/polymarket-executor-skill"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/georges91560/polymarket-executor-skill",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-executor-skill",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-executor-skill",
+      "clawhub_display_name": "polymarket-executor-skill"
     },
     {
       "name": "polymarket-optimizer",
@@ -1415,7 +2117,13 @@
       "user_provides": "performance_metrics.json from polymarket-executor",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/georges91560/polymarket-optimizer"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/georges91560/polymarket-optimizer",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-optimizer",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-optimizer",
+      "clawhub_display_name": "polymarket-optimizer"
     },
     {
       "name": "polyclaw-2",
@@ -1427,7 +2135,13 @@
       "user_provides": "POLYCLAW_PRIVATE_KEY, CHAINSTACK_NODE",
       "dapps": "Polymarket",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/woody2434/polyclaw-2"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/woody2434/polyclaw-2",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polyclaw-2",
+      "clawhub_url": "https://clawhub.ai/skills/polyclaw-2",
+      "clawhub_display_name": "polyclaw-2"
     },
     {
       "name": "polymarket-prob-analyzer",
@@ -1439,7 +2153,13 @@
       "user_provides": "SkillPay API Key",
       "dapps": "Polymarket",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/jacksoyou/polymarket-prob-analyzer"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/jacksoyou/polymarket-prob-analyzer",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-prob-analyzer",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-prob-analyzer",
+      "clawhub_display_name": "polymarket-prob-analyzer"
     },
     {
       "name": "polymarket-trading-bot",
@@ -1451,7 +2171,13 @@
       "user_provides": "Wallet private key, API key, trading budget",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com//polymarket-trading-bot"
+      "github_url": "https://github.com//polymarket-trading-bot",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-trading-bot",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-trading-bot",
+      "clawhub_display_name": "polymarket-trading-bot"
     },
     {
       "name": "sports",
@@ -1463,7 +2189,13 @@
       "user_provides": "Solana Devnet keypair (testnet only)",
       "dapps": "Optionns",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/Unknown/sports"
+      "github_url": "https://github.com/Unknown/sports",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "sports",
+      "clawhub_url": "https://clawhub.ai/skills/sports",
+      "clawhub_display_name": "sports"
     },
     {
       "name": "agent-market",
@@ -1475,7 +2207,13 @@
       "user_provides": "Wallet private key, USDC balance",
       "dapps": "AgentMarket",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/Unknown/agent-market"
+      "github_url": "https://github.com/Unknown/agent-market",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "agent-market",
+      "clawhub_url": "https://clawhub.ai/skills/agent-market",
+      "clawhub_display_name": "agent-market"
     },
     {
       "name": "polymarket-autotrader-hyy",
@@ -1487,7 +2225,13 @@
       "user_provides": "POLYMARKET_PRIVATE_KEY, SKILLPAY_USER_ID",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/Unknown/polymarket-autotrader-hyy"
+      "github_url": "https://github.com/Unknown/polymarket-autotrader-hyy",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-autotrader-hyy",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-autotrader-hyy",
+      "clawhub_display_name": "polymarket-autotrader-hyy"
     },
     {
       "name": "polymarket-trading",
@@ -1499,7 +2243,13 @@
       "user_provides": "Initial capital, trading strategy, market selection",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/kellyclaudeai/polymarket-trading"
+      "github_url": "https://github.com/kellyclaudeai/polymarket-trading",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-trading",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-trading",
+      "clawhub_display_name": "polymarket-trading"
     },
     {
       "name": "kalshi-cli-trading",
@@ -1511,7 +2261,13 @@
       "user_provides": "Kalshi CLI credentials",
       "dapps": "Kalshi",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/lacymorrow/kalshi-cli-trading"
+      "github_url": "https://github.com/lacymorrow/kalshi-cli-trading",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "kalshi-cli-trading",
+      "clawhub_url": "https://clawhub.ai/skills/kalshi-cli-trading",
+      "clawhub_display_name": "kalshi-cli-trading"
     },
     {
       "name": "polymarket-proxy-trader",
@@ -1523,7 +2279,13 @@
       "user_provides": "SkillPay API key, Polymarket account info",
       "dapps": "Polymarket",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/mosonchan2023/polymarket-proxy-trader"
+      "github_url": "https://github.com/mosonchan2023/polymarket-proxy-trader",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-proxy-trader",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-proxy-trader",
+      "clawhub_display_name": "polymarket-proxy-trader"
     },
     {
       "name": "innotech-polymarket-api",
@@ -1535,7 +2297,13 @@
       "user_provides": "(none)",
       "dapps": "Polymarket",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/nwcalvin/innotech-polymarket-api"
+      "github_url": "https://github.com/nwcalvin/innotech-polymarket-api",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "innotech-polymarket-api",
+      "clawhub_url": "https://clawhub.ai/skills/innotech-polymarket-api",
+      "clawhub_display_name": "innotech-polymarket-api"
     },
     {
       "name": "polymarket-trading",
@@ -1547,7 +2315,13 @@
       "user_provides": "Polymarket and Hyperliquid credentials",
       "dapps": "Polymarket, Hyperliquid",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/zaycv/polymarket-trading"
+      "github_url": "https://github.com/zaycv/polymarket-trading",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-trading",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-trading",
+      "clawhub_display_name": "polymarket-trading"
     },
     {
       "name": "polymarket-arbitrage-pro",
@@ -1559,7 +2333,13 @@
       "user_provides": "Polymarket private key, SkillPay key",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/bob-z-pro/polymarket-arbitrage-pro"
+      "github_url": "https://github.com/bob-z-pro/polymarket-arbitrage-pro",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-arbitrage-pro",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-arbitrage-pro",
+      "clawhub_display_name": "polymarket-arbitrage-pro"
     },
     {
       "name": "polymarket-btc-5m-arbitrage",
@@ -1571,7 +2351,13 @@
       "user_provides": "Polymarket private key and API key",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/whh110112/polymarket-btc-5m-arbitrage"
+      "github_url": "https://github.com/whh110112/polymarket-btc-5m-arbitrage",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-btc-5m-arbitrage",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-btc-5m-arbitrage",
+      "clawhub_display_name": "polymarket-btc-5m-arbitrage"
     },
     {
       "name": "polymarket-bot",
@@ -1583,7 +2369,13 @@
       "user_provides": "Polymarket wallet (Polygon chain), Python + Web3.py",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/deliverydriver/polymarket-bot"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/deliverydriver/polymarket-bot",
+      "clawhub_downloads": 180,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "polymarket-bot",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-bot",
+      "clawhub_display_name": "Polymarket Bot Skill"
     },
     {
       "name": "polymarket-oracle",
@@ -1595,7 +2387,13 @@
       "user_provides": "Polymarket API credentials (Key/Secret/Passphrase), wallet private key (optional)",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/georges91560/polymarket-oracle"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/georges91560/polymarket-oracle",
+      "clawhub_downloads": 50,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-oracle",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-oracle",
+      "clawhub_display_name": "Polymarket Oracle"
     },
     {
       "name": "polymarket-arbitrage",
@@ -1607,7 +2405,13 @@
       "user_provides": "",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/johny0920/polymarket-arbitrage"
+      "github_url": "https://github.com/johny0920/polymarket-arbitrage",
+      "clawhub_downloads": 3045,
+      "clawhub_stars": 8,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-arbitrage",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-arbitrage",
+      "clawhub_display_name": "Polymarket Arbitrage"
     },
     {
       "name": "polymarket-trading",
@@ -1619,7 +2423,13 @@
       "user_provides": "Bet amount, market selection",
       "dapps": "Polymarket",
       "run_mode": "One-Time",
-      "github_url": "https://github.com/jordanprater/polymarket-trading"
+      "github_url": "https://github.com/jordanprater/polymarket-trading",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-trading",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-trading",
+      "clawhub_display_name": "polymarket-trading"
     },
     {
       "name": "polymarket-trading-bot",
@@ -1631,7 +2441,13 @@
       "user_provides": "Bet amount, market selection",
       "dapps": "Polymarket",
       "run_mode": "One-Time",
-      "github_url": "https://github.com/jordanprater/polymarket-trading-bot"
+      "github_url": "https://github.com/jordanprater/polymarket-trading-bot",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-trading-bot",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-trading-bot",
+      "clawhub_display_name": "polymarket-trading-bot"
     },
     {
       "name": "reef-paper-trader",
@@ -1643,7 +2459,13 @@
       "user_provides": "",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/rimelucci/reef-paper-trader"
+      "github_url": "https://github.com/rimelucci/reef-paper-trader",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "reef-paper-trader",
+      "clawhub_url": "https://clawhub.ai/skills/reef-paper-trader",
+      "clawhub_display_name": "reef-paper-trader"
     },
     {
       "name": "reef-polymarket-arb",
@@ -1655,7 +2477,13 @@
       "user_provides": "",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/rimelucci/reef-polymarket-arb"
+      "github_url": "https://github.com/rimelucci/reef-polymarket-arb",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "reef-polymarket-arb",
+      "clawhub_url": "https://clawhub.ai/skills/reef-polymarket-arb",
+      "clawhub_display_name": "reef-polymarket-arb"
     },
     {
       "name": "polyedge",
@@ -1667,7 +2495,13 @@
       "user_provides": "",
       "dapps": "Polymarket",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/sbaker5/polyedge"
+      "github_url": "https://github.com/sbaker5/polyedge",
+      "clawhub_downloads": 2572,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polyedge",
+      "clawhub_url": "https://clawhub.ai/skills/polyedge",
+      "clawhub_display_name": "PolyEdge - Polymarket Correlation Analyzer"
     },
     {
       "name": "polymarket-arbitrage-cn",
@@ -1679,7 +2513,13 @@
       "user_provides": "",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/guohongbin-git/polymarket-arbitrage-cn"
+      "github_url": "https://github.com/guohongbin-git/polymarket-arbitrage-cn",
+      "clawhub_downloads": 214,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-arbitrage-cn",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-arbitrage-cn",
+      "clawhub_display_name": "Polymarket Arbitrage Cn"
     },
     {
       "name": "polyvision",
@@ -1691,7 +2531,13 @@
       "user_provides": "Polymarket wallet addresses",
       "dapps": "Polymarket",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/pryorx/polyvision"
+      "github_url": "https://github.com/pryorx/polyvision",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polyvision",
+      "clawhub_url": "https://clawhub.ai/skills/polyvision",
+      "clawhub_display_name": "polyvision"
     }
   ]
 }

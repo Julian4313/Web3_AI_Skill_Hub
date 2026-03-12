@@ -11,7 +11,13 @@
       "user_provides": "LI.FI API key",
       "dapps": "LI.FI",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/fabriziogianni7/lifi-skill"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/fabriziogianni7/lifi-skill",
+      "clawhub_downloads": 2264,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "lifi-skill",
+      "clawhub_url": "https://clawhub.ai/skills/lifi-skill",
+      "clawhub_display_name": "LI.FI Skill"
     },
     {
       "name": "multichain-protocol",
@@ -23,7 +29,13 @@
       "user_provides": "ICP DeveloperKey",
       "dapps": "Raydium, Uniswap, ICPSwap, Cetus, Aave, Lido",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/kyounesmercatura/multichain-protocol"
+      "github_url": "https://github.com/kyounesmercatura/multichain-protocol",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "multichain-protocol",
+      "clawhub_url": "https://clawhub.ai/skills/multichain-protocol",
+      "clawhub_display_name": "multichain-protocol"
     },
     {
       "name": "abstract-onboard",
@@ -35,7 +47,13 @@
       "user_provides": "Wallet private key, Node.js environment",
       "dapps": "Myriad, Kona, Aborean",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/masoncags-tech/abstract-onboard"
+      "github_url": "https://github.com/masoncags-tech/abstract-onboard",
+      "clawhub_downloads": 1651,
+      "clawhub_stars": 4,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "abstract-onboard",
+      "clawhub_url": "https://clawhub.ai/skills/abstract-onboard",
+      "clawhub_display_name": "Abstract Onboard"
     },
     {
       "name": "lifi-crosschain",
@@ -47,7 +65,13 @@
       "user_provides": "LI.FI API Key (optional)",
       "dapps": "LI.FI",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/rhlsthrm/lifi-crosschain"
+      "github_url": "https://github.com/rhlsthrm/lifi-crosschain",
+      "clawhub_downloads": 257,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "lifi-crosschain",
+      "clawhub_url": "https://clawhub.ai/skills/lifi-crosschain",
+      "clawhub_display_name": "Swap and bridge across 35+ chains with LI.FI"
     },
     {
       "name": "lifi-orchestrator",
@@ -59,7 +83,13 @@
       "user_provides": "Private key, LI.FI API Key (optional)",
       "dapps": "LI.FI",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/rhlsthrm/lifi-orchestrator"
+      "github_url": "https://github.com/rhlsthrm/lifi-orchestrator",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "lifi-orchestrator",
+      "clawhub_url": "https://clawhub.ai/skills/lifi-orchestrator",
+      "clawhub_display_name": "lifi-orchestrator"
     },
     {
       "name": "cross-chain-swap",
@@ -71,7 +101,13 @@
       "user_provides": "Source chain token, destination chain token",
       "dapps": "Uniswap",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/wpank/cross-chain-swap"
+      "github_url": "https://github.com/wpank/cross-chain-swap",
+      "clawhub_downloads": 428,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "cross-chain-swap",
+      "clawhub_url": "https://clawhub.ai/skills/cross-chain-swap",
+      "clawhub_display_name": "Uniswap Cross Chain Swap"
     },
     {
       "name": "near-intents",
@@ -83,7 +119,13 @@
       "user_provides": "",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/cuongdcdev/near-intents"
+      "github_url": "https://github.com/cuongdcdev/near-intents",
+      "clawhub_downloads": 262,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "near-intents",
+      "clawhub_url": "https://clawhub.ai/skills/near-intents",
+      "clawhub_display_name": "NEAR Intents 1click Api"
     },
     {
       "name": "universal-trading",
@@ -95,7 +137,13 @@
       "user_provides": "Particle Network credentials",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/0xmomo-ngclubs/universal-trading"
+      "github_url": "https://github.com/0xmomo-ngclubs/universal-trading",
+      "clawhub_downloads": 38,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "universal-trading",
+      "clawhub_url": "https://clawhub.ai/skills/universal-trading",
+      "clawhub_display_name": "Universal Trading"
     },
     {
       "name": "bridge-tokens",
@@ -107,7 +155,13 @@
       "user_provides": "Wallet",
       "dapps": "Uniswap",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/wpank/bridge-tokens"
+      "github_url": "https://github.com/wpank/bridge-tokens",
+      "clawhub_downloads": 431,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "bridge-tokens",
+      "clawhub_url": "https://clawhub.ai/skills/bridge-tokens",
+      "clawhub_display_name": "Uniswap Bridge Tokens"
     },
     {
       "name": "taiko-native-bridge",
@@ -119,7 +173,13 @@
       "user_provides": "Wallet private key, ETH",
       "dapps": "Taiko",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/davidtaikocha/taiko-native-bridge"
+      "github_url": "https://github.com/davidtaikocha/taiko-native-bridge",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "taiko-native-bridge",
+      "clawhub_url": "https://clawhub.ai/skills/taiko-native-bridge",
+      "clawhub_display_name": "taiko-native-bridge"
     },
     {
       "name": "cosmos",
@@ -131,7 +191,13 @@
       "user_provides": "Cosmos wallet address",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/Unknown/cosmos"
+      "github_url": "https://github.com/Unknown/cosmos",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "cosmos",
+      "clawhub_url": "https://clawhub.ai/skills/cosmos",
+      "clawhub_display_name": "cosmos"
     },
     {
       "name": "trails",
@@ -143,7 +209,13 @@
       "user_provides": "Project code, integration preference",
       "dapps": "Trails",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/Unknown/trails"
+      "github_url": "https://github.com/Unknown/trails",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "trails",
+      "clawhub_url": "https://clawhub.ai/skills/trails",
+      "clawhub_display_name": "trails"
     },
     {
       "name": "htlc",
@@ -155,7 +227,13 @@
       "user_provides": "Wallet private key",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/web4agent/htlc"
+      "github_url": "https://github.com/web4agent/htlc",
+      "clawhub_downloads": 234,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "htlc",
+      "clawhub_url": "https://clawhub.ai/skills/htlc",
+      "clawhub_display_name": "Hash Time Locked Contract"
     },
     {
       "name": "nexwave-gateway",
@@ -167,7 +245,13 @@
       "user_provides": "Circle API key and entity secret",
       "dapps": "Circle",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/botmechanic/nexwave-gateway"
+      "github_url": "https://github.com/botmechanic/nexwave-gateway",
+      "clawhub_downloads": 946,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "nexwave-gateway",
+      "clawhub_url": "https://clawhub.ai/skills/nexwave-gateway",
+      "clawhub_display_name": "Nexwave Gateway"
     }
   ]
 }

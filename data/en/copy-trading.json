@@ -11,7 +11,13 @@
       "user_provides": "Simmer API Key, wallet private key, target whale wallet addresses",
       "dapps": "Polymarket, Simmer",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/adlai88/polymarket-copytrading"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/adlai88/polymarket-copytrading",
+      "clawhub_downloads": 1051,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-copytrading",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-copytrading",
+      "clawhub_display_name": "Polymarket Copytrading"
     },
     {
       "name": "hl-privateer-fund",
@@ -23,7 +29,13 @@
       "user_provides": "Base chain USDC wallet (for x402 micropayments)",
       "dapps": "Hyperliquid, HL Privateer",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/adwilkinson/hl-privateer-fund"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/adwilkinson/hl-privateer-fund",
+      "clawhub_downloads": 263,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "hl-privateer-fund",
+      "clawhub_url": "https://clawhub.ai/skills/hl-privateer-fund",
+      "clawhub_display_name": "HL Privateer"
     },
     {
       "name": "moltrade",
@@ -35,7 +47,13 @@
       "user_provides": "Exchange API keys, Nostr private key, strategy configuration parameters",
       "dapps": "Moltrade",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/ai-chen2050/moltrade"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/ai-chen2050/moltrade",
+      "clawhub_downloads": 3545,
+      "clawhub_stars": 4,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "moltrade",
+      "clawhub_url": "https://clawhub.ai/skills/moltrade",
+      "clawhub_display_name": "moltrade"
     },
     {
       "name": "coinpilot-hyperliquid-copy-trade",
@@ -47,7 +65,13 @@
       "user_provides": "Coinpilot API key, Privy user ID, wallet private key",
       "dapps": "Hyperliquid, Coinpilot",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/alannkl/coinpilot-hyperliquid-copy-trade"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/alannkl/coinpilot-hyperliquid-copy-trade",
+      "clawhub_downloads": 350,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "coinpilot-hyperliquid-copy-trade",
+      "clawhub_url": "https://clawhub.ai/skills/coinpilot-hyperliquid-copy-trade",
+      "clawhub_display_name": "Coinpilot Hyperliquid Copy Trade"
     },
     {
       "name": "polymarket-whale-copier",
@@ -59,7 +83,13 @@
       "user_provides": "Polymarket wallet private key, target whale wallet address",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/cassh100k/polymarket-whale-copier"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/cassh100k/polymarket-whale-copier",
+      "clawhub_downloads": 703,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-whale-copier",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-whale-copier",
+      "clawhub_display_name": "Polymarket Whale Copier"
     },
     {
       "name": "zonein",
@@ -71,7 +101,13 @@
       "user_provides": "Zonein API Key",
       "dapps": "Polymarket, Hyperliquid",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/phutt-bwai/zonein"
+      "github_url": "https://github.com/phutt-bwai/zonein",
+      "clawhub_downloads": 489,
+      "clawhub_stars": 10,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "zonein",
+      "clawhub_url": "https://clawhub.ai/skills/zonein",
+      "clawhub_display_name": "Zonein: Whale hunting for trading agents on Hyperliquid & Polymarket"
     },
     {
       "name": "clawnalyst",
@@ -83,7 +119,13 @@
       "user_provides": "Clawnalyst API Key",
       "dapps": "Clawnalyst",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/satoreth/clawnalyst"
+      "github_url": "https://github.com/satoreth/clawnalyst",
+      "clawhub_downloads": 206,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "clawnalyst",
+      "clawhub_url": "https://clawhub.ai/skills/clawnalyst",
+      "clawhub_display_name": "Clawnalyst"
     },
     {
       "name": "solana-copy-trader",
@@ -95,7 +137,13 @@
       "user_provides": "Target wallet address, Helius API Key",
       "dapps": "Jupiter, Pump.fun",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/youthaiagent/solana-copy-trader"
+      "github_url": "https://github.com/youthaiagent/solana-copy-trader",
+      "clawhub_downloads": 248,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "solana-copy-trader",
+      "clawhub_url": "https://clawhub.ai/skills/solana-copy-trader",
+      "clawhub_display_name": "Solana Copy Trader"
     },
     {
       "name": "send-signal",
@@ -107,7 +155,13 @@
       "user_provides": "FMZ Robot ID, UUID key",
       "dapps": "FMZ",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/13290186019/send-signal"
+      "github_url": "https://github.com/13290186019/send-signal",
+      "clawhub_downloads": 242,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "send-signal",
+      "clawhub_url": "https://clawhub.ai/skills/send-signal",
+      "clawhub_display_name": "Send to FMZ"
     },
     {
       "name": "wangbo-polymarket-copytrading",
@@ -119,7 +173,13 @@
       "user_provides": "Polymarket account",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/wangbo12bob2-source/wangbo-polymarket-copytrading"
+      "github_url": "https://github.com/wangbo12bob2-source/wangbo-polymarket-copytrading",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "wangbo-polymarket-copytrading",
+      "clawhub_url": "https://clawhub.ai/skills/wangbo-polymarket-copytrading",
+      "clawhub_display_name": "wangbo-polymarket-copytrading"
     }
   ]
 }

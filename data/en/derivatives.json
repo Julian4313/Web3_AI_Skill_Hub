@@ -11,7 +11,13 @@
       "user_provides": "Hyperliquid private key, vault address (optional), strategy parameters, historical data files (for backtesting)",
       "dapps": "Hyperliquid",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/ahuserious/nautilus-trader"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/ahuserious/nautilus-trader",
+      "clawhub_downloads": 61,
+      "clawhub_stars": 1,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "nautilus-trader",
+      "clawhub_url": "https://clawhub.ai/skills/nautilus-trader",
+      "clawhub_display_name": "Nautilus Trader"
     },
     {
       "name": "hyperliquid-trading",
@@ -23,7 +29,13 @@
       "user_provides": "Hyperliquid wallet address (read-only), private key (for trading)",
       "dapps": "Hyperliquid",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/anajuliabit/hyperliquid-trading"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/anajuliabit/hyperliquid-trading",
+      "clawhub_downloads": 5124,
+      "clawhub_stars": 16,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "hyperliquid-trading",
+      "clawhub_url": "https://clawhub.ai/skills/hyperliquid-trading",
+      "clawhub_display_name": "Hyperliquid Trading & Analysis"
     },
     {
       "name": "hyperliquid-cli",
@@ -35,7 +47,13 @@
       "user_provides": "Hyperliquid API wallet private key",
       "dapps": "Hyperliquid",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/chrisling-dev/hyperliquid-cli"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/chrisling-dev/hyperliquid-cli",
+      "clawhub_downloads": 2218,
+      "clawhub_stars": 4,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "hyperliquid-cli",
+      "clawhub_url": "https://clawhub.ai/skills/hyperliquid-cli",
+      "clawhub_display_name": "Hyperliquid CLI (with HIP3 Support)"
     },
     {
       "name": "vibetrading",
@@ -47,7 +65,13 @@
       "user_provides": "Hyperliquid private key (for running), Python 3.6+",
       "dapps": "Hyperliquid",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/crabbytt/vibetrading"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/crabbytt/vibetrading",
+      "clawhub_downloads": 343,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "vibetrading",
+      "clawhub_url": "https://clawhub.ai/skills/vibetrading",
+      "clawhub_display_name": "VibeTrading"
     },
     {
       "name": "polymarket-bot",
@@ -59,7 +83,13 @@
       "user_provides": "Polymarket wallet (Polygon chain), Python + Web3.py",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/deliverydriver/polymarket-bot"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/deliverydriver/polymarket-bot",
+      "clawhub_downloads": 180,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "polymarket-bot",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-bot",
+      "clawhub_display_name": "Polymarket Bot Skill"
     },
     {
       "name": "agent-metaverse",
@@ -71,7 +101,13 @@
       "user_provides": "Agent Metaverse API key (auto-registered)",
       "dapps": "Agent Metaverse",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/ed1sonl1-byte/agent-metaverse"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/ed1sonl1-byte/agent-metaverse",
+      "clawhub_downloads": 135,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "agent-metaverse",
+      "clawhub_url": "https://clawhub.ai/skills/agent-metaverse",
+      "clawhub_display_name": "Agent Metaverse"
     },
     {
       "name": "polymarket-oracle",
@@ -83,7 +119,13 @@
       "user_provides": "Polymarket API credentials (Key/Secret/Passphrase), wallet private key (optional)",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/georges91560/polymarket-oracle"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/georges91560/polymarket-oracle",
+      "clawhub_downloads": 50,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-oracle",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-oracle",
+      "clawhub_display_name": "Polymarket Oracle"
     },
     {
       "name": "hype",
@@ -95,7 +137,13 @@
       "user_provides": "",
       "dapps": "Hyperliquid",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/ivangdavila/hype"
+      "github_url": "https://github.com/ivangdavila/hype",
+      "clawhub_downloads": 492,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "timescaledb",
+      "clawhub_url": "https://clawhub.ai/skills/timescaledb",
+      "clawhub_display_name": "TimescaleDB"
     },
     {
       "name": "hyperliquid-perps",
@@ -107,7 +155,13 @@
       "user_provides": "",
       "dapps": "Hyperliquid",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/jamierossouw/hyperliquid-perps"
+      "github_url": "https://github.com/jamierossouw/hyperliquid-perps",
+      "clawhub_downloads": 200,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "hyperliquid-perps",
+      "clawhub_url": "https://clawhub.ai/skills/hyperliquid-perps",
+      "clawhub_display_name": "Hyperliquid Perps"
     },
     {
       "name": "polymarket-arbitrage",
@@ -119,7 +173,13 @@
       "user_provides": "",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/johny0920/polymarket-arbitrage"
+      "github_url": "https://github.com/johny0920/polymarket-arbitrage",
+      "clawhub_downloads": 3045,
+      "clawhub_stars": 8,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-arbitrage",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-arbitrage",
+      "clawhub_display_name": "Polymarket Arbitrage"
     },
     {
       "name": "polymarket-trading",
@@ -131,7 +191,13 @@
       "user_provides": "Bet amount, market selection",
       "dapps": "Polymarket",
       "run_mode": "One-Time",
-      "github_url": "https://github.com/jordanprater/polymarket-trading"
+      "github_url": "https://github.com/jordanprater/polymarket-trading",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-trading",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-trading",
+      "clawhub_display_name": "polymarket-trading"
     },
     {
       "name": "polymarket-trading-bot",
@@ -143,7 +209,13 @@
       "user_provides": "Bet amount, market selection",
       "dapps": "Polymarket",
       "run_mode": "One-Time",
-      "github_url": "https://github.com/jordanprater/polymarket-trading-bot"
+      "github_url": "https://github.com/jordanprater/polymarket-trading-bot",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-trading-bot",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-trading-bot",
+      "clawhub_display_name": "polymarket-trading-bot"
     },
     {
       "name": "vibetrading-code-gen",
@@ -155,7 +227,13 @@
       "user_provides": "Python3 environment",
       "dapps": "Hyperliquid",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/liuhaonan00/vibetrading-code-gen"
+      "github_url": "https://github.com/liuhaonan00/vibetrading-code-gen",
+      "clawhub_downloads": 336,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "vibetrading-code-gen",
+      "clawhub_url": "https://clawhub.ai/skills/vibetrading-code-gen",
+      "clawhub_display_name": "vibetrading-ai-trading-code-generator"
     },
     {
       "name": "hyperliquid-prime",
@@ -167,7 +245,13 @@
       "user_provides": "Hyperliquid API key",
       "dapps": "Hyperliquid",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/mehranhydary/hyperliquid-prime"
+      "github_url": "https://github.com/mehranhydary/hyperliquid-prime",
+      "clawhub_downloads": 922,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "hyperliquid-prime",
+      "clawhub_url": "https://clawhub.ai/skills/hyperliquid-prime",
+      "clawhub_display_name": "Hyperliquid Prime"
     },
     {
       "name": "robonet-workbench",
@@ -179,7 +263,13 @@
       "user_provides": "Robonet account",
       "dapps": "Hyperliquid, Polymarket",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/nickemmons/robonet-workbench"
+      "github_url": "https://github.com/nickemmons/robonet-workbench",
+      "clawhub_downloads": 1219,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "robonet-workbench",
+      "clawhub_url": "https://clawhub.ai/skills/robonet-workbench",
+      "clawhub_display_name": "Robonet"
     },
     {
       "name": "reef-paper-trader",
@@ -191,7 +281,13 @@
       "user_provides": "",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/rimelucci/reef-paper-trader"
+      "github_url": "https://github.com/rimelucci/reef-paper-trader",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "reef-paper-trader",
+      "clawhub_url": "https://clawhub.ai/skills/reef-paper-trader",
+      "clawhub_display_name": "reef-paper-trader"
     },
     {
       "name": "reef-polymarket-arb",
@@ -203,7 +299,13 @@
       "user_provides": "",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/rimelucci/reef-polymarket-arb"
+      "github_url": "https://github.com/rimelucci/reef-polymarket-arb",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "reef-polymarket-arb",
+      "clawhub_url": "https://clawhub.ai/skills/reef-polymarket-arb",
+      "clawhub_display_name": "reef-polymarket-arb"
     },
     {
       "name": "polyedge",
@@ -215,7 +317,13 @@
       "user_provides": "",
       "dapps": "Polymarket",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/sbaker5/polyedge"
+      "github_url": "https://github.com/sbaker5/polyedge",
+      "clawhub_downloads": 2572,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polyedge",
+      "clawhub_url": "https://clawhub.ai/skills/polyedge",
+      "clawhub_display_name": "PolyEdge - Polymarket Correlation Analyzer"
     },
     {
       "name": "perp-lobster",
@@ -227,7 +335,13 @@
       "user_provides": "Hyperliquid private key",
       "dapps": "Hyperliquid",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/thisnewmark/perp-lobster"
+      "github_url": "https://github.com/thisnewmark/perp-lobster",
+      "clawhub_downloads": 332,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "perp-lobster",
+      "clawhub_url": "https://clawhub.ai/skills/perp-lobster",
+      "clawhub_display_name": "Perp Lobster"
     },
     {
       "name": "openbroker",
@@ -239,7 +353,13 @@
       "user_provides": "Hyperliquid private key",
       "dapps": "Hyperliquid",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/ya7ya/openbroker"
+      "github_url": "https://github.com/ya7ya/openbroker",
+      "clawhub_downloads": 1772,
+      "clawhub_stars": 6,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "openbroker",
+      "clawhub_url": "https://clawhub.ai/skills/openbroker",
+      "clawhub_display_name": "Open-broker"
     },
     {
       "name": "supurr-hyperliquid",
@@ -251,7 +371,13 @@
       "user_provides": "Hyperliquid wallet credentials",
       "dapps": "Hyperliquid",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/yashagarwal1994/supurr-hyperliquid"
+      "github_url": "https://github.com/yashagarwal1994/supurr-hyperliquid",
+      "clawhub_downloads": 410,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "supurr-hyperliquid",
+      "clawhub_url": "https://clawhub.ai/skills/supurr-hyperliquid",
+      "clawhub_display_name": "Supurr Hyperliquid Algorithmic Trading"
     },
     {
       "name": "solana-funding-arb",
@@ -263,7 +389,13 @@
       "user_provides": "",
       "dapps": "Drift, Flash Trade",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/zedit42/solana-funding-arb"
+      "github_url": "https://github.com/zedit42/solana-funding-arb",
+      "clawhub_downloads": 1105,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "solana-funding-arb",
+      "clawhub_url": "https://clawhub.ai/skills/solana-funding-arb",
+      "clawhub_display_name": "Solana Funding Rate Arbitrage"
     },
     {
       "name": "hyperclaw",
@@ -275,7 +407,13 @@
       "user_provides": "Hyperliquid account address and private key",
       "dapps": "Hyperliquid",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/zoan37/hyperclaw"
+      "github_url": "https://github.com/zoan37/hyperclaw",
+      "clawhub_downloads": 383,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "hyperclaw",
+      "clawhub_url": "https://clawhub.ai/skills/hyperclaw",
+      "clawhub_display_name": "HyperClaw"
     },
     {
       "name": "polymarket-arbitrage-cn",
@@ -287,7 +425,13 @@
       "user_provides": "",
       "dapps": "Polymarket",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/guohongbin-git/polymarket-arbitrage-cn"
+      "github_url": "https://github.com/guohongbin-git/polymarket-arbitrage-cn",
+      "clawhub_downloads": 214,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polymarket-arbitrage-cn",
+      "clawhub_url": "https://clawhub.ai/skills/polymarket-arbitrage-cn",
+      "clawhub_display_name": "Polymarket Arbitrage Cn"
     },
     {
       "name": "solana-funding-arb-cn",
@@ -299,7 +443,13 @@
       "user_provides": "",
       "dapps": "Drift, Flash Trade",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/guohongbin-git/solana-funding-arb-cn"
+      "github_url": "https://github.com/guohongbin-git/solana-funding-arb-cn",
+      "clawhub_downloads": 268,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "solana-funding-arb-cn",
+      "clawhub_url": "https://clawhub.ai/skills/solana-funding-arb-cn",
+      "clawhub_display_name": "Solana Funding Arb Cn"
     },
     {
       "name": "okx-exchange",
@@ -311,7 +461,13 @@
       "user_provides": "OKX API Key/Secret/Passphrase",
       "dapps": "OKX",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/lk2023060901/okx-exchange"
+      "github_url": "https://github.com/lk2023060901/okx-exchange",
+      "clawhub_downloads": 59,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "okx-exchange",
+      "clawhub_url": "https://clawhub.ai/skills/okx-exchange",
+      "clawhub_display_name": "OKX Exchange"
     },
     {
       "name": "hypii-hyperliquid-trader",
@@ -323,7 +479,13 @@
       "user_provides": "Hyperliquid credentials",
       "dapps": "Hyperliquid",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/jarviyin/hypii-hyperliquid-trader"
+      "github_url": "https://github.com/jarviyin/hypii-hyperliquid-trader",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "hypii-hyperliquid-trader",
+      "clawhub_url": "https://clawhub.ai/skills/hypii-hyperliquid-trader",
+      "clawhub_display_name": "hypii-hyperliquid-trader"
     },
     {
       "name": "bybit-futures",
@@ -335,7 +497,13 @@
       "user_provides": "Bybit API Key/Secret",
       "dapps": "",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/sunnyztj/bybit-futures"
+      "github_url": "https://github.com/sunnyztj/bybit-futures",
+      "clawhub_downloads": 420,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "bybit-futures",
+      "clawhub_url": "https://clawhub.ai/skills/bybit-futures",
+      "clawhub_display_name": "Bybit Futures"
     },
     {
       "name": "defipoly",
@@ -347,7 +515,13 @@
       "user_provides": "Operation target or query parameters",
       "dapps": "DPOLY",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/rengon0x/defipoly"
+      "github_url": "https://github.com/rengon0x/defipoly",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "defipoly",
+      "clawhub_url": "https://clawhub.ai/skills/defipoly",
+      "clawhub_display_name": "defipoly"
     },
     {
       "name": "orderly-perps",
@@ -359,7 +533,13 @@
       "user_provides": "ETH_PRIVATE_KEY, Node.js, Cast CLI",
       "dapps": "Orderly Network",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/orimolty-lang/orderly-perps"
+      "github_url": "https://github.com/orimolty-lang/orderly-perps",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "orderly-perps",
+      "clawhub_url": "https://clawhub.ai/skills/orderly-perps",
+      "clawhub_display_name": "orderly-perps"
     },
     {
       "name": "avantis-skill",
@@ -371,7 +551,13 @@
       "user_provides": "Wallet private key, avantis-trader-sdk",
       "dapps": "Avantis",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/droppingbeans/avantis-skill"
+      "github_url": "https://github.com/droppingbeans/avantis-skill",
+      "clawhub_downloads": 994,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "avantis-skill",
+      "clawhub_url": "https://clawhub.ai/skills/avantis-skill",
+      "clawhub_display_name": "Avantis Skill"
     },
     {
       "name": "katbot-trading",
@@ -383,7 +569,13 @@
       "user_provides": "WALLET_PRIVATE_KEY, KATBOT_HL_AGENT_PRIVATE_KEY",
       "dapps": "Hyperliquid",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/claytantor/katbot-trading"
+      "github_url": "https://github.com/claytantor/katbot-trading",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "katbot-trading",
+      "clawhub_url": "https://clawhub.ai/skills/katbot-trading",
+      "clawhub_display_name": "katbot-trading"
     },
     {
       "name": "apex-trading",
@@ -395,7 +587,13 @@
       "user_provides": "APEX_API_KEY, APEX_API_SECRET, APEX_API_PASSPHRASE, APEX_OMNI_SEED",
       "dapps": "ApeX",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/joshlin111/apex-trading"
+      "github_url": "https://github.com/joshlin111/apex-trading",
+      "clawhub_downloads": 2388,
+      "clawhub_stars": 6,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "apex-trading",
+      "clawhub_url": "https://clawhub.ai/skills/apex-trading",
+      "clawhub_display_name": "Apex Trading & Analysis"
     },
     {
       "name": "binance-pro",
@@ -407,7 +605,13 @@
       "user_provides": "BINANCE_API_KEY, BINANCE_SECRET",
       "dapps": "Binance",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/totaleasy/binance-pro"
+      "github_url": "https://github.com/totaleasy/binance-pro",
+      "clawhub_downloads": 4482,
+      "clawhub_stars": 9,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "binance-pro",
+      "clawhub_url": "https://clawhub.ai/skills/binance-pro",
+      "clawhub_display_name": "Binance Pro"
     },
     {
       "name": "aicoin-freqtrade",
@@ -419,7 +623,13 @@
       "user_provides": "AiCoin Access Key, trading pair, strategy parameters",
       "dapps": "Freqtrade",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/procaross/aicoin-freqtrade"
+      "github_url": "https://github.com/procaross/aicoin-freqtrade",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "aicoin-freqtrade",
+      "clawhub_url": "https://clawhub.ai/skills/aicoin-freqtrade",
+      "clawhub_display_name": "aicoin-freqtrade"
     },
     {
       "name": "grvt-markets-agent-skill",
@@ -431,7 +641,13 @@
       "user_provides": "GRVT API Key, API Secret, wallet private key",
       "dapps": "GRVT",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/madeinusmate/grvt-markets-agent-skill"
+      "github_url": "https://github.com/madeinusmate/grvt-markets-agent-skill",
+      "clawhub_downloads": 172,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "grvt-markets-agent-skill",
+      "clawhub_url": "https://clawhub.ai/skills/grvt-markets-agent-skill",
+      "clawhub_display_name": "Grvt Markets"
     },
     {
       "name": "phemex-trade",
@@ -443,7 +659,13 @@
       "user_provides": "Phemex API Key, API Secret",
       "dapps": "Phemex",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/bubble501/phemex-trade"
+      "github_url": "https://github.com/bubble501/phemex-trade",
+      "clawhub_downloads": 333,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "phemex-trade",
+      "clawhub_url": "https://clawhub.ai/skills/phemex-trade",
+      "clawhub_display_name": "Phemex Trading"
     },
     {
       "name": "crypto-executor",
@@ -455,7 +677,13 @@
       "user_provides": "Binance API Key, API Secret, optional Telegram notification config",
       "dapps": "",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/georges91560/crypto-executor"
+      "github_url": "https://github.com/georges91560/crypto-executor",
+      "clawhub_downloads": 106,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "crypto-executor",
+      "clawhub_url": "https://clawhub.ai/skills/crypto-executor",
+      "clawhub_display_name": "Crypto Executor"
     },
     {
       "name": "crypto-backtest",
@@ -467,7 +695,13 @@
       "user_provides": "Trading pair, strategy parameters, capital and leverage settings",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/sunnyztj/crypto-backtest"
+      "github_url": "https://github.com/sunnyztj/crypto-backtest",
+      "clawhub_downloads": 401,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "crypto-backtest",
+      "clawhub_url": "https://clawhub.ai/skills/crypto-backtest",
+      "clawhub_display_name": "Crypto Backtest"
     },
     {
       "name": "weex-trading-skills",
@@ -479,7 +713,13 @@
       "user_provides": "WEEX API Key, API Secret",
       "dapps": "WEEX",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/bowen31337/weex-trading-skills"
+      "github_url": "https://github.com/bowen31337/weex-trading-skills",
+      "clawhub_downloads": 1385,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "weex-trading-skills",
+      "clawhub_url": "https://clawhub.ai/skills/weex-trading-skills",
+      "clawhub_display_name": "Weex"
     },
     {
       "name": "maxxit-lazy-trading",
@@ -491,7 +731,13 @@
       "user_provides": "Wallet private key",
       "dapps": "Ostium, Aster, Avantis",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/abhi152003/maxxit-lazy-trading"
+      "github_url": "https://github.com/abhi152003/maxxit-lazy-trading",
+      "clawhub_downloads": 1835,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "maxxit-lazy-trading",
+      "clawhub_url": "https://clawhub.ai/skills/maxxit-lazy-trading",
+      "clawhub_display_name": "Maxxit Lazy Trader"
     },
     {
       "name": "binance-futures-trading",
@@ -503,7 +749,13 @@
       "user_provides": "Binance API Key, SkillPay account",
       "dapps": "Binance",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/mosonchan2023/binance-futures-trading"
+      "github_url": "https://github.com/mosonchan2023/binance-futures-trading",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "binance-futures-trading",
+      "clawhub_url": "https://clawhub.ai/skills/binance-futures-trading",
+      "clawhub_display_name": "binance-futures-trading"
     },
     {
       "name": "tilt-protocol",
@@ -515,7 +767,13 @@
       "user_provides": "Wallet private key",
       "dapps": "Tilt Protocol",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/rontotech/tilt-protocol"
+      "github_url": "https://github.com/rontotech/tilt-protocol",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "tilt-protocol",
+      "clawhub_url": "https://clawhub.ai/skills/tilt-protocol",
+      "clawhub_display_name": "tilt-protocol"
     },
     {
       "name": "alpaca-markets",
@@ -527,7 +785,13 @@
       "user_provides": "Alpaca API Key, API Secret",
       "dapps": "Alpaca",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/oscraters/alpaca-markets"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/oscraters/alpaca-markets",
+      "clawhub_downloads": 63,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "alpaca-markets",
+      "clawhub_url": "https://clawhub.ai/skills/alpaca-markets",
+      "clawhub_display_name": "Alpaca Markets CLI"
     },
     {
       "name": "options-strategies",
@@ -539,7 +803,13 @@
       "user_provides": "Underlying asset, current price, volatility expectation",
       "dapps": "",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/dromlakhani/options-strategies"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/dromlakhani/options-strategies",
+      "clawhub_downloads": 279,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "options-strategies",
+      "clawhub_url": "https://clawhub.ai/skills/options-strategies",
+      "clawhub_display_name": "options-strategies"
     },
     {
       "name": "crypto-funding-alert",
@@ -551,7 +821,13 @@
       "user_provides": "None",
       "dapps": "Binance",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/dagangtj/crypto-funding-alert"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/dagangtj/crypto-funding-alert",
+      "clawhub_downloads": 78,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "crypto-funding-alert",
+      "clawhub_url": "https://clawhub.ai/skills/crypto-funding-alert",
+      "clawhub_display_name": "Crypto Funding Alert"
     },
     {
       "name": "funding-rate-trader",
@@ -563,7 +839,13 @@
       "user_provides": "Binance API Key/Secret, initial capital",
       "dapps": "Binance",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/dagangtj/funding-rate-trader"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/dagangtj/funding-rate-trader",
+      "clawhub_downloads": 123,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "funding-rate-trader",
+      "clawhub_url": "https://clawhub.ai/skills/funding-rate-trader",
+      "clawhub_display_name": "Funding Rate Trader"
     },
     {
       "name": "bybit-order-book",
@@ -575,7 +857,13 @@
       "user_provides": "Date range and strategy type",
       "dapps": "Bybit",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com//bybit-order-book"
+      "github_url": "https://github.com//bybit-order-book",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "bybit-order-book",
+      "clawhub_url": "https://clawhub.ai/skills/bybit-order-book",
+      "clawhub_display_name": "bybit-order-book"
     },
     {
       "name": "alura",
@@ -587,7 +875,13 @@
       "user_provides": "EVM wallet address",
       "dapps": "Alura, Hyperliquid",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/Unknown/alura"
+      "github_url": "https://github.com/Unknown/alura",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "alura",
+      "clawhub_url": "https://clawhub.ai/skills/alura",
+      "clawhub_display_name": "alura"
     },
     {
       "name": "polyvision",
@@ -599,7 +893,13 @@
       "user_provides": "Polymarket wallet addresses",
       "dapps": "Polymarket",
       "run_mode": "One-time Execution",
-      "github_url": "https://github.com/pryorx/polyvision"
+      "github_url": "https://github.com/pryorx/polyvision",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "polyvision",
+      "clawhub_url": "https://clawhub.ai/skills/polyvision",
+      "clawhub_display_name": "polyvision"
     },
     {
       "name": "orderly-positions-tpsl",
@@ -611,7 +911,13 @@
       "user_provides": "Orderly account keys",
       "dapps": "Orderly Network",
       "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/tarnadas/orderly-positions-tpsl"
+      "github_url": "https://github.com/tarnadas/orderly-positions-tpsl",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "orderly-positions-tpsl",
+      "clawhub_url": "https://clawhub.ai/skills/orderly-positions-tpsl",
+      "clawhub_display_name": "orderly-positions-tpsl"
     },
     {
       "name": "aster-futures",
@@ -623,7 +929,13 @@
       "user_provides": "API wallet (main + signer wallet)",
       "dapps": "Aster",
       "run_mode": "Hybrid",
-      "github_url": "https://github.com/yuandiaodiaodiao/aster-futures"
+      "github_url": "https://github.com/yuandiaodiaodiao/aster-futures",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "aster-futures",
+      "clawhub_url": "https://clawhub.ai/skills/aster-futures",
+      "clawhub_display_name": "aster-futures"
     }
   ]
 }

@@ -11,7 +11,13 @@
       "user_provides": "OpenSea API 密钥",
       "dapps": "OpenSea, Seaport",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/dfinzer/opensea-mcp"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/dfinzer/opensea-mcp",
+      "clawhub_downloads": 1548,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "opensea-mcp",
+      "clawhub_url": "https://clawhub.ai/skills/opensea-mcp",
+      "clawhub_display_name": "OpenSea"
     },
     {
       "name": "opensea-skill",
@@ -23,7 +29,13 @@
       "user_provides": "OpenSea API 密钥",
       "dapps": "OpenSea, Seaport",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/dfinzer/opensea-skill"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/dfinzer/opensea-skill",
+      "clawhub_downloads": 27,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "opensea-skill",
+      "clawhub_url": "https://clawhub.ai/skills/opensea-skill",
+      "clawhub_display_name": "OpenSea"
     },
     {
       "name": "nft-tracker",
@@ -35,7 +47,13 @@
       "user_provides": "OpenSea API Key (可选)",
       "dapps": "OpenSea, Reservoir",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/ianalloway/nft-tracker"
+      "github_url": "https://github.com/ianalloway/nft-tracker",
+      "clawhub_downloads": 301,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "nft-tracker",
+      "clawhub_url": "https://clawhub.ai/skills/nft-tracker",
+      "clawhub_display_name": "Nft Tracker"
     },
     {
       "name": "ape-claw",
@@ -47,7 +65,13 @@
       "user_provides": "",
       "dapps": "ApeClaw",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/simplefarmer69/ape-claw"
+      "github_url": "https://github.com/simplefarmer69/ape-claw",
+      "clawhub_downloads": 284,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "ape-claw",
+      "clawhub_url": "https://clawhub.ai/skills/ape-claw",
+      "clawhub_display_name": "ape-claw"
     },
     {
       "name": "stonebornbot",
@@ -59,7 +83,13 @@
       "user_provides": "钱包私钥、RPC URL",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/olawoyin206/stonebornbot"
+      "github_url": "https://github.com/olawoyin206/stonebornbot",
+      "clawhub_downloads": 323,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "stonebornbot",
+      "clawhub_url": "https://clawhub.ai/skills/stonebornbot",
+      "clawhub_display_name": "StonebornBot"
     },
     {
       "name": "millionbit-mint",
@@ -71,7 +101,13 @@
       "user_provides": "EVM 钱包",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/millionbithomepage/millionbit-mint"
+      "github_url": "https://github.com/millionbithomepage/millionbit-mint",
+      "clawhub_downloads": 607,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "millionbit-mint",
+      "clawhub_url": "https://clawhub.ai/skills/millionbit-mint",
+      "clawhub_display_name": "Million Bit Homepage NFTs"
     },
     {
       "name": "forever-moments",
@@ -83,7 +119,13 @@
       "user_provides": "LUKSO Universal Profile 凭证、DALLE_API_KEY（可选）",
       "dapps": "Forever Moments",
       "run_mode": "混合",
-      "github_url": "https://github.com/luksoagent/forever-moments"
+      "github_url": "https://github.com/luksoagent/forever-moments",
+      "clawhub_downloads": 230,
+      "clawhub_stars": 4,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "forever-moments",
+      "clawhub_url": "https://clawhub.ai/skills/forever-moments",
+      "clawhub_display_name": "Forever Moments"
     },
     {
       "name": "phosphors",
@@ -95,7 +137,13 @@
       "user_provides": "钱包地址",
       "dapps": "Phosphors",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/ramid22/phosphors"
+      "github_url": "https://github.com/ramid22/phosphors",
+      "clawhub_downloads": 1335,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "phosphors",
+      "clawhub_url": "https://clawhub.ai/skills/phosphors",
+      "clawhub_display_name": "Phosphors"
     },
     {
       "name": "base-buds",
@@ -107,7 +155,13 @@
       "user_provides": "EVM 钱包（含 ETH + 1 USDC）",
       "dapps": "Base Buds",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/tron04736-star/base-buds"
+      "github_url": "https://github.com/tron04736-star/base-buds",
+      "clawhub_downloads": 227,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "base-buds",
+      "clawhub_url": "https://clawhub.ai/skills/base-buds",
+      "clawhub_display_name": "Public"
     },
     {
       "name": "agent-soul",
@@ -119,7 +173,13 @@
       "user_provides": "SOLANA_PRIVATE_KEY（含 USDC + SOL）",
       "dapps": "Agent Soul",
       "run_mode": "混合",
-      "github_url": "https://github.com/keeganthomp/agent-soul"
+      "github_url": "https://github.com/keeganthomp/agent-soul",
+      "clawhub_downloads": 265,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "agent-soul",
+      "clawhub_url": "https://clawhub.ai/skills/agent-soul",
+      "clawhub_display_name": "Agent Soul"
     },
     {
       "name": "clawdmint",
@@ -131,7 +191,13 @@
       "user_provides": "CLAWDMINT_API_KEY",
       "dapps": "Clawdmint",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/clawdmintt/clawdmint"
+      "github_url": "https://github.com/clawdmintt/clawdmint",
+      "clawhub_downloads": 883,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "clawdmint",
+      "clawhub_url": "https://clawhub.ai/skills/clawdmint",
+      "clawhub_display_name": "Clawdmint"
     },
     {
       "name": "bnb-nft",
@@ -143,7 +209,13 @@
       "user_provides": "BNB_PRIVATE_KEY（写操作需要）",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/clawzai/bnb-nft"
+      "github_url": "https://github.com/clawzai/bnb-nft",
+      "clawhub_downloads": 1150,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "bnb-nft",
+      "clawhub_url": "https://clawhub.ai/skills/bnb-nft",
+      "clawhub_display_name": "BNB Chain NFT"
     },
     {
       "name": "pet-me-master",
@@ -155,7 +227,13 @@
       "user_provides": "Bankr 钱包, Cast CLI",
       "dapps": "Aavegotchi",
       "run_mode": "混合",
-      "github_url": "https://github.com/aaigotchi/pet-me-master"
+      "github_url": "https://github.com/aaigotchi/pet-me-master",
+      "clawhub_downloads": 248,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "pet-me-master",
+      "clawhub_url": "https://clawhub.ai/skills/pet-me-master",
+      "clawhub_display_name": "Pet Me Master"
     },
     {
       "name": "nft-floor-calculator",
@@ -167,7 +245,13 @@
       "user_provides": "SKILLPAY_API_KEY",
       "dapps": "OpenSea, Blur, Magic Eden",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/mosonchan2023/nft-floor-calculator"
+      "github_url": "https://github.com/mosonchan2023/nft-floor-calculator",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "nft-floor-calculator",
+      "clawhub_url": "https://clawhub.ai/skills/nft-floor-calculator",
+      "clawhub_display_name": "nft-floor-calculator"
     },
     {
       "name": "nft-skill",
@@ -179,7 +263,13 @@
       "user_provides": "BASE_PRIVATE_KEY, PINATA_API_KEY, 图像生成 API key",
       "dapps": "",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/numba1ne/nft-skill"
+      "github_url": "https://github.com/numba1ne/nft-skill",
+      "clawhub_downloads": 873,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "nft-skill",
+      "clawhub_url": "https://clawhub.ai/skills/nft-skill",
+      "clawhub_display_name": "NFT Skill - Autonomous AI Artist Agent"
     },
     {
       "name": "clawsea-market",
@@ -191,7 +281,13 @@
       "user_provides": "Bot 钱包（由运营者配置）",
       "dapps": "ClawSea, Seaport",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/fluxmira-moltbot/clawsea-market"
+      "github_url": "https://github.com/fluxmira-moltbot/clawsea-market",
+      "clawhub_downloads": 534,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "clawsea-market",
+      "clawhub_url": "https://clawhub.ai/skills/clawsea-market",
+      "clawhub_display_name": "ClawSea NFT Marketplace"
     },
     {
       "name": "warren-nft",
@@ -203,7 +299,13 @@
       "user_provides": "NFT 图片文件、合集名称、版税参数、MegaETH 测试网 ETH",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/planetai87/warren-nft"
+      "github_url": "https://github.com/planetai87/warren-nft",
+      "clawhub_downloads": 1400,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "warren-nft",
+      "clawhub_url": "https://clawhub.ai/skills/warren-nft",
+      "clawhub_display_name": "Warren - On-Chain NFT Deploy"
     },
     {
       "name": "nft-art-generation",
@@ -215,7 +317,13 @@
       "user_provides": "eachLabs API Key、NFT 描述/风格参数",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/eftalyurtseven/nft-art-generation"
+      "github_url": "https://github.com/eftalyurtseven/nft-art-generation",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "nft-art-generation",
+      "clawhub_url": "https://clawhub.ai/skills/nft-art-generation",
+      "clawhub_display_name": "nft-art-generation"
     },
     {
       "name": "clawbazaar",
@@ -227,7 +335,13 @@
       "user_provides": "钱包私钥, Base ETH",
       "dapps": "ClawBazaar",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/motimilo/clawbazaar"
+      "github_url": "https://github.com/motimilo/clawbazaar",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "clawbazaar",
+      "clawhub_url": "https://clawhub.ai/skills/clawbazaar",
+      "clawhub_display_name": "clawbazaar"
     },
     {
       "name": "torchdomainauctionbot",
@@ -239,7 +353,13 @@
       "user_provides": "Solana 钱包私钥",
       "dapps": "Torch Finance",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/mrsirg97-rgb/torchdomainauctionbot"
+      "github_url": "https://github.com/mrsirg97-rgb/torchdomainauctionbot",
+      "clawhub_downloads": 315,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "torchdomainauctionbot",
+      "clawhub_url": "https://clawhub.ai/skills/torchdomainauctionbot",
+      "clawhub_display_name": "Torch Domain Auction Bot"
     },
     {
       "name": "aavegotchi-baazaar",
@@ -251,7 +371,13 @@
       "user_provides": "钱包私钥, GHST/USDC",
       "dapps": "Aavegotchi",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/cinnabarhorse/aavegotchi-baazaar"
+      "github_url": "https://github.com/cinnabarhorse/aavegotchi-baazaar",
+      "clawhub_downloads": 436,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "aavegotchi-baazaar",
+      "clawhub_url": "https://clawhub.ai/skills/aavegotchi-baazaar",
+      "clawhub_display_name": "Aavegotchi Baazaar"
     },
     {
       "name": "aavegotchi-gbm-skill",
@@ -263,7 +389,13 @@
       "user_provides": "钱包私钥, GHST",
       "dapps": "Aavegotchi",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/cinnabarhorse/aavegotchi-gbm-skill"
+      "github_url": "https://github.com/cinnabarhorse/aavegotchi-gbm-skill",
+      "clawhub_downloads": 300,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "aavegotchi-gbm-skill",
+      "clawhub_url": "https://clawhub.ai/skills/aavegotchi-gbm-skill",
+      "clawhub_display_name": "Aavegotchi GBM Skill"
     },
     {
       "name": "aavegotchi-gotchiverse",
@@ -275,7 +407,13 @@
       "user_provides": "钱包私钥, Aavegotchi NFT",
       "dapps": "Aavegotchi",
       "run_mode": "混合",
-      "github_url": "https://github.com/cinnabarhorse/aavegotchi-gotchiverse"
+      "github_url": "https://github.com/cinnabarhorse/aavegotchi-gotchiverse",
+      "clawhub_downloads": 204,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "aavegotchi-gotchiverse",
+      "clawhub_url": "https://clawhub.ai/skills/aavegotchi-gotchiverse",
+      "clawhub_display_name": "Aavegotchi Gotchiverse"
     },
     {
       "name": "qr-auction-bidder",
@@ -287,7 +425,13 @@
       "user_provides": "钱包私钥, USDC",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/ss251/qr-auction-bidder"
+      "github_url": "https://github.com/ss251/qr-auction-bidder",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "qr-auction-bidder",
+      "clawhub_url": "https://clawhub.ai/skills/qr-auction-bidder",
+      "clawhub_display_name": "qr-auction-bidder"
     },
     {
       "name": "sideload-avatar-generator",
@@ -299,7 +443,13 @@
       "user_provides": "钱包（x402 支付）",
       "dapps": "Sideload",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/directivecreator/sideload-avatar-generator"
+      "github_url": "https://github.com/directivecreator/sideload-avatar-generator",
+      "clawhub_downloads": 322,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "sideload-avatar-generator",
+      "clawhub_url": "https://clawhub.ai/skills/sideload-avatar-generator",
+      "clawhub_display_name": "Sideload Avatar Generator"
     },
     {
       "name": "moltmotion",
@@ -311,7 +461,13 @@
       "user_provides": "MOLTMOTION_API_KEY, 钱包",
       "dapps": "Molt Motion",
       "run_mode": "混合",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/chefbc2k/moltmotion"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/chefbc2k/moltmotion",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "moltmotion",
+      "clawhub_url": "https://clawhub.ai/skills/moltmotion",
+      "clawhub_display_name": "moltmotion"
     },
     {
       "name": "claws-nft",
@@ -323,7 +479,13 @@
       "user_provides": "Solana 钱包密钥对（至少 0.025 SOL）",
       "dapps": "Claws NFT",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/liboheng/claws-nft"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/liboheng/claws-nft",
+      "clawhub_downloads": 352,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "claws-nft",
+      "clawhub_url": "https://clawhub.ai/skills/claws-nft",
+      "clawhub_display_name": "Claws Nft"
     },
     {
       "name": "warren-nft-mainnet",
@@ -335,7 +497,13 @@
       "user_provides": "私钥、MegaETH 主网 ETH、NFT 图片文件",
       "dapps": "Warren",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/planetai87/warren-nft-mainnet"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/planetai87/warren-nft-mainnet",
+      "clawhub_downloads": 939,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "warren-nft-mainnet",
+      "clawhub_url": "https://clawhub.ai/skills/warren-nft-mainnet",
+      "clawhub_display_name": "Warren NFT Deploy(mainnet)"
     },
     {
       "name": "nft-valuator",
@@ -347,7 +515,13 @@
       "user_provides": "NFT合约地址或Token ID",
       "dapps": "OpenSea, Blur",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/deeplearning1993/nft-valuator"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/deeplearning1993/nft-valuator",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "nft-valuator",
+      "clawhub_url": "https://clawhub.ai/skills/nft-valuator",
+      "clawhub_display_name": "nft-valuator"
     },
     {
       "name": "aavegotchi-renderer-bypass",
@@ -359,7 +533,13 @@
       "user_provides": "Aavegotchi Token ID",
       "dapps": "Aavegotchi",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/cinnabarhorse/aavegotchi-renderer-bypass"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/cinnabarhorse/aavegotchi-renderer-bypass",
+      "clawhub_downloads": 100,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "aavegotchi-renderer-bypass",
+      "clawhub_url": "https://clawhub.ai/skills/aavegotchi-renderer-bypass",
+      "clawhub_display_name": "Aavegotchi Renderer Bypass"
     },
     {
       "name": "aavegotchi-3d-renderer",
@@ -371,7 +551,13 @@
       "user_provides": "Aavegotchi Token ID",
       "dapps": "Aavegotchi",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/cinnabarhorse/aavegotchi-3d-renderer"
+      "github_url": "https://github.com/openclaw/skills/tree/main/skills/cinnabarhorse/aavegotchi-3d-renderer",
+      "clawhub_downloads": 107,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "aavegotchi-3d-renderer",
+      "clawhub_url": "https://clawhub.ai/skills/aavegotchi-3d-renderer",
+      "clawhub_display_name": "Aavegotchi 3D Renderer"
     },
     {
       "name": "rootdata-crypto",
@@ -383,7 +569,13 @@
       "user_provides": "钱包地址、交易参数或操作指令",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com//rootdata-crypto"
+      "github_url": "https://github.com//rootdata-crypto",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "rootdata-crypto",
+      "clawhub_url": "https://clawhub.ai/skills/rootdata-crypto",
+      "clawhub_display_name": "rootdata-crypto"
     },
     {
       "name": "solana-light-token-client",
@@ -395,7 +587,13 @@
       "user_provides": "任务描述和需求参数",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com//solana-light-token-client"
+      "github_url": "https://github.com//solana-light-token-client",
+      "clawhub_downloads": 83,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "solana-light-token-client",
+      "clawhub_url": "https://clawhub.ai/skills/solana-light-token-client",
+      "clawhub_display_name": "solana-light-token-client"
     },
     {
       "name": "agentsmint",
@@ -407,7 +605,13 @@
       "user_provides": "任务描述和需求参数",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com//agentsmint"
+      "github_url": "https://github.com//agentsmint",
+      "clawhub_downloads": 1144,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "agentsmint",
+      "clawhub_url": "https://clawhub.ai/skills/agentsmint",
+      "clawhub_display_name": "Agentsmint"
     },
     {
       "name": "4claw-mint",
@@ -419,7 +623,13 @@
       "user_provides": "任务描述和需求参数",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com//4claw-mint"
+      "github_url": "https://github.com//4claw-mint",
+      "clawhub_downloads": 70,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "4claw-mint",
+      "clawhub_url": "https://clawhub.ai/skills/4claw-mint",
+      "clawhub_display_name": "4Claw Mint"
     },
     {
       "name": "clawwork-genesis",
@@ -431,7 +641,13 @@
       "user_provides": "CLAWWORK_API_KEY, 钱包地址",
       "dapps": "ClawWork",
       "run_mode": "混合",
-      "github_url": "https://github.com/Unknown/clawwork-genesis"
+      "github_url": "https://github.com/Unknown/clawwork-genesis",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "clawwork-genesis",
+      "clawhub_url": "https://clawhub.ai/skills/clawwork-genesis",
+      "clawhub_display_name": "clawwork-genesis"
     },
     {
       "name": "clawphunks",
@@ -443,7 +659,13 @@
       "user_provides": "WALLET_PRIVATE_KEY",
       "dapps": "ClawPhunks",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/Unknown/clawphunks"
+      "github_url": "https://github.com/Unknown/clawphunks",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "clawphunks",
+      "clawhub_url": "https://clawhub.ai/skills/clawphunks",
+      "clawhub_display_name": "clawphunks"
     },
     {
       "name": "millionfinney-homepage",
@@ -455,7 +677,13 @@
       "user_provides": "ETH钱包地址",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/l0c0luke/millionfinney-homepage"
+      "github_url": "https://github.com/l0c0luke/millionfinney-homepage",
+      "clawhub_downloads": 148,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "millionfinney-homepage",
+      "clawhub_url": "https://clawhub.ai/skills/millionfinney-homepage",
+      "clawhub_display_name": "Millionfinney Homepage"
     },
     {
       "name": "fellow-villains",
@@ -467,7 +695,13 @@
       "user_provides": "Solana钱包地址, SOL余额（约0.02 SOL Gas费）",
       "dapps": "",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/makoto-isback/fellow-villains"
+      "github_url": "https://github.com/makoto-isback/fellow-villains",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "fellow-villains",
+      "clawhub_url": "https://clawhub.ai/skills/fellow-villains",
+      "clawhub_display_name": "fellow-villains"
     },
     {
       "name": "fxclaw",
@@ -479,7 +713,13 @@
       "user_provides": "fxCLAW API密钥、以太坊钱包地址",
       "dapps": "fxCLAW",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/panikadak/fxclaw"
+      "github_url": "https://github.com/panikadak/fxclaw",
+      "clawhub_downloads": 1137,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "fxclaw",
+      "clawhub_url": "https://clawhub.ai/skills/fxclaw",
+      "clawhub_display_name": "fxCLAW"
     },
     {
       "name": "exoskeletons",
@@ -491,7 +731,13 @@
       "user_provides": "Base钱包",
       "dapps": "Exoskeletons",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/potdealer/exoskeletons"
+      "github_url": "https://github.com/potdealer/exoskeletons",
+      "clawhub_downloads": 314,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "exoskeletons",
+      "clawhub_url": "https://clawhub.ai/skills/exoskeletons",
+      "clawhub_display_name": "Exoskeletons"
     },
     {
       "name": "ok-computers",
@@ -503,7 +749,13 @@
       "user_provides": "OK Computer NFT、Base钱包",
       "dapps": "OK Computers",
       "run_mode": "混合",
-      "github_url": "https://github.com/potdealer/ok-computers"
+      "github_url": "https://github.com/potdealer/ok-computers",
+      "clawhub_downloads": 912,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "ok-computers",
+      "clawhub_url": "https://clawhub.ai/skills/ok-computers",
+      "clawhub_display_name": "OK Computers + Ring Gates + Net Protocol"
     },
     {
       "name": "claw-fm",
@@ -515,7 +767,13 @@
       "user_provides": "Replicate API Token、钱包地址",
       "dapps": "claw.fm",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/rawgroundbeef/claw-fm"
+      "github_url": "https://github.com/rawgroundbeef/claw-fm",
+      "clawhub_downloads": 781,
+      "clawhub_stars": 2,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "claw-fm",
+      "clawhub_url": "https://clawhub.ai/skills/claw-fm",
+      "clawhub_display_name": "Claw Fm"
     },
     {
       "name": "trip-protocol",
@@ -527,7 +785,13 @@
       "user_provides": "Monad测试网钱包",
       "dapps": "Trip Protocol",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/reggie-sporewell/trip-protocol"
+      "github_url": "https://github.com/reggie-sporewell/trip-protocol",
+      "clawhub_downloads": 286,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "trip-protocol",
+      "clawhub_url": "https://clawhub.ai/skills/trip-protocol",
+      "clawhub_display_name": "Trip Protocol"
     },
     {
       "name": "deck0-skills",
@@ -539,7 +803,13 @@
       "user_provides": "DECK0_PRIVATE_KEY",
       "dapps": "DECK-0",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/signorcrypto/deck0-skills"
+      "github_url": "https://github.com/signorcrypto/deck0-skills",
+      "clawhub_downloads": 414,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "deck0-skills",
+      "clawhub_url": "https://clawhub.ai/skills/deck0-skills",
+      "clawhub_display_name": "DECK-0"
     },
     {
       "name": "humannft",
@@ -551,7 +821,13 @@
       "user_provides": "个人资料、钱包地址",
       "dapps": "HumanNFT",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/thesmartape/humannft"
+      "github_url": "https://github.com/thesmartape/humannft",
+      "clawhub_downloads": 258,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "humannft",
+      "clawhub_url": "https://clawhub.ai/skills/humannft",
+      "clawhub_display_name": "HumanNFT"
     },
     {
       "name": "moltcanvas",
@@ -563,7 +839,13 @@
       "user_provides": "图片内容、钱包地址",
       "dapps": "MoltCanvas",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/vabblejames/moltcanvas"
+      "github_url": "https://github.com/vabblejames/moltcanvas",
+      "clawhub_downloads": 1150,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "moltcanvas",
+      "clawhub_url": "https://clawhub.ai/skills/moltcanvas",
+      "clawhub_display_name": "MoltCanvas"
     },
     {
       "name": "moltcanvas-marketplace",
@@ -575,7 +857,13 @@
       "user_provides": "图片内容、钱包地址",
       "dapps": "MoltCanvas",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/vabblejames/moltcanvas-marketplace"
+      "github_url": "https://github.com/vabblejames/moltcanvas-marketplace",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "moltcanvas-marketplace",
+      "clawhub_url": "https://clawhub.ai/skills/moltcanvas-marketplace",
+      "clawhub_display_name": "moltcanvas-marketplace"
     },
     {
       "name": "bap-578-baptism",
@@ -587,7 +875,13 @@
       "user_provides": "BNB 钱包",
       "dapps": "Four.Meme, BapBook",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/whale-professor/bap-578-baptism"
+      "github_url": "https://github.com/whale-professor/bap-578-baptism",
+      "clawhub_downloads": 0,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "bap-578-baptism",
+      "clawhub_url": "https://clawhub.ai/skills/bap-578-baptism",
+      "clawhub_display_name": "bap-578-baptism"
     },
     {
       "name": "doppel-block-builder",
@@ -599,7 +893,13 @@
       "user_provides": "Doppel 世界访问权限",
       "dapps": "Doppel",
       "run_mode": "持续AI决策",
-      "github_url": "https://github.com/0xm1kr/doppel-block-builder"
+      "github_url": "https://github.com/0xm1kr/doppel-block-builder",
+      "clawhub_downloads": 1086,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "doppel-block-builder",
+      "clawhub_url": "https://clawhub.ai/skills/doppel-block-builder",
+      "clawhub_display_name": "Doppel Block Builder"
     },
     {
       "name": "skill-zorapro",
@@ -611,7 +911,13 @@
       "user_provides": "Gemini API 密钥、钱包私钥",
       "dapps": "Zora",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/eshraqism/skill-zorapro"
+      "github_url": "https://github.com/eshraqism/skill-zorapro",
+      "clawhub_downloads": 640,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "skill-zorapro",
+      "clawhub_url": "https://clawhub.ai/skills/skill-zorapro",
+      "clawhub_display_name": "Zora NFT Pro"
     },
     {
       "name": "artwar",
@@ -623,7 +929,13 @@
       "user_provides": "Monad 钱包",
       "dapps": "ArtWar",
       "run_mode": "混合",
-      "github_url": "https://github.com/hoonilp/artwar"
+      "github_url": "https://github.com/hoonilp/artwar",
+      "clawhub_downloads": 302,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "artwar",
+      "clawhub_url": "https://clawhub.ai/skills/artwar",
+      "clawhub_display_name": "Artwar"
     },
     {
       "name": "gotchi-equip",
@@ -635,7 +947,13 @@
       "user_provides": "Bankr 钱包配置",
       "dapps": "Aavegotchi",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/aaigotchi/gotchi-equip"
+      "github_url": "https://github.com/aaigotchi/gotchi-equip",
+      "clawhub_downloads": 306,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "gotchi-equip",
+      "clawhub_url": "https://clawhub.ai/skills/gotchi-equip",
+      "clawhub_display_name": "Gotchi Equip"
     },
     {
       "name": "pet-operator",
@@ -647,7 +965,13 @@
       "user_provides": "Aavegotchi NFT、Bankr 配置",
       "dapps": "Aavegotchi",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/aaigotchi/pet-operator"
+      "github_url": "https://github.com/aaigotchi/pet-operator",
+      "clawhub_downloads": 29,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": true,
+      "clawhub_slug": "pet-operator",
+      "clawhub_url": "https://clawhub.ai/skills/pet-operator",
+      "clawhub_display_name": "Pet Operator"
     },
     {
       "name": "gotchi-finder",
@@ -659,7 +983,13 @@
       "user_provides": "Base RPC 端点",
       "dapps": "Aavegotchi",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/aaigotchi/gotchi-finder"
+      "github_url": "https://github.com/aaigotchi/gotchi-finder",
+      "clawhub_downloads": 287,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "gotchi-finder",
+      "clawhub_url": "https://clawhub.ai/skills/gotchi-finder",
+      "clawhub_display_name": "Gotchi Finder"
     },
     {
       "name": "agentsmint",
@@ -671,7 +1001,13 @@
       "user_provides": "Agent 信息",
       "dapps": "AgentsMint",
       "run_mode": "一次性执行",
-      "github_url": "https://github.com/kit-the-fox/agentsmint"
+      "github_url": "https://github.com/kit-the-fox/agentsmint",
+      "clawhub_downloads": 1144,
+      "clawhub_stars": 0,
+      "clawhub_is_certified": false,
+      "clawhub_slug": "agentsmint",
+      "clawhub_url": "https://clawhub.ai/skills/agentsmint",
+      "clawhub_display_name": "Agentsmint"
     }
   ]
 }

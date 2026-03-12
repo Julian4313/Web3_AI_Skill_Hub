@@ -57,6 +57,25 @@ nav a:hover { border-color:var(--accent); color:var(--accent); }
 .meta-row { display:flex; align-items:center; gap:1rem; margin-top:0.8rem; }
 #count { font-size:0.85rem; color:var(--text2); }
 
+.filter-spacer { flex:1; }
+
+/* ─── Certified Badge ─────────────────────────────── */
+.certified-badge { display:inline-flex; align-items:center; gap:3px; padding:2px 7px; border-radius:5px; font-size:10px; font-weight:700; background:rgba(0,206,201,0.15); color:#00cec9; border:1px solid rgba(0,206,201,0.3); letter-spacing:0.02em; white-space:nowrap; }
+
+.cert-pill { border-color:rgba(0,206,201,0.35) !important; color:#00cec9 !important; }
+.cert-pill.cert-active { background:rgba(0,206,201,0.2) !important; border-color:#00cec9 !important; color:#00cec9 !important; font-weight:700; }
+
+/* ─── Card Stats (downloads + stars) ─────────────── */
+.card-stats { display:flex; align-items:center; gap:10px; flex:1; }
+.stat-dl, .stat-star { font-size:11px; color:var(--text2); display:flex; align-items:center; gap:2px; }
+.stat-dl { color:#74b9ff; }
+.stat-star { color:#fdcb6e; }
+
+/* ─── Detail Modal Stats ──────────────────────────── */
+.dm-stats-row { display:flex; align-items:center; gap:14px; margin-top:6px; }
+.dm-stat { font-size:12px; color:var(--text2); }
+.dm-stat strong { font-weight:700; color:var(--text); }
+
 /* ─── Card Grid ───────────────────────────────────────── */
 .grid { max-width:1400px; margin:0 auto; padding:0 1.5rem 2rem; display:grid; grid-template-columns:repeat(auto-fill, minmax(340px, 1fr)); gap:16px; }
 
