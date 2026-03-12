@@ -1,5 +1,5 @@
 {
-  "count": 52,
+  "count": 51,
   "skills": [
     {
       "name": "nautilus-trader",
@@ -792,24 +792,6 @@
       "clawhub_slug": "alpaca-markets",
       "clawhub_url": "https://clawhub.ai/skills/alpaca-markets",
       "clawhub_display_name": "Alpaca Markets CLI"
-    },
-    {
-      "name": "options-strategies",
-      "author": "dromlakhani",
-      "description": "Options trading strategy encyclopedia and execution guide covering bull/bear spreads, iron condors, butterflies with construction logic, P&L analysis, and optimal scenarios",
-      "category_tech": "Derivatives Trading",
-      "category_user": "Options Strategy",
-      "example": "Say: \"Analyze the risk-reward ratio of an iron condor strategy under current volatility\"",
-      "user_provides": "Underlying asset, current price, volatility expectation",
-      "dapps": "",
-      "run_mode": "One-time Execution",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/dromlakhani/options-strategies",
-      "clawhub_downloads": 279,
-      "clawhub_stars": 2,
-      "clawhub_is_certified": true,
-      "clawhub_slug": "options-strategies",
-      "clawhub_url": "https://clawhub.ai/skills/options-strategies",
-      "clawhub_display_name": "options-strategies"
     },
     {
       "name": "crypto-funding-alert",

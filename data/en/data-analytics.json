@@ -1,5 +1,5 @@
 {
-  "count": 321,
+  "count": 318,
   "skills": [
     {
       "name": "0xarchive",
@@ -4340,24 +4340,6 @@
       "clawhub_display_name": "PRISM API SDK"
     },
     {
-      "name": "trading212-v2",
-      "author": "nandichi",
-      "description": "Trading212 portfolio analysis and trading tool providing daily summaries (total value/P&L/top movers), trade proposals, order execution, dividend overview, and rebalancing recommendations — paper trading by default",
-      "category_tech": "Data Analytics",
-      "category_user": "Data Dashboard",
-      "example": "Say: \"Generate my Trading212 portfolio daily summary report\"",
-      "user_provides": "TRADING212_API_KEY, TRADING212_API_SECRET",
-      "dapps": "",
-      "run_mode": "Hybrid",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/nandichi/trading212-v2",
-      "clawhub_downloads": 323,
-      "clawhub_stars": 0,
-      "clawhub_is_certified": false,
-      "clawhub_slug": "trading212-v2",
-      "clawhub_url": "https://clawhub.ai/skills/trading212-v2",
-      "clawhub_display_name": "trading212 Skill"
-    },
-    {
       "name": "truenorth",
       "author": "ljlkdskdjflsa",
       "description": "TrueNorth crypto market intelligence CLI toolkit providing technical analysis, derivatives data, DeFi metrics, token performance, event calendar, liquidation risk, and token unlock schedules for comprehensive market insights",
@@ -4934,24 +4916,6 @@
       "clawhub_display_name": "hyperbot-quote-mcp"
     },
     {
-      "name": "tech-news-digest",
-      "author": "Unknown",
-      "description": "Multi-source tech news digest generator collecting content from six channels including RSS, Twitter, GitHub and Reddit, with Discord and email delivery support",
-      "category_tech": "Data Analytics",
-      "category_user": "Data Dashboard",
-      "example": "Say: \"Generate today's tech news daily digest\"",
-      "user_provides": "API keys (Twitter/Brave/Tavily, optional)",
-      "dapps": "",
-      "run_mode": "Continuous AI Decision",
-      "github_url": "https://github.com/Unknown/tech-news-digest",
-      "clawhub_downloads": 0,
-      "clawhub_stars": 0,
-      "clawhub_is_certified": false,
-      "clawhub_slug": "tech-news-digest",
-      "clawhub_url": "https://clawhub.ai/skills/tech-news-digest",
-      "clawhub_display_name": "tech-news-digest"
-    },
-    {
       "name": "aoineco-ledger",
       "author": "Unknown",
       "description": "AI agent financial tracking engine that logs every API call and gas fee expenditure, supporting multi-agent cost attribution and operational efficiency analysis on micro-budgets",
@@ -5094,24 +5058,6 @@
       "clawhub_slug": "portfolio-risk-analyzer",
       "clawhub_url": "https://clawhub.ai/skills/portfolio-risk-analyzer",
       "clawhub_display_name": "Portfolio Risk Analyzer"
-    },
-    {
-      "name": "moltbook-search",
-      "author": "leegitw",
-      "description": "Moltbook AI agent social network semantic search engine for hybrid semantic search across 125,000+ posts with faceted filtering",
-      "category_tech": "Data Analytics",
-      "category_user": "Data Dashboard",
-      "example": "Say: \"Search Moltbook for agent discussions about DeFi\"",
-      "user_provides": "Search keywords",
-      "dapps": "",
-      "run_mode": "One-time Execution",
-      "github_url": "https://github.com/leegitw/moltbook-search",
-      "clawhub_downloads": 1534,
-      "clawhub_stars": 12,
-      "clawhub_is_certified": true,
-      "clawhub_slug": "moltbook-search",
-      "clawhub_url": "https://clawhub.ai/skills/moltbook-search",
-      "clawhub_display_name": "Moltbook Search"
     },
     {
       "name": "passive-income-monitor",

@@ -1,5 +1,5 @@
 {
-  "count": 48,
+  "count": 47,
   "skills": [
     {
       "name": "ghostbot-aclm",
@@ -774,24 +774,6 @@
       "clawhub_slug": "openclaw-skill-jubilee",
       "clawhub_url": "https://clawhub.ai/skills/openclaw-skill-jubilee",
       "clawhub_display_name": "Jubilee Skill, By Jubilee Labs"
-    },
-    {
-      "name": "competitive-intelligence-market-research",
-      "author": "shashwatgtm",
-      "description": "This skill serves B2B SaaS companies across multiple dimensions. Find your path: Your industry determines: - Which compe",
-      "category_tech": "Yield Strategy",
-      "category_user": "Auto Yield",
-      "example": "Say 'Execute DeFi operation'",
-      "user_provides": "Operation params, amount, target",
-      "dapps": "",
-      "run_mode": "Hybrid",
-      "github_url": "https://github.com/shashwatgtm/competitive-intelligence-market-research",
-      "clawhub_downloads": 3672,
-      "clawhub_stars": 6,
-      "clawhub_is_certified": false,
-      "clawhub_slug": "competitive-intelligence-market-research",
-      "clawhub_url": "https://clawhub.ai/skills/competitive-intelligence-market-research",
-      "clawhub_display_name": "Competitive Intelligence & Market Research"
     },
     {
       "name": "optimize-lp",

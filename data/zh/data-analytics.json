@@ -1,5 +1,5 @@
 {
-  "count": 321,
+  "count": 318,
   "skills": [
     {
       "name": "0xarchive",
@@ -4340,24 +4340,6 @@
       "clawhub_display_name": "PRISM API SDK"
     },
     {
-      "name": "trading212-v2",
-      "author": "nandichi",
-      "description": "Trading212投资组合分析和交易工具，提供每日摘要（总值/P&L/涨跌排名）、交易建议、订单执行、股息概览和资产配置再平衡方案，默认模拟盘模式",
-      "category_tech": "数据分析",
-      "category_user": "数据看板",
-      "example": "对我说：\"生成我的Trading212投资组合每日总结报告\"",
-      "user_provides": "TRADING212_API_KEY、TRADING212_API_SECRET",
-      "dapps": "",
-      "run_mode": "混合",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/nandichi/trading212-v2",
-      "clawhub_downloads": 323,
-      "clawhub_stars": 0,
-      "clawhub_is_certified": false,
-      "clawhub_slug": "trading212-v2",
-      "clawhub_url": "https://clawhub.ai/skills/trading212-v2",
-      "clawhub_display_name": "trading212 Skill"
-    },
-    {
       "name": "truenorth",
       "author": "ljlkdskdjflsa",
       "description": "TrueNorth加密市场情报CLI工具包，提供技术分析、衍生品数据、DeFi指标、代币表现、事件日历、清算风险和代币解锁时间表等全方位市场数据",
@@ -4934,24 +4916,6 @@
       "clawhub_display_name": "hyperbot-quote-mcp"
     },
     {
-      "name": "tech-news-digest",
-      "author": "Unknown",
-      "description": "多源科技新闻摘要生成器，从RSS、Twitter、GitHub、Reddit等六个渠道采集内容，支持Discord和邮件推送",
-      "category_tech": "数据分析",
-      "category_user": "数据看板",
-      "example": "对我说：\"生成今天的科技新闻日报\"",
-      "user_provides": "API密钥（Twitter/Brave/Tavily，可选）",
-      "dapps": "",
-      "run_mode": "持续AI决策",
-      "github_url": "https://github.com/Unknown/tech-news-digest",
-      "clawhub_downloads": 0,
-      "clawhub_stars": 0,
-      "clawhub_is_certified": false,
-      "clawhub_slug": "tech-news-digest",
-      "clawhub_url": "https://clawhub.ai/skills/tech-news-digest",
-      "clawhub_display_name": "tech-news-digest"
-    },
-    {
       "name": "aoineco-ledger",
       "author": "Unknown",
       "description": "AI代理财务追踪引擎，记录每笔API调用和Gas费用支出，支持多代理成本归属和微预算下的运营效率分析",
@@ -5094,24 +5058,6 @@
       "clawhub_slug": "portfolio-risk-analyzer",
       "clawhub_url": "https://clawhub.ai/skills/portfolio-risk-analyzer",
       "clawhub_display_name": "Portfolio Risk Analyzer"
-    },
-    {
-      "name": "moltbook-search",
-      "author": "leegitw",
-      "description": "Moltbook AI代理社交网络语义搜索引擎，在125000+帖子中进行混合语义搜索和分面筛选",
-      "category_tech": "数据分析",
-      "category_user": "数据看板",
-      "example": "对我说：\"在Moltbook上搜索关于DeFi的代理讨论\"",
-      "user_provides": "搜索关键词",
-      "dapps": "",
-      "run_mode": "一次性执行",
-      "github_url": "https://github.com/leegitw/moltbook-search",
-      "clawhub_downloads": 1534,
-      "clawhub_stars": 12,
-      "clawhub_is_certified": true,
-      "clawhub_slug": "moltbook-search",
-      "clawhub_url": "https://clawhub.ai/skills/moltbook-search",
-      "clawhub_display_name": "Moltbook Search"
     },
     {
       "name": "passive-income-monitor",

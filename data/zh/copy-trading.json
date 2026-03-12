@@ -1,5 +1,5 @@
 {
-  "count": 10,
+  "count": 9,
   "skills": [
     {
       "name": "polymarket-copytrading",
@@ -144,24 +144,6 @@
       "clawhub_slug": "solana-copy-trader",
       "clawhub_url": "https://clawhub.ai/skills/solana-copy-trader",
       "clawhub_display_name": "Solana Copy Trader"
-    },
-    {
-      "name": "send-signal",
-      "author": "13290186019",
-      "description": "将 AI 交易决策通过 HTTP API 发送到 FMZ 量化交易平台，实现自动化交易信号执行",
-      "category_tech": "跟单交易",
-      "category_user": "跟单交易",
-      "example": "对我说：\"发送 BTC_USDT 买入信号到 FMZ\" 或 \"查看最近的交易信号历史\"",
-      "user_provides": "FMZ Robot ID、UUID 密钥",
-      "dapps": "FMZ",
-      "run_mode": "持续AI决策",
-      "github_url": "https://github.com/13290186019/send-signal",
-      "clawhub_downloads": 242,
-      "clawhub_stars": 0,
-      "clawhub_is_certified": false,
-      "clawhub_slug": "send-signal",
-      "clawhub_url": "https://clawhub.ai/skills/send-signal",
-      "clawhub_display_name": "Send to FMZ"
     },
     {
       "name": "wangbo-polymarket-copytrading",

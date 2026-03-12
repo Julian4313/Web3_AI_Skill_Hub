@@ -1,5 +1,5 @@
 {
-  "count": 48,
+  "count": 47,
   "skills": [
     {
       "name": "ghostbot-aclm",
@@ -774,24 +774,6 @@
       "clawhub_slug": "openclaw-skill-jubilee",
       "clawhub_url": "https://clawhub.ai/skills/openclaw-skill-jubilee",
       "clawhub_display_name": "Jubilee Skill, By Jubilee Labs"
-    },
-    {
-      "name": "competitive-intelligence-market-research",
-      "author": "shashwatgtm",
-      "description": "为B2B SaaS公司提供竞争情报和市场研究多维度支持。",
-      "category_tech": "收益策略",
-      "category_user": "自动理财",
-      "example": "对我说'执行DeFi操作'",
-      "user_provides": "操作参数、金额、目标",
-      "dapps": "",
-      "run_mode": "混合",
-      "github_url": "https://github.com/shashwatgtm/competitive-intelligence-market-research",
-      "clawhub_downloads": 3672,
-      "clawhub_stars": 6,
-      "clawhub_is_certified": false,
-      "clawhub_slug": "competitive-intelligence-market-research",
-      "clawhub_url": "https://clawhub.ai/skills/competitive-intelligence-market-research",
-      "clawhub_display_name": "Competitive Intelligence & Market Research"
     },
     {
       "name": "optimize-lp",

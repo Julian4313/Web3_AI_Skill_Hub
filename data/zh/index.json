@@ -1,11 +1,11 @@
 {
-  "total": 1615,
+  "total": 1584,
   "generated": "2026-03-10",
   "files": [
     {
       "file": "zh/copy-trading.json",
       "category": "跟单交易",
-      "count": 10
+      "count": 9
     },
     {
       "file": "zh/cross-chain.json",
@@ -15,12 +15,12 @@
     {
       "file": "zh/data-analytics.json",
       "category": "数据分析",
-      "count": 321
+      "count": 318
     },
     {
       "file": "zh/derivatives.json",
       "category": "衍生品交易",
-      "count": 42
+      "count": 41
     },
     {
       "file": "zh/dex-trading.json",
@@ -30,7 +30,7 @@
     {
       "file": "zh/general-tools.json",
       "category": "综合工具",
-      "count": 379
+      "count": 355
     },
     {
       "file": "zh/governance.json",
@@ -75,12 +75,12 @@
     {
       "file": "zh/wallet-management.json",
       "category": "钱包管理",
-      "count": 151
+      "count": 150
     },
     {
       "file": "zh/yield-strategy.json",
       "category": "收益策略",
-      "count": 48
+      "count": 47
     }
   ]
 }

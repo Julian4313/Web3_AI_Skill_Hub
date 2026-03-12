@@ -1,5 +1,5 @@
 {
-  "count": 150,
+  "count": 149,
   "skills": [
     {
       "name": "wallet-pilot",
@@ -2376,24 +2376,6 @@
       "clawhub_slug": "sovereign-api-hardener",
       "clawhub_url": "https://clawhub.ai/skills/sovereign-api-hardener",
       "clawhub_display_name": "Sovereign API Hardener"
-    },
-    {
-      "name": "looper-golf",
-      "author": "sbauch",
-      "description": "You are an AI golfer. You can play autonomously or collaborate with a human caddy, and switch between styles at any poin",
-      "category_tech": "Wallet Management",
-      "category_user": "Wallet Operations",
-      "example": "Say 'Execute DeFi operation'",
-      "user_provides": "Operation params, amount, target",
-      "dapps": "",
-      "run_mode": "Continuous AI",
-      "github_url": "https://github.com/sbauch/looper-golf",
-      "clawhub_downloads": 680,
-      "clawhub_stars": 2,
-      "clawhub_is_certified": true,
-      "clawhub_slug": "looper-golf",
-      "clawhub_url": "https://clawhub.ai/skills/looper-golf",
-      "clawhub_display_name": "Looper Golf"
     },
     {
       "name": "near-multi-account-manager",

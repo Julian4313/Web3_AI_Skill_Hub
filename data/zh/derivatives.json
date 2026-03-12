@@ -1,5 +1,5 @@
 {
-  "count": 42,
+  "count": 41,
   "skills": [
     {
       "name": "nautilus-trader",
@@ -630,24 +630,6 @@
       "clawhub_slug": "alpaca-markets",
       "clawhub_url": "https://clawhub.ai/skills/alpaca-markets",
       "clawhub_display_name": "Alpaca Markets CLI"
-    },
-    {
-      "name": "options-strategies",
-      "author": "dromlakhani",
-      "description": "期权交易策略百科和执行指南，涵盖看涨/看跌价差、铁鹰、蝶式等策略的构建逻辑、盈亏分析和最佳使用场景",
-      "category_tech": "衍生品交易",
-      "category_user": "期权策略",
-      "example": "对我说：\"帮我分析铁鹰策略在当前波动率下的盈亏比\"",
-      "user_provides": "标的资产、当前价格、波动率预期",
-      "dapps": "",
-      "run_mode": "一次性执行",
-      "github_url": "https://github.com/openclaw/skills/tree/main/skills/dromlakhani/options-strategies",
-      "clawhub_downloads": 279,
-      "clawhub_stars": 2,
-      "clawhub_is_certified": true,
-      "clawhub_slug": "options-strategies",
-      "clawhub_url": "https://clawhub.ai/skills/options-strategies",
-      "clawhub_display_name": "options-strategies"
     },
     {
       "name": "crypto-funding-alert",
