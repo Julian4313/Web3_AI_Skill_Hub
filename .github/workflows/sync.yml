@@ -55,9 +55,5 @@ jobs:
         run: |
           echo "### Sync & Enrich Complete" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
-          if [ -f data/skills-enriched.json ]; then
-            node -e "const d=require('./data/skills-enriched.json');console.log('- Total skills: ' + d.total);console.log('- AI enriched: ' + d.enrichedByAI);console.log('- Fallback: ' + d.enrichedByFallback);console.log('- Last sync: ' + d.lastSync);" >> $GITHUB_STEP_SUMMARY
-          else
-            node -e "const d=require('./data/skills.json');console.log('- Total Web3 skills: ' + d.total);console.log('- Last sync: ' + d.lastSync);" >> $GITHUB_STEP_SUMMARY
-          fi
+          node -e "const d=require('./data/en/index.json');console.log('- Total skills (en): ' + d.total);console.log('- Generated: ' + d.generated);" >> $GITHUB_STEP_SUMMARY
 

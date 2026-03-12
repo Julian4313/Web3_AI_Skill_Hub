@@ -1,5 +1,5 @@
 {
-  "count": 67,
+  "count": 66,
   "skills": [
     {
       "name": "everclaw-inference",
@@ -900,24 +900,6 @@
       "clawhub_slug": "lightning-security-module",
       "clawhub_url": "https://clawhub.ai/skills/lightning-security-module",
       "clawhub_display_name": "Lightning Security Module"
-    },
-    {
-      "name": "arc-security",
-      "author": "shaivpidadi",
-      "description": "Chain无关的Agent安全基础设施，审计员质押USDC为Skill安全背书，恶意Skill通过去中心化治理被惩罚",
-      "category_tech": "安全审计",
-      "category_user": "合约审计",
-      "example": "对我说\"审计一个Skill的安全性\"或\"查看某Skill的信任评分\"",
-      "user_provides": "ARC RPC URL、钱包私钥",
-      "dapps": "Arc",
-      "run_mode": "一次性执行",
-      "github_url": "https://github.com/shaivpidadi/arc-security",
-      "clawhub_downloads": 2194,
-      "clawhub_stars": 2,
-      "clawhub_is_certified": false,
-      "clawhub_slug": "arc-security",
-      "clawhub_url": "https://clawhub.ai/skills/arc-security",
-      "clawhub_display_name": "Arc Security - Agent Trust Protocol"
     },
     {
       "name": "chaoschain",

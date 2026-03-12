@@ -1,5 +1,5 @@
 {
-  "count": 67,
+  "count": 66,
   "skills": [
     {
       "name": "everclaw-inference",
@@ -900,24 +900,6 @@
       "clawhub_slug": "lightning-security-module",
       "clawhub_url": "https://clawhub.ai/skills/lightning-security-module",
       "clawhub_display_name": "Lightning Security Module"
-    },
-    {
-      "name": "arc-security",
-      "author": "shaivpidadi",
-      "description": "Chain-agnostic security infrastructure where auditors stake USDC to vouch for skill safety with decentralized governance slashing on Arc",
-      "category_tech": "Security Audit",
-      "category_user": "Contract Audit",
-      "example": "Say \"Audit a skill security\" or \"Check a skill trust score\"",
-      "user_provides": "ARC RPC URL, wallet private key",
-      "dapps": "Arc",
-      "run_mode": "One-time Execution",
-      "github_url": "https://github.com/shaivpidadi/arc-security",
-      "clawhub_downloads": 2194,
-      "clawhub_stars": 2,
-      "clawhub_is_certified": false,
-      "clawhub_slug": "arc-security",
-      "clawhub_url": "https://clawhub.ai/skills/arc-security",
-      "clawhub_display_name": "Arc Security - Agent Trust Protocol"
     },
     {
       "name": "chaoschain",

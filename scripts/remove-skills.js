@@ -3,6 +3,8 @@ const fs = require('fs');
 const path = require('path');
 
 const REMOVE = new Set([
+  // 用户追加删除
+  'arc-security',
   // A类：明显非 Web3
   'competitive-intelligence-market-research',
   'yoder-skill-auditor',

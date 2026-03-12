@@ -1,5 +1,5 @@
 {
-  "total": 1592,
+  "total": 1591,
   "generated": "2026-03-10",
   "files": [
     {
@@ -60,7 +60,7 @@
     {
       "file": "en/security-audit.json",
       "category": "Security Audit",
-      "count": 67
+      "count": 66
     },
     {
       "file": "en/staking-mining.json",
